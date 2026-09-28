@@ -1,0 +1,2170 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Germany's food and agriculture sector remains structurally stable but under margin pressure from input costs, labor shortages and regulatory compliance. The Federal Ministry of Food and Agriculture (BMEL/BMLEH) continues to push its Food and Nutrition Strategy while farm incomes fluctuate with commodity prices.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Long-term structural change continues (farm consolidation, sustainability requirements under EU Common Agricultural Policy), but food processing remains a resilient, large domestic industry supplying a stable consumer base.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rising input and energy costs squeezing farm margins",
+      "Labor shortages in agriculture and food processing",
+      "Climate variability affecting yields"
+    ],
+    "opportunities": [
+      "Growing demand for sustainable/organic food production",
+      "Digitalization and precision farming adoption",
+      "Export strength in processed food and machinery"
+    ],
+    "sources": [
+      {
+        "title": "Good Food for Germany – The Federal Government's Food and Nutrition Strategy",
+        "publisher": "BMLEH",
+        "url": "https://www.bmleh.de/SharedDocs/Downloads/EN/_Food-and-Nutrition/Food-and-Nutrition-Strategy.pdf",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Policy strategy"
+      },
+      {
+        "title": "Federal Ministry of Food and Agriculture (BMEL/BMLEH)",
+        "publisher": "BMLEH",
+        "url": "https://www.bmleh.de/EN/Home/home_node.html",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Sector oversight"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Farm direct-to-consumer digital sales tools for small-to-mid-sized farm operators (20+ ha)",
+        "description": "Small-to-mid German farm operators (20+ ha) can't sell produce directly to consumers because only 7% use any digital direct-sales channel.",
+        "sources": [
+          {
+            "title": "Digitale Landwirtschaft: Jeder fünfte Hof ist in sozialen Medien präsent",
+            "publisher": "Bitkom e.V.",
+            "url": "https://www.bitkom.org/Presse/Presseinformation/Digitale-Landwirtschaft-soziale-Medien-Hof",
+            "date": "2022-07-08",
+            "scope": "Germany",
+            "metric": "Only 7% of surveyed farms sell directly via digital channels; 29% planning"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "USGS data shows Germany's mineral industry under pressure from high energy costs and weak export demand, with declines in segments like peat production (-21% in 2024) even as the country retains strong global rankings in salt, potash and pig iron output.",
+      "evidenceDate": "2024-2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "USGS reporting notes structural shifts toward recycling (e.g., Speira's Rheinwerk smelter conversion) and government-backed Raw Material Funds via KfW to secure critical mineral supply, suggesting a long-term transition rather than sector collapse.",
+      "evidenceDate": "2024-2025"
+    },
+    "risks": [
+      "High industrial energy costs constraining primary production",
+      "Declining domestic output in some raw materials (e.g., peat, phased to zero by 2040)",
+      "Import dependency on critical minerals"
+    ],
+    "opportunities": [
+      "KfW-backed Raw Material Funds supporting supply security",
+      "Recycling/secondary-metals hub conversions (e.g., aluminum)",
+      "Continued strength in salt, potash and pig iron production"
+    ],
+    "sources": [
+      {
+        "title": "Germany - Minerals Yearbook / Country Summary",
+        "publisher": "USGS National Minerals Information Center",
+        "url": "https://www.usgs.gov/centers/national-minerals-information-center/germany",
+        "date": "2024-2025",
+        "scope": "Germany",
+        "metric": "Mineral production rankings and trends"
+      }
+    ],
+    "noGapReason": {
+      "code": "not_present",
+      "note": "Germany has essentially no significant domestic metal-ore mining left; its last hard-coal mine closed in 2018 and metallic mineral output is minimal.",
+      "sources": [
+        {
+          "title": "Germany",
+          "publisher": "USGS National Minerals Information Center",
+          "url": "https://www.usgs.gov/centers/national-minerals-information-center/germany",
+          "date": "2024",
+          "scope": "Germany",
+          "metric": "No significant domestic mine production of most tracked metallic minerals; economy relies on imports"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Renewables reached a record 58% share of German electricity consumption in H1 2026, with wind and solar overtaking fossil generation for the first time in 2025 per Fraunhofer ISE data, even as heavy industry cuts overall energy use.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Germany's energy transition (Energiewende) continues to expand renewable capacity, though the IEA's 2025 policy review flags continued need for grid investment and clarity on long-term renewables commitments.",
+      "evidenceDate": "2025-2026"
+    },
+    "risks": [
+      "Grid bottlenecks and slow transmission buildout",
+      "Policy uncertainty on subsidies/commitments",
+      "Energy-intensive industries curbing output amid high prices"
+    ],
+    "opportunities": [
+      "Continued wind/solar capacity growth",
+      "Storage and grid-flexibility investment",
+      "Hydrogen and green industrial demand"
+    ],
+    "sources": [
+      {
+        "title": "German Public Electricity Generation in 2025: Wind and Solar Power Take the Lead",
+        "publisher": "Fraunhofer ISE",
+        "url": "https://www.ise.fraunhofer.de/en/press-media/press-releases/2026/german-public-electricity-generation-in-2025-wind-and-solar-power-take-the-lead.html",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Electricity generation mix"
+      },
+      {
+        "title": "Renewables covered record 58% of German electricity consumption in first half of 2026",
+        "publisher": "Clean Energy Wire",
+        "url": "https://www.cleanenergywire.org/news/renewables-covered-record-58-german-electricity-consumption-first-half-2026",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Renewable share of consumption"
+      },
+      {
+        "title": "Energy Policy Review Germany 2025",
+        "publisher": "IEA",
+        "url": "https://iea.blob.core.windows.net/assets/7fea0ad0-1cc1-45e9-810b-2d602e64642f/Germany2025.pdf",
+        "date": "2025",
+        "scope": "Germany",
+        "metric": "Energy policy review"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Multi-family building landlords/tenants unable to access Mieterstrom (tenant solar power) schemes",
+        "description": "Tenants in multi-family buildings can't get building-level solar power because bureaucratic barriers stop landlords from offering Mieterstrom schemes.",
+        "sources": [
+          {
+            "title": "Gebäude- und Mieterstrom in Deutschland",
+            "publisher": "Institut der deutschen Wirtschaft (IW) / Ariadne",
+            "url": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2025/Ariadne-Analyse-Geb%C3%A4ude-und-Mieterstrom.pdf",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Untapped potential and regulatory barriers for tenant/building electricity schemes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Legal and infrastructure advisories (Freshfields, WFW) describe Germany as heading into an infrastructure investment boom in energy, transport and grid connection, driven by public spending commitments and grid modernization needs.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Sustained public and private investment in grid, transport and energy infrastructure is expected through the later 2020s as Germany modernizes aging infrastructure and expands renewable transmission capacity.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Permitting and grid-connection delays",
+      "High capital costs and financing constraints",
+      "Skilled labor shortages in infrastructure engineering"
+    ],
+    "opportunities": [
+      "Grid expansion and modernization spending",
+      "New transmission connection procedures streamlining investment",
+      "Public infrastructure stimulus"
+    ],
+    "sources": [
+      {
+        "title": "Inside Infrastructure: Germany braces for the boom",
+        "publisher": "Freshfields",
+        "url": "https://www.freshfields.com/en/our-thinking/blogs/transactions/inside-infrastructure-germany-braces-for-the-boom-102lq61",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Infrastructure investment outlook"
+      },
+      {
+        "title": "Shaping 2026 – Energy · Infrastructure · Transport Germany and Beyond",
+        "publisher": "Watson Farley & Williams",
+        "url": "https://www.wfw.com/reports/shaping-2026-energy-infrastructure-transport/",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Sector outlook report"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural mobile and broadband network coverage",
+        "description": "Rural German residents lack reliable mobile and broadband coverage because network build-out in low-density areas keeps stalling.",
+        "sources": [
+          {
+            "title": "Dashboard zur Mobilfunk- und Breitbandversorgung in ländlichen Räumen",
+            "publisher": "BMLEH / Bundesnetzagentur",
+            "url": "https://www.bmleh.de/DE/themen/laendliche-regionen/digitales/breitband-und-mobilfunkversorgung/dashboard-mobilfunk-breitbandversorgung.html",
+            "date": "2025",
+            "scope": "Germany (rural regions)",
+            "metric": "Government dashboard confirms continued rural mobile/broadband coverage gaps"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Destatis reported new manufacturing orders rose 0.9% month-on-month in February 2026, while the ifo Institute's Spring 2026 joint forecast noted an energy price shock overshadowing fiscal stimulus and drying up growth drivers for German industry.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "German manufacturing remains a large, globally competitive base but faces structural headwinds from high energy costs, competitiveness pressure from China, and demographic labor constraints, per ifo Institute forecasts.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High industrial energy costs",
+      "Global competitiveness pressure, especially from China",
+      "Weak new-order growth relative to pre-2020 trend"
+    ],
+    "opportunities": [
+      "Fiscal stimulus and infrastructure spending",
+      "Automation and Industry 4.0 adoption",
+      "Reshoring/nearshoring of supply chains"
+    ],
+    "sources": [
+      {
+        "title": "New orders in manufacturing in February 2026: +0.9% on the previous month",
+        "publisher": "Destatis (German Federal Statistical Office)",
+        "url": "https://www.destatis.de/EN/Press/2026/04/PE26_118_421.html",
+        "date": "2026-04",
+        "scope": "Germany",
+        "metric": "Manufacturing new orders"
+      },
+      {
+        "title": "Joint Economic Forecast Spring 2026: Energy price shock overshadows fiscal stimulus",
+        "publisher": "ifo Institute",
+        "url": "https://www.ifo.de/en/facts/2026-04-01/joint-economic-forecast-spring-2026-energy-price-shock-overshadows-fiscal-stimulus",
+        "date": "2026-04",
+        "scope": "Germany",
+        "metric": "GDP/industrial growth forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Machine-building (Maschinenbau) SMEs facing significant cybersecurity incidents without in-house IT-security capacity",
+        "description": "Small and mid-sized German machine-building firms have no dedicated IT-security service despite one in four suffering a cyberattack, because they lack in-house security capacity.",
+        "sources": [
+          {
+            "title": "VDMA-Studie: Signifikante Cybersicherheitsvorfälle in jedem vierten Unternehmen",
+            "publisher": "VDMA",
+            "url": "https://unternehmen-cybersicherheit.de/vdma-studie-signifikante-cybersicherheitsvorfaelle-in-jedem-vierten-unternehmen/",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Share of machine-building companies reporting a significant cybersecurity incident"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Industry reporting (Construction Briefing, citing sector forecasts) indicates Germany's construction turnaround is now not expected until 2027, reflecting continued weakness in residential and commercial building activity through 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "A recovery is anticipated from 2027 onward as interest rates ease and public infrastructure investment (transport, energy grid) increases, per construction market analysts.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Persistently high financing costs",
+      "Elevated construction material and labor costs",
+      "Weak residential permitting activity"
+    ],
+    "opportunities": [
+      "Public infrastructure and energy-grid investment programs",
+      "Renovation/retrofit demand for energy efficiency",
+      "Eventual rate-cut-driven residential recovery"
+    ],
+    "sources": [
+      {
+        "title": "Germany's construction turnaround now not expected until 2027",
+        "publisher": "Construction Briefing",
+        "url": "https://www.constructionbriefing.com/news/germanys-construction-turnaround-now-not-expected-until-2027/8130004.article",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Construction market forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Handwerk / skilled trades businesses needing simple digital documentation and job-management tools",
+        "description": "Handwerk trades businesses lack simple digital job-documentation and management software because most owners don't know what tools exist.",
+        "sources": [
+          {
+            "title": "Digitalisierung des Handwerks - Bitkom-Studienbericht 2025",
+            "publisher": "Bitkom e.V.",
+            "url": "https://www.bitkom.org/sites/main/files/2026-01/bitkom-studienbericht-handwerk.pdf",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "71% of trade businesses lack digital work documentation; 83% lack smart software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "German residential property prices have begun stabilizing/recovering after the 2022-2023 downturn, with market trackers (Global Property Guide, Investropa) reporting cautious price growth into 2026 amid still-elevated mortgage rates.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Structural housing undersupply in major German cities is expected to support long-term price and rent growth once financing conditions normalize further, per market analysts.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Elevated mortgage/financing costs",
+      "Regulatory rent controls in major cities",
+      "Construction cost inflation limiting new supply"
+    ],
+    "opportunities": [
+      "Structural undersupply supporting long-term value",
+      "Energy-efficiency retrofit investment demand",
+      "Institutional investment in residential and logistics real estate"
+    ],
+    "sources": [
+      {
+        "title": "Germany's Residential Property Market Analysis 2026",
+        "publisher": "Global Property Guide",
+        "url": "https://www.globalpropertyguide.com/europe/germany/price-history",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Residential price trends"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Elderly households in existing multi-family buildings lacking step-free (barrierefrei) access",
+        "description": "Elderly residents in existing multi-family buildings lack step-free entry to their homes because barrier-free retrofits haven't kept pace with the aging housing stock.",
+        "sources": [
+          {
+            "title": "Altersgerechtes Wohnen: 85% aller Seniorenhaushalte hatten 2018 keinen stufenlosen Zugang zur Wohnung",
+            "publisher": "Statistisches Bundesamt (Destatis)",
+            "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2019/PD19_50_p002.html",
+            "date": "2019",
+            "scope": "Germany",
+            "metric": "Share of senior households without step-free access to their dwelling"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The VDA (German Association of the Automotive Industry) forecasts new car registrations in Germany to rise slightly in 2026, to around 2.9 million (roughly 2% growth), with passenger car production in 2025 slightly above the prior year.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The VDA's June 2026 SME survey notes German automotive suppliers remain under significant pressure from EV transition costs, competition and weak demand, even as OEMs maintain global market leadership.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "SME/supplier financial pressure amid EV transition",
+      "Global competition, particularly from Chinese EV makers",
+      "Slow domestic demand recovery"
+    ],
+    "opportunities": [
+      "EV production ramp-up and battery investment",
+      "Autonomous and connected mobility technology",
+      "Export strength in premium vehicle segments"
+    ],
+    "sources": [
+      {
+        "title": "Forecasts for 2026: New car registrations in Germany rise slightly",
+        "publisher": "VDA (German Association of the Automotive Industry)",
+        "url": "https://www.vda.de/en/press/press-releases/2025/251208_PM_Forecasts_2026",
+        "date": "2025-12",
+        "scope": "Germany",
+        "metric": "New car registrations forecast"
+      },
+      {
+        "title": "VDA Survey: German Automotive SMEs Under Great Pressure",
+        "publisher": "VDA",
+        "url": "https://www.vda.de/en/press/press-releases/2026/260617_PM_Mittelstandstag_2026_EN",
+        "date": "2026-06",
+        "scope": "Germany",
+        "metric": "SME sentiment survey"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Smart-charging and utilization optimization for EV charge-point operators",
+        "description": "EV charge-point operators lack utilization-optimization tools because public chargers sit idle roughly 88% of the time with no dynamic pricing or routing service.",
+        "sources": [
+          {
+            "title": "BDEW: Öffentliche Ladesäulen 2025 im Schnitt nur zu 12 Prozent gleichzeitig belegt",
+            "publisher": "BDEW",
+            "url": "https://ecomento.de/2026/04/15/bdew-oeffentliche-ladesaeulen-2025-im-schnitt-nur-zu-12-prozent-gleichzeitig-belegt/",
+            "date": "2026-04-15",
+            "scope": "Germany",
+            "metric": "Public EV charging points simultaneously occupied only ~12% of the time on average in 2025"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Industry coverage of the German logistics sector for Q1 2026 highlights ongoing cost pressure, driver/warehouse labor shortages and demand volatility, with the BVL (Bundesvereinigung Logistik) as the main industry body tracking sector conditions.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Germany's position as Europe's logistics hub is expected to persist, supported by e-commerce growth and nearshoring trends, though market research firms project only moderate mid-single-digit growth rates through the early 2030s.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Driver and warehouse labor shortages",
+      "Fuel/energy cost volatility",
+      "Supply chain disruption from geopolitical tensions"
+    ],
+    "opportunities": [
+      "E-commerce-driven warehousing demand",
+      "Digitalization and automation of logistics operations",
+      "Nearshoring of European supply chains"
+    ],
+    "sources": [
+      {
+        "title": "Top challenges in German logistics for Q1 2026",
+        "publisher": "eCommerce Germany",
+        "url": "https://ecommercegermany.com/blog/german-logistics-challenges/",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Sector challenges survey"
+      },
+      {
+        "title": "BVL - The Supply Chain Network for Experts and Leaders",
+        "publisher": "Bundesvereinigung Logistik (BVL)",
+        "url": "https://www.bvl.de/en",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Industry association"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Road freight carriers unable to fill professional truck driver (Berufskraftfahrer) positions",
+        "description": "Road freight carriers can't fill Berufskraftfahrer positions because driver recruitment and training pipelines aren't replacing retiring truckers fast enough.",
+        "sources": [
+          {
+            "title": "Fahrermangel im Güterverkehr verschärft sich",
+            "publisher": "Bundesverband Güterkraftverkehr Logistik und Entsorgung (BGL)",
+            "url": "https://www.eurotransport.de/fahrer/bkf-news/fahrermangel-ueber-70-000-lkw-fahrer-fehlen-in-deutschland-2026/",
+            "date": "2026-01-29",
+            "scope": "Germany",
+            "metric": "Number of unfilled professional truck driver positions"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Destatis reported wholesale prices rising 4.1% year-on-year in March 2026 (after 1.2% in January and February), while the BGA (Federation of German Wholesale, Foreign Trade and Services) forecasts a moderate decline in export sales for the year.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Germany's wholesale and distribution sector remains a large structural component of the economy, with turnover levels tracked continuously by Destatis; growth is expected to remain modest amid soft foreign trade demand.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Weak export demand cited by BGA",
+      "Price volatility in wholesale goods",
+      "Margin compression from digital disintermediation"
+    ],
+    "opportunities": [
+      "Digital B2B marketplace expansion",
+      "Supply chain integration services",
+      "Specialization in high-value distribution niches"
+    ],
+    "sources": [
+      {
+        "title": "Wholesale prices in March 2026: +4.1% on March 2025",
+        "publisher": "Destatis (German Federal Statistical Office)",
+        "url": "https://www.destatis.de/EN/Press/2026/04/PE26_131_61281.html",
+        "date": "2026-04",
+        "scope": "Germany",
+        "metric": "Wholesale price index"
+      },
+      {
+        "title": "German exporters forecast a moderate decline in sales this year - BGA",
+        "publisher": "BGA / Esperio",
+        "url": "https://www.esperio.org/analytics/market-analysis/market-news/4028082",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Export sales forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "B2B wholesale digital sales & analytics",
+        "description": "B2B wholesalers lack digital sales and analytics tools because most sales departments remain excluded from digitalization efforts and big-data analysis.",
+        "sources": [
+          {
+            "title": "Digitalisierung im deutschen Großhandel",
+            "publisher": "Roland Berger / BGA",
+            "url": "https://www.rolandberger.com/de/Media/Digitalisierung-im-deutschen-Gro%C3%9Fhandel-Drehscheibe-der-Wirtschaft-in-digitaler.html",
+            "date": "2016",
+            "scope": "Germany",
+            "metric": "Only ~22% of wholesalers integrate sales into digitalization; ~20% use big data analytics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The German retail association (HDE) expects overall retail revenue to grow around 2% in 2026, with e-commerce growing faster (around 4.3%) and reaching roughly 13.4% of total retail share, per industry and Reuters/Investing.com reporting.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "German retail continues structural shift toward online channels, with brick-and-mortar facing ongoing consolidation and insolvencies even as overall sector revenue grows modestly, per BMWE economic situation reports.",
+      "evidenceDate": "2026-03"
+    },
+    "risks": [
+      "Store closures and retail insolvencies amid structural change",
+      "Weak consumer sentiment/purchasing power",
+      "Rising e-commerce competition from non-EU platforms"
+    ],
+    "opportunities": [
+      "E-commerce growth outpacing overall retail",
+      "Omnichannel integration",
+      "Premiumization in select consumer segments"
+    ],
+    "sources": [
+      {
+        "title": "German retail sector expects 2% revenue growth in 2026",
+        "publisher": "Investing.com / Reuters",
+        "url": "https://www.investing.com/news/economy-news/german-retail-sector-expects-2-revenue-growth-in-2026-93CH-4478236",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Retail revenue growth forecast"
+      },
+      {
+        "title": "The Economic Situation in the Federal Republic of Germany in March 2026",
+        "publisher": "BMWE (Federal Ministry for Economic Affairs)",
+        "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/EN/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260319-the-economic-situation-in-germany-march-2026.html",
+        "date": "2026-03",
+        "scope": "Germany",
+        "metric": "Economic situation report"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Independent stationary/brick-and-mortar retailers needing low-complexity e-commerce tools",
+        "description": "Independent brick-and-mortar retailers have no simple e-commerce solution because 60% still sell exclusively in-store with no online channel.",
+        "sources": [
+          {
+            "title": "HDE Online Monitor 2025",
+            "publisher": "Handelsverband Deutschland (HDE) / IFH Köln",
+            "url": "https://einzelhandel.de/images/Konjunktur/Online_Monitor_2025_HDE.pdf",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "60% of stationary retailers do not sell via the internet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Industry coverage (Fintech Times, Chambers Fintech 2026 guide) describes German fintech as entering a phase of consolidation and regulatory maturity ('resilience over hype') rather than rapid growth, under continued BaFin supervision.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Germany's fintech and digital banking sector is expected to continue digitizing the country's large financial services economy over the long term, with regulatory clarity from BaFin supporting institutional adoption.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Tightening regulatory/compliance requirements",
+      "Funding slowdown for early-stage fintechs",
+      "Competition from larger EU/global platforms"
+    ],
+    "opportunities": [
+      "Institutional adoption of embedded finance",
+      "AI-driven risk and compliance tools",
+      "Open banking infrastructure growth"
+    ],
+    "sources": [
+      {
+        "title": "Fintech 2026 - Germany",
+        "publisher": "Chambers and Partners",
+        "url": "https://practiceguides.chambers.com/practice-guides/fintech-2026/germany",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Regulatory/market guide"
+      },
+      {
+        "title": "German Fintech 2026: How Resilience and Regulation Beat Hype",
+        "publisher": "Contextual Solutions",
+        "url": "https://www.contextualsolutions.de/blog/german-fintech-market-report-2026",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Market report"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Female founders (Gründerinnen) seeking start-up financing",
+        "description": "Female founders seeking start-up capital lack access to matching financing products because they use external financing instruments far less than male founders.",
+        "sources": [
+          {
+            "title": "Female Entrepreneurship",
+            "publisher": "KfW Research",
+            "url": "https://www.kfw.de/PDF/Download-Center/Konzernthemen/Research/PDF-Dokumente-Studien-und-Materialien/Female-Entrepreneurship.pdf",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Share of women among business founders and their use of external financing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The German Insurance Association (GDV) tracks continued premium growth across lines, with motor insurance premiums reported rising 7-15% in 2026 amid higher claims costs, per industry reporting.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Germany's large, mature insurance market is expected to see steady but modest growth, shaped by climate-related claims trends and regulatory developments tracked by GDV and BaFin.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rising claims costs from climate-related events",
+      "Premium inflation affecting affordability",
+      "Regulatory capital requirements"
+    ],
+    "opportunities": [
+      "Digital/parametric insurance products",
+      "Cyber insurance demand growth",
+      "Data-driven underwriting"
+    ],
+    "sources": [
+      {
+        "title": "German Insurance Association (GDV)",
+        "publisher": "GDV",
+        "url": "https://www.gdv.de/gdv-en",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Industry association"
+      },
+      {
+        "title": "Car Insurance Germany 2026: Prices Up 7-15%",
+        "publisher": "CheckAlle.de",
+        "url": "https://checkalle.de/blog/en/car-insurance-premiums-2026-guide/",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Motor insurance premium trends"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small and mid-sized enterprises (KMU) lacking adequate cyber-risk insurance coverage",
+        "description": "Small and mid-sized enterprises lack affordable cyber-risk insurance because only about four in ten SMEs carry any cyber coverage.",
+        "sources": [
+          {
+            "title": "Hiscox Cyber Readiness Report 2025",
+            "publisher": "Hiscox",
+            "url": "https://www.finanznachrichten.de/nachrichten-2025-09/66573394-hiscox-cyber-readiness-report-2025-kleine-und-mittlere-unternehmen-nicht-ausreichend-gegen-cyber-angriffe-versichert-007.htm",
+            "date": "2025-09",
+            "scope": "Germany",
+            "metric": "Share of SMEs holding cyber insurance coverage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Bitkom reports Germany's digital economy is projected to grow to €245 billion in revenue in 2026, describing the digital/software industry as a 'stability anchor' for the broader economy even as other sectors weaken.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Bitkom's 'World of Software 2036' study projects continued long-term growth of the German software industry, increasingly reshaped by AI-driven development tools and automation.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "IT skills shortage",
+      "Rising competition from US/Asian software vendors",
+      "Rapid AI-driven disruption of existing service models"
+    ],
+    "opportunities": [
+      "AI-driven software transformation",
+      "Digitalization of traditional industries (Mittelstand)",
+      "Cloud and SaaS adoption growth"
+    ],
+    "sources": [
+      {
+        "title": "Digitalwirtschaft bleibt Stabilitätsanker: 245 Milliarden Euro Umsatz in 2026",
+        "publisher": "Bitkom",
+        "url": "https://www.bitkom.org/Presse/Presseinformation/Digitalwirtschaft-bleibt-Stabilitaetsanker",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Digital economy revenue forecast"
+      },
+      {
+        "title": "The World of Software 2036",
+        "publisher": "Bitkom",
+        "url": "https://www.bitkom.org/EN/List-and-detailpages/Publications/The-World-of-Software-2036",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Long-term industry study"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "IT recruiting, staffing and upskilling tools for SMEs",
+        "description": "SMEs lack effective IT recruiting and upskilling services because Germany is short roughly 109,000 IT specialists and most firms can't compete for scarce talent.",
+        "sources": [
+          {
+            "title": "Der Arbeitsmarkt für IT-Fachkräfte – Studienbericht 2025",
+            "publisher": "Bitkom e.V.",
+            "url": "https://www.bitkom.org/Presse/Presseinformation/Deutschland-fehlen-IT-Fachkraefte",
+            "date": "2025-08-07",
+            "scope": "Germany",
+            "metric": "109,000 unfilled IT roles; 85% of 855 surveyed firms report a shortage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Bitkom's 2026 AI study found 41% of German companies now use AI, with SMEs catching up on adoption, while GTAI's AI Fact Sheet describes an expanding German AI market and startup ecosystem.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "GTAI and Bitkom project continued long-term expansion of AI adoption and investment across German industry, positioning AI as a core driver of the country's digital economy transformation.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Slower AI adoption among traditional SMEs (Mittelstand)",
+      "Talent shortage in AI/ML specialists",
+      "Regulatory complexity under EU AI Act"
+    ],
+    "opportunities": [
+      "Industrial AI applications (manufacturing, automotive)",
+      "Growing AI startup ecosystem",
+      "Enterprise AI adoption acceleration"
+    ],
+    "sources": [
+      {
+        "title": "Künstliche Intelligenz in Deutschland – Studienbericht 2026",
+        "publisher": "Bitkom",
+        "url": "https://www.bitkom.org/Bitkom/Publikationen/Kuenstliche-Intelligenz-in-Deutschland",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "AI adoption survey"
+      },
+      {
+        "title": "Artificial Intelligence in Germany – Fact Sheet 2025/2026",
+        "publisher": "Germany Trade & Invest (GTAI)",
+        "url": "https://www.gtai.de/resource/blob/1933706/aa2bd686d091961f4c129a08b6da5ed5/20250930_FactSheet_AI_WEB.pdf",
+        "date": "2025-2026",
+        "scope": "Germany",
+        "metric": "AI market overview"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Sector-specific AI tools for small Handwerk (skilled trades) businesses",
+        "description": "Small Handwerk businesses lack sector-specific AI tools because most owners have no overview of which AI products exist for their trade.",
+        "sources": [
+          {
+            "title": "Digitalisierung des Handwerks – Bitkom-Studie 2025",
+            "publisher": "Bitkom e.V.",
+            "url": "https://www.bitkom.org/sites/main/files/2026-01/bitkom-studienbericht-handwerk.pdf",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "84% of Handwerk businesses use no AI; 58% unaware of available tools"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Bitkom's 2025 Data Economy report found 60% of German companies still underutilize their data potential, with only 20% reporting strong contributions from data-driven business models today; adoption is real but immature, and by the Data Act's September 2025 compliance deadline just 1% of firms reported full compliance.",
+      "evidenceDate": "2025-09"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The same Bitkom study found 47% of companies expect data-driven business models to contribute strongly within two years (versus 20% today), and 34% plan to become data suppliers versus 16% today, pointing to a maturing data economy even as 51% of firms still rank Germany as a laggard versus the US and China.",
+      "evidenceDate": "2025-09"
+    },
+    "risks": [
+      "Low current data-monetization maturity across German firms",
+      "Data Act compliance burden (90% of affected firms felt overwhelmed)",
+      "Legal uncertainty and data-protection concerns limiting data sharing"
+    ],
+    "opportunities": [
+      "Rising two-year outlook for data-driven business models (47% expect strong contribution)",
+      "Growing share of firms planning to become data suppliers",
+      "EU Data Act creating new data-sharing market structures"
+    ],
+    "sources": [
+      {
+        "title": "Data Economy und Data Act: Wo steht die deutsche Wirtschaft 2025?",
+        "publisher": "Bitkom",
+        "url": "https://www.bitkom.org/sites/main/files/2025-09/bitkom-studienbericht-data-economy.pdf",
+        "date": "2025-09",
+        "scope": "Germany",
+        "metric": "Data economy adoption and maturity survey"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "IT/data specialist recruiting and staffing for SMEs",
+        "description": "SMEs lack IT and data-specialist staffing services because the shortage of roughly 109,000 IT specialists leaves them without alternative access to analytics talent.",
+        "sources": [
+          {
+            "title": "In Deutschland fehlen weiterhin mehr als 100.000 IT-Fachkräfte",
+            "publisher": "Bitkom e.V.",
+            "url": "https://www.bitkom.org/Presse/Presseinformation/Deutschland-fehlen-IT-Fachkraefte",
+            "date": "2025-08-07",
+            "scope": "Germany",
+            "metric": "~109,000 unfilled IT specialist positions"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Bitkom reports the German IT security market continues to see double-digit growth, driven by rising cyber risk and demand for cloud security, zero-trust and OT protection, per GTAI's coverage of Bitkom data.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Sustained double-digit growth is expected to continue as German companies invest further in cybersecurity amid an evolving threat landscape and regulatory requirements (e.g., NIS2 implementation), per Bitkom/GTAI reporting.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Escalating sophistication of cyberattacks on German companies",
+      "Shortage of qualified cybersecurity professionals",
+      "Regulatory compliance burden (NIS2)"
+    ],
+    "opportunities": [
+      "Rising enterprise cloud/zero-trust security spending",
+      "OT/industrial security demand",
+      "Growth of German cybersecurity vendors"
+    ],
+    "sources": [
+      {
+        "title": "German Cybersecurity Continues Double-Digit Growth",
+        "publisher": "GTAI (citing Bitkom)",
+        "url": "https://www.gtai.de/en/invest/industries/digital-economy/german-cybersecurity-continues-double-digit-growth-1935730",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "IT security market growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Mid-sized companies (10+ employees, €1m+ revenue) without adequate cyberattack preparedness",
+        "description": "Mid-sized companies (10+ employees, €1m+ revenue) lack adequate cyberattack-preparedness services because only half feel ready despite €289.2bn in annual cybercrime damage.",
+        "sources": [
+          {
+            "title": "Wirtschaftsschutz 2025",
+            "publisher": "Bitkom e.V.",
+            "url": "https://www.bitkom.org/Bitkom/Publikationen/Wirtschaftsschutz",
+            "date": "2025-09-22",
+            "scope": "Germany",
+            "metric": "Only 50% of surveyed companies feel adequately prepared for cyberattacks; €289.2bn total damage in 2025"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The Bundesnetzagentur (Federal Network Agency) reported in February 2026 the first identification of effective broadband competition in four German cities, reflecting gradual fiber/gigabit network rollout progress.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Continued fiber and 5G/gigabit network expansion is expected under Bundesnetzagentur oversight as Germany works to close its broadband infrastructure gap relative to other European markets.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Slower-than-peer fiber rollout pace historically",
+      "High capex requirements for network buildout",
+      "Regulatory complexity across regional markets"
+    ],
+    "opportunities": [
+      "Fiber-to-the-home expansion",
+      "5G/gigabit network investment",
+      "Rising broadband competition and consumer choice"
+    ],
+    "sources": [
+      {
+        "title": "Bundesnetzagentur identifies first effective competition in the broadband mass market in four cities",
+        "publisher": "Bundesnetzagentur",
+        "url": "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/EN/2026/20260225_BreitbandEckpunkte.html",
+        "date": "2026-02",
+        "scope": "Germany",
+        "metric": "Broadband competition assessment"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural broadband/gigabit infrastructure",
+        "description": "Rural residents and businesses lack gigabit-capable broadband and mobile infrastructure because network rollout in low-density regions remains incomplete.",
+        "sources": [
+          {
+            "title": "Breitband- und Mobilfunkversorgung – Schnelles Netz auf dem Land",
+            "publisher": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)",
+            "url": "https://www.bmleh.de/DE/themen/laendliche-regionen/digitales/breitband-und-mobilfunkversorgung/gigabit-strategie.html",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Ongoing national Gigabit Strategy targeting rural broadband/mobile coverage gaps"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "ZVEI's March 2026 Fact Sheet on the German electro and digital industry tracks continued output amid global semiconductor market volatility, while ZVEI's semiconductor strategy paper highlights ongoing investment needs for Europe's chip sector.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "ZVEI's 'Europe's Semiconductor Business Case' study frames long-term growth as dependent on sustained public and private investment to build competitive European semiconductor capacity amid global supply chain shifts.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Structural dependency on Asian semiconductor supply chains",
+      "High capital intensity of fab investment",
+      "Global cyclical demand volatility"
+    ],
+    "opportunities": [
+      "EU Chips Act-driven investment",
+      "Automotive/industrial semiconductor demand",
+      "New fab projects (e.g., Dresden/Magdeburg clusters)"
+    ],
+    "sources": [
+      {
+        "title": "March 2026 German Electro and Digital Industry – Facts & Figures",
+        "publisher": "ZVEI",
+        "url": "https://www.zvei.org/fileadmin/user_upload/Presse_und_Medien/Publikationen/Regelmaessige_Publikationen/Daten_Zahlen_und_Fakten/Die_deutsche_Elektroindustrie_Daten_Zahlen_Fakten/Fact-Sheet-March-2026.pdf",
+        "date": "2026-03",
+        "scope": "Germany",
+        "metric": "Electro/digital industry data"
+      },
+      {
+        "title": "ZVEI-Study: Europe's Semiconductor Business Case",
+        "publisher": "ZVEI",
+        "url": "https://www.zvei.org/en/press-media/publications/zvei-study-europes-semiconductor-business-case",
+        "date": "2026",
+        "scope": "regional",
+        "metric": "Semiconductor investment case"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Specialized recruiting/upskilling for semiconductor fab and toolmaker workforce",
+        "description": "Semiconductor fabs and toolmakers lack specialized recruiting and upskilling pipelines because roughly half of the 62,000 annual technical openings go unfilled.",
+        "sources": [
+          {
+            "title": "Studie: Fachkräftemangel in der Halbleiterbranche steigt an",
+            "publisher": "ZVEI / BDI (IW Köln study)",
+            "url": "https://www.zvei.org/presse-medien/pressebereich/studie-fachkraeftemangel-in-der-halbleiterbranche-steigt-an",
+            "date": "2023-03-03",
+            "scope": "Germany",
+            "metric": "~62,000 missing skilled workers/year; ~50% of relevant open positions unfilled"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "VDMA (German Mechanical Engineering Industry Association) reported German robotics and automation sales are expected to decline in 2026, warning that Germany is losing ground in the global robotics race amid weak order intake.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "VDMA notes the industry remains under pressure but retains strong technological capability, with hopes pinned on recovery around major trade events (e.g., automatica) and renewed automation investment cycles.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Falling sales/order intake per VDMA forecasts",
+      "Losing global competitive position to Asian robotics producers",
+      "Weak industrial capex cycle"
+    ],
+    "opportunities": [
+      "Automation demand from labor shortages",
+      "AI-integrated robotics applications",
+      "Reshoring-driven automation investment"
+    ],
+    "sources": [
+      {
+        "title": "VDMA warns Germany is losing ground in global robotics race",
+        "publisher": "The Robot Report (citing VDMA)",
+        "url": "https://www.therobotreport.com/vdma-warns-germany-losing-ground-in-global-robotics-race/",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Robotics sector sales forecast"
+      },
+      {
+        "title": "Robotics and Automation Industry Remains Under Pressure",
+        "publisher": "VDMA",
+        "url": "https://www.vdma.eu/en/viewer/-/v2article/render/161697618",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Industry sales trend"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable automation retrofit for mid-sized manufacturers",
+        "description": "Mid-sized manufacturers lack affordable automation-retrofit services because weak capex is driving a projected 10% revenue decline in the robotics/automation sector.",
+        "sources": [
+          {
+            "title": "VDMA-Prognose 2025: Deutsche Robotik- und Automation verliert zehn Prozent Umsatz",
+            "publisher": "VDMA",
+            "url": "https://www.vdma.eu/de/viewer/-/v2article/render/145082068",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Forecast ~10% revenue decline in robotics/automation sector for 2025"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "German hospitals face new financial burdens in 2026, per healthcare management industry reporting, reflecting continued strain from the ongoing hospital-financing reform (Krankenhausreform) and rising operating costs.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Germany's healthcare system remains large and structurally stable, underpinned by statutory health insurance, though hospital consolidation continues under the federal hospital reform through the later 2020s.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Hospital financing pressure and consolidation",
+      "Healthcare workforce shortages",
+      "Rising costs under statutory insurance system"
+    ],
+    "opportunities": [
+      "Digital health infrastructure investment",
+      "Outpatient care shift reducing hospital costs",
+      "Medtech/telemedicine integration"
+    ],
+    "sources": [
+      {
+        "title": "New Financial Burdens for German Hospitals in 2026",
+        "publisher": "HealthManagement.org",
+        "url": "https://healthmanagement.org/c/hospital/pressrelease/new-financial-burdens-for-german-hospitals-in-2026",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Hospital financing pressures"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Patients in formally designated underserved GP (Hausarzt) planning regions",
+        "description": "Patients in formally designated underserved GP planning regions lack access to primary care because general-practice staffing hasn't kept pace with regional shortages.",
+        "sources": [
+          {
+            "title": "Bedarfsplanung: Landesbeschlüsse Über-/Unterversorgung",
+            "publisher": "Kassenärztliche Bundesvereinigung (KBV)",
+            "url": "https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/bedarfsplanung-landesbeschluesse-ueber-unterversorgung",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Number of planning regions declared underserved or facing imminent underservice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "GTAI describes Germany's pharmaceutical industry as a major global player with continued R&D investment, while industry commentary notes Germany's biotech sector has strong research output but growing commercialization and funding challenges.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "GTAI's healthcare-market profile positions Germany's life sciences sector for continued long-term growth, supported by strong pharma R&D infrastructure, though biotech commercialization gaps versus the US remain a challenge.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Biotech funding/commercialization gap versus US/China",
+      "Drug pricing regulation pressure",
+      "Global supply chain dependency for APIs"
+    ],
+    "opportunities": [
+      "Strong pharma R&D and manufacturing base",
+      "Biotech innovation clusters (e.g., BioNTech ecosystem)",
+      "Growing demand for biopharmaceuticals"
+    ],
+    "sources": [
+      {
+        "title": "The Pharmaceutical Industry in Germany",
+        "publisher": "Germany Trade & Invest (GTAI)",
+        "url": "https://www.gtai.de/en/invest/industries/healthcare-market-germany/pharmaceutical-industry",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Pharma industry profile"
+      },
+      {
+        "title": "Germany's Biotech Industry: Strong Research, Growing Challenges",
+        "publisher": "Born2Invest",
+        "url": "https://born2invest.com/articles/germany-biotech-industry-strong-research/",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Biotech sector analysis"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Clinical trial site services for mid-size pharma/biotech",
+        "description": "Mid-size pharma and biotech sponsors lack clinical-trial site services in Germany because the country now ranks only \"average\" as a trial location internationally.",
+        "sources": [
+          {
+            "title": "Neues 'Studienstandort-Barometer'",
+            "publisher": "vfa (Verband forschender Arzneimittelhersteller)",
+            "url": "https://www.vfa.de/de/presse/pressemitteilungen/pg-007-2025.html",
+            "date": "2025-07",
+            "scope": "Germany",
+            "metric": "Studienstandort-Barometer score +9 (of -100 to +100); Germany ranked as only 'average' trial location"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Germany's Federal Ministry of Health published its 'Digital Together 2026' digitalisation strategy for health and care, driving continued rollout of digital health infrastructure (e-prescriptions, electronic patient records) across the medtech sector.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The federal digitalisation strategy sets a multi-year roadmap for digital health adoption, expected to sustain long-term medtech and digital health market growth as infrastructure matures.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Slow historical pace of digital health adoption",
+      "Data privacy/interoperability regulatory complexity",
+      "Reimbursement uncertainty for new digital therapies"
+    ],
+    "opportunities": [
+      "Federal digitalisation strategy driving infrastructure investment",
+      "Electronic patient record (ePA) rollout",
+      "Medtech export strength"
+    ],
+    "sources": [
+      {
+        "title": "Germany's Digitalisation Strategy for Health and Care 2026 – Digital Together",
+        "publisher": "Federal Ministry of Health (BMG)",
+        "url": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/D/Digitalisierungsstrategie/Digitalisierungsstrategie_2026_engl.pdf",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "National digital health strategy"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Practice-management and ePA-readiness software for outpatient physician practices",
+        "description": "Outpatient physician practices lack practice-management and ePA-readiness software because most have no AI tools, limited online scheduling, and feel unprepared for the mandatory e-record rollout.",
+        "sources": [
+          {
+            "title": "Digitalisierung in Praxis und Klinik 2025",
+            "publisher": "Bitkom Research / Bitkom e.V.",
+            "url": "https://www.bitkom.org/Presse/Presseinformation/KI-in-Praxis-und-Kliniken-im-Einsatz",
+            "date": "2025-05-27",
+            "scope": "Germany",
+            "metric": "15% of practices use AI; 77% of 616 surveyed physicians feel unprepared for ePA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Bitkom's 'Digitale Schule 2025' survey of German secondary students found two-thirds already use AI applications and 84% use class chats as a core communication tool, while the mmb Institut's 2025/2026 Learning Delphi tracks accelerating uptake of AI-driven learning tools, including from vendors outside the traditional education industry.",
+      "evidenceDate": "2025-11"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The mmb Learning Delphi 2025/2026 (a 20-year running expert trend study on Germany's digital learning market) frames AI-tech entrants as an emerging structural threat/opportunity poised to reshape the German edtech market, implying continued growth and consolidation pressure over the coming years.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Non-education AI-tech vendors increasingly capturing digital learning demand",
+      "Uneven school technical equipment and digital infrastructure",
+      "Lack of clear rules governing classroom device/AI use"
+    ],
+    "opportunities": [
+      "High and rising student/school AI tool adoption",
+      "Demand for more digital content in instruction",
+      "Growth of corporate/institutional AI-enabled learning platforms"
+    ],
+    "sources": [
+      {
+        "title": "Digitale Schule 2025",
+        "publisher": "Bitkom",
+        "url": "https://www.bitkom.org/Bitkom/Publikationen/Digitale-Schule-2025",
+        "date": "2025-11",
+        "scope": "Germany",
+        "metric": "Student digital/AI tool adoption survey"
+      },
+      {
+        "title": "mmb Learning Delphi 2025/2026: Übernehmen KI-Tech-Unternehmen bald den digitalen Bildungsmarkt?",
+        "publisher": "mmb Institut",
+        "url": "https://www.mmb-institut.de/mmb-trendmonitor/mmb-learning-delphi-2025-2026-uebernehmen-ki-tech-unternehmen-bald-den-digitalen-bildungsmarkt/",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Digital education market trend study"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Toddler-age families unable to find a Kita place due to missing qualified early-childhood educator staffing",
+        "description": "Families with toddlers can't find a Kita place because staffing shortages leave over 114,000 early-childhood educator positions unfilled nationwide.",
+        "sources": [
+          {
+            "title": "Mehr Plätze und bessere Qualität in Kitas bis 2030",
+            "publisher": "Bertelsmann Stiftung",
+            "url": "https://www.der-paritaetische.de/alle-meldungen/mehr-als-430000-kita-plaetze-und-114000-kita-fachkraefte-fehlen-bertelsmann-stiftung-empfiehlt-in-neuer-studie-ua-die-voruebergehende-absenkung-der-betreuungszeiten/",
+            "date": "2023-11",
+            "scope": "Germany",
+            "metric": "Number of missing Kita places and missing qualified staff positions"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The BDU (Bundesverband Deutscher Unternehmensberater) reported a brightening business-climate index for the consulting sector in January 2026, with industry commentary describing AI adoption as becoming a growth driver ('Motor') for consulting after a stagnant 2025.",
+      "evidenceDate": "2026-01"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Germany's consulting/professional-services market is expected to be 'rewired' by AI-driven service delivery models over the coming years, per industry analysis (Strat-Bridge, Consulting.de), sustaining long-term demand even as service models evolve.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Margin pressure from AI-driven commoditization of services",
+      "Client budget caution amid weak broader economy",
+      "Talent competition for AI-skilled consultants"
+    ],
+    "opportunities": [
+      "AI-enabled service transformation",
+      "Demand for digital transformation advisory",
+      "Mittelstand advisory growth"
+    ],
+    "sources": [
+      {
+        "title": "Geschäftsklimaindex 01/2026: Stimmungsaufhellung im Consulting",
+        "publisher": "BDU (Bundesverband Deutscher Unternehmensberater)",
+        "url": "https://www.bdu.de/news/stimmungsaufhellung-im-consulting/",
+        "date": "2026-01",
+        "scope": "Germany",
+        "metric": "Consulting business climate index"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Business-succession matching and transaction advisory for Mittelstand owners",
+        "description": "Mittelstand owners nearing succession lack matching and transaction-advisory services because thousands more owners seek successors than come forward each year.",
+        "sources": [
+          {
+            "title": "DIHK-Report zur Unternehmensnachfolge 2025",
+            "publisher": "DIHK",
+            "url": "https://www.dihk.de/de/newsroom/unternehmensnachfolge-2025-mittelstand-schlaegt-alarm--155824",
+            "date": "2025-09-04",
+            "scope": "Germany",
+            "metric": "~10,000 firms sought succession advice in 2024 vs. ~4,000 interested successors; up to 250,000 potential closures over 10 years"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Destatis reported German services-sector revenue up 1.5% (real) month-on-month in May 2026 and 3.5% year-on-year, with professional, scientific and technical services the strongest-growing subsector (+2.4% m/m); however 'other business services' (temp staffing, equipment rental) declined slightly (-0.3% m/m), pointing to uneven momentum within the category.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Destatis data show full-year 2025 services-sector revenue up 2.1% versus 2024, indicating steady but moderate underlying growth for Germany's large business/professional-services base as the broader economy remains sluggish.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Weakness in staffing/equipment-rental subsegment ('sonstige wirtschaftliche Dienstleistungen')",
+      "Client budget caution amid broader economic slowdown",
+      "Rising labor costs for service-intensive business lines"
+    ],
+    "opportunities": [
+      "Strong momentum in professional, scientific and technical services",
+      "Digitalization and AI-enabled service delivery",
+      "Steady multi-year services-sector revenue growth per Destatis"
+    ],
+    "sources": [
+      {
+        "title": "Umsatz im Dienstleistungsbereich im Mai 2026 um 1,5 % höher als im Vormonat",
+        "publisher": "Destatis (German Federal Statistical Office)",
+        "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_277_474.html",
+        "date": "2026-08",
+        "scope": "Germany",
+        "metric": "Services-sector revenue index by subsector"
+      },
+      {
+        "title": "Umsatz im Dienstleistungsbereich im Jahr 2025 um 2,1 % höher als im Vorjahr",
+        "publisher": "Destatis (German Federal Statistical Office)",
+        "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/03/PD26_071_474.html",
+        "date": "2026-03",
+        "scope": "Germany",
+        "metric": "Annual services-sector revenue growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Handwerk (skilled trades) business owners nearing retirement with no identified successor",
+        "description": "Handwerk business owners nearing retirement lack succession-matching services because takeover candidates are increasingly outnumbered by owners seeking to sell.",
+        "sources": [
+          {
+            "title": "DIHK-Report Unternehmensnachfolge 2025",
+            "publisher": "Deutscher Industrie- und Handelskammertag (DIHK)",
+            "url": "https://www.dihk.de/resource/blob/134302/195174566635ef655907ea91b0ec327a/unternehmensentwicklung-dihk-report-unternehmensnachfolge-2025-data.pdf",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Ratio of firms seeking a successor vs. those seeking to take over a business"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Industry publication invidis reports German ad market budgets are set to stay largely flat in 2026, with digital ad spend continuing to rise cautiously while traditional media budgets remain under pressure.",
+      "evidenceDate": "2025-2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Continued gradual shift of ad spend toward digital channels (led by Google/Meta and major German platforms) is expected, with overall market growth remaining modest per invidis reporting.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Flat overall ad budget growth",
+      "Consolidation pressure on traditional media",
+      "Regulatory scrutiny of digital ad targeting"
+    ],
+    "opportunities": [
+      "Continued digital ad spend growth",
+      "Retail media and e-commerce advertising expansion",
+      "AI-driven ad targeting and content tools"
+    ],
+    "sources": [
+      {
+        "title": "Germany's Ad Market: Budgets Set to Stay Flat in 2026",
+        "publisher": "invidis",
+        "url": "https://invidis.com/news/2025/11/germanys-ad-market-budgets-set-to-stay-flat-in-2026/",
+        "date": "2025-11",
+        "scope": "Germany",
+        "metric": "Ad spend forecast"
+      },
+      {
+        "title": "German Ad Spend: Still Rising, But Cautiously",
+        "publisher": "invidis",
+        "url": "https://invidis.com/news/2025/12/german-ad-spend-still-rising-but-cautiously/",
+        "date": "2025-12",
+        "scope": "Germany",
+        "metric": "Ad spend trend"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Digital marketing capability for mid-size German companies",
+        "description": "Mid-size German companies lack digital-marketing capability support because over half report ongoing problems managing digital transformation.",
+        "sources": [
+          {
+            "title": "Digitalisierung der deutschen Wirtschaft kommt nur langsam voran",
+            "publisher": "Bitkom e.V.",
+            "url": "https://www.bitkom.org/Presse/Presseinformation/Digitalisierung-Wirtschaft-langsam",
+            "date": "2025-03",
+            "scope": "Germany",
+            "metric": "53% of companies report problems managing digital transformation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "PwC's German Entertainment & Media Outlook 2026–2030 projects continued moderate growth for the sector, driven by streaming, gaming and digital advertising, while traditional print and broadcast segments continue to decline.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "PwC forecasts sustained growth through 2030 driven by digital media, streaming subscriptions and gaming, offsetting continued structural decline in legacy print and linear TV segments.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Continued decline of print and linear TV revenue",
+      "Streaming market saturation/subscription fatigue",
+      "Content cost inflation amid platform competition"
+    ],
+    "opportunities": [
+      "Streaming and gaming market growth",
+      "Digital advertising expansion",
+      "German content export potential"
+    ],
+    "sources": [
+      {
+        "title": "German Entertainment & Media Outlook 2026–2030",
+        "publisher": "PwC",
+        "url": "https://www.pwc.de/en/technology-media-and-telecommunication/german-entertainment-and-media-outlook.html",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Media & entertainment market forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Local news/civic information services",
+        "description": "Residents of small and rural municipalities lack any local news or civic-information service because economically viable local newspapers are disappearing.",
+        "sources": [
+          {
+            "title": "Studie belegt Rückgang von Lokalzeitungen (BDZV-Studie: Versorgungsengpass bei Lokalzeitungen)",
+            "publisher": "Bundesverband Digitalpublisher und Zeitungsverleger (BDZV), reported via kommunal.de",
+            "url": "https://kommunal.de/lokalzeitungen-vor-dem-Aus",
+            "date": "2020 study, projection for 2025",
+            "scope": "Germany",
+            "metric": "4,400 of Germany's ~11,000 municipalities (about 40%) are projected to lack economically viable local newspaper coverage by 2025, up from 720 municipalities in 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The German Travel Association (DRV) forecasts around €85 billion in 2026 tourism/travel revenue, citing growing travel demand despite broader economic uncertainty, per DRV's 2025 travel market figures and 2026 forecast reporting.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The hospitality sector faces structural challenges including cost pressures and staffing shortages (per RoomPriceGenie's 2026 industry trends analysis), even as overall travel demand continues to grow.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rising operating and staffing costs in hospitality",
+      "Consumer spending caution amid economic uncertainty",
+      "Labor shortages in hospitality"
+    ],
+    "opportunities": [
+      "Sustained travel demand growth (DRV forecast)",
+      "Domestic/regional tourism growth",
+      "Digitalization of booking and guest experience"
+    ],
+    "sources": [
+      {
+        "title": "German Travel Market Forecast 2026: DRV Predicts €85 Billion Tourism Revenue",
+        "publisher": "Travel And Tour World (citing DRV)",
+        "url": "https://www.travelandtourworld.com/news/article/xeqaos9uoclh/",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Travel market revenue forecast"
+      },
+      {
+        "title": "The German Travel Market – Zahlen und Fakten 2025",
+        "publisher": "DRV (Deutscher Reiseverband)",
+        "url": "https://www.drv.de/public/Downloads_2025/Zahlen_und_Fakten_2025_ENG.pdf",
+        "date": "2025",
+        "scope": "Germany",
+        "metric": "Travel market statistics"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Accessible-travel booking and trip-planning for people with disabilities",
+        "description": "Travelers with disabilities lack a verified accessible-travel booking service because most platforms don't reliably filter for genuine step-free, mobility-accessible listings.",
+        "sources": [
+          {
+            "title": "7,9 Millionen schwerbehinderte Menschen leben in Deutschland",
+            "publisher": "Statistisches Bundesamt (Destatis)",
+            "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/07/PD24_281_227.html",
+            "date": "July 2024 (data as of end 2023)",
+            "scope": "Germany",
+            "metric": "7.9 million people with severe disabilities registered in Germany, 9.5% of the total population"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "The German gastronomy sector faces a record revenue slump per industry reporting, with the DEHOGA-tracked hospitality/restaurant industry continuing to struggle with high costs and weak consumer spending into 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "A Q1 2026 gastronomy and hospitality industry report notes ongoing structural pressure but points to eventual stabilization as cost inflation eases and consumer demand for dining experiences persists.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Record revenue declines amid cost inflation",
+      "Rising minimum wage and food costs",
+      "Weak discretionary consumer spending"
+    ],
+    "opportunities": [
+      "Premium/experience-led dining demand",
+      "Delivery and off-premise dining growth",
+      "Health-focused menu trends"
+    ],
+    "sources": [
+      {
+        "title": "German gastronomy faces record revenue slump",
+        "publisher": "BeerTasting industry news",
+        "url": "https://www.beertasting.com/en/news/german-gastronomy-faces-record-revenue-slump",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Gastronomy revenue trend"
+      },
+      {
+        "title": "Industry Report Q1 2026: Gastronomy & Hospitality in Germany",
+        "publisher": "Absolut Gastronomie Immobilien",
+        "url": "https://www.absolut-gastronomie-immobilien.de/en/post/industry-report-q1-2026-gastronomy-hospitality-in-germany-figures-trends-and-outlook",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Sector figures and outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Independent hospitality operators needing staffing/scheduling and workforce-management tooling",
+        "description": "Independent hospitality operators lack staffing and scheduling workforce-management tools because nearly 80% face ongoing labor shortages without the resources of large chains.",
+        "sources": [
+          {
+            "title": "DEHOGA-Umfrage: Fachkräftemangel für fast 80 Prozent der Betriebe ein Problem",
+            "publisher": "DEHOGA Bundesverband (via Tophotel.de)",
+            "url": "https://www.tophotel.de/dehoga-fachkraeftemangel-fuer-fast-80-prozent-ein-problem-114502/",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "~80% of surveyed hotel and restaurant businesses report staff shortages"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "BranchenPuls point-of-sale data covering thousands of German hairdressing and beauty salons (over EUR 1 billion in transactions) showed salon revenue up 7.2% year-on-year in July 2026, with service revenue up 7.28% and product revenue up 5.05%, indicating continued nominal growth in personal-care services.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "no_data",
+      "summary": "No reliable multi-year (4-8 year) forecast data was found specifically for Germany's broader personal/consumer services sector.",
+      "evidenceDate": ""
+    },
+    "risks": [
+      "Rising input and labor costs for personal-care and personal-service businesses",
+      "Consumer spending sensitivity to economic uncertainty",
+      "Skilled labor shortages in trades like hairdressing/cosmetics"
+    ],
+    "opportunities": [
+      "Continued nominal revenue growth in salon/personal-care services",
+      "Premiumization of personal-care service offerings",
+      "Digitalization of booking and customer management for small service businesses"
+    ],
+    "sources": [
+      {
+        "title": "Umsatzentwicklung Friseur & Kosmetik 2026: Aktuelle Zahlen",
+        "publisher": "BranchenPuls (Head-on Solutions GmbH)",
+        "url": "https://branchenpuls.de/umsatzveraenderung/",
+        "date": "2026-07",
+        "scope": "Germany",
+        "metric": "Hairdressing/beauty salon revenue index"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Commercial/residential cleaning service providers unable to fill skilled-cleaner vacancies",
+        "description": "Over 60% of German cleaning companies report unfilled skilled-cleaner positions, with vacancies open 3-8 months depending on region.",
+        "sources": [
+          {
+            "title": "Gebäudereiniger in der Krise: Branche kämpft um Fachkräfte",
+            "publisher": "Leipziger Zeitung (L-IZ.de)",
+            "url": "https://www.l-iz.de/wirtschaft/2026/01/gebaeudereiniger-fachkraeftemangel-branche-kaempft-ums-ueberleben-646343",
+            "date": "2026-01-27",
+            "scope": "Germany",
+            "metric": "Over 60% of German cleaning companies affected by skilled-worker shortage; ~35,000 registered trained cleaning professionals vs. ~700,000 total sector employees; vacancies open 3-8 months by region"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "DOSB's Bestandserhebung 2025 recorded 29.3 million sports-club memberships as of January 2025, the highest since records began in 1954 (+2.18% year-on-year, +500,000+ new memberships), with especially strong youth growth (ages 0-6 +4.1%, ages 7-14 +4.58%) and the long-running decline in club numbers essentially halting.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "DOSB notes structural challenges persisting alongside the membership record: nearly one-fifth of clubs report significant facility deterioration and over one-sixth face existential threats from volunteer shortages, suggesting continued participation growth but constrained organizational capacity over the medium term.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Volunteer shortages threatening club viability (over one-sixth of clubs at existential risk)",
+      "Aging/deteriorating sports facilities (nearly 20% of clubs affected)",
+      "Funding gaps for infrastructure investment"
+    ],
+    "opportunities": [
+      "Record and rising club membership, especially among youth",
+      "Strong growth in specific sports (football, gymnastics, tennis, athletics, and smaller sports like dart and cheerleading)",
+      "Regional growth momentum in eastern German states and Hamburg"
+    ],
+    "sources": [
+      {
+        "title": "Bestandserhebung 2025",
+        "publisher": "Deutscher Olympischer Sportbund (DOSB)",
+        "url": "https://cdn.dosb.de/user_upload/www.dosb.de/uber_uns/Bestandserhebung/Bestandserhebung_2025.pdf",
+        "date": "2025",
+        "scope": "Germany",
+        "metric": "Sports club membership census"
+      },
+      {
+        "title": "Nächster Mitgliederrekord im deutschen Sport",
+        "publisher": "DOSB",
+        "url": "https://www.dosb.de/aktuelles/news/detail/naechster-mitgliederrekord-im-deutschen-sport",
+        "date": "2025",
+        "scope": "Germany",
+        "metric": "Membership growth and club-condition survey"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Club-management/fundraising software for small amateur sports clubs",
+        "description": "Small volunteer-run amateur sports clubs lack affordable club-management and fundraising software because two-thirds run no online donation channel at all.",
+        "sources": [
+          {
+            "title": "Woran scheitert die Digitalisierung des Vereinssports? (DSEE study of 615 clubs; DOSB Sportentwicklungsbericht)",
+            "publisher": "Sportplatzwelt, citing Deutsche Stiftung für Engagement und Ehrenamt (DSEE) and DOSB",
+            "url": "https://www.sportplatzwelt.de/news/106988/woran-scheitert-die-digitalisierung-des-vereinssports",
+            "date": "September 15, 2025",
+            "scope": "Germany",
+            "metric": "67.5% of surveyed clubs cite insufficient personnel resources as a digitalization barrier, and two-thirds of clubs use no online fundraising channel at all"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "PwC Strategy&'s Fashion Retail Outlook 2026 finds German/Austrian fashion consumers increasingly value-driven, with 56% having increased discounted-fashion purchases in the past year and no clear overall market growth figure given, alongside rising demand for traceable/nearshored products.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "PwC Strategy& highlights structural shifts including mandatory EU Digital Product Passports by 2027 and growing agentic (AI-driven) commerce adoption (about 25% of DE/AT consumers likely to buy fashion via AI assistants), reshaping but not necessarily shrinking the category over time.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Increased price sensitivity and discount-driven purchasing",
+      "EU Digital Product Passport compliance costs (mandatory 2027)",
+      "Supply chain restructuring pressure toward nearshoring"
+    ],
+    "opportunities": [
+      "Consumer premium willingness for traceable/European-made goods",
+      "Growth of AI-driven (agentic) fashion commerce",
+      "Nearshoring-enabled supply chain resilience"
+    ],
+    "sources": [
+      {
+        "title": "Fashion Retail Outlook 2026",
+        "publisher": "PwC Strategy&",
+        "url": "https://www.strategyand.pwc.com/de/en/industries/consumer-markets/fashion-retail-outlook.html",
+        "date": "2026",
+        "scope": "Germany/Austria",
+        "metric": "Consumer purchasing behavior trends"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Plus-size luxury/designer apparel",
+        "description": "German plus-size womenswear demand is large and growing, but mainstream luxury and designer fashion brands largely stop extended sizing at standard runs.",
+        "sources": [
+          {
+            "title": "Germany Women Plus Size Clothing Market Forecast 2024-2032",
+            "publisher": "Inkwood Research",
+            "url": "https://www.inkwoodresearch.com/reports/germany-women-plus-size-clothing-market/",
+            "date": "2024",
+            "scope": "Germany",
+            "metric": "German women's plus-size clothing market projected to grow at a multi-year CAGR through 2032"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Startbase's Green Startup Report 2026 finds Germany's green/climate-tech startup ecosystem continuing to grow but with slowing momentum, while the government's Environmental Technology Atlas continues to track the broader environmental-technology sector.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Germany's Climate Action Programme sets continued long-term emissions-reduction targets that are expected to sustain demand for environmental and climate technologies over time, per Clean Energy Wire's coverage of the program.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Slowing green startup funding momentum",
+      "Policy implementation uncertainty on climate targets",
+      "Competition from Asian clean-tech manufacturers"
+    ],
+    "opportunities": [
+      "Continued government climate policy support",
+      "Growing environmental technology export base",
+      "Green startup ecosystem, despite slower momentum"
+    ],
+    "sources": [
+      {
+        "title": "Green Startup Report 2026: Growth continues, momentum slows down",
+        "publisher": "Startbase",
+        "url": "https://www.startbase.com/reports/green-startup-report-2026-wachstum-haelt-an-dynamik-laesst-nach",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Green startup ecosystem report"
+      },
+      {
+        "title": "Q&A: Germany's Climate Action Programme 2026",
+        "publisher": "Clean Energy Wire",
+        "url": "https://www.cleanenergywire.org/factsheets/qa-germanys-climate-action-programme-2026",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Climate policy programme"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Textile fiber-to-fiber recycling infrastructure",
+        "description": "Textile recyclers lack fiber-to-fiber recycling infrastructure because only 5% of collected used clothing is recycled back into fiber rather than downcycled.",
+        "sources": [
+          {
+            "title": "Studie: Textilrecycling mit fehlenden Kapazitäten, steigenden Mengen und sinkender Qualität konfrontiert",
+            "publisher": "NABU / Öko-Institut",
+            "url": "https://www.euwid-recycling.de/news/wirtschaft/studie-textilrecycling-mit-fehlenden-kapazitaeten-steigenden-mengen-und-sinkender-qualitaet-konfrontiert/",
+            "date": "2024-10-23",
+            "scope": "Germany/EU",
+            "metric": "26% of collected textiles recycled; only 5% fiber-to-fiber recycling"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "GTAI reports Germany's water supply and wastewater sector generated EUR 23.6 billion in turnover in 2025, Europe's largest such market, with nearly EUR 1.4 billion in water/wastewater technology exports the same year, making Germany Europe's top exporter in the field.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "GTAI notes over 90% of major German cities are developing climate adaptation strategies driving demand for water reuse, rainwater harvesting and digitalized (AI/sensor/digital twin) water infrastructure, on top of EUR 83 billion invested in drinking-water infrastructure since 1990.",
+      "evidenceDate": "2025-2026"
+    },
+    "risks": [
+      "Aging infrastructure requiring continued heavy capital investment",
+      "Extreme weather/climate stress on water resources",
+      "Regulatory compliance costs under Federal Water Act and EU rules"
+    ],
+    "opportunities": [
+      "Climate-adaptation-driven demand for water reuse and recycling tech",
+      "Digitalization (sensors, AI, digital twins) of water infrastructure",
+      "Continued export leadership in water technology"
+    ],
+    "sources": [
+      {
+        "title": "Water Technologies in Germany",
+        "publisher": "Germany Trade & Invest (GTAI)",
+        "url": "https://www.gtai.de/en/invest/industries/environmental-technologies/water-technologies",
+        "date": "2025",
+        "scope": "Germany",
+        "metric": "Water sector turnover and export figures"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Financing and infrastructure-renewal services for small/mid-size municipal water utilities",
+        "description": "Small and mid-size municipal water utilities lack financing and infrastructure-renewal services because required annual investment must roughly quadruple to meet renewal needs.",
+        "sources": [
+          {
+            "title": "Experten-Gutachten: Dreistellige Milliardeninvestitionen für sichere Wasser- und Abwasserinfrastruktur bis 2045 notwendig",
+            "publisher": "VKU (Becker Büttner Held study)",
+            "url": "https://www.vku.de/presse/pressemitteilungen/experten-gutachten-dreistellige-milliardeninvestitionen-fuer-sichere-wasser-und-abwasserinfrastruktur-bis-2045-notwendig/",
+            "date": "2025-03-10",
+            "scope": "Germany",
+            "metric": "€800bn needed 2025-2045; annual investment must rise from ~€10bn to ~€40bn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The BDLI (German Aerospace Industries Association) reported 2026 industry data showing the German aerospace industry setting new records for revenue and employment, driven by strong commercial aviation and defense-adjacent demand.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BDLI's continued record growth reporting suggests sustained long-term expansion for German aerospace, supported by both civil aviation recovery and rising European defense/space investment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Global supply chain constraints for aerospace components",
+      "High capital and R&D investment requirements",
+      "Cyclical civil aviation demand"
+    ],
+    "opportunities": [
+      "Record revenue and employment growth (BDLI)",
+      "European space program investment",
+      "Rising defense-adjacent aerospace demand"
+    ],
+    "sources": [
+      {
+        "title": "BDLI Industry Data 2026: Aerospace Industry Sets New Records for Revenue and Employment",
+        "publisher": "BDLI (German Aerospace Industries Association)",
+        "url": "https://www.bdli.de/en/meldungen/bdli-branchendaten-2026-luft-und-raumfahrtindustrie-erreicht-neue-rekorde-bei-umsatz-und",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Aerospace industry revenue/employment data"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "New Space startups (launch/satellite) regulatory support",
+        "description": "New Space launch and satellite startups lack regulatory support services because the absence of a finalized national space law leaves them without clear legal operating ground.",
+        "sources": [
+          {
+            "title": "Raumfahrt: Papierkrieg erschwert deutschen Start-ups die Eroberung des Weltraums",
+            "publisher": "WirtschaftsWoche",
+            "url": "https://www.wiwo.de/politik/deutschland/raumfahrt-papierkrieg-erschwert-deutschen-start-ups-die-eroberung-des-weltraums/100211548.html",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Reported bureaucratic delay/absence of finalized national space law cited as barrier to New Space startups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "German defense spending has risen sharply amid the government's expanded defense budget and NATO commitments; the fiscal outlook analysis from Deutsche Bank Research and OSW notes rising debt-financed defense/infrastructure spending in the 2026 federal budget.",
+      "evidenceDate": "2025-2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Germany's multi-year defense investment plans, financed through the 2026 budget and associated debt-financed special funds, are expected to sustain elevated defense-sector growth through the remainder of the decade.",
+      "evidenceDate": "2025-2026"
+    },
+    "risks": [
+      "Long-term fiscal sustainability of expanded defense budget",
+      "Supply chain/production capacity constraints for defense manufacturers",
+      "Political volatility around defense spending commitments"
+    ],
+    "opportunities": [
+      "Sustained government defense procurement growth",
+      "European defense industrial cooperation",
+      "Dual-use aerospace/defense technology investment"
+    ],
+    "sources": [
+      {
+        "title": "Germany: the 2026 budget and rising debt",
+        "publisher": "OSW Centre for Eastern Studies",
+        "url": "https://www.osw.waw.pl/en/publikacje/analyses/2025-12-05/germany-2026-budget-and-rising-debt",
+        "date": "2025-12",
+        "scope": "Germany",
+        "metric": "Federal budget/defense spending analysis"
+      },
+      {
+        "title": "Fiscal outlook 2026+: Unpacking Germany's big spending",
+        "publisher": "Deutsche Bank Research",
+        "url": "https://www.dbresearch.com/PROD/RPS_EN-PROD/PROD0000000000612795/Fiscal_outlook_2026%EF%BC%8B:_Unpacking_Germany's_big_spen.PDF",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Fiscal/defense spending forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "SME/Mittelstand access to defense supply chains",
+        "description": "SME and Mittelstand suppliers lack support breaking into defense supply chains because prime contractors' and Bundeswehr procurement remain difficult for smaller firms to access.",
+        "sources": [
+          {
+            "title": "Wie der Mittelstand den Zugang zu Defence-Lieferketten findet",
+            "publisher": "eGovernment / Vogel IT-Medien",
+            "url": "https://www.egovernment.de/wie-der-mittelstand-den-zugang-zu-defence-lieferketten-findet-a-231df50cc4d1309f4fe190150481a998/",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Reported structural barriers limiting Mittelstand share of defense procurement growth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Destatis reported Germany's overall public-budget deficit increased to €71.3 billion in the first half of 2026, with public expenditure rising 5.4% year-on-year in Q1 2026 versus 0.7% revenue growth, reflecting expanded spending commitments.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The German government's Medium-Term Fiscal-Structural Plan (2025–2029) outlines continued elevated public spending, including debt-financed infrastructure and defense investment, with deficits expected to persist over the plan horizon.",
+      "evidenceDate": "2025-2026"
+    },
+    "risks": [
+      "Rising public deficit and debt levels",
+      "Expenditure growth outpacing revenue growth",
+      "Long-term fiscal sustainability pressure"
+    ],
+    "opportunities": [
+      "Large-scale public infrastructure and defense investment programs",
+      "Digitalization of public administration",
+      "EU fiscal coordination support"
+    ],
+    "sources": [
+      {
+        "title": "Germany's government deficit increases to 71.3 billion euros in 1st half of 2026",
+        "publisher": "Destatis (German Federal Statistical Office)",
+        "url": "https://www.destatis.de/EN/Press/2026/08/PE26_305_813.html",
+        "date": "2026-08",
+        "scope": "Germany",
+        "metric": "Public budget deficit"
+      },
+      {
+        "title": "Overall public budget in the 1st quarter of 2026: public revenue +0.7%, expenditure +5.4%",
+        "publisher": "Destatis",
+        "url": "https://www.destatis.de/EN/Themes/Government/Public-Finance/Expenditure-Revenue-And-Financial-Balance-Of-Public-Budgets/current-news.html",
+        "date": "2026",
+        "scope": "Germany",
+        "metric": "Public revenue/expenditure growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Municipal administrations implementing the Online Access Act (OZG) for citizen services",
+        "description": "Municipal administrations lack tools to complete Online Access Act digitalization because only about 60% of required citizen services are available online.",
+        "sources": [
+          {
+            "title": "Bitkom-Analyse: 60 Prozent der Verwaltungsleistungen sind online verfügbar",
+            "publisher": "Bitkom e.V.",
+            "url": "https://www.bitkom.org/Presse/Presseinformation/Bitkom-Analyse-60-Prozent-der-Verwaltungsleistungen-sind-online-verfuegbar",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Share of legally mandated administrative services actually available online"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "The Deutscher Spendenrat's Bilanz des Helfens report (released Feb 2026) found German private donations fell 9% to EUR 4.649 billion in 2025 with fewer overall donors, though average donation size rose to EUR 46 (+EUR 3 vs 2024).",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "ZiviZ's decade-long survey series shows Germany's civil-society organization count grew by roughly 18,000 organizations between 2016 and 2022, indicating structural long-term growth in the sector's footprint even as short-term donation volumes and volunteer numbers face pressure (per ZiviZ-Survey 2023 Trendbericht, Stifterverband).",
+      "evidenceDate": "2023"
+    },
+    "risks": [
+      "Declining number of individual donors",
+      "Overall donation volume contraction",
+      "Economic uncertainty reducing discretionary giving",
+      "Long-term organizational growth coexists with declining volunteer engagement reported by 21% of organizations and rising financial pressure"
+    ],
+    "opportunities": [
+      "Rising average individual donation size",
+      "Growing legacy/bequest giving to charitable organizations",
+      "Continued civic engagement despite fewer donors",
+      "Sustained decade-long growth in the number of registered civil-society organizations, per ZiviZ-Survey 2023"
+    ],
+    "sources": [
+      {
+        "title": "Bilanz des Helfens 2025: Weniger Spender und Spenden, größere Einzelspenden",
+        "publisher": "Stiftung Aktive Bürgerschaft (citing Deutscher Spendenrat)",
+        "url": "https://www.aktive-buergerschaft.de/bilanz-des-helfens-2025-weniger-spender-und-spenden-groessere-einzelspenden/",
+        "date": "2026-02",
+        "scope": "Germany",
+        "metric": "Total donations and donor numbers"
+      },
+      {
+        "title": "ZiviZ-Survey 2023: Trendbericht",
+        "publisher": "ZiviZ im Stifterverband",
+        "url": "https://ziviz.de/publikationen/ziviz-survey-2023-trendbericht",
+        "date": "2023",
+        "scope": "Germany",
+        "metric": "Ten-year civil-society organization count trend, 2012-2022"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Recurring-donation infrastructure for small nonprofits",
+        "description": "Small nonprofits lack recurring-donation infrastructure because subscription-giving tools built for their scale don't exist, unlike offerings for large NGOs.",
+        "sources": [
+          {
+            "title": "Digitale Spendenrealität 2025",
+            "publisher": "RaiseNow (analysis of 7,000+ DACH nonprofit organizations, incl. Germany)",
+            "url": "https://fundraising-akademie.de/digitale-spendenrealitaet-2025/",
+            "date": "2025",
+            "scope": "Germany",
+            "metric": "Recurring donations made up over 11% of digital donation volume at large organizations but stayed below 1% at small nonprofits in 2024"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Germany has committed roughly EUR 5 billion to quantum technology (EUR 2bn 2020 stimulus package plus EUR 3bn 2023 Action Plan), with the 54-qubit Euro-Q-Exa quantum computer becoming operational at the Leibniz Supercomputing Centre in February 2026.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Germany targets at least 60 active end-users of quantum computing and aims to rank among the EU's top-three quantum nations, with Munich Quantum Valley targeting a 1,000-qubit system by 2027 via the MAQCS project.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High capital intensity and long payback horizon for quantum R&D",
+      "Global competition for quantum talent",
+      "Technology still pre-commercial for most use cases"
+    ],
+    "opportunities": [
+      "Large government funding commitments (~EUR 5bn)",
+      "Regional hubs (Munich Quantum Valley, Lower Saxony Quantum Valley)",
+      "Corporate/international investment (e.g., IBM's Ehningen quantum data center)"
+    ],
+    "sources": [
+      {
+        "title": "Top Germany Quantum Technology Companies in 2026",
+        "publisher": "The Quantum Insider",
+        "url": "https://thequantuminsider.com/2026/04/18/quantum-computing-companies-in-germany/",
+        "date": "2026-04",
+        "scope": "Germany",
+        "metric": "Government quantum funding and infrastructure milestones"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Quantum computing readiness for mid-sized companies",
+        "description": "German companies exploring quantum computing lack the in-house personnel and market overview needed to evaluate and adopt it.",
+        "sources": [
+          {
+            "title": "Quantencomputing in der deutschen Wirtschaft 2026",
+            "publisher": "Bitkom e.V.",
+            "url": "https://www.bitkom.org/Presse/Presseinformation/Quantencomputing-Hohe-Erwartungen-wenig-Einsatz",
+            "date": "2026-03-30",
+            "scope": "Germany",
+            "metric": "65% of surveyed companies (607 firms with 100+ employees) cite lack of personnel resources, and 56% lack a market overview, as barriers to quantum computing adoption"
+          }
+        ]
+      }
+    ]
+  }
+]

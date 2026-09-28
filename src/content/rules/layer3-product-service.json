@@ -1,0 +1,362 @@
+[
+  {
+    "rule_id": "L3-PROD-01-AB",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-01",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Start gathering evidence the offering achieves its outcome",
+      "finding": "No evidence has been gathered on whether the product or service actually achieves the outcome customers need when they use it for its core purpose.",
+      "consequence": "The business doesn't yet know whether what it delivers actually works for its intended purpose — everything else about the offering (pricing, positioning, expansion) is being built on an unconfirmed foundation.",
+      "action": "Start gathering anecdotal impressions from customers or early users about whether the offering helps them achieve the outcome they need — informal feedback is enough to start.",
+      "avoid": "Assuming it works because it was built to the specification. A specification being met is not the same as the customer's outcome being achieved.",
+      "action_evidence": "Anecdotal impressions from customers or users suggest the offering helps, even without systematic observation yet.",
+      "assessment_evidence": "Re-asked: do anecdotal impressions suggest it helps, even without anything measured systematically? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-01-BC",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-01",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Confirm the outcome through observation or structured feedback",
+      "finding": "Anecdotal impressions suggest the offering helps, but nothing has been observed or measured systematically to confirm it.",
+      "consequence": "The business is currently relying on scattered impressions rather than anything it could point to with confidence if asked whether the offering actually works.",
+      "action": "Directly observe customers using the offering, or gather structured feedback, specifically to confirm the outcome is achieved in typical cases.",
+      "avoid": "Relying on a single, especially enthusiastic customer's account as if it represented the typical case.",
+      "action_evidence": "Direct observation or structured feedback confirms the outcome is achieved in typical use cases.",
+      "assessment_evidence": "Re-asked: does direct observation or structured feedback confirm the outcome is achieved in typical cases? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-01-CD",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-01",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Confirm the outcome across a real range of customers and use cases",
+      "finding": "The outcome is confirmed in typical cases, but not yet across the fuller range of customers and use cases the business actually serves.",
+      "consequence": "What's confirmed to work for a typical customer may not hold for customers at the edges of who the business serves — the business doesn't yet know where its offering's real limits are.",
+      "action": "Extend the confirmation beyond typical or best-case customers to a genuine range of use cases, including ones that are more demanding or less standard.",
+      "avoid": "Testing only with the easiest, most cooperative customers and calling that a range. The range needs to include the harder cases, not just more of the easy ones.",
+      "action_evidence": "The outcome has been confirmed across a range of customers and use cases, not only typical or best-case ones.",
+      "assessment_evidence": "Re-asked: is the outcome confirmed across a range of customers and use cases, not only typical ones? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-01",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-02-AB",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-02",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Start tracking failures, even informally",
+      "finding": "Reliability isn't tracked, or failures are the norm rather than the exception.",
+      "consequence": "The business doesn't know how often what it delivers fails the customer — without tracking, there's no way to tell if things are improving, worsening, or staying the same.",
+      "action": "Start informally tracking defects, failures, or errors that affect customers, even without a systematic process yet.",
+      "avoid": "Only noting failures that generate a customer complaint. Many failures go unreported — informal tracking still needs to actively look, not just wait for complaints.",
+      "action_evidence": "Failures affecting customers are being noted, even informally.",
+      "assessment_evidence": "Re-asked: is reliability tracked informally, even if recurring issues still require individual fixes? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-02-BC",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-02",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Catch and resolve most failures with more consistency",
+      "finding": "Reliability is tracked informally, but recurring issues still require individual fixes each time they occur.",
+      "consequence": "The business is spending effort fixing the same kinds of problems repeatedly, rather than catching and resolving them systematically before they recur.",
+      "action": "Bring more consistency to tracking, so most instances of failure are caught and resolved, even if not yet systematically prevented from recurring.",
+      "avoid": "Fixing each instance without ever asking whether it's the same underlying issue recurring. That keeps the fixing effort constant instead of declining.",
+      "action_evidence": "Most instances of failure are being caught and resolved with reasonable consistency.",
+      "assessment_evidence": "Re-asked: is reliability tracked with some consistency, with most instances caught and resolved? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-02-CD",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-02",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Make failures the exception through systematic tracking",
+      "finding": "Reliability is tracked with some consistency and most failures are caught, but they aren't yet systematically prevented — failures are still a regular occurrence, not an exception.",
+      "consequence": "The business is still catching problems after the fact rather than having reduced how often they happen — reactive, not yet in control of its own reliability.",
+      "action": "Move to systematic tracking, and use it to address root causes so that failures become the exception rather than a recurring pattern.",
+      "avoid": "Adding more monitoring without acting on what it reveals. Tracking that doesn't change the underlying failure rate isn't yet systematic in the way this item requires.",
+      "action_evidence": "Reliability is tracked systematically, and failures are demonstrably the exception rather than a recurring pattern.",
+      "assessment_evidence": "Re-asked: is reliability tracked systematically, with failures the exception rather than the norm? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-02",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-03-AB",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-03",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Close the gap forcing the most disruptive workaround",
+      "finding": "Significant gaps in the offering force customers to rely on manual workarounds or other providers for essential parts of their core need.",
+      "consequence": "Customers currently have to patch together what the business doesn't fully deliver — a real friction that makes the offering less valuable, and an opening for a more complete competitor.",
+      "action": "Identify the most significant gap forcing a workaround, and close enough of it that customers manage the remaining gaps rather than routing around the business entirely for essential parts of the need.",
+      "avoid": "Adding unrelated new features instead of closing the specific gaps forcing workarounds. Breadth doesn't help if the core need still isn't fully covered.",
+      "action_evidence": "The most significant workaround-forcing gap has been closed, even if smaller gaps remain and customers still raise them.",
+      "assessment_evidence": "Re-asked: do gaps exist that customers manage, having raised them as real friction, rather than gaps forcing workarounds? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-03-BC",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-03",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Cover the core need fully, leaving only adjacent gaps",
+      "finding": "Some gaps exist in the offering; customers manage them, but have raised them as real friction.",
+      "consequence": "Customers are currently tolerating gaps rather than being fully served — tolerance can run out, especially if an alternative appears that doesn't have the same gaps.",
+      "action": "Close the gaps affecting the customer's core need specifically, even if gaps in adjacent or secondary needs remain for now.",
+      "avoid": "Prioritizing gaps by how easy they are to fix rather than by whether they affect the customer's actual core need.",
+      "action_evidence": "The core need is now covered; any remaining known gaps concern adjacent or secondary needs, not the core one.",
+      "assessment_evidence": "Re-asked: is the core need covered, with known gaps concerning only adjacent or secondary needs? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-03-CD",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-03",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Get customers to confirm completeness, not just the business's own view",
+      "finding": "The core need is covered, with known gaps limited to adjacent or secondary needs — solid, but this has been assessed internally rather than confirmed by customers.",
+      "consequence": "The business's own view that the core need is fully covered hasn't yet been checked against what customers actually experience — an internal assumption can miss gaps customers see but haven't flagged as strongly.",
+      "action": "Confirm directly with customers that the core need is covered with no material gaps, rather than relying on the business's own internal assessment.",
+      "avoid": "Asking customers a general satisfaction question and treating a positive answer as confirmation of completeness. Ask specifically about gaps in the core need.",
+      "action_evidence": "Customer feedback specifically confirms the core need is covered with no material gaps.",
+      "assessment_evidence": "Re-asked: is the core need covered with no material gaps, confirmed by customer feedback rather than internal assumption? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-03",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-04-AB",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-04",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 4,
+    "content": {
+      "title": "Start collecting feedback instead of waiting for complaints",
+      "finding": "There is no systematic collection of feedback on how the product or service performs — issues surface only if a customer happens to complain.",
+      "consequence": "The business is currently blind to problems customers don't bother to report — for every complaint received, there may be several unreported issues quietly affecting satisfaction or retention.",
+      "action": "Start collecting feedback on how the offering performs, even informally and inconsistently, rather than waiting for complaints.",
+      "avoid": "Treating the absence of complaints as the absence of problems. Most dissatisfied customers don't complain — they just leave.",
+      "action_evidence": "Feedback is being collected informally, even without a consistent process yet.",
+      "assessment_evidence": "Re-asked: is feedback collected informally and inconsistently, even without a clear process for acting on it? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-04-BC",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-04",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 4,
+    "content": {
+      "title": "Make sure feedback actually leads to changes",
+      "finding": "Feedback is collected informally and inconsistently, with no clear process for acting on what's collected.",
+      "consequence": "Feedback is currently being gathered without reliably being used — insight is being collected and then not consistently turned into anything.",
+      "action": "Bring more consistency to collection, and make sure at least some of what's collected visibly leads to changes in the offering.",
+      "avoid": "Collecting more feedback without changing whether or how it gets acted on. More input doesn't help if the same share of it gets ignored.",
+      "action_evidence": "Feedback is collected with reasonable consistency, and some of it visibly leads to changes.",
+      "assessment_evidence": "Re-asked: is feedback collected with some consistency, with some of it visibly leading to changes? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-04-CD",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-04",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 4,
+    "content": {
+      "title": "Establish a defined feedback channel with a consistent response pattern",
+      "finding": "Feedback is collected with some consistency and some of it leads to changes, but there's no defined channel or process behind it — it's still somewhat ad hoc.",
+      "consequence": "Without a defined channel, feedback collection depends on remembering to ask rather than being a reliable, repeatable part of how the business runs.",
+      "action": "Establish a defined channel or process for collecting feedback, and act on it consistently enough that a real pattern of response is visible.",
+      "avoid": "Setting up a feedback channel that collects input but isn't actually reviewed on any regular basis. The process needs to include acting on it, not just gathering it.",
+      "action_evidence": "A defined feedback channel or process exists, with a consistent pattern of acting on what it surfaces.",
+      "assessment_evidence": "Re-asked: is feedback collected through a defined channel or process, with a consistent pattern of acting on it? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-04",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-05-AB",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-05",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Standardize the first parts of delivery",
+      "finding": "Every delivery requires substantial bespoke, non-repeatable effort — the founder or a specialist is required each time.",
+      "consequence": "Delivery currently can't scale beyond whoever is doing the bespoke work — growth in demand translates directly into more strain on that same person, rather than being absorbable.",
+      "action": "Identify which parts of delivery could be made repeatable, and start standardizing at least some of them, even if delivery still depends heavily on specific individuals overall.",
+      "avoid": "Documenting the process the founder already follows without actually simplifying or standardizing it. Writing down bespoke work doesn't make it repeatable.",
+      "action_evidence": "Some parts of delivery are now repeatable, even though delivery overall still depends heavily on specific individuals or ad hoc effort.",
+      "assessment_evidence": "Re-asked: are some parts of delivery repeatable, even if it still depends heavily on specific individuals? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-05",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-05-BC",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-05",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Systematize core delivery so exceptions are the minority",
+      "finding": "Some parts of delivery are repeatable, but it still depends heavily on specific individuals or ad hoc effort overall.",
+      "consequence": "Delivery capacity is currently tied to particular people's availability and effort rather than to a process the business could hand to someone else or scale.",
+      "action": "Systematize core delivery — document it, template it, or productize it — so exceptions requiring bespoke work become the minority of what delivery involves, not the majority.",
+      "avoid": "Systematizing the easy, low-value parts of delivery while leaving the core of what customers actually pay for as bespoke as ever.",
+      "action_evidence": "Core delivery is documented, templated, or productized, even if exceptions still require significant bespoke work.",
+      "assessment_evidence": "Re-asked: is core delivery systematised, even if exceptions still require significant bespoke work? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-05",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-PROD-05-CD",
+    "layer": 3,
+    "dimension": "Product/Service",
+    "source_field": "PROD-05",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Make bespoke handling the exception, not the routine",
+      "finding": "Core delivery is systematised, but bespoke handling is still common rather than the exception — a meaningful share of delivery still falls outside the standard process.",
+      "consequence": "The business has a standard process, but relies on it inconsistently — much of delivery is still effectively being done the old, bespoke way.",
+      "action": "Extend the standard process to cover more of what delivery actually involves, so bespoke handling becomes the exception rather than a routine occurrence.",
+      "avoid": "Treating the existence of a documented process as sufficient, without checking how much of actual delivery goes through it versus around it.",
+      "action_evidence": "Most delivery now goes through the standard process, with bespoke handling limited to genuine exceptions.",
+      "assessment_evidence": "Re-asked: is bespoke handling the exception, with most delivery going through the standard process? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PROD-05",
+      "minimum_level": "D"
+    }
+  }
+]

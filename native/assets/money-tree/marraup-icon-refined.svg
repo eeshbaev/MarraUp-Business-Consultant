@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- MarraUp money tree — refined flat mark (512 Play icon) -->
+  <rect width="512" height="512" rx="112" fill="#F5F3EF"/>
+
+  <!-- Coin base -->
+  <ellipse cx="256" cy="392" rx="88" ry="22" fill="#D6D3D1"/>
+  <ellipse cx="256" cy="368" rx="76" ry="76" fill="#1D4ED8"/>
+  <ellipse cx="256" cy="368" rx="58" ry="58" fill="#2563EB"/>
+  <ellipse cx="256" cy="352" rx="44" ry="44" fill="#EFF6FF" opacity="0.35"/>
+
+  <!-- Trunk -->
+  <path
+    d="M238 368 C238 320 242 280 256 248 C270 280 274 320 274 368 Z"
+    fill="#44403C"
+  />
+  <path d="M256 248 C256 220 256 200 256 172" stroke="#44403C" stroke-width="14" stroke-linecap="round"/>
+
+  <!-- Branch coins (overlapping, no $) -->
+  <circle cx="196" cy="218" r="36" fill="#1E40AF"/>
+  <circle cx="196" cy="218" r="24" fill="#3B82F6" opacity="0.45"/>
+  <circle cx="316" cy="218" r="36" fill="#1E40AF"/>
+  <circle cx="316" cy="218" r="24" fill="#3B82F6" opacity="0.45"/>
+  <circle cx="256" cy="148" r="44" fill="#1E40AF"/>
+  <circle cx="256" cy="148" r="30" fill="#60A5FA" opacity="0.5"/>
+  <circle cx="256" cy="148" r="44" fill="none" stroke="#1E3A8A" stroke-width="3"/>
+
+  <!-- Canopy glue (soft union hint) -->
+  <ellipse cx="256" cy="200" rx="118" ry="72" fill="#1D4ED8" opacity="0.12"/>
+</svg>

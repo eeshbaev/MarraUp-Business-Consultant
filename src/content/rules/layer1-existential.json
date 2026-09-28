@@ -1,0 +1,618 @@
+[
+  {
+    "rule_id": "CE-CON-01",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 8,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Reduce dependence on {largest customer}",
+      "finding": "{Largest customer} accounts for enough of the business's revenue that losing them would leave the business unable to continue in its current form without restructuring or replacing the relationship.",
+      "consequence": "The business's continuity is effectively tied to one buyer's decisions — a single lost contract, a dissatisfaction, or the customer's own difficulties would put the business itself at risk, not just this quarter's revenue.",
+      "action": "Identify and begin actively developing at least one additional customer or account large enough to matter, so the business is no longer wholly dependent on {largest customer} continuing to buy. This does not mean matching their volume immediately — it means starting the second relationship now, before it's needed.",
+      "avoid": "Signing a longer contract or a deeper agreement with {largest customer} alone. That can feel like progress — more revenue, more commitment — but it deepens the dependence this item exists to reduce.",
+      "action_evidence": "A second customer or account is generating recurring revenue, even if still smaller than {largest customer}.",
+      "assessment_evidence": "Re-asked: if {largest customer} stopped buying tomorrow, would the business still continue, even if it required a deliberate recovery effort? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-CON-02",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 6,
+    "fallback_order": 2,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Build a second route to customers, alongside {main route}",
+      "finding": "{Main route} is the business's only viable way of reaching customers — if it became unavailable, the business would have no way to reach the people it sells to and could not continue in its current form.",
+      "consequence": "Continued access to customers depends entirely on a channel, platform, or intermediary the business does not control — a policy change, a delisting, or the loss of a referral relationship could cut off new business entirely, not just slow it.",
+      "action": "Open and start actively using a second channel to reach customers — direct outreach, a different platform, a new referral source — even at small volume. The goal this cycle is a working second route, not parity with {main route}.",
+      "avoid": "Investing further to strengthen {main route} alone (better placement, more spend, a deeper partnership). That may improve results this quarter while leaving the business exactly as exposed as before.",
+      "action_evidence": "A second channel is bringing in new customers or leads on its own, independent of {main route}.",
+      "assessment_evidence": "Re-asked: if {main route} became unavailable, would the business still be able to reach customers, even with deliberate effort to rebuild reach? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-CON-03",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 4,
+    "fallback_order": 3,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Reduce reliance on {largest offering} as the business's core",
+      "finding": "{Largest offering} accounts for so much of the business's revenue that if demand for it fell away, the business could not continue in its current form.",
+      "consequence": "The business's fate is tied to the ongoing appeal of one product or service — a substitute, a shift in customer preference, or a quality problem specific to this offering would threaten the business itself, not just one revenue line.",
+      "action": "Develop a second offering with its own paying demand — a genuine second thing customers buy, not a variant or bundle of {largest offering}. It does not need to match {largest offering}'s revenue this cycle, only exist and be selling.",
+      "avoid": "Adding features or line extensions to {largest offering} itself. That can look like diversification while remaining entirely dependent on the same underlying product succeeding.",
+      "action_evidence": "A second offering has paying customers and its own revenue, independent of {largest offering}.",
+      "assessment_evidence": "Re-asked: if demand for {largest offering} fell away, would the business still continue, even if it required deliberate effort to replace the lost revenue? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-CON-04",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 4,
+    "fallback_order": 4,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Establish a presence outside {main market}",
+      "finding": "{Main market} is the only market or segment the business meaningfully serves — if it became inaccessible or unviable, the business could not continue in its current form.",
+      "consequence": "The business is exposed to whatever happens in one region, sector, or customer segment — a local downturn, a regulatory change, or a shift specific to that market would threaten the whole business, with nowhere else to redirect activity.",
+      "action": "Begin serving a second market or segment — a different region, a different customer type, a different sector — even in a small, early way. The goal is a second viable market to redirect toward, not equal scale.",
+      "avoid": "Deepening penetration within {main market} alone. Winning more share there increases revenue today while leaving the business exactly as dependent on that one market's continued viability.",
+      "action_evidence": "The business has active, revenue-generating activity in a second market or segment.",
+      "assessment_evidence": "Re-asked: if {main market} became inaccessible, could the business redirect activity elsewhere, even with deliberate effort? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-DEP-01",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 8,
+    "fallback_order": 1,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Document and delegate the key person's critical knowledge",
+      "finding": "One person holds knowledge, relationships, or authority that no one else in the business could currently cover — if they became unavailable without warning, the business could not continue in its current form.",
+      "consequence": "The business's continuity depends on one individual staying available, healthy, and willing — an illness, a departure, or simply a vacation at the wrong moment carries a severity out of proportion to how ordinary that absence is.",
+      "action": "Document this person's critical responsibilities, key relationships, and operational knowledge, and identify at least one other person who can take over each essential piece. Start with whichever single responsibility would hurt the business fastest if uncovered.",
+      "avoid": "Documenting responsibilities while keeping all decision authority with the same person. Writing things down without transferring any real capability to act removes none of the actual dependency.",
+      "action_evidence": "A second person has documented responsibility for at least one of this person's critical functions and has exercised it at least once.",
+      "assessment_evidence": "Re-asked: if this person became unavailable without warning, would the business still function, even if it required deliberate reallocation of work? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-DEP-02",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Establish a fallback for {critical system}",
+      "finding": "The business's operations depend entirely on {critical system} — if it became unavailable, operations could not continue in their current form.",
+      "consequence": "A single technical failure, vendor decision, or service outage outside the business's control could stop operations outright, with no alternative already in place to fall back on.",
+      "action": "Identify and test a replacement or fallback for {critical system} — an alternative tool, a manual workaround, or a backup provider — so that losing it interrupts operations rather than stopping them.",
+      "avoid": "Adding more of the business's operations onto {critical system} to make better use of it. That improves efficiency today while making the eventual loss more disruptive, not less.",
+      "action_evidence": "A tested fallback or alternative for {critical system} exists and could be activated without starting from zero.",
+      "assessment_evidence": "Re-asked: if {critical system} became unavailable, would operations continue while a replacement was put in place, rather than stopping? A \"yes, with a replacement process\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-DEP-03",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 4,
+    "fallback_order": 3,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Identify a viable alternative to {critical supplier}",
+      "finding": "{Critical supplier} has no adequate alternative — if they stopped supplying, the business could not continue in its current form.",
+      "consequence": "Delivery to customers depends entirely on one supplier's continued willingness and ability to supply — their own business problems, a pricing dispute, or a decision to stop serving the business would stop delivery, not just raise costs.",
+      "action": "Identify and begin qualifying at least one alternative supplier or provider for what {critical supplier} currently provides, even if it isn't yet used for live orders. The goal is a known, workable alternative, not necessarily better terms.",
+      "avoid": "Negotiating a longer or more favorable contract with {critical supplier} alone. Better terms can coexist with total dependence — they don't address it.",
+      "action_evidence": "An alternative supplier has been qualified and could be brought into use if needed.",
+      "assessment_evidence": "Re-asked: if {critical supplier} stopped supplying, would delivery continue while an alternative was found and brought up to standard, rather than stopping? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-DEP-04",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 4,
+    "fallback_order": 4,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Identify a fallback for {main premises}",
+      "finding": "The business is inseparable from {main premises} — if access to it were lost, the business could not continue in its current form elsewhere.",
+      "consequence": "Continued operation depends on staying at one physical location — a lease non-renewal, damage to the site, or a landlord dispute would stop the business, not relocate it.",
+      "action": "Identify what it would take to operate from an alternative location, even temporarily, and take the first concrete step toward that — whether scouting alternative space, or reducing how much of the business's value is tied to this specific site.",
+      "avoid": "Investing further in fitting out {main premises} alone (renovations, fixed installations). That can improve the business today while making eventual displacement more costly, not less.",
+      "action_evidence": "A specific alternative location or way of operating without {main premises} has been identified as workable, even if not currently in use.",
+      "assessment_evidence": "Re-asked: if access to {main premises} were lost, would operations continue while alternative space was arranged, rather than stopping? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-FIN-R-01",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 8,
+    "fallback_order": 1,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Extend the business's funded runway",
+      "finding": "On the funding already available or committed, the business could not continue in its current form — it depends on obtaining additional funding or owner contribution that is not yet secured.",
+      "consequence": "Continuity depends on a future event — a new round, a loan, or further owner contribution — that has not happened yet and may not happen on the timeline or terms assumed.",
+      "action": "Take concrete steps to extend the runway the business already controls — reducing planned spend, securing a specific committed facility, or increasing revenue — so continuation no longer depends entirely on funding that isn't yet secured.",
+      "avoid": "Treating a funding round still in conversation as if it were committed. Planning around money that hasn't landed is exactly the exposure this item measures.",
+      "action_evidence": "The business can point to a specific, committed source (reduced spend plan, secured facility, or revenue growth) that extends how long it can operate without new funding.",
+      "assessment_evidence": "Re-asked: on funds already available or committed, could the business continue, even if it required deliberately reducing activity? A \"yes, with deliberate cuts\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-FIN-R-02",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 8,
+    "fallback_order": 2,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Build a buffer against delay in {largest expected inflow}",
+      "finding": "If {largest expected inflow} were delayed by a month, the business could not meet its obligations and could not continue in its current form.",
+      "consequence": "The business's ability to pay staff, suppliers, or lenders depends on one payment arriving on schedule — a late invoice, a slow-paying counterparty, or a processing delay outside the business's control could tip it into missed obligations.",
+      "action": "Build a cash buffer or arrange a facility (a credit line, an overdraft, a factoring arrangement) sized to cover at least one month of obligations without {largest expected inflow} arriving on time.",
+      "avoid": "Relying on informal reassurance from the payer that the payment \"always comes through.\" Past reliability doesn't create a buffer for the month it doesn't.",
+      "action_evidence": "A specific buffer or facility exists that could cover a month's obligations if {largest expected inflow} were delayed.",
+      "assessment_evidence": "Re-asked: if {largest expected inflow} were delayed a month, could the business meet its obligations through deliberate action — deferring payments, drawing on facilities, chasing collection? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-FIN-R-03",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 3,
+    "fallback_order": 3,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Build protection against a sharp rise in {the business's dependent cost}",
+      "finding": "If a major cost the business depends on rose sharply, the business could not remain viable in its current form at those cost levels.",
+      "consequence": "Profitability, and continuation itself, rests on a cost the business does not control staying roughly where it is — a shift in materials pricing, wages, energy, rent, or currency could threaten viability, not just squeeze margin.",
+      "action": "Reduce exposure to this specific cost — through a hedge, a longer-term supply agreement, contractual pricing pass-through, or reducing reliance on the input itself — so a sharp rise becomes something the business can respond to, not something it can't survive.",
+      "avoid": "Absorbing recent smaller cost increases without addressing the underlying exposure. Coping with a mild increase doesn't tell you what happens at a sharp one.",
+      "action_evidence": "A specific protection (hedge, agreement, or reduced reliance) is in place against this cost rising sharply.",
+      "assessment_evidence": "Re-asked: if this cost rose sharply, could the business protect its viability through deliberate action — repricing, renegotiation, cost reduction? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-FIN-R-04",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 3,
+    "fallback_order": 4,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Reduce dependence on {financing counterparty}",
+      "finding": "The business could not continue in its current form if {financing counterparty} withdrew or materially changed terms.",
+      "consequence": "Continuation depends on one lender, landlord, or investor's continued willingness to maintain the current arrangement — a change in their own circumstances or a change of mind would threaten the business, not just its financing terms.",
+      "action": "Identify and begin developing a relationship with an alternative counterparty — a second lender, an alternative space, another investor — so withdrawal becomes replaceable with effort rather than existential.",
+      "avoid": "Deepening the current arrangement (a larger loan, a longer lease) without developing any alternative. That increases dependence rather than reducing it.",
+      "action_evidence": "An alternative counterparty relationship exists and could plausibly replace the current arrangement if needed.",
+      "assessment_evidence": "Re-asked: if {financing counterparty} withdrew, could the business replace the arrangement through deliberate effort, with some disruption but no discontinuation? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-LEG-01",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 6,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Reduce exposure from the current dispute, claim, or finding",
+      "finding": "A current legal dispute, claim, or regulatory finding against the business is severe enough that an unfavourable outcome would leave the business unable to continue in its current form.",
+      "consequence": "The business's continuation is riding on the outcome of a matter it doesn't fully control — a court decision, a settlement, or a regulatory determination could end the business, not just cost it money.",
+      "action": "Work with appropriate legal counsel to actively reduce the exposure — through settlement, a reserve, insurance, or restructuring what's at stake — so an unfavourable outcome becomes something the business can absorb, not one it can't survive.",
+      "avoid": "Waiting for the matter to resolve on its own without taking any action to limit the downside in the meantime.",
+      "action_evidence": "A specific step (settlement discussion, reserve, insurance, restructuring) has measurably reduced what's at stake in an unfavourable outcome.",
+      "assessment_evidence": "Re-asked: if this matter resolved unfavourably, would it require a deliberate financial or operational response, rather than ending the business? A \"yes, manageable with response\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-LEG-02",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Reduce single-point dependence on {the licence/permit/approval}",
+      "finding": "The business cannot legally operate without {the licence/permit/approval} — its withdrawal or non-renewal would mean the business could not continue in its current form.",
+      "consequence": "Continued legal operation depends entirely on one regulatory decision staying in place — a compliance lapse, a policy change, or an administrative delay in renewal could stop the business outright.",
+      "action": "Confirm the renewal timeline and compliance requirements well in advance, address any gap that could put the approval at risk, and where possible, identify what portion of the business could continue operating (under a different structure, scope, or jurisdiction) if this specific approval were lost.",
+      "avoid": "Assuming renewal is routine because it always has been. The exposure is about what happens if it isn't renewed, not how likely that is.",
+      "action_evidence": "Renewal is confirmed on schedule and/or a specific fallback exists for at least part of the business if the approval were lost.",
+      "assessment_evidence": "Re-asked: if this licence/permit/approval were withdrawn, would it suspend part of the business rather than ending it, until restored or replaced? A \"yes, partial suspension\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-LEG-03",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 4,
+    "fallback_order": 3,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Reduce dependence on the current rules, subsidy, or policy",
+      "finding": "The business's viability rests on a specific rule, subsidy, tariff, or policy currently in place — a material change would mean the business could not continue in its current form.",
+      "consequence": "Continuation depends on a decision made by a government or regulator staying in place — a policy review, a budget cut, or a trade change outside the business's control could remove the basis the business's viability rests on.",
+      "action": "Model what a material change to this rule or subsidy would mean for the business, and take concrete steps to reduce dependence on it — adjusting pricing, sourcing, or the underlying business model so the current rule is a benefit, not a requirement.",
+      "avoid": "Lobbying or advocacy as the only response. That may extend the current rule's life but does nothing to reduce the business's exposure if it changes anyway.",
+      "action_evidence": "A specific adjustment to pricing, sourcing, or operations is in place that reduces how much the business's viability depends on the current rule.",
+      "assessment_evidence": "Re-asked: if this rule, subsidy, or policy changed materially, would it require deliberate adjustment rather than ending the business? A \"yes, adjustable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-LEG-04",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 2,
+    "fallback_order": 4,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Resolve the title question over {the key asset/brand/IP}",
+      "finding": "Ownership of {the key asset, brand, or IP} the business relies on could be challenged, or sits outside the business — a successful challenge would remove something the business could not continue in its current form without.",
+      "consequence": "The business's ability to keep operating depends on a title question that hasn't been resolved — a dispute, a claim, or a formal challenge could take away something the business currently relies on as if it owned it outright.",
+      "action": "Work with legal counsel to clarify and formally secure title — transferring the asset, brand, or IP into the business's name, or establishing an enforceable licence — so a challenge becomes a dispute to respond to, not a loss to absorb.",
+      "avoid": "Continuing to rely on informal or assumed ownership because no one has challenged it yet.",
+      "action_evidence": "Title to the specific asset, brand, or IP is documented and held by (or formally licensed to) the business.",
+      "assessment_evidence": "Re-asked: if ownership were challenged, would it require a deliberate legal or commercial response rather than removing something essential? A \"yes, defensible\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-MKT-R-01",
+    "layer": 1,
+    "dimension": "Market Exposure",
+    "weight": 6,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Respond to declining demand in {the business's market}",
+      "finding": "Demand in the business's market is declining severely enough that, if the current direction continued, the business could not continue in its current form.",
+      "consequence": "The business's trajectory is set by a market-wide trend it doesn't control — continuing to operate as it does today, in a shrinking market, threatens the business's own survival, not just its growth rate.",
+      "action": "Take a deliberate step to change the business's position relative to this trend — entering a growing adjacent market, adjusting what's offered to match where demand is moving, or reducing the business's dependence on this specific market's trajectory.",
+      "avoid": "Cutting costs alone in response to declining demand. That can extend survival briefly without addressing that the underlying market is moving away from the business.",
+      "action_evidence": "A specific step is underway that reduces the business's dependence on the declining market — a new market entered, a repositioned offering, or measurable traction outside the declining segment.",
+      "assessment_evidence": "Re-asked: if the current demand direction continued, would it require a deliberate response to hold position, rather than ending the business? A \"yes, respondable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-R-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-MKT-R-02",
+    "layer": 1,
+    "dimension": "Market Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Strengthen the business's defensibility against a well-resourced competitor",
+      "finding": "If a well-resourced competitor targeted the business's main customers directly, it could not hold enough of its customer base to continue in its current form.",
+      "consequence": "The business's customer base is held more by circumstance than by anything a determined, well-funded competitor couldn't take — a serious competitive move could cost the business its customers outright, not just some share of growth.",
+      "action": "Strengthen something a competitor couldn't easily replicate — pricing that isn't the sole reason customers stay, switching costs, a relationship depth, or a distinctive part of the offering — so a competitive push becomes something to respond to, not something that ends the business.",
+      "avoid": "Competing primarily on price as the response. That's the easiest thing for a well-resourced competitor to match or beat.",
+      "action_evidence": "A specific source of defensibility (beyond price) is measurably in place — documented switching costs, a differentiated offering, or a demonstrated retention advantage.",
+      "assessment_evidence": "Re-asked: if a well-resourced competitor targeted the business's main customers, would it need a deliberate response to hold them, rather than losing enough to threaten continuation? A \"yes, respondable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-R-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-PRD-R-01",
+    "layer": 1,
+    "dimension": "Product & Delivery Exposure",
+    "weight": 6,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Resolve the known problem in {what the business delivers}",
+      "finding": "A known, unresolved problem exists in what the business delivers, severe enough that if it affected customers at scale, the business could not continue in its current form.",
+      "consequence": "The business is currently exposed to its own known defect — if it surfaces broadly rather than in isolated cases, the resulting damage to customer trust and obligations could be severe enough to threaten the business itself.",
+      "action": "Fix the known problem, or contain its blast radius (a rollback, a workaround, active monitoring for early signs of scale) so that if it does surface widely, remediation is a deliberate response rather than an existential one.",
+      "avoid": "Addressing individual customer complaints about this problem one at a time without fixing or containing the underlying cause.",
+      "action_evidence": "The known problem is fixed, or a specific containment/monitoring measure is in place that limits how far it could spread before being caught.",
+      "assessment_evidence": "Re-asked: if this problem affected customers at scale, would it require deliberate remediation and recovery effort rather than ending the business? A \"yes, remediable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PRD-R-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "CE-PRD-R-02",
+    "layer": 1,
+    "dimension": "Product & Delivery Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Reduce how easily {what the business offers} could be substituted",
+      "finding": "What the business offers is readily substitutable — if a materially better or cheaper alternative became available, the offering would be displaced and the business could not continue in its current form.",
+      "consequence": "Customer retention depends on no one else offering something comparably good at a comparable or lower price — a competitor's product launch or a new entrant could displace the business's core offering outright.",
+      "action": "Build something into the offering that a substitute couldn't easily replicate — depth of service, integration, proprietary elements, or switching cost — so a better alternative appearing becomes a competitive threat to respond to, not an automatic loss of customers.",
+      "avoid": "Relying on being first to market or on current customer inertia as the only protection. Neither survives a genuinely better or cheaper alternative for long.",
+      "action_evidence": "A specific, hard-to-replicate element of the offering is identified and measurably in place (documented differentiation, integration depth, or a retention metric showing resistance to comparable alternatives).",
+      "assessment_evidence": "Re-asked: if a materially better or cheaper alternative appeared, would the business need to respond deliberately to retain customers, rather than being displaced outright? A \"yes, respondable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PRD-R-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "OE-OWN-01-L5",
+    "layer": 1,
+    "dimension": "Owner Exposure",
+    "weight": "level-5 equivalent",
+    "fallback_order": 1,
+    "epistemic_status": "n/a",
+    "content": {
+      "title": "Reduce the owners' personal exposure to business failure (Level 5)",
+      "finding": "If the business could not meet its obligations, the consequence to the owners personally is potentially catastrophic — their home, essential security, or long-term financial position is at risk, typically through personal guarantees, pledged assets, or informal obligations.",
+      "consequence": "The owners are currently exposed beyond their investment in the business — business failure would not just cost them the business, it could cost them their home or long-term financial security.",
+      "action": "Identify the specific personal guarantee, pledge, or informal obligation creating this exposure, and work to renegotiate, release, cap, or insure against it — even partially. The goal this cycle is moving the owners' worst-case outcome from catastrophic to significant, not eliminating all personal exposure at once.",
+      "avoid": "Taking on additional business risk to try to grow out of the underlying obligation faster. That can increase, not decrease, what's personally at stake.",
+      "action_evidence": "At least one specific personal guarantee, pledge, or informal obligation has been renegotiated, released, capped, or insured.",
+      "assessment_evidence": "Re-asked: if the business could not meet its obligations, what would the personal consequence be? A move to Level 3 (significant, but not the owners' home or essential security) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OWN-01",
+      "minimum_level": 3
+    }
+  },
+  {
+    "rule_id": "OE-OWN-01-L4",
+    "layer": 1,
+    "dimension": "Owner Exposure",
+    "weight": "level-4 equivalent",
+    "fallback_order": 1,
+    "epistemic_status": "n/a",
+    "content": {
+      "title": "Reduce the owners' personal exposure to business failure (Level 4)",
+      "finding": "If the business could not meet its obligations, the consequence to the owners personally is severe — their principal assets or livelihood are at risk, typically through personal guarantees, pledged assets, or informal obligations.",
+      "consequence": "The owners' personal financial position is materially tied to the business's ability to meet its obligations, beyond the capital they've invested.",
+      "action": "Identify the specific guarantee, pledge, or informal obligation creating this exposure, and work to renegotiate, release, cap, or insure against it. The goal this cycle is bringing the owners' exposure down to recoverable, not necessarily to zero.",
+      "avoid": "Treating this as unavoidable because \"that's how the financing was structured.\" Terms accepted once are frequently renegotiable, especially as the business's own track record improves.",
+      "action_evidence": "At least one specific personal guarantee, pledge, or informal obligation has been renegotiated, released, capped, or insured.",
+      "assessment_evidence": "Re-asked: if the business could not meet its obligations, what would the personal consequence be? A move to Level 2 (recoverable without significant personal disruption) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OWN-01",
+      "minimum_level": 2
+    }
+  },
+  {
+    "rule_id": "SAT-CONC",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": null,
+    "fallback_order": 5,
+    "epistemic_status": null,
+    "content": {
+      "title": "Address broad concentration across {business name}'s customer, channel, offering, and market exposure together",
+      "finding": "The business's Concentration Exposure category — how much of the business depends on one customer, route to customers, offering, or market — is severely exposed overall (at or above 16.5 of 22 points), even though no single Concentration field alone is a Critical Exposure at E. Multiple axes of concentration are each contributing real exposure, and together they add up to a category that, on average, sits at the \"severe\" rung of its own ladder.",
+      "consequence": "No single point of failure explains this business's fragility here — it's broadly concentrated across customers, channels, offerings, or markets at once. A shock in any one of those areas would land on a business that has little room elsewhere to absorb it, and fixing just one axis wouldn't bring the category down meaningfully.",
+      "action": "Work down the Concentration fields with the largest individual point contributions first (the Action Plan Engine already ranks them for this reason) — reducing dependence one axis at a time is still the mechanism, but tracking the category total keeps the broader picture from disappearing between individual field fixes.",
+      "avoid": "Fixing the single largest Concentration field and assuming the category issue is resolved. Saturation, by definition, means several fields are contributing — one fix rarely brings the category below the threshold alone.",
+      "action_evidence": "The Concentration category's total has measurably declined from where it was flagged, through progress on two or more of its individual fields.",
+      "assessment_evidence": "At the next full reassessment, the Concentration category's total is recomputed from all four fields. A total below 16.5/22 resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CATEGORY_THRESHOLD",
+      "category": "Concentration Exposure",
+      "threshold": 16.5
+    }
+  },
+  {
+    "rule_id": "SAT-DEP",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": null,
+    "fallback_order": 5,
+    "epistemic_status": null,
+    "content": {
+      "title": "Address broad dependency exposure across people, systems, suppliers, and premises together",
+      "finding": "The business's Dependency Exposure category — how much the ability to function depends on particular people, systems, suppliers, or premises — is severely exposed overall (at or above 15 of 20 points), even without any single Dependency field alone reaching Critical Exposure at E.",
+      "consequence": "The business is broadly reliant on specific people, systems, suppliers, or a specific site all at once — no single relationship failing would end the business outright, but the business has little structural slack across the things it depends on to function day to day.",
+      "action": "Work down the Dependency fields with the largest individual point contributions first — building redundancy into whichever combination of key person, system, supplier, or premises dependence is contributing most, tracking the category total as each is addressed.",
+      "avoid": "Addressing only the newest or most visible dependency (say, a recent system outage) while leaving older, larger dependencies (key person, premises) untouched. The category total reflects all of them together.",
+      "action_evidence": "The Dependency category's total has measurably declined from where it was flagged, through progress on two or more of its individual fields.",
+      "assessment_evidence": "At the next full reassessment, the Dependency category's total is recomputed from all four fields. A total below 15/20 resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CATEGORY_THRESHOLD",
+      "category": "Dependency Exposure",
+      "threshold": 15
+    }
+  },
+  {
+    "rule_id": "SAT-FIN",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": null,
+    "fallback_order": 5,
+    "epistemic_status": null,
+    "content": {
+      "title": "Address broad financial exposure across funding, inflow timing, cost, and financing relationships together",
+      "finding": "The business's Financial Exposure category — vulnerability to loss of funding, delayed inflows, cost shocks, or financing disruption — is severely exposed overall (at or above 16.5 of 22 points), even without any single Financial field alone reaching Critical Exposure at E.",
+      "consequence": "The business's financial position is fragile from more than one direction at once — funding, incoming cash timing, cost sensitivity, and financing relationships are all contributing exposure together, which means a shock to any one of them lands on a business with little financial slack elsewhere to absorb it.",
+      "action": "Work down the Financial fields with the largest individual point contributions first — extending runway, building a payment-delay buffer, hedging cost exposure, or diversifying financing relationships, whichever combination is contributing most — tracking the category total as each improves.",
+      "avoid": "Solving a single financial pressure point (say, securing one new financing relationship) and treating the category as resolved, when two or three other Financial fields remain at their original severity.",
+      "action_evidence": "The Financial category's total has measurably declined from where it was flagged, through progress on two or more of its individual fields.",
+      "assessment_evidence": "At the next full reassessment, the Financial category's total is recomputed from all four fields. A total below 16.5/22 resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CATEGORY_THRESHOLD",
+      "category": "Financial Exposure",
+      "threshold": 16.5
+    }
+  },
+  {
+    "rule_id": "SAT-LEG",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": null,
+    "fallback_order": 5,
+    "epistemic_status": null,
+    "content": {
+      "title": "Address broad legal and regulatory exposure together",
+      "finding": "The business's Legal & Regulatory Exposure category — how severely legal, regulatory, licensing, policy, or ownership events could affect the business — is severely exposed overall (at or above 12 of 16 points), even without any single Legal field alone reaching Critical Exposure at E.",
+      "consequence": "The business's legal and regulatory footing is exposed across more than one dimension at once — a live dispute, licensing dependence, policy dependence, or title uncertainty are each contributing, which means the business has little legal or regulatory slack to absorb a new development in any of them.",
+      "action": "Work down the Legal fields with the largest individual point contributions first — resolving or reducing exposure from the current dispute, licence dependence, policy dependence, or title question, whichever combination is contributing most — with appropriate legal counsel, tracking the category total as each is addressed.",
+      "avoid": "Treating the current dispute or claim as the whole story. The category total may be driven as much by licence, policy, or title exposure sitting quietly at D as by whatever is currently active and visible.",
+      "action_evidence": "The Legal category's total has measurably declined from where it was flagged, through progress on two or more of its individual fields.",
+      "assessment_evidence": "At the next full reassessment, the Legal category's total is recomputed from all four fields. A total below 12/16 resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CATEGORY_THRESHOLD",
+      "category": "Legal & Regulatory Exposure",
+      "threshold": 12
+    }
+  },
+  {
+    "rule_id": "SAT-MKT",
+    "layer": 1,
+    "dimension": "Market Exposure",
+    "weight": null,
+    "fallback_order": 3,
+    "epistemic_status": null,
+    "content": {
+      "title": "Address demand direction and competitive vulnerability together",
+      "finding": "The business's Market Exposure category — how severely continuing changes in demand or competitive conditions could affect the business — is severely exposed overall (at or above 7.5 of 10 points), across both demand direction and competitive displacement, even without either field alone reaching Critical Exposure at E.",
+      "consequence": "The business is exposed to its market from two directions at once — where demand is heading, and how easily a well-resourced competitor could take its customers. Together, that leaves little room in the market itself for the business to lean on if either pressure intensifies.",
+      "action": "Address both Market fields together where possible — a move that both repositions the business toward stronger demand and strengthens its defensibility against competitors will bring the category total down faster than treating them as unrelated.",
+      "avoid": "Treating declining demand and competitive vulnerability as the same problem with the same fix. A business can face a shrinking market while still being highly defensible within it, or a healthy market while being highly exposed to a specific competitor — the category total means both are currently true at once.",
+      "action_evidence": "The Market category's total has measurably declined from where it was flagged, through progress on one or both of its fields.",
+      "assessment_evidence": "At the next full reassessment, the Market category's total is recomputed from both fields. A total below 7.5/10 resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CATEGORY_THRESHOLD",
+      "category": "Market Exposure",
+      "threshold": 7.5
+    }
+  },
+  {
+    "rule_id": "SAT-PRD",
+    "layer": 1,
+    "dimension": "Product & Delivery Exposure",
+    "weight": null,
+    "fallback_order": 3,
+    "epistemic_status": null,
+    "content": {
+      "title": "Address the known problem and substitution risk together",
+      "finding": "The business's Product & Delivery Exposure category — how severely a known problem or substitution could affect the business — is severely exposed overall (at or above 7.5 of 10 points), across both fields, even without either alone reaching Critical Exposure at E.",
+      "consequence": "The business is exposed on what it delivers from two directions at once — a known unresolved problem in the current offering, and how easily that offering could be substituted by something better or cheaper. Together, the business has little room in its own product position to absorb either risk intensifying.",
+      "action": "Address both Product fields together where possible — fixing the known problem often also strengthens the offering's defensibility against substitution, so prioritize whichever single action moves both fields at once before treating them separately.",
+      "avoid": "Fixing the known delivery problem while leaving substitution risk untouched (or vice versa). Both are currently severe; resolving only one is real progress but won't bring the category below threshold alone.",
+      "action_evidence": "The Product category's total has measurably declined from where it was flagged, through progress on one or both of its fields.",
+      "assessment_evidence": "At the next full reassessment, the Product category's total is recomputed from both fields. A total below 7.5/10 resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CATEGORY_THRESHOLD",
+      "category": "Product & Delivery Exposure",
+      "threshold": 7.5
+    }
+  }
+]

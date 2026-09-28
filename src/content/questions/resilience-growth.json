@@ -1,0 +1,66 @@
+{
+  "dimension": "Resilience & Growth Capacity",
+  "dimension_weight": 11,
+  "questions": [
+    {
+      "question_id": "RES-01",
+      "dimension": "Resilience & Growth Capacity",
+      "weight": 3,
+      "fallback_order": 1,
+      "text": "How dependent is the business on any single customer, channel, supplier, or source of revenue — and what is it doing about that?",
+      "levels": {
+        "A": { "text": "The business depends heavily on a single one of these, and this has not been recognised or addressed", "points": 0 },
+        "B": { "text": "A heavy dependency exists and is recognised, but nothing is being done about it", "points": 0.75 },
+        "C": { "text": "Dependencies are identified and monitored, and the most significant is either being actively reduced or deliberately accepted for a stated reason", "points": 1.5 },
+        "D": { "text": "No single dependency would be severe enough to threaten the business — or where one exists, it is secured and mitigated", "points": 2.25 },
+        "E": { "text": "As D, and the spread across customers, channels and inputs is deliberately managed rather than an accident of how the business grew", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "RES-02",
+      "dimension": "Resilience & Growth Capacity",
+      "weight": 3,
+      "fallback_order": 2,
+      "text": "When conditions have changed — a market shift, a lost customer, a cost increase, a regulatory change, a competitor move — how has the business responded?",
+      "levels": {
+        "A": { "text": "Conditions have changed and the business has not adjusted", "points": 0 },
+        "B": { "text": "The business adjusts, but only reactively, once the impact is already being felt", "points": 0.75 },
+        "C": { "text": "The business has made deliberate changes in response to changed conditions and can point to specific examples", "points": 1.5 },
+        "D": { "text": "As C, and the changes were made early enough to limit the impact, prompted by something the business noticed rather than something it suffered", "points": 2.25 },
+        "E": { "text": "As D, and the business watches for the changes that would matter to it, so adjustment is a routine capability rather than an occasional achievement", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "RES-03",
+      "dimension": "Resilience & Growth Capacity",
+      "weight": 3,
+      "fallback_order": 3,
+      "text": "If the business's current path became less viable, does it have other viable routes available?",
+      "levels": {
+        "A": { "text": "The business has one path and no alternative has been considered", "points": 0 },
+        "B": { "text": "Alternatives are discussed in general terms, with nothing established about whether they would work", "points": 0.75 },
+        "C": { "text": "At least one specific alternative route has been identified, with a stated basis for believing it viable", "points": 1.5 },
+        "D": { "text": "More than one specific alternative has been identified, and at least one has been tested enough to know it is genuinely available — early conversations, a trial, or an existing capability that transfers", "points": 2.25 },
+        "E": { "text": "As D, and the business has actually used an alternative route: served a different customer group, added an offering, or opened a channel — evidencing that shifting path is something it can do rather than something it believes it could", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "RES-04",
+      "dimension": "Resilience & Growth Capacity",
+      "weight": 2,
+      "fallback_order": 4,
+      "text": "Does the business improve or extend what it offers over time?",
+      "levels": {
+        "A": { "text": "The offering has not changed and there is no process for changing it", "points": 0 },
+        "B": { "text": "Changes happen occasionally, prompted by an individual customer request or a problem", "points": 0.5 },
+        "C": { "text": "The business deliberately improves or extends its offering, drawing on what it learns from customers and the market", "points": 1 },
+        "D": { "text": "As C, and this happens on a recurring basis, with time, people, or budget deliberately allocated to it", "points": 1.5 },
+        "E": { "text": "As D, and the business can point to changes that measurably strengthened its position — work won that would not have been won, customers retained that would have been lost, or a new source of revenue opened", "points": 2 }
+      },
+      "stage_variant": false
+    }
+  ]
+}

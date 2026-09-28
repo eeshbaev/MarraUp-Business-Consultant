@@ -1,0 +1,120 @@
+{
+  "dimension": "Product / Service",
+  "dimension_weight": 10,
+  "questions": [
+    {
+      "question_id": "PROD-01",
+      "dimension": "Product / Service",
+      "weight": 3.0,
+      "fallback_order": 1,
+      "text": "When customers use your product or service for its core purpose, is there evidence it achieves the outcome they need?",
+      "levels": {
+        "A": { "text": "No evidence gathered on whether the outcome is achieved", "points": 0 },
+        "B": { "text": "Anecdotal impressions suggest it helps; nothing observed or measured systematically", "points": 0.75 },
+        "C": { "text": "Direct observation or structured feedback confirms the outcome is achieved in typical cases", "points": 1.5 },
+        "D": { "text": "Confirmed across a range of customers and use cases, not only typical or best-case ones", "points": 2.25 },
+        "E": { "text": "Confirmed and measured on an ongoing basis, so degradation or edge-case failure would be caught", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "PROD-02",
+      "dimension": "Product / Service",
+      "weight": 2.0,
+      "fallback_order": 2,
+      "text": "How consistently does your product or service perform without defects, failures, or errors that affect the customer?",
+      "stage_variant": true,
+      "stage_variants": {
+        "EMERGING": {
+          "levels": {
+            "A": { "text": "Not tracked, or failures are the norm rather than the exception", "points": 0 },
+            "B": { "text": "Tracked informally; recurring issues still require individual fixes", "points": 0.5 },
+            "C": { "text": "Tracked with some consistency; most instances are caught and resolved, though not systematically prevented", "points": 1 },
+            "D": { "text": "Tracked systematically; failures are the exception rather than a recurring pattern", "points": 1.5 },
+            "E": { "text": "Tested systematically across realistic use cases, failures are the exception, and a defined process exists for detecting and correcting them before broader release", "points": 2 }
+          }
+        },
+        "ESTABLISHED": {
+          "levels": {
+            "A": { "text": "Not tracked, or failures are the norm rather than the exception", "points": 0 },
+            "B": { "text": "Tracked informally; recurring issues still require individual fixes", "points": 0.5 },
+            "C": { "text": "Tracked with some consistency; most instances are caught and resolved, though not systematically prevented", "points": 1 },
+            "D": { "text": "Tracked systematically; failures are the exception rather than a recurring pattern", "points": 1.5 },
+            "E": { "text": "Tracked systematically, exceptional rather than routine, and the rate is demonstrably stable or improving over time", "points": 2 }
+          }
+        }
+      }
+    },
+    {
+      "question_id": "PROD-03",
+      "dimension": "Product / Service",
+      "weight": 2.0,
+      "fallback_order": 3,
+      "text": "Does your product or service cover what is necessary for the customer's core need, or are there gaps that force workarounds?",
+      "stage_variant": true,
+      "stage_variants": {
+        "EMERGING": {
+          "levels": {
+            "A": { "text": "Significant gaps force reliance on manual workarounds or other providers for essential parts of the core need", "points": 0 },
+            "B": { "text": "Some gaps exist; customers manage them but have raised them as real friction", "points": 0.5 },
+            "C": { "text": "The core need is covered; known gaps concern adjacent or secondary needs", "points": 1 },
+            "D": { "text": "The core need is covered with no material gaps, confirmed by customer feedback rather than internal assumption", "points": 1.5 },
+            "E": { "text": "Core need fully covered, with necessary components tested against realistic target use cases and no material gaps identified", "points": 2 }
+          }
+        },
+        "ESTABLISHED": {
+          "levels": {
+            "A": { "text": "Significant gaps force reliance on manual workarounds or other providers for essential parts of the core need", "points": 0 },
+            "B": { "text": "Some gaps exist; customers manage them but have raised them as real friction", "points": 0.5 },
+            "C": { "text": "The core need is covered; known gaps concern adjacent or secondary needs", "points": 1 },
+            "D": { "text": "The core need is covered with no material gaps, confirmed by customer feedback rather than internal assumption", "points": 1.5 },
+            "E": { "text": "Core need fully covered, validated across the business's relevant customer and use-case range, with no material gaps identified", "points": 2 }
+          }
+        }
+      }
+    },
+    {
+      "question_id": "PROD-04",
+      "dimension": "Product / Service",
+      "weight": 1.0,
+      "fallback_order": 4,
+      "text": "How does the business collect and act on feedback about how the product or service performs?",
+      "levels": {
+        "A": { "text": "No systematic collection; issues surface only if a customer complains", "points": 0 },
+        "B": { "text": "Collected informally and inconsistently; no clear process for acting on it", "points": 0.25 },
+        "C": { "text": "Collected with some consistency; some of it visibly leads to changes", "points": 0.5 },
+        "D": { "text": "Collected through a defined channel or process, with a consistent pattern of acting on it", "points": 0.75 },
+        "E": { "text": "Systematic collection with specific changes the business can point to, made because of it, on an ongoing basis", "points": 1 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "PROD-05",
+      "dimension": "Product / Service",
+      "weight": 2.0,
+      "fallback_order": 5,
+      "text": "Is your product or service delivered through a standardised process that can be repeated without disproportionate manual or specialist effort each time?",
+      "stage_variant": true,
+      "stage_variants": {
+        "PRE_REVENUE": {
+          "levels": {
+            "A": { "text": "Every delivery requires substantial bespoke, non-repeatable effort — the founder or a specialist is required each time", "points": 0 },
+            "B": { "text": "Some parts are repeatable, but delivery still depends heavily on specific individuals or ad hoc effort", "points": 0.5 },
+            "C": { "text": "Core delivery is systematised — documented, templated, or productised — though exceptions still require significant bespoke work", "points": 1 },
+            "D": { "text": "Core delivery is systematised and bespoke handling is the exception; most delivery goes through the standard process", "points": 1.5 },
+            "E": { "text": "Fully systematised and documented so another appropriately skilled person could execute the standard process without relying on the founder's undocumented knowledge; tested in a realistic pilot or simulation", "points": 2 }
+          }
+        },
+        "REVENUE_GENERATING": {
+          "levels": {
+            "A": { "text": "Every delivery requires substantial bespoke, non-repeatable effort — the founder or a specialist is required each time", "points": 0 },
+            "B": { "text": "Some parts are repeatable, but delivery still depends heavily on specific individuals or ad hoc effort", "points": 0.5 },
+            "C": { "text": "Core delivery is systematised — documented, templated, or productised — though exceptions still require significant bespoke work", "points": 1 },
+            "D": { "text": "Core delivery is systematised and bespoke handling is the exception; most delivery goes through the standard process", "points": 1.5 },
+            "E": { "text": "Fully systematised and documented so delivery can be performed by appropriately trained people without relying on the founder or original specialist, demonstrated in actual operations", "points": 2 }
+          }
+        }
+      }
+    }
+  ]
+}

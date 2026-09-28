@@ -1,0 +1,94 @@
+{
+  "dimension": "Business Model",
+  "dimension_weight": 12,
+  "questions": [
+    {
+      "question_id": "BM-01",
+      "dimension": "Business Model",
+      "weight": 2.0,
+      "fallback_order": 1,
+      "text": "How clearly defined is your revenue model — what you charge for, and how?",
+      "levels": {
+        "A": { "text": "No defined pricing or revenue mechanism; charging is ad hoc or undecided", "points": 0 },
+        "B": { "text": "A basic pricing approach exists, set without analysis — copied from a competitor or chosen as a round number — and has not been revisited", "points": 0.5 },
+        "C": { "text": "A specific mechanism is defined and consistently applied, with a stated rationale for why it is structured that way", "points": 1 },
+        "D": { "text": "The mechanism is defined, consistently applied, and has been deliberately tested or adjusted based on evidence — customer response, conversion, or margin impact", "points": 1.5 },
+        "E": { "text": "As D, and the business can explain why this structure rather than an available alternative fits how customers derive and perceive value", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "BM-02",
+      "dimension": "Business Model",
+      "weight": 3.0,
+      "fallback_order": 2,
+      "text": "After the direct costs of delivering it, how much value does the business retain per sale?",
+      "levels": {
+        "A": { "text": "Direct costs are not tracked, so margin per sale is unknown", "points": 0 },
+        "B": { "text": "Direct costs are tracked, but margin per sale is thin, inconsistent, or sometimes negative", "points": 0.75 },
+        "C": { "text": "Direct costs are tracked; margin per sale is positive and reasonably consistent", "points": 1.5 },
+        "D": { "text": "Margin is positive and consistent, and the business understands which costs are fixed and which vary with volume, and therefore how margin behaves as volume changes", "points": 2.25 },
+        "E": { "text": "As D, and margin is actively managed — cost reduction, mix shift toward stronger-margin work — with evidence that management is producing results", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "BM-03",
+      "dimension": "Business Model",
+      "weight": 3.0,
+      "fallback_order": 3,
+      "text": "Is the cost to acquire and serve a customer understood relative to the value that customer generates?",
+      "levels": {
+        "A": { "text": "The cost to acquire and serve customers is not tracked, or is never compared to what a customer generates", "points": 0 },
+        "B": { "text": "Costs are tracked, but not systematically compared against customer value", "points": 0.75 },
+        "C": { "text": "Compared against customer value using estimates; the relationship appears to be break-even or better", "points": 1.5 },
+        "D": { "text": "Compared using actual data rather than estimates, and measured against margin rather than revenue — showing the business earns back more than it spends per customer", "points": 2.25 },
+        "E": { "text": "As D, accounting for payment timing and sales-cycle length where they materially affect the picture, and the relationship holds across the customer base rather than only its strongest part", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "BM-04",
+      "dimension": "Business Model",
+      "weight": 2.0,
+      "fallback_order": 4,
+      "text": "Can the business hold or raise its prices, or does it depend on discounting to win and keep customers?",
+      "stage_variant": true,
+      "stage_variants": {
+        "PRE_REVENUE": {
+          "levels": {
+            "A": { "text": "Competes primarily on being the cheapest option, or discounts routinely to close or retain business", "points": 0 },
+            "B": { "text": "Prices are mostly held, but discounting is common enough to be a normal part of closing", "points": 0.5 },
+            "C": { "text": "Prices are generally held without routine discounting; whether they could be raised has not been tested", "points": 1 },
+            "D": { "text": "Prospects representative of the target segment have accepted the stated price without requiring a discount to proceed — a letter of intent, pilot agreement, or commitment at that price", "points": 1.5 },
+            "E": { "text": "That holds across more than one independent prospect, at or above the price of comparable alternatives, without losing the opportunity", "points": 2 }
+          }
+        },
+        "REVENUE_GENERATING": {
+          "levels": {
+            "A": { "text": "Competes primarily on being the cheapest option, or discounts routinely to close or retain business", "points": 0 },
+            "B": { "text": "Prices are mostly held, but discounting is common enough to be a normal part of closing", "points": 0.5 },
+            "C": { "text": "Prices are generally held without routine discounting; whether they could be raised has not been tested", "points": 1 },
+            "D": { "text": "A price increase has been applied to new or existing customers and the business was retained at the higher price", "points": 1.5 },
+            "E": { "text": "Pricing power has been demonstrated more than once — repeated increases, or sustained premium pricing against alternatives — without proportional loss of customers", "points": 2 }
+          }
+        }
+      }
+    },
+    {
+      "question_id": "BM-05",
+      "dimension": "Business Model",
+      "weight": 2.0,
+      "fallback_order": 5,
+      "text": "How much of your revenue for the period ahead is visible in advance?",
+      "levels": {
+        "A": { "text": "None — every sale must be won afresh, and the business cannot see what is coming", "points": 0 },
+        "B": { "text": "Little — some repeat business is expected, but nothing is committed or forecastable", "points": 0.5 },
+        "C": { "text": "A meaningful portion is visible in advance through committed orders, contracts, subscriptions, retainers, booked pipeline, or established repeat patterns", "points": 1 },
+        "D": { "text": "As C, and the visible portion covers a defined forward period that the business plans against", "points": 1.5 },
+        "E": { "text": "As D, and that visibility is actively managed — work is renewed, extended, or replenished before it runs down, rather than being allowed to expire and be rebuilt", "points": 2 }
+      },
+      "stage_variant": false
+    }
+  ]
+}

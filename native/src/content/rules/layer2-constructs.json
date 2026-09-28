@@ -1,0 +1,86 @@
+[
+  {
+    "rule_id": "UC-CON-01",
+    "layer": 2,
+    "dimension": "Concentration Exposure",
+    "weight": null,
+    "fallback_order": 1,
+    "epistemic_status": "n/a",
+    "content": {
+      "title": "Prove customer demand: get a paying customer",
+      "finding": "The business has not yet proven that anyone will pay for what it offers — CON-01 (largest customer) has no scored answer because there is no paying customer yet to ask about. This is not a favorable score; it's the absence of the most basic evidence a business can offer: that someone will pay.",
+      "consequence": "Every other measurement of the business — Health, Risk, everything downstream of it — rests on an unproven assumption that customer demand exists at all. Investors, partners, and the business's own planning are all currently working from a hypothesis, not a demonstrated fact.",
+      "action": "Get the first paying customer — a real transaction, not a pilot, a discount-to-nothing, or a friends-and-family sale. It does not need to be at scale or at full price; it needs to be a genuine, arm's-length purchase.",
+      "avoid": "Counting a free pilot, a heavily discounted trial, or a sale to a friend or family member as proof. Those test willingness to try, not willingness to pay — they don't move this item.",
+      "action_evidence": "At least one arm's-length customer has paid full or near-full price for the offering.",
+      "assessment_evidence": "At the next check, this construct is re-asked. Any real A–E answer — even a poor one — resolves this item; the milestone is that customer demand can now be measured at all, not that it measures well yet."
+    },
+    "resolution_rule": {
+      "type": "CONSTRUCT_DEMONSTRATED",
+      "construct": "CON-01"
+    }
+  },
+  {
+    "rule_id": "UC-CON-02",
+    "layer": 2,
+    "dimension": "Concentration Exposure",
+    "weight": null,
+    "fallback_order": 2,
+    "epistemic_status": "n/a",
+    "content": {
+      "title": "Prove a route to customers: make it produce more than one sale",
+      "finding": "The business has not yet proven it has a working way of reaching customers — CON-02 (main route to customers) has no scored answer because no active route has yet produced customers to ask about.",
+      "consequence": "Even if the offering itself is sound, the business has not shown it can repeatably get in front of the people who would buy it. A product with no proven distribution is not yet a business, however good the product is.",
+      "action": "Establish and use one specific channel — direct outreach, a platform, a partnership, referral — and get it to produce at least a handful of real customer conversations or sales, so there's a route to point to, not just an intention.",
+      "avoid": "Treating a marketing plan, a list of channels \"under consideration,\" or a single unreplicated lucky sale as a proven route. The construct is proven by a channel that has actually produced customers more than once.",
+      "action_evidence": "A specific channel has produced more than one customer, showing it can be repeated, not just tried once.",
+      "assessment_evidence": "At the next check, this construct is re-asked. Any real A–E answer resolves this item — the milestone is a demonstrated route, not yet its resilience to losing it."
+    },
+    "resolution_rule": {
+      "type": "CONSTRUCT_DEMONSTRATED",
+      "construct": "CON-02"
+    }
+  },
+  {
+    "rule_id": "UC-CON-03",
+    "layer": 2,
+    "dimension": "Concentration Exposure",
+    "weight": null,
+    "fallback_order": 3,
+    "epistemic_status": "n/a",
+    "content": {
+      "title": "Prove a sellable offering: make the first sale",
+      "finding": "The business has not yet proven it has something people will buy — CON-03 (largest offering) has no scored answer because nothing has yet generated real revenue to ask about.",
+      "consequence": "Without a demonstrated sellable offering, everything else about the business — its market, its channel, its financials — is speculative. This is usually the most foundational gap a pre-revenue business carries.",
+      "action": "Finalize a specific, sellable version of the offering — not a prototype or a concept — and get it in front of real prospective buyers with a real price attached.",
+      "avoid": "Continuing to refine or add features to the offering before it has ever been offered for sale. Perfecting something unsold delays the only test that actually matters.",
+      "action_evidence": "A specific version of the offering has been sold, at a real price, to a real customer.",
+      "assessment_evidence": "At the next check, this construct is re-asked. Any real A–E answer resolves this item — the milestone is that the offering can now be measured, not that it scores well yet."
+    },
+    "resolution_rule": {
+      "type": "CONSTRUCT_DEMONSTRATED",
+      "construct": "CON-03"
+    }
+  },
+  {
+    "rule_id": "UC-CON-04",
+    "layer": 2,
+    "dimension": "Concentration Exposure",
+    "weight": null,
+    "fallback_order": 4,
+    "epistemic_status": "n/a",
+    "content": {
+      "title": "Prove the target market: get a first customer inside it",
+      "finding": "The business has not yet proven it can sell into its intended market — CON-04 (main market or segment) has no scored answer because the business has not yet entered a market to ask about.",
+      "consequence": "A business plan built around a target market that hasn't yet been entered is still a hypothesis about where the business will find buyers, not a demonstrated fact about where it does.",
+      "action": "Make a first real sale or secure a first real customer relationship inside the intended target market — not adjacent to it, not a market of convenience, the one the business plan is actually built around.",
+      "avoid": "Counting activity in a different, easier-to-reach market as proof of the intended target market, even if it brings in revenue. It proves a different, unplanned business is viable — not the one described.",
+      "action_evidence": "At least one real customer relationship exists inside the specific target market named in the business's plan.",
+      "assessment_evidence": "At the next check, this construct is re-asked. Any real A–E answer resolves this item — the milestone is that the target market can now be measured, not that it scores well yet."
+    },
+    "resolution_rule": {
+      "type": "CONSTRUCT_DEMONSTRATED",
+      "construct": "CON-04"
+    }
+  }
+]

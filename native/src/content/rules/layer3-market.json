@@ -1,0 +1,530 @@
+[
+  {
+    "rule_id": "L3-MKT-01-AB",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-01",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 1,
+    "content": {
+      "title": "Define a specific target segment and size it",
+      "finding": "No specific target segment has been defined, and no method has been used to size the market — the business's understanding of who it sells to and how large that opportunity is rests on assumption rather than definition.",
+      "consequence": "Without a defined segment, decisions about product, pricing, and where to spend effort finding customers are all being made without a clear target to aim at — everything downstream is guessing at who it's for.",
+      "action": "Define a specific target segment — who exactly the business sells to — and produce one sizing estimate for it, even a simple one, so there's a stated number rather than an impression.",
+      "avoid": "Describing the target market so broadly (\"everyone who needs X\") that it doesn't actually narrow anything. A segment that includes almost anyone isn't a defined segment.",
+      "action_evidence": "A specific target segment is written down, along with a single sizing estimate.",
+      "assessment_evidence": "Re-asked: is the target segment loosely defined, with a sizing estimate, even without a stated method? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-01-BC",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-01",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 1,
+    "content": {
+      "title": "Sharpen the segment definition and add a stated sizing method",
+      "finding": "The target segment is loosely defined, and the market sizing is a single estimate with no stated method behind it — there's a number, but not yet a reason to trust it.",
+      "consequence": "Decisions resting on this sizing estimate — how big an opportunity to chase, how much to invest — are resting on a number that can't currently be defended or checked.",
+      "action": "Sharpen the target segment definition to be specific rather than loose, and produce the sizing estimate using one stated method (bottom-up from unit economics, or top-down from a broader market figure), with assumptions written down.",
+      "avoid": "Adding a bigger, more impressive-sounding total addressable market figure without changing the method behind it. A larger unsupported number is not more rigorous than a smaller one.",
+      "action_evidence": "The target segment is specifically defined, and the sizing estimate has one documented method with stated assumptions.",
+      "assessment_evidence": "Re-asked: is the segment clearly and specifically defined, with sizing using one stated method and documented assumptions? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-01-CD",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-01",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 1,
+    "content": {
+      "title": "Back the sizing estimate with credible external sources",
+      "finding": "The target segment is clearly and specifically defined, and sizing uses one stated method with assumptions — solid, but the sizing still rests entirely on the business's own assumptions rather than any external source.",
+      "consequence": "The sizing estimate is only as credible as the assumptions behind it, and right now nothing outside the business's own reasoning backs those assumptions up.",
+      "action": "Bring in credible external sources — industry data, published research, comparable company figures — to support the sizing assumptions, and document where each one comes from.",
+      "avoid": "Citing a single, unverified secondary source (a blog post, a vendor's marketing claim) as if it were rigorous external validation.",
+      "action_evidence": "The sizing estimate cites specific, credible external sources for its key assumptions, documented alongside them.",
+      "assessment_evidence": "Re-asked: does sizing use credible external sources with assumptions documented? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-01",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-02-AB",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-02",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Have the first real conversations with potential customers",
+      "finding": "There has been no direct contact with potential customers — belief that customers will choose and pay for this specific solution currently rests on assumption rather than any conversation with the people who would actually buy it.",
+      "consequence": "Every decision built on top of this assumption — what to build, how to position it, who to target — is currently unverified. If the underlying belief about demand is wrong, everything built on it needs to be redone.",
+      "action": "Have informal conversations with a handful of potential customers representative of the target segment, specifically about the problem this offering addresses — not a pitch, a conversation about whether the problem is real and how they currently deal with it.",
+      "avoid": "Talking only to friends, family, or people predisposed to be supportive. Their interest doesn't tell you what a genuine prospect would say.",
+      "action_evidence": "A handful of informal conversations with potential customers have taken place and show real interest in the problem.",
+      "assessment_evidence": "Re-asked: do informal conversations show interest, even if cost or urgency of the problem is unconfirmed? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-02-BC",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-02",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Confirm the problem is real and worth solving, not just interesting",
+      "finding": "Informal conversations show interest, but whether the problem is costly or urgent enough to act on remains unconfirmed.",
+      "consequence": "Interest alone doesn't distinguish a real, worth-solving problem from a mild annoyance customers would never actually pay to fix — the business doesn't yet know which one it has.",
+      "action": "Hold documented conversations with customers representative of the target segment, specifically probing whether the problem is real and worth solving — not just interesting to discuss.",
+      "avoid": "Counting polite agreement (\"yeah, that would be nice\") as confirmation the problem is worth solving. Look for evidence they've already tried to solve it themselves, or would pay to.",
+      "action_evidence": "Documented conversations with representative customers confirm the problem is real and worth solving.",
+      "assessment_evidence": "Re-asked: do documented conversations confirm the problem is real and worth solving, even if willingness to pay is untested? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-02-CD",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-02",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Get specific purchase intent, not just confirmed interest",
+      "finding": "Documented conversations confirm the problem is real and worth solving, but willingness to pay for this specific solution remains untested.",
+      "consequence": "The business knows the problem matters to customers, but not yet whether they'll choose to pay this business, specifically, to solve it — the gap between \"this problem matters\" and \"I'll pay you for this\" is where many otherwise-promising ideas stall.",
+      "action": "Get representative customers to express specific purchase intent — a letter of intent, a pilot agreement, or a deposit — even without collecting full revenue yet.",
+      "avoid": "Treating enthusiastic verbal commitment (\"I'd definitely buy this\") as purchase intent. Only something the customer would have to act on — a signature, a deposit — counts.",
+      "action_evidence": "At least one representative customer has signed a letter of intent, pilot agreement, or paid a deposit.",
+      "assessment_evidence": "Re-asked: have representative customers expressed specific purchase intent, even without revenue collected? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-02",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-03-AB",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-03",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Articulate a reason customers would choose this business",
+      "finding": "There is no articulated reason for a customer to choose this business over alternatives, including doing nothing.",
+      "consequence": "Without a stated reason to choose this business, every sale currently depends on the prospect arriving at that reason on their own — an unreliable and unrepeatable basis for winning business.",
+      "action": "Articulate a specific reason customers would choose this business over alternatives (including doing nothing), even if it isn't yet a strong or defensible one.",
+      "avoid": "Reaching for a generic claim (\"we care more,\" \"better service\") that could describe almost any competitor. The reason needs to be specific to this business.",
+      "action_evidence": "A specific reason for choosing this business is written down and used consistently in customer conversations.",
+      "assessment_evidence": "Re-asked: does a reason exist, even if weak or easily matched? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-03-BC",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-03",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Get the differentiator confirmed by customers, not just asserted",
+      "finding": "A reason to choose this business exists but is weak or easily matched, and isn't supported by research or customer input.",
+      "consequence": "The current reason to choose this business over alternatives probably wouldn't survive a determined competitor testing it — it's an assertion, not something customers have confirmed matters to them.",
+      "action": "Test the stated reason with real customer input or research — confirm it's something customers actually value and would choose the business for, not just something the business believes distinguishes it.",
+      "avoid": "Assuming the reason is valid because it sounds convincing internally. Internal conviction isn't customer confirmation.",
+      "action_evidence": "Customer research or direct customer confirmation supports the stated differentiator as something that actually matters to them.",
+      "assessment_evidence": "Re-asked: does a meaningful, customer-supported difference exist, even if realistically copyable? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-03-CD",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-03",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Make the differentiator structurally hard to copy",
+      "finding": "A meaningful, customer-confirmed difference exists, but it's realistically copyable by a competitor — nothing currently protects it.",
+      "consequence": "Whatever advantage the business currently holds is borrowed time — a competitor with the will to copy it could close the gap, and nothing structural stops them.",
+      "action": "Build a structural defensibility factor around the existing differentiator — a switching cost, proprietary process or data, exclusive access, brand trust, network effect, or cost advantage — so the difference becomes harder to copy.",
+      "avoid": "Trying to out-market the difference (louder claims, more visibility) instead of making it structurally harder to replicate. Visibility doesn't create defensibility.",
+      "action_evidence": "A specific structural defensibility factor is identifiably in place around the existing differentiator.",
+      "assessment_evidence": "Re-asked: is the meaningful difference now backed by a structural defensibility factor? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-03",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-04-AB",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-04",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Start tracking market conditions",
+      "finding": "There is no awareness of market conditions and no deliberate response to them — the business operates purely reactively to whatever the market does.",
+      "consequence": "Changes in the market — shifting demand, new competitors, changing customer needs — currently arrive as surprises rather than things the business saw coming and could plan for.",
+      "action": "Start deliberately tracking the market conditions that matter to this business — demand direction, competitive moves, customer shifts — even informally, so a general impression starts to form.",
+      "avoid": "Confusing occasional anecdotes (\"I heard a competitor is struggling\") with actual tracking. A general impression needs to come from consistently paying attention, not isolated data points.",
+      "action_evidence": "The business can describe a general, current impression of its market conditions, formed through ongoing attention rather than a one-off observation.",
+      "assessment_evidence": "Re-asked: does a general impression of market conditions exist, even without a deliberate response yet? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-04-BC",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-04",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Ground the market read and put together a response plan",
+      "finding": "A general impression of market conditions exists, but no deliberate response is in motion.",
+      "consequence": "The business is aware something is happening in its market but isn't yet acting on that awareness — the value of noticing a shift is lost if nothing is done in response to it.",
+      "action": "Understand market conditions with more rigor — sourced information, not impression — and put together a response plan, even if it isn't fully executed yet.",
+      "avoid": "Building an elaborate response plan without first grounding the market read in sourced information. A well-organized response to a wrong read doesn't help.",
+      "action_evidence": "A sourced understanding of market conditions exists, along with a written response plan.",
+      "assessment_evidence": "Re-asked: is there a sourced understanding of conditions and a response plan, even if not fully executed? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-04-CD",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-04",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Execute the response strategy, not just plan it",
+      "finding": "Market conditions are understood with rigor and a response plan exists, but it isn't yet being fully executed.",
+      "consequence": "The business knows what it should be doing about its market conditions but hasn't yet closed the gap between planning and doing — the conditions the plan was built to address keep moving in the meantime.",
+      "action": "Actively execute the response strategy already planned, rather than leaving it as an unexecuted plan.",
+      "avoid": "Repeatedly revising the plan instead of executing the current version. A plan that's always being refined and never acted on doesn't move this item.",
+      "action_evidence": "The response strategy is visibly being executed — specific actions from the plan have actually been taken.",
+      "assessment_evidence": "Re-asked: is a deliberate strategy suited to market conditions being actively executed? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-04",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-05-AB",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-05",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Try or plan a specific acquisition method",
+      "finding": "There is no identifiable method for reaching new customers — customers arrive coincidentally, or not at all.",
+      "consequence": "Without any repeatable way of reaching customers, growth currently depends on chance rather than anything the business can plan around or scale.",
+      "action": "Try or plan a specific method for reaching the target segment — a channel, an outreach approach, a partnership — even if it hasn't yet proven it can reliably reach them.",
+      "avoid": "Trying several channels briefly and superficially instead of committing to testing one long enough to know if it works.",
+      "action_evidence": "A specific method for reaching customers has been tried or planned, even without proven reliability yet.",
+      "assessment_evidence": "Re-asked: has a method been tried or planned, even without proven reliability? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-05",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-05-BC",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-05",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Prove the channel reliably reaches and engages the target segment",
+      "finding": "A method for reaching customers has been tried or planned, but it hasn't shown it can reliably reach the target segment.",
+      "consequence": "The business doesn't yet know if its acquisition approach actually works — effort is being spent on a channel whose reliability is still unproven.",
+      "action": "Keep using the channel until it reliably reaches and engages the target segment — even before converting them — so its reliability is demonstrated, not assumed.",
+      "avoid": "Switching channels every time results are slow, rather than giving one channel enough sustained effort to actually know if it works.",
+      "action_evidence": "The channel is reliably reaching and engaging the target segment, even if not yet converting them to paying customers or active users.",
+      "assessment_evidence": "Re-asked: does a specific channel reliably reach and engage the target segment, even before conversion? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-05",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-05-CD-PR",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-05",
+    "transition": "C->D",
+    "stage_variant": "PRE_REVENUE",
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Convert engagement into active users or pilot participants",
+      "finding": "A channel reliably reaches and engages the target segment, but it hasn't yet repeatedly converted them into active users or pilot participants.",
+      "consequence": "Reaching and engaging people is necessary but not sufficient — until engagement turns into real participation, the business doesn't know if the channel actually produces anything more than attention.",
+      "action": "Focus the channel specifically on converting engaged prospects into active users or pilot participants, and be able to explain why the channel works — what about it makes conversion happen.",
+      "avoid": "Counting a growing list of engaged followers or subscribers as progress, without converting any meaningful share of them into actual users or pilots.",
+      "action_evidence": "The channel has repeatedly converted reached prospects into active users or pilot participants, with a clear explanation of why it works.",
+      "assessment_evidence": "Re-asked: does the channel repeatedly convert reached prospects into active users or pilot participants, with an explanation of why? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-05",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-05-CD-RG",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-05",
+    "transition": "C->D",
+    "stage_variant": "REVENUE_GENERATING",
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Convert engagement into paying customers",
+      "finding": "A channel reliably reaches and engages the target segment, but it hasn't yet repeatedly converted them into paying customers.",
+      "consequence": "Reaching and engaging prospects is necessary but not sufficient — until engagement turns into paying customers, the channel isn't yet proven as a real acquisition mechanism.",
+      "action": "Focus the channel specifically on converting engaged prospects into paying customers, and be able to explain why the channel works — what about it makes conversion happen.",
+      "avoid": "Treating a high volume of engagement (clicks, inquiries, leads) as success without tracking how much of it actually converts to paying customers.",
+      "action_evidence": "The channel has repeatedly converted reached prospects into paying customers, with a clear explanation of why it works.",
+      "assessment_evidence": "Re-asked: does the channel repeatedly convert reached prospects into paying customers, with an explanation of why? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-05",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-06-AB-RG",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-06",
+    "transition": "A->B",
+    "stage_variant": "REVENUE_GENERATING",
+    "weight": 2,
+    "fallback_order": 6,
+    "content": {
+      "title": "Look for the first signs of continued relationship",
+      "finding": "There is no evidence that customers stay engaged, return, or advocate for the business over time.",
+      "consequence": "The business doesn't yet know whether it earns repeat relationships or has to win every customer fresh each time — a much more expensive and fragile way to grow.",
+      "action": "Look for and note any positive signals of continued relationship — a customer who came back, referred someone, or gave unprompted positive feedback — even isolated ones.",
+      "avoid": "Assuming satisfaction because no one has complained. Absence of complaints isn't evidence of continued relationship.",
+      "action_evidence": "At least one isolated positive signal of continued relationship or advocacy has been identified and noted.",
+      "assessment_evidence": "Re-asked: are there isolated positive signals, even without a pattern across customers? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-06",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-06-BC-RG",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-06",
+    "transition": "B->C",
+    "stage_variant": "REVENUE_GENERATING",
+    "weight": 2,
+    "fallback_order": 6,
+    "content": {
+      "title": "Find the pattern across customers, not just the standouts",
+      "finding": "Isolated positive signals of continued relationship exist, but no pattern has emerged across customers.",
+      "consequence": "The business can't yet tell whether a good relationship is typical or a lucky exception — without a pattern, there's no basis for expecting it to repeat.",
+      "action": "Look across multiple customers, not just the ones that stand out, for whatever pattern of continued relationship is natural to this business — repeat purchase, renewal, extension, follow-on work, or unprompted positive feedback.",
+      "avoid": "Cherry-picking the best few customer relationships as if they represented the norm, rather than looking honestly across the base.",
+      "action_evidence": "A pattern of continued relationship is identifiable across multiple customers, even if not yet formally tracked.",
+      "assessment_evidence": "Re-asked: does a pattern of continued relationship exist across multiple customers, even if untracked? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-06",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-06-CD-RG",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-06",
+    "transition": "C->D",
+    "stage_variant": "REVENUE_GENERATING",
+    "weight": 2,
+    "fallback_order": 6,
+    "content": {
+      "title": "Start tracking the retention pattern consistently",
+      "finding": "A pattern of continued relationship exists across multiple customers, but it isn't consistently tracked.",
+      "consequence": "Without tracking, the business can't tell if this pattern is improving, declining, or stable — it's relying on a general sense rather than a measured one.",
+      "action": "Start consistently tracking the identified pattern across the customers relevant to the business's natural engagement cycle, so it becomes a measured fact rather than an impression.",
+      "avoid": "Tracking the pattern for a single period and treating that as sufficient. Consistency means an ongoing practice, not a one-time count.",
+      "action_evidence": "The pattern of continued relationship is being tracked consistently across the relevant customer base.",
+      "assessment_evidence": "Re-asked: is that pattern consistently tracked across the customers relevant to the business's natural engagement cycle? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-06",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-06-AB-PR",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-06",
+    "transition": "A->B",
+    "stage_variant": "PRE_REVENUE",
+    "weight": 2,
+    "fallback_order": 6,
+    "content": {
+      "title": "Follow up and see who stays engaged informally",
+      "finding": "No one who has engaged with the concept has stayed engaged, or been willing to vouch for it beyond an initial conversation.",
+      "consequence": "The business doesn't yet have any evidence that interest in the concept survives beyond a first conversation — a real risk that early interest is polite rather than genuine.",
+      "action": "Follow up with people who showed initial interest and see whether any stay engaged informally — even a small, informal handful is a starting signal.",
+      "avoid": "Interpreting silence after an initial conversation as continued interest. Lack of a negative response isn't evidence of engagement.",
+      "action_evidence": "A few people who showed initial interest remain informally engaged with the concept.",
+      "assessment_evidence": "Re-asked: do a few isolated people remain informally engaged, even without anything sustained? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-06",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-06-BC-PR",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-06",
+    "transition": "B->C",
+    "stage_variant": "PRE_REVENUE",
+    "weight": 2,
+    "fallback_order": 6,
+    "content": {
+      "title": "Form a defined, engaged group",
+      "finding": "A few isolated people remain informally engaged with the concept, but nothing sustained has developed.",
+      "consequence": "Isolated informal interest doesn't yet tell the business whether it has a real group of engaged early adopters to build from, or just a few polite well-wishers.",
+      "action": "Form a defined group — design partners, a waitlist, pilot testers — and get them engaged across more than one touchpoint, rather than leaving engagement informal and scattered.",
+      "avoid": "Counting a large but passive email list as a defined, engaged group. The construct requires actual engagement across touchpoints, not just a list of names.",
+      "action_evidence": "A defined group exists and has engaged with the concept across multiple touchpoints.",
+      "assessment_evidence": "Re-asked: has a defined group stayed engaged across multiple touchpoints? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-06",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MKT-06-CD-PR",
+    "layer": 3,
+    "dimension": "Market",
+    "source_field": "MKT-06",
+    "transition": "C->D",
+    "stage_variant": "PRE_REVENUE",
+    "weight": 2,
+    "fallback_order": 6,
+    "content": {
+      "title": "Get the group to re-engage on its own initiative",
+      "finding": "A defined group has stayed engaged across multiple touchpoints, but hasn't yet proactively re-engaged on their own initiative.",
+      "consequence": "Sustained engagement the business has to keep initiating is weaker evidence than engagement the group initiates itself — the business doesn't yet know if this group would act without being prompted.",
+      "action": "Look for and encourage proactive re-engagement from the group — extending a pilot, referring someone else, agreeing to a reference call — rather than the business always being the one to reach out.",
+      "avoid": "Prompting a reference call or referral so directly that it's effectively the business's initiative rather than the group's. The point is the group acting on its own.",
+      "action_evidence": "At least one member of the group has proactively re-engaged — extended a pilot, made a referral, or agreed to a reference call — without being asked.",
+      "assessment_evidence": "Re-asked: has the group proactively re-engaged in one of these ways? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-06",
+      "minimum_level": "D"
+    }
+  }
+]

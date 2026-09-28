@@ -1,0 +1,2186 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "AHDB's long-term economic outlook and Defra's 2026 farming roadmap point to a sector under continued cost and margin pressure (input costs, labour, trade friction) but with government committing to a 2050 growth plan. Farm profitability remains uneven across sub-sectors.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Defra's Farming Roadmap 2050 sets a long-term growth and resilience agenda for English agriculture, focused on productivity, environmental land management payments and food security, implying gradual structural change rather than strong expansion.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "Rising input and labour costs squeezing margins",
+      "Trade and regulatory friction affecting exports",
+      "Weather/climate volatility affecting yields"
+    ],
+    "opportunities": [
+      "Agritech and precision farming adoption",
+      "Environmental Land Management scheme payments",
+      "Government-backed long-term productivity investment"
+    ],
+    "sources": [
+      {
+        "title": "Long term economic outlook for UK agriculture",
+        "publisher": "AHDB",
+        "url": "https://ahdb.org.uk/news/long-term-economic-outlook",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector economic outlook"
+      },
+      {
+        "title": "Farming Roadmap 2050: Growing England's Future",
+        "publisher": "Defra / GOV.UK",
+        "url": "https://www.gov.uk/government/publications/farming-roadmap-2050/farming-roadmap-2050-growing-englands-future-accessible-version",
+        "date": "2026-06",
+        "scope": "UK",
+        "metric": "government policy roadmap"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Farmers unable to adopt agritech due to lack of accessible knowledge/support rather than lack of technology",
+        "description": "UK farmers can't access accredited agritech advisory support, leaving on-farm precision-farming adoption blocked by a knowledge gap rather than a technology gap.",
+        "sources": [
+          {
+            "title": "A lack of agritech knowledge is 'holding farmers back'",
+            "publisher": "Agritech Future",
+            "url": "https://www.agritechfuture.com/smart-farming/a-lack-of-agri-tech-knowledge-is-holding-farmers-back/",
+            "date": "2025",
+            "scope": "United Kingdom",
+            "metric": "Barriers to on-farm agritech adoption"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The British Geological Survey's UK Minerals Yearbook 2025 reports the UK extracted 172.3 million tonnes of onshore minerals in 2024 (69% crushed rock, 22.5% sand and gravel, 4.9% industrial minerals), a broadly steady production base dominated by construction aggregates, plus 75.5 million tonnes from the UK continental shelf (mainly oil, gas and marine-dredged aggregates).",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The UK Government's Vision 2035 Critical Minerals Strategy targets domestic production reaching at least 10% of annual UK critical minerals demand by 2035 (including 50,000+ tonnes of lithium/lithium carbonate equivalent), 20% of demand met via recycling, and no single country supplying more than 60% of UK demand; copper demand is expected to almost double and lithium demand to rise ~1,100% by 2035, implying substantial growth pressure on domestic extraction capacity.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "UK mining/quarrying remains a small, mostly aggregates-focused sector highly exposed to construction-cycle demand",
+      "Achieving 2035 critical minerals production and recycling targets requires new permitting, funding and investment not yet fully in place",
+      "High energy costs for processing/refining, partly offset by new government support schemes from 2026-2027"
+    ],
+    "opportunities": [
+      "Government critical minerals strategy targeting 10% domestic supply and 20% recycled supply of demand by 2035",
+      "Up to £50 million in bespoke critical minerals support to be deployed from 2026",
+      "Rapidly growing domestic demand for copper (near doubling) and lithium (~1,100% increase) by 2035 creating market pull for UK extraction and processing"
+    ],
+    "sources": [
+      {
+        "title": "UK Minerals Yearbook 2025 now available",
+        "publisher": "British Geological Survey (BGS)",
+        "url": "https://www.bgs.ac.uk/news/uk-minerals-yearbook-2025-now-available/",
+        "date": "2025",
+        "scope": "UK",
+        "metric": "onshore and continental shelf mineral extraction volumes by commodity, 2024"
+      },
+      {
+        "title": "Vision 2035: Critical Minerals Strategy",
+        "publisher": "GOV.UK (Department for Business and Trade)",
+        "url": "https://www.gov.uk/government/publications/uk-critical-minerals-strategy/vision-2035-critical-minerals-strategy",
+        "date": "2025",
+        "scope": "UK",
+        "metric": "domestic critical minerals production, recycling and demand targets to 2035"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Domestic critical minerals processing/refining for battery and clean-tech supply chains",
+        "description": "The UK has virtually no lithium, cobalt or rare-earth processing capacity and relies almost entirely on imports for battery and clean-tech supply chains.",
+        "sources": [
+          {
+            "title": "Critical Mineral Strategy targets UK mining industry growth to cut reliance on international supply chains",
+            "publisher": "New Civil Engineer",
+            "url": "https://www.newcivilengineer.com/latest/critical-mineral-strategy-targets-uk-mining-industry-growth-to-cut-reliance-on-international-supply-chains-24-11-2025/",
+            "date": "2025-11-24",
+            "scope": "United Kingdom",
+            "metric": "UK Critical Minerals Strategy launched to reduce reliance on foreign mineral supply"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "DNV's Energy Transition Outlook UK 2026 and LCP's GB Power Market Outlook describe continued investment in clean power toward the government's Clean Power 2030 mission, alongside near-term grid constraints and elevated wholesale price volatility.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Government policy (Clean Power 2030, DFES scenario planning) is driving sustained long-term investment in renewables, grid infrastructure and flexibility, though delivery risk around grid connections and planning remains material.",
+      "evidenceDate": "2026-03"
+    },
+    "risks": [
+      "Grid connection bottlenecks and planning delays",
+      "Wholesale price volatility",
+      "High capital costs for network upgrades"
+    ],
+    "opportunities": [
+      "Clean Power 2030 investment programme",
+      "Offshore wind and grid flexibility build-out",
+      "Distribution Future Energy Scenarios-driven network investment"
+    ],
+    "sources": [
+      {
+        "title": "Energy Transition Outlook UK 2026",
+        "publisher": "DNV",
+        "url": "https://www.dnv.com/energy-transition-outlook/uk/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "energy transition outlook"
+      },
+      {
+        "title": "GB Power Market Outlook 2026: Clean Power 2030",
+        "publisher": "LCP",
+        "url": "https://www.lcp.com/en/insights/publications/gb-power-market-outlook",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "power market outlook"
+      },
+      {
+        "title": "2026 Distribution Future Energy Scenarios (DFES)",
+        "publisher": "UK Power Networks / DNOs",
+        "url": "https://d1lf1oz5vvdb9r.cloudfront.net/app/uploads/2026/03/2026-DFES-Report.pdf",
+        "date": "2026-03",
+        "scope": "UK",
+        "metric": "network investment scenarios"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Heat pump installation training and installer-recruitment services for SME heating firms",
+        "description": "SME heating firms lack heat pump installer training and recruitment services, leaving the UK with only ~3,000 trained engineers against a 27,000 target needed within six years.",
+        "sources": [
+          {
+            "title": "Shortage of trained heat pump installers could set back net zero",
+            "publisher": "Nesta",
+            "url": "https://www.nesta.org.uk/press-release/shortage-of-trained-heat-pump-installers-could-set-back-net-zero/",
+            "date": "2022-07-07",
+            "scope": "United Kingdom",
+            "metric": "~3,000 current trained installers vs 27,000 needed within 6 years; ~1,300 MCS-certified installer companies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Sector reports (Forvis Mazars, Carter Jonas, Marsh) describe UK utilities and infrastructure as capital-intensive and under strain from ageing assets and rising investment needs, with the power and water sub-sectors both facing regulatory reset in 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Long-term infrastructure investment plans (energy, water) are being funded through regulatory price controls, implying steady multi-year capital deployment rather than rapid growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regulatory price-control constraints on returns",
+      "Ageing infrastructure and underinvestment backlog",
+      "Financing costs for large capital programmes"
+    ],
+    "opportunities": [
+      "Multi-year regulated capital investment programmes",
+      "Grid and water infrastructure modernisation"
+    ],
+    "sources": [
+      {
+        "title": "UK Energy & Infrastructure Outlook for 2026",
+        "publisher": "Forvis Mazars",
+        "url": "https://www.forvismazars.com/uk/en/insights/energy-infrastructure-and-environment-insights/uk-energy-infrastructure-outlook-for-2026",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "infrastructure sector outlook"
+      },
+      {
+        "title": "UK Utilities Risk Report 2026",
+        "publisher": "Marsh",
+        "url": "https://www.marsh.com/en-gb/industries/utilities/insights/uk-utilities-risk-report-2026.html",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector risk report"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small/mid-size commercial and industrial electricity grid connections",
+        "description": "New commercial and industrial projects face multi-year grid connection queues, identified as the single biggest barrier to growth-critical projects getting power.",
+        "sources": [
+          {
+            "title": "Mind the Queue: Connection Reform for the Electricity Grid",
+            "publisher": "Boston Consulting Group",
+            "url": "https://web-assets.bcg.com/e1/b9/9e57a115499785a8902f77636824/mind-the-queue-connection-reform-for-the-electricity-grid-r.pdf",
+            "date": "2025-09-04",
+            "scope": "United Kingdom",
+            "metric": "Hundreds of GW of projects queued for grid connection, many waiting several years"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Make UK's Manufacturing Outlook reports for 2026 describe demand falling and costs rising in Q1 2026, though PMI data showed manufacturing opening 2026 with its strongest growth in 17 months, indicating an uneven, fragile recovery through the year.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Make UK's quarterly outlook series through 2026 shows the sector navigating persistent cost pressures and soft demand, with growth dependent on trade conditions and energy costs rather than a clear structural expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rising input and energy costs",
+      "Soft domestic and export demand",
+      "Trade policy uncertainty"
+    ],
+    "opportunities": [
+      "Automation and productivity investment",
+      "Recovery in new orders signalled by early-2026 PMI readings"
+    ],
+    "sources": [
+      {
+        "title": "Manufacturing Outlook 2026 Q1 / Q2",
+        "publisher": "Make UK",
+        "url": "https://www.makeuk.org/insights/reports/manufacturing-outlook-2026-q2",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "manufacturing sector survey"
+      },
+      {
+        "title": "UK Manufacturing PMI: Industry opens 2026 with strongest growth in 17 months",
+        "publisher": "The Manufacturer / S&P Global PMI",
+        "url": "https://www.themanufacturer.com/articles/uk-manufacturing-pmi-industry-opens-2026-with-strongest-growth-in-17-months/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "PMI index"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small manufacturing firms (SMEs) needing AI/automation skills-gap planning tools",
+        "description": "Small manufacturing firms have no accessible tool to plan and close their AI and automation skills gaps ahead of anticipated shortfalls.",
+        "sources": [
+          {
+            "title": "92% of manufacturing SMEs anticipating skills gaps, new report finds",
+            "publisher": "The Manufacturer / Make UK",
+            "url": "https://www.themanufacturer.com/articles/92-of-manufacturing-smes-anticipating-skills-gaps-new-report-finds/",
+            "date": "2024-2025",
+            "scope": "United Kingdom",
+            "metric": "92% of manufacturing SMEs report anticipated skills gaps"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "The Construction Products Association's 2026 forecasts were downgraded through the year, with CPA forecasting a construction output fall (reports cite figures around 2.5-3.3% decline in 2026) driven by weaker housing and repair/maintenance/improvement activity.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "CPA's Summer 2026 forecast still points to further inflation and near-term contraction, with a recovery dependent on housing and infrastructure pipeline delivery in subsequent years rather than 2026 itself.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Weak housebuilding and RM&I activity",
+      "Construction cost inflation",
+      "High financing costs constraining development"
+    ],
+    "opportunities": [
+      "Government infrastructure pipeline",
+      "Long-term housing delivery targets"
+    ],
+    "sources": [
+      {
+        "title": "CPA Releases Summer Forecasts 2026",
+        "publisher": "Construction Products Association",
+        "url": "https://www.constructionproducts.org.uk/news-media-events/news/2026/july/cpa-releases-summer-forecasts-2026/",
+        "date": "2026-07",
+        "scope": "UK",
+        "metric": "construction output forecast"
+      },
+      {
+        "title": "CPA forecasts construction fall in 2026",
+        "publisher": "IN Site / CPA",
+        "url": "https://insitemagazine.co.uk/cpa-forecasts-3-3-construction-fall-in-2026/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "construction output forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small/independent retrofit and energy-efficiency installers needing training/certification-routing services",
+        "description": "Small independent retrofit installers lack a training and certification-routing service to become qualified retrofit assessors, throttling UK home energy-efficiency retrofits.",
+        "sources": [
+          {
+            "title": "Closing the Retrofit Skills Gap",
+            "publisher": "Gatsby Foundation",
+            "url": "https://www.gatsby.org.uk/app/uploads/sites/2/2025/08/closing-the-retrofit-skills-gap-finalpdf.pdf",
+            "date": "2025-03",
+            "scope": "United Kingdom",
+            "metric": "Retrofit progressing at approx. 1/10th the pace required"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Savills revised its UK house price forecast downward in 2026 as higher mortgage costs weigh on demand, while its UK Cross Sector Outlook raised total commercial property return forecasts for 2026-2030 to 7.8%.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Savills' 2026-2030 cross-sector total return forecast of 7.8% signals expected recovery and growth in UK commercial real estate returns over the medium term, alongside a slower but positive residential price outlook.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Higher mortgage/borrowing costs suppressing near-term demand",
+      "Uneven regional and sector performance"
+    ],
+    "opportunities": [
+      "Improving medium-term total returns across commercial real estate",
+      "Structural undersupply supporting residential values long term"
+    ],
+    "sources": [
+      {
+        "title": "Savills raises its total return forecast for 2026-2030 to 7.8% in UK Cross-Sector outlook",
+        "publisher": "Savills",
+        "url": "https://www.savills.co.uk/insight-and-opinion/savills-news/347631/savills-raises-its-total-return-forecast-for-2026-2030-to-7.8--in-uk-cross-sector-outlook",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "commercial property total return forecast"
+      },
+      {
+        "title": "Savills revises UK house price forecast as higher mortgage costs weigh on demand",
+        "publisher": "Savills",
+        "url": "https://www.savills.co.uk/insight-and-opinion/savills-news/391268/savills-revises-uk-house-price-forecast-as-higher-mortgage-costs-weigh-on-demand",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "house price forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Social housing tenants with unresolved damp and mould complaints",
+        "description": "Social housing tenants with damp and mould in their homes have no effective route to get landlords to resolve complaints, which make up over half of all social-landlord complaints.",
+        "sources": [
+          {
+            "title": "Over 100 severe maladministration cases on damp and mould",
+            "publisher": "Housing Ombudsman Service",
+            "url": "https://www.housing-ombudsman.org.uk/2024/10/16/over-100-severe-maladministration-cases-on-damp-and-mould/",
+            "date": "2024-10",
+            "scope": "England",
+            "metric": "Share of social housing complaints relating to damp and mould; severe maladministration case count"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "ONS's GDP monthly estimate for April 2026 reports transport and storage contributing positively to UK services output, up 1.4% in the month, driven by 2.0% growth in land transport and 1.9% growth in warehousing activity.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "DfT's Annual Report and Accounts 2025-2026 and its climate adaptation strategy for the transport network and industry frame a sector undergoing structural adjustment (decarbonisation, climate resilience) alongside steady underlying activity rather than strong secular growth.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Climate adaptation and resilience costs for transport infrastructure",
+      "Sub-sector volatility (retail-linked road freight vs. land transport growth)"
+    ],
+    "opportunities": [
+      "Growth in land transport and warehousing activity per ONS monthly GDP data",
+      "Government transport decarbonisation and climate adaptation investment"
+    ],
+    "sources": [
+      {
+        "title": "GDP monthly estimate, UK: April 2026",
+        "publisher": "Office for National Statistics (ONS)",
+        "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/april2026",
+        "date": "2026-04",
+        "scope": "UK",
+        "metric": "transport and storage sector output growth"
+      },
+      {
+        "title": "DfT sets out strategy for adapting UK's transport network and industry to climate change",
+        "publisher": "New Civil Engineer / Department for Transport",
+        "url": "https://www.newcivilengineer.com/latest/dft-sets-out-strategy-for-adapting-uks-transport-network-and-industry-to-climate-change-07-01-2026/",
+        "date": "2026-01",
+        "scope": "UK",
+        "metric": "government transport climate strategy"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Disabled drivers needing accessible public EV charging infrastructure",
+        "description": "Disabled drivers lack accessible public EV charging points, with up to 1.35 million unable to use existing UK chargers due to no universal accessibility standard.",
+        "sources": [
+          {
+            "title": "The Transport Accessibility Gap",
+            "publisher": "Motability Foundation",
+            "url": "https://www.motabilityfoundation.org.uk/media/iwaidhxk/motability_transport-accessibility-gap-report_march-2022_final.pdf",
+            "date": "2022-03",
+            "scope": "United Kingdom",
+            "metric": "Number of disabled drivers lacking accessible EV charge points; share of disabled people unable to travel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Multimodal's 2026 industry commentary describes 'signs of optimism' in UK logistics, while Knight Frank's UK Logistics Market Update (March 2026) tracks warehouse take-up and availability, and automotive logistics reports another dip amid trade pressures.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Logistics real estate demand (per Knight Frank) is being reported through 2026 alongside persistent cost and trade-related pressures on specific sub-sectors like automotive logistics, suggesting a broadly stable but uneven sector.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Fuel and operating cost inflation",
+      "Trade friction affecting cross-border freight",
+      "Warehouse space availability and cost"
+    ],
+    "opportunities": [
+      "E-commerce driven warehouse demand",
+      "Supply chain digitisation"
+    ],
+    "sources": [
+      {
+        "title": "UK Logistics In 2026: signs of optimism",
+        "publisher": "Multimodal",
+        "url": "https://www.multimodal.org.uk/blog/uk-logistics-in-2026-signs-of-optimism",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector sentiment"
+      },
+      {
+        "title": "UK Logistics Market Update – March 2026",
+        "publisher": "Knight Frank",
+        "url": "https://www.knightfrank.co.uk/research/article/2026/3/uk-logistics-market-update--march-2026",
+        "date": "2026-03",
+        "scope": "UK",
+        "metric": "logistics real estate market"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small road-freight/haulage operators needing driver recruitment and retention tools",
+        "description": "Small haulage operators lack affordable driver recruitment, training-pipeline and retention tools to address the ongoing shortage of qualified HGV drivers.",
+        "sources": [
+          {
+            "title": "Continued fall in HGV drivers puts 'industry at crossroads'",
+            "publisher": "Logistics UK",
+            "url": "https://logistics.org.uk/media/press-releases/2025/continued-fall-in-hgv-drivers-puts-industry-at-cro",
+            "date": "2025",
+            "scope": "United Kingdom",
+            "metric": "Continued year-on-year decline in registered HGV drivers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "ONS's GDP monthly estimate for April 2026 reports the wholesale and retail trade category contributing negatively to output (down 0.4% in the month), driven mainly by a 1.3% fall in retail trade, though the three-month trend to April was positive at 1.2% growth.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IGD's UK wholesale forecast to 2030 projects the sector reaching £42 billion by 2030, a compound annual growth rate of 2.5%, following 1.2% growth in 2024. The retail (via-wholesale) channel is expected to average only 1.1% annual growth to 2030, while the foodservice wholesaling channel outlook remains favourable, supported by continued out-of-home eating demand, though thin margins persist given high delivery-dependency (85% of sales) driving up operating costs.",
+      "evidenceDate": "2024"
+    },
+    "risks": [
+      "Monthly output volatility and retail-driven weakness",
+      "Cost pressures on distributors (per industry commentary on 2026 financial conditions)",
+      "Retail-channel wholesaling forecast to average just 1.1% annual growth to 2030, well below foodservice"
+    ],
+    "opportunities": [
+      "Positive three-month output trend to April 2026 per ONS data",
+      "Foodservice wholesaling channel forecast to keep outperforming (3.2% growth in 2024) through to 2030"
+    ],
+    "sources": [
+      {
+        "title": "GDP monthly estimate, UK: April 2026",
+        "publisher": "Office for National Statistics (ONS)",
+        "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/april2026",
+        "date": "2026-04",
+        "scope": "UK",
+        "metric": "wholesale and retail trade sector output"
+      },
+      {
+        "title": "UK wholesale forecast 2024-2029 / Outlook for UK grocery, foodservice & wholesaling: trends to 2030",
+        "publisher": "IGD",
+        "url": "https://www.igd.com/articles/outlook-for-uk-grocery-foodservice-wholesaling/71519",
+        "date": "2024",
+        "scope": "UK",
+        "metric": "wholesale sector value and channel growth forecast to 2030"
+      }
+    ],
+    "noGapReason": {
+      "code": "underdeveloped",
+      "note": "General SME digital-adoption and e-commerce reports exist for the UK, but no source names a specific underserved wholesale/distribution sub-segment with a specific missing product or service.",
+      "sources": [
+        {
+          "title": "The state of SME technology adoption in the United Kingdom",
+          "publisher": "OECD",
+          "url": "https://www.oecd.org/en/publications/sme-technology-adoption-in-the-united-kingdom_5f25ce2a-en/full-report/the-state-of-sme-technology-adoption-in-the-united-kingdom_035644d5.html",
+          "date": "2025",
+          "scope": "United Kingdom",
+          "metric": "General finding of lagging SME technology/digital adoption"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "The British Retail Consortium raised concerns about retail sector pressures around the UK Spring 2026 fiscal forecast, and CBI distributive trades data reported UK retail sales falling sharply, while CBRE and PwC UK 2026 retail outlooks note margin pressure from costs.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "PwC UK's Retail Outlook 2026 and CBRE's UK Real Estate Market Outlook point to structural adjustment in physical retail alongside continued e-commerce growth, rather than sector-wide decline over the long term.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Weak consumer spending and sales growth",
+      "Rising cost base (wages, business rates)",
+      "Store closures in physical retail"
+    ],
+    "opportunities": [
+      "Continued e-commerce and omnichannel growth",
+      "Retail real estate repositioning"
+    ],
+    "sources": [
+      {
+        "title": "UK Spring Forecast raises retail sector concerns",
+        "publisher": "British Retail Consortium (via Reuters/Yahoo Finance)",
+        "url": "https://finance.yahoo.com/news/uk-spring-forecast-raises-retail-131935534.html",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "retail sector sentiment"
+      },
+      {
+        "title": "UK Retail Sales Fall Sharply",
+        "publisher": "CBI / Trading Economics",
+        "url": "https://tradingeconomics.com/united-kingdom/cbi-distributive-trades/news/528079",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "CBI distributive trades survey"
+      },
+      {
+        "title": "Retail Outlook 2026",
+        "publisher": "PwC UK",
+        "url": "https://www.pwc.co.uk/industries/retail-consumer/insights/retail-outlook.html",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "retail sector outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "E-commerce accessibility for disabled shoppers",
+        "description": "Disabled online shoppers can't complete purchases on most UK retail sites because checkout flows aren't screen-reader compatible.",
+        "sources": [
+          {
+            "title": "Research shows businesses lose £17 billion by ignoring accessibility needs",
+            "publisher": "AbilityNet (citing the Click-Away Pound Survey, Freeney Williams)",
+            "url": "https://abilitynet.org.uk/news-blogs/research-shows-businesses-lose-17-billion-ignoring-accessibility-needs",
+            "date": "2020-02-11",
+            "scope": "United Kingdom",
+            "metric": "UK retailers miss out on an estimated £17.1 billion a year in online sales by not meeting the accessibility needs of disabled shoppers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The Global City / RFI Global 2026 trend reports and DBT/trade.gov market intelligence describe UK fintech as a globally significant hub facing intensifying competition and regulatory complexity, with continued but more cautious investment activity.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "UK government financial services growth strategy and continued technology adoption (AI, open banking) across the sector point to a long-term growth trajectory, per Linklaters' coverage of the UK's financial services growth strategy.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regulatory complexity for fintech firms",
+      "Global competition for fintech investment and talent"
+    ],
+    "opportunities": [
+      "Government growth-focused financial services strategy",
+      "AI and technology adoption in financial services"
+    ],
+    "sources": [
+      {
+        "title": "The future of UK financial services: five trends to watch in 2026",
+        "publisher": "RFI Global",
+        "url": "https://rfi.global/the-future-of-uk-financial-services-five-trends-to-watch-in-2026/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector trend analysis"
+      },
+      {
+        "title": "UK puts growth at heart of financial services strategy",
+        "publisher": "Linklaters",
+        "url": "https://financialregulation.linklaters.com/post/102ktb7/uk-puts-growth-at-heart-of-financial-services-strategy",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "government strategy"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Residents of towns that have lost their last bank branch, left without local cash/banking access",
+        "description": "Residents of towns that lost their last bank branch have no local cash or basic banking access, ahead of full Banking Hub rollout.",
+        "sources": [
+          {
+            "title": "Access to cash and banking services",
+            "publisher": "House of Commons Library",
+            "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9453/",
+            "date": "2024-2026",
+            "scope": "United Kingdom",
+            "metric": "Number of bank branch closures and Banking Hubs opened per town"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The ABI reported a record £3.2 billion paid out to support motor insurance customers in Q2 2026, while Aon's UK Insurance Market Insights describe continued strong competition driving down rates across commercial lines.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Grant Thornton's 2026 sector themes and Browne Jacobson's property insurance trend analysis point to a market adapting to climate risk repricing and technology change rather than a strong directional shift.",
+      "evidenceDate": "2026-08"
+    },
+    "risks": [
+      "Climate-driven claims and repricing of property risk",
+      "Competitive pressure compressing commercial rates"
+    ],
+    "opportunities": [
+      "Technology-driven underwriting and claims efficiency",
+      "Growing demand for climate/property risk products"
+    ],
+    "sources": [
+      {
+        "title": "Record £3.2 billion paid out to support motor insurance customers in Q2 2026",
+        "publisher": "Association of British Insurers (ABI)",
+        "url": "https://www.abi.org.uk/media-hub/news-post/record-32-billion-paid-out-to-support-motor-insurance-customers-in-q2-2026",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "motor insurance claims paid"
+      },
+      {
+        "title": "UK Insurance Market Insights: Strong Competition Continues to Drive Down Rates",
+        "publisher": "Aon",
+        "url": "https://www.aon.com/en-gb/insights/articles/locations/uk/uk-insurance-market-outlook",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "commercial insurance pricing"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small businesses (SMEs) needing guided risk-assessment and cover-matching services",
+        "description": "Small businesses lack guided risk-assessment and cover-matching services, leaving most underinsured against business interruption, cyber and asset risks they don't discover until a claim.",
+        "sources": [
+          {
+            "title": "Small Business, Big Risk: Tackling SME Underinsurance",
+            "publisher": "Association of British Insurers (ABI) / Public First",
+            "url": "https://www.abi.org.uk/globalassets/files/publications/public/gi/smallbusinessbigrisktacklingsmeunderinsurancejanuary2026.pdf",
+            "date": "2026-01",
+            "scope": "United Kingdom",
+            "metric": "Majority of UK SMEs identified as underinsured against real risk exposure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "techUK's 2026 State of UK Tech polling (with Public First) and RSM UK's Technology Industry Outlook describe continued expansion in the UK tech sector, driven by AI adoption, though skills and investment conditions remain a concern for firms.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "NatWest's UK Technology Outlook 2026 report identifies key growth trends and opportunities for the sector, consistent with sustained long-term expansion of UK software and technology output.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Skills shortages",
+      "Investment and funding conditions for scale-ups"
+    ],
+    "opportunities": [
+      "AI adoption across the economy",
+      "Continued software/SaaS market expansion"
+    ],
+    "sources": [
+      {
+        "title": "The state of UK tech in 2026: polling from techUK and Public First",
+        "publisher": "techUK",
+        "url": "https://www.techuk.org/resource/the-state-of-uk-tech-in-2026-polling-from-techuk-public-first.html",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector survey"
+      },
+      {
+        "title": "UK Technology Outlook 2026: key trends, risks and growth opportunities",
+        "publisher": "NatWest Business",
+        "url": "https://www.natwest.com/business/insights/sector-trends/technology-media-and-telecoms/uk-technology-outlook-2026-trends-risks-and-growth-opportunities.html",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Low-friction AI tooling for micro and small businesses",
+        "description": "Micro and small UK businesses lack low-friction AI tools suited to their size, with 43% having no plans to adopt AI at all.",
+        "sources": [
+          {
+            "title": "SME Digital Adoption Taskforce: final report",
+            "publisher": "GOV.UK (Department for Business and Trade)",
+            "url": "https://www.gov.uk/government/publications/sme-digital-adoption-taskforce-final-report/sme-digital-adoption-taskforce-final-report",
+            "date": "2025",
+            "scope": "United Kingdom",
+            "metric": "43% of SMEs have no plans to use AI; UK SMEs trail G7 on digital/AI adoption"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The UK government's AI Opportunities Action Plan reports 2026 progress, and separate reporting describes the government announcing billions more in AI investment ahead of the Autumn Budget, including AI Growth Zones.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "UK Research and Innovation's first dedicated AI strategy is backed by £1.6 billion of investment, alongside a Sovereign AI Fund, indicating sustained government commitment to long-term AI sector growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Global competition for AI investment and compute infrastructure",
+      "Skills and compute capacity constraints"
+    ],
+    "opportunities": [
+      "AI Growth Zones and Sovereign AI Fund investment",
+      "Government AI Opportunities Action Plan funding"
+    ],
+    "sources": [
+      {
+        "title": "AI Opportunities Action Plan - 2026 Progress",
+        "publisher": "GOV.UK / AI Delivery",
+        "url": "https://delivery.ai.gov.uk/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "government AI policy delivery"
+      },
+      {
+        "title": "UK research and innovation announces its first AI strategy backed by £1.6 billion investment",
+        "publisher": "Open Access Government / UKRI",
+        "url": "https://www.openaccessgovernment.org/uk-research-and-innovation-announces-its-first-ai-strategy-backed-by-1-6-billion-investment/205291/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "government AI investment"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Low-complexity AI adoption tools for micro-businesses (0-9 employees)",
+        "description": "UK micro-businesses (0-9 employees) lack low-complexity AI adoption tools, with only 28% having adopted any AI technology versus 49% of large businesses.",
+        "sources": [
+          {
+            "title": "Artificial intelligence in UK businesses: 2023 to 2026",
+            "publisher": "Office for National Statistics (ONS)",
+            "url": "https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/articles/artificialintelligenceinukbusinesses/2023to2026",
+            "date": "2026-06",
+            "scope": "United Kingdom",
+            "metric": "28% AI adoption among micro-businesses (0-9 employees) vs 49% among 250+ employee firms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Market research reports (IMARC, Grand View Research, Fortune Business Insights) tracking the UK data analytics market through 2026 consistently describe continued growth driven by AI-enabled analytics adoption across UK businesses, though figures vary by provider methodology.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Multiple market-research houses forecast continued UK data analytics market expansion out to 2033-2034, aligned with broader enterprise AI and digital transformation trends.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Data skills shortages",
+      "Data governance and privacy compliance costs"
+    ],
+    "opportunities": [
+      "AI-enabled analytics adoption across sectors",
+      "Growing demand for data talent and tooling"
+    ],
+    "sources": [
+      {
+        "title": "UK Data Analytics Market Size, Share & Growth Report",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/uk-data-analytics-market",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "market size forecast"
+      },
+      {
+        "title": "UK Data Analytics Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/data-analytics-market/uk",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "market size forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Micro and small businesses handling digital data",
+        "description": "70% of UK small businesses that handle digital data made zero investment in staff data-skills training, leaving a gap for affordable, guided data-training services.",
+        "sources": [
+          {
+            "title": "Business data use and productivity study (wave 2): statistical report",
+            "publisher": "GOV.UK (Department for Science, Innovation and Technology)",
+            "url": "https://www.gov.uk/government/publications/business-data-use-and-productivity-study-wave-2/business-data-use-and-productivity-study-wave-2-statistical-report",
+            "date": "28 January 2026",
+            "scope": "United Kingdom",
+            "metric": "70% of data-handling small businesses made zero staff training investment in data skills; only 25% of such businesses invested in training at all (down from 31%)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The UK government's Cyber Security Sectoral Analysis 2026 (DSIT/GOV.UK) reports the sector generating £14.7 billion in revenue across 2,603 firms, reflecting continued growth in employment and revenue for the UK cyber security industry.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "DSIT's annual Cyber Security Sectoral Analysis series tracks consistent multi-year growth in UK cyber firm numbers and revenue, underpinned by rising regulatory and threat-driven demand for security services.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Persistent and rising cyber threat levels increasing compliance burden",
+      "Skills shortage in cyber security roles"
+    ],
+    "opportunities": [
+      "Growing regulatory-driven demand (e.g. incoming cyber security legislation)",
+      "Sector revenue and firm-count growth per DSIT data"
+    ],
+    "sources": [
+      {
+        "title": "Cyber security sectoral analysis 2026",
+        "publisher": "DSIT / GOV.UK",
+        "url": "https://www.gov.uk/government/publications/cyber-security-sectoral-analysis-2026/cyber-security-sectoral-analysis-2026",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector revenue and firm count"
+      },
+      {
+        "title": "UK Cyber Sector 2026: £14.7bn Revenue, 2,603 Firms",
+        "publisher": "Peak Digital (summarising DSIT data)",
+        "url": "https://peakdigital.online/reports/dsit-uk-cyber-sector-147bn-revenue-2026/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector revenue and firm count"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Micro businesses (under 10 employees) needing guided incident-response and policy-setup services",
+        "description": "Micro businesses under 10 employees lack guided cyber incident-response and policy-setup services, with only 21% holding a formal incident response plan versus 76% of large firms.",
+        "sources": [
+          {
+            "title": "Cyber Security Breaches Survey 2025/2026",
+            "publisher": "GOV.UK (Department for Science, Innovation and Technology)",
+            "url": "https://www.gov.uk/government/statistics/cyber-security-breaches-survey-20252026/cyber-security-breaches-survey-20252026",
+            "date": "2025/2026",
+            "scope": "United Kingdom",
+            "metric": "21% of micro businesses have formal incident response plans vs 57% medium, 76% large"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Ofcom's published Growth Goals 2026-2027 and its Telecoms Access Review 2026-31 set the regulatory framework for the sector, with law-firm sector trackers (Osborne Clarke, Norton Rose Fulbright) describing continued but measured regulatory-driven change rather than rapid expansion.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Ofcom's multi-year Telecoms Access Review (2026-31) sets pricing and investment conditions for fixed-line and broadband infrastructure through the rest of the decade, framing steady infrastructure investment rather than high growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regulatory pricing constraints on network operators",
+      "High capital costs of full-fibre and 5G rollout"
+    ],
+    "opportunities": [
+      "Ofcom growth goals supporting investment framework",
+      "Continued full-fibre and 5G infrastructure rollout"
+    ],
+    "sources": [
+      {
+        "title": "Ofcom growth goals: 2026 to 2027",
+        "publisher": "Ofcom / GOV.UK",
+        "url": "https://www.gov.uk/government/publications/ofcom-growth-goals-2026-to-2027/ofcom-growth-goals-2026-to-2027",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "regulatory growth goals"
+      },
+      {
+        "title": "Ofcom's Telecoms Access Review 2026-31: Key Takeaways",
+        "publisher": "Norton Rose Fulbright",
+        "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/d851e50f/ofcoms-telecoms-access-review-202631-key-takeaways-for-the-telecommunications-sector",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "regulatory review"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Gigabit broadband infrastructure for devolved-nation rural areas",
+        "description": "Rural households in Scotland and Wales lack gigabit-capable broadband infrastructure, leaving roughly 3.3 million UK premises without gigabit access.",
+        "sources": [
+          {
+            "title": "Gigabit Broadband Covers 89 Percent of UK Premises - Ofcom Spring 2026 Data",
+            "publisher": "Ofcom / ISPreview UK",
+            "url": "https://www.ispreview.co.uk/index.php/2026/05/gigabit-broadband-covers-89-percent-of-uk-premises-ofcom-spring-2026-data.html",
+            "date": "2026-05",
+            "scope": "United Kingdom",
+            "metric": "89% UK gigabit coverage; 84% Scotland, 85% Wales vs 96% Northern Ireland"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "GOV.UK's Semiconductor Sector Study 2026 and commentary from University of Manchester policy analysts describe the UK semiconductor strategy as narrowly-focused ('smart focus') rather than large-scale, reflecting the sector's modest but stable position relative to major chip-producing nations.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The UK's national Semiconductor Strategy channels targeted government support toward design, compound semiconductors and R&D strengths rather than volume manufacturing, implying steady niche growth rather than broad sector expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Limited UK manufacturing scale versus global competitors",
+      "Global supply chain and geopolitical dependency"
+    ],
+    "opportunities": [
+      "Targeted government semiconductor strategy investment",
+      "UK strengths in chip design and compound semiconductors"
+    ],
+    "sources": [
+      {
+        "title": "Semiconductor Sector Study 2026",
+        "publisher": "GOV.UK",
+        "url": "https://www.gov.uk/government/publications/semiconductor-sector-study-2026/semiconductor-sector-study-2026",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "government sector study"
+      },
+      {
+        "title": "Britain's chip strategy: smart focus, but does it pack enough punch?",
+        "publisher": "University of Manchester Policy Blog",
+        "url": "https://blog.policy.manchester.ac.uk/posts/2026/03/britains-chip-strategy-smart-focus-but-does-it-pack-enough-punch/",
+        "date": "2026-03",
+        "scope": "UK",
+        "metric": "policy analysis"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Semiconductor workforce / technical talent pipeline",
+        "description": "UK semiconductor employers lack a trained technical talent pipeline for roles like IC design and process integration, facing a projected shortfall of 10,460 workers by 2030.",
+        "sources": [
+          {
+            "title": "UK Semiconductor Workforce Study",
+            "publisher": "DSIT / Perspective Economics",
+            "url": "https://assets.publishing.service.gov.uk/media/680f671211d566056bcae946/Semiconductor_Workforce_Research_Report_DSIT_F_AC_April_2025.pdf",
+            "date": "2025-04",
+            "scope": "United Kingdom",
+            "metric": "Cumulative shortfall of 10,460 workers by 2030; ~1,450 technical roles short annually"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's UK Industrial Robotics Market outlook estimates the market at roughly USD 1,974.1 million in 2026, up from USD 1,815.4 million in 2025, indicating continued near-term growth in industrial automation adoption.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research forecasts the UK industrial robotics market reaching approximately USD 3,261.0 million by 2033, a 7.4% CAGR from 2026, pointing to sustained long-term expansion in robotics and automation adoption.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Capital cost of automation adoption for smaller manufacturers",
+      "Global supply chain dependency for robotics hardware"
+    ],
+    "opportunities": [
+      "Projected 7.4% CAGR industrial robotics market growth to 2033",
+      "Rising adoption of autonomous mobile robots and factory automation"
+    ],
+    "sources": [
+      {
+        "title": "UK Industrial Robotics Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/industrial-robotics-market/uk",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "market size and CAGR forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Industrial/manufacturing automation for SMEs",
+        "description": "UK manufacturing SMEs lack accessible industrial automation, running only 112 robots per 10,000 workers versus a 208 EU average.",
+        "sources": [
+          {
+            "title": "UK slips in global innovation rankings and lags behind in robotics density",
+            "publisher": "Make UK (via Logistics Manager)",
+            "url": "https://www.logisticsmanager.com/uk-slips-in-global-innovation-rankings-and-lags-behind-in-robotics-density-make-uk-report-finds/",
+            "date": "2025-08-19",
+            "scope": "United Kingdom",
+            "metric": "112 robots/10,000 manufacturing workers (UK) vs 208 (EU average) and 151 (global average)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "House of Commons Library and Health Foundation analyses of NHS expenditure describe continued real-terms funding growth for the NHS but at a pace historically below the sector's long-run average, with demand pressures persisting into 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The Health Foundation's health care funding analysis frames NHS spending growth as constrained relative to demographic and demand pressures, implying a sector facing continued resource strain over the long term rather than expansion in capacity.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "NHS funding growth below demand growth",
+      "Workforce shortages"
+    ],
+    "opportunities": [
+      "Digital health and technology adoption to improve productivity"
+    ],
+    "sources": [
+      {
+        "title": "NHS Expenditure",
+        "publisher": "House of Commons Library",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/sn00724/",
+        "date": "2026-01",
+        "scope": "UK",
+        "metric": "NHS expenditure trends"
+      },
+      {
+        "title": "Health care funding",
+        "publisher": "The Health Foundation",
+        "url": "https://www.health.org.uk/reports-and-analysis/analysis/health-care-funding",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "health funding analysis"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "NHS dental patients in rural and deprived local authorities unable to register with an NHS dentist",
+        "description": "Patients in rural and deprived local authorities can't register with an NHS dentist, with some areas having as few as 42 dentists per 100,000 people.",
+        "sources": [
+          {
+            "title": "NHS 'dental deserts' persist in rural and deprived communities",
+            "publisher": "Local Government Association",
+            "url": "https://www.local.gov.uk/about/news/nhs-dental-deserts-persist-rural-and-deprived-communities-lga-analysis",
+            "date": "2024",
+            "scope": "United Kingdom",
+            "metric": "NHS dentists per 100,000 population by local authority"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "ABPI's Medicines Impacts and Investment Survey (MIIS) report describes 2025 as 'a year of uncertainty' for UK life sciences investment and medicine launches, while ABPI also reported a month of major new investment commitments into UK life sciences in April 2026.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "ABPI's competitiveness reporting highlights that UK life sciences investment continues to lag international competitors on some measures, even as individual large investment announcements occur, pointing to a sector needing sustained policy support to secure long-term growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "UK investment competitiveness lagging other markets (per ABPI)",
+      "Uncertainty around medicine launch and market access conditions"
+    ],
+    "opportunities": [
+      "Major individual investment commitments into UK life sciences",
+      "Government focus on life sciences as a growth sector"
+    ],
+    "sources": [
+      {
+        "title": "ABPI celebrates a month of major investment commitments into UK life sciences",
+        "publisher": "ABPI",
+        "url": "https://www.abpi.org.uk/media/news/2026/april/abpi-celebrates-a-month-of-major-investment-commitments-into-uk-life-sciences/",
+        "date": "2026-04",
+        "scope": "UK",
+        "metric": "investment announcements"
+      },
+      {
+        "title": "A year of uncertainty: UK life sciences investment and medicine launches in 2025",
+        "publisher": "ABPI",
+        "url": "https://www.abpi.org.uk/publications/a-year-of-uncertainty-uk-life-sciences-investment-and-medicine-launches-in-2025/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "investment and launch survey"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Growth-capital and public-listing pathways for scale-up-stage biotechs",
+        "description": "Scale-up-stage UK biotechs lack growth-capital and public-listing pathways, with equity financing down 49% year-on-year and no UK biotech IPO for three straight years.",
+        "sources": [
+          {
+            "title": "UK biotechs suffered restricted financing in 2025",
+            "publisher": "Pharmaceutical Technology (BioIndustry Association data)",
+            "url": "https://www.pharmaceutical-technology.com/news/uk-biotechs-suffered-restricted-financing-in-2025/",
+            "date": "2025",
+            "scope": "United Kingdom",
+            "metric": "Equity financing down 49% YoY to £1.9bn; zero IPOs for 3rd straight year"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Market research (IMARC, Mordor Intelligence, Barchart) reports the UK digital health market continuing to expand, driven by NHS digitalisation efforts, with one forecast citing growth toward $43.98 billion by 2031.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Multiple independent market-research providers forecast continued multi-year growth of the UK digital health and medtech market out to 2031-2034, driven by NHS digital transformation and an ageing population.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "NHS procurement and funding constraints",
+      "Data governance and interoperability challenges"
+    ],
+    "opportunities": [
+      "NHS digitalisation programme driving adoption",
+      "Growing demand for remote monitoring and digital health tools"
+    ],
+    "sources": [
+      {
+        "title": "United Kingdom Digital Health Market Size to Reach USD 43.98 Billion by 2031, Driven by NHS Digitalization",
+        "publisher": "Barchart (market research syndication)",
+        "url": "https://www.barchart.com/story/news/3284517/united-kingdom-digital-health-market-size-to-reach-usd-4398-billion-by-2031-driven-by-nhs-digitalization",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "market size forecast"
+      },
+      {
+        "title": "United Kingdom - Medical Technology and Digital Healthcare",
+        "publisher": "U.S. International Trade Administration (trade.gov)",
+        "url": "https://www.trade.gov/country-commercial-guides/united-kingdom-medical-technology-and-digital-healthcare",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "market commercial guide"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small/independent adult social care providers needing low-cost digital care-record tools",
+        "description": "Small independent adult social care providers lack low-cost digital care-record tools, with roughly a fifth of providers still relying on paper records.",
+        "sources": [
+          {
+            "title": "SCIE responds to 80% of care providers adopting digital social care records",
+            "publisher": "Social Care Institute for Excellence (SCIE)",
+            "url": "https://www.scie.org.uk/news/detail/scie-responds-to-80-of-care-providers-adopting-digital-social-care-records/",
+            "date": "2025",
+            "scope": "United Kingdom",
+            "metric": "~80% of care providers on digital social care records; ~20% remain on paper"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "NatWest/RBS's 2026 UK Education Outlook describes the sector 'rewiring for value, access and resilience', reflecting financial pressure on institutions balanced against continued demand, while Shoosmiths' review of 2025 investment activity outlines expectations for 2026 deal activity.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The sector outlook framing around 'value, access and resilience' from major bank sector research suggests structural adjustment (funding, demographics) rather than strong long-term growth for UK education providers broadly.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Funding and cost pressures on education providers",
+      "Demographic shifts affecting demand"
+    ],
+    "opportunities": [
+      "EdTech market growth supplementing traditional education delivery"
+    ],
+    "sources": [
+      {
+        "title": "UK Education Outlook 2026: a sector rewiring for value, access and resilience",
+        "publisher": "NatWest Business",
+        "url": "https://www.natwest.com/business/insights/sector-trends/public-sector-and-society/uk-education-2026-sector-rewiring-for-value-access-resilience.html",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector outlook"
+      },
+      {
+        "title": "UK education sector: 2025 investment activity review and what to expect in 2026",
+        "publisher": "Shoosmiths",
+        "url": "https://www.shoosmiths.com/perspectives/stories/articles/education-sector-2025-investment-activity-review-what-expect-2026",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "investment activity review"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Low-income families in childcare 'deserts' with no local nursery/childminder places",
+        "description": "Low-income families in childcare 'deserts' have no local nursery or childminder places, and two-thirds of England's poorest families miss out on entitled childcare support.",
+        "sources": [
+          {
+            "title": "Revealed: Two thirds of poorest families miss out on childcare",
+            "publisher": "IPPR / Save the Children UK",
+            "url": "https://www.ippr.org/media-office/revealed-two-thirds-of-poorest-families-miss-out-on-childcare-as-government-urged-to-think-differently",
+            "date": "2024",
+            "scope": "England",
+            "metric": "Share of low-income families accessing entitled childcare hours"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "RSM UK's analysis of the ONS Index of Services finds professional and business services remain 'a bedrock of UK GDP' despite wider economic challenges, indicating resilience but not strong acceleration in the sector.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "NatWest/RBS's Professional Services Outlook 2026 sets out key trends, risks and growth opportunities for the sector, framing it as adapting to technology and client demand shifts rather than undergoing rapid structural growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Wider UK economic headwinds affecting client demand",
+      "Margin pressure from cost inflation"
+    ],
+    "opportunities": [
+      "Technology-driven service delivery efficiency",
+      "Continued role as a core contributor to UK GDP"
+    ],
+    "sources": [
+      {
+        "title": "Index of services: Professional and business services remain a bedrock of UK GDP despite wider challenges",
+        "publisher": "RSM UK",
+        "url": "https://www.rsmuk.com/news/index-of-services-professional-and-business-services-remain-a-bedrock-of-uk-gdp-despite-wider-challenges",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "ONS Index of Services analysis"
+      },
+      {
+        "title": "Professional Services Outlook 2026: key trends, risks and growth opportunities",
+        "publisher": "NatWest Business",
+        "url": "https://www.natwest.com/business/insights/sector-trends/professional-and-business-services/professional-services-2026-key-trends-risks-growth-opportunities.html",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "People needing immigration/asylum or housing legal aid who have no local solicitor",
+        "description": "People needing immigration, asylum or housing legal aid have no local solicitor, with 39 million people in England and Wales lacking a local immigration/asylum legal aid provider.",
+        "sources": [
+          {
+            "title": "Legal aid deserts",
+            "publisher": "The Law Society",
+            "url": "https://www.lawsociety.org.uk/campaigns/civil-justice/legal-aid-deserts",
+            "date": "2024",
+            "scope": "England and Wales",
+            "metric": "Share of population without a local legal aid provider by practice area"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "As tracked alongside professional services, ONS's Index of Services shows business services remaining a core, resilient component of UK GDP per RSM UK's 2026 analysis, even as the broader economy faces headwinds.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "NatWest's 2026 sector outlook series for professional and business services frames long-term change as being driven by technology adoption and client cost pressures rather than a strong growth or decline trend.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Client cost-cutting reducing discretionary spend on business services",
+      "Wage and cost inflation"
+    ],
+    "opportunities": [
+      "Technology and AI-enabled service delivery"
+    ],
+    "sources": [
+      {
+        "title": "Index of services: Professional and business services remain a bedrock of UK GDP despite wider challenges",
+        "publisher": "RSM UK",
+        "url": "https://www.rsmuk.com/news/index-of-services-professional-and-business-services-remain-a-bedrock-of-uk-gdp-despite-wider-challenges",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "ONS Index of Services analysis"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Self-employed mothers who lose the enhanced first-six-weeks maternity pay employees get",
+        "description": "Self-employed mothers have no access to the enhanced first-six-weeks maternity pay employed mothers receive, getting only flat-rate Maternity Allowance instead.",
+        "sources": [
+          {
+            "title": "Why should self-employed mothers get less?",
+            "publisher": "IPSE (The Self-Employment Association)",
+            "url": "https://www.ipse.co.uk/articles/self-employed-mothers",
+            "date": "2024",
+            "scope": "United Kingdom",
+            "metric": "Maternity pay replacement rate: employed vs self-employed mothers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The AA/WARC UK Advertising Expenditure Report showed UK ad spend growing 9.3% to open 2026, with the market on track to exceed £50 billion for the year, according to Marketing Week's coverage of the report.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The Advertising Association and WARC's ongoing expenditure reporting through 2026 shows consistent year-on-year growth in UK ad spend, driven substantially by digital channels.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Concentration of growth in digital channels leaving traditional publishers under pressure"
+    ],
+    "opportunities": [
+      "Continued double-digit growth in digital ad spend",
+      "Market on track to exceed £50bn in 2026"
+    ],
+    "sources": [
+      {
+        "title": "AA/WARC: UK adspend grows 9.3% to open 2026",
+        "publisher": "PerformanceMarketingWorld / AA/WARC",
+        "url": "https://www.performancemarketingworld.com/article/1966041/aa-warc-uk-adspend-grows-93-open-2026",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "advertising expenditure growth"
+      },
+      {
+        "title": "UK ad spend to exceed £50bn in 2026",
+        "publisher": "Marketing Week",
+        "url": "https://www.marketingweek.com/uk-ad-spend-exceed-50bn/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "advertising expenditure forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Marketing support for micro/small businesses that cannot afford agency-level services",
+        "description": "More than half of UK SMEs are marketing without a documented strategy or dedicated marketing resource, underserved by agencies built for larger client budgets.",
+        "sources": [
+          {
+            "title": "Marketing Maturity in 2024: More than half of UK SMEs are marketing in the dark",
+            "publisher": "The Marketing Centre",
+            "url": "https://www.themarketingcentre.com/business-insights/marketing-maturity-in-2024",
+            "date": "2024",
+            "scope": "United Kingdom",
+            "metric": "Over 50% of UK SMEs report no formal marketing strategy or dedicated marketing function"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "PwC's UK Entertainment & Media Outlook forecasts the UK leading Europe's E&M market by 2029, with reporting citing the market boom to £121bn by 2028, and DEGI reporting 10% home entertainment growth in the UK with more predicted in 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "PwC's UK Entertainment & Media Outlook 2024-2028 forecasts sustained sector growth, positioning the UK as Europe's largest E&M market by the end of the decade.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Streaming market competition and content cost inflation"
+    ],
+    "opportunities": [
+      "UK forecast to lead Europe's E&M market by 2029",
+      "Continued home entertainment and streaming growth"
+    ],
+    "sources": [
+      {
+        "title": "From screen to stream, UK to lead Europe's Entertainment & Media market by 2029 according to PwC forecast",
+        "publisher": "PwC UK",
+        "url": "https://www.pwc.co.uk/press-room/press-releases/research-commentary/2025/from-screen-to-stream--uk-to-lead-europe-s-entertainment---media.html",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "E&M market forecast"
+      },
+      {
+        "title": "Home Entertainment Surges to Record Heights as UK Delivers 10% Growth with more predicted in 2026",
+        "publisher": "DEGI",
+        "url": "https://degiorg.uk/announcements/2026/02/home-entertainment-surges-to-record-heights-as-uk-delivers-10-growth-with-more-predicted-in-2026/",
+        "date": "2026-02",
+        "scope": "UK",
+        "metric": "home entertainment spend growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Independent/community cinemas",
+        "description": "Around 45% of UK independent cinemas were projected to operate at a loss by end of 2023/24, yet lack affordable capital-investment finance products for equipment and building upgrades.",
+        "sources": [
+          {
+            "title": "Almost half the UK's independent cinemas operating at a loss says ICO survey",
+            "publisher": "Independent Cinema Office (via Screen Daily)",
+            "url": "https://www.screendaily.com/news/almost-half-the-uks-independent-cinemas-operating-at-a-loss-says-ico-survey-exclusive/5186926.article",
+            "date": "October 2023",
+            "scope": "United Kingdom",
+            "metric": "~45% of independent cinemas operating at a loss by end of 2023/24 financial year"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "VisitBritain's inbound tourism forecasts and multiple 2026 industry reports describe international visitor numbers and spending continuing to grow into 2026, with some commentary describing the UK as 'poised for a record boom' in tourism.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "VisitBritain's ongoing inbound tourism statistics and forecasts (visitbritain.org) provide the basis for continued but moderate growth expectations, with hospitality operator reports noting margin pressure even amid rising demand.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Cost and margin pressure on hospitality operators",
+      "Currency and geopolitical factors affecting inbound travel"
+    ],
+    "opportunities": [
+      "Growing inbound international visitor numbers and spending"
+    ],
+    "sources": [
+      {
+        "title": "UK Inbound Travel & Tourism Statistics",
+        "publisher": "VisitBritain",
+        "url": "https://www.visitbritain.org/research-insights/inbound-tourism-forecast",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "inbound tourism forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Hoist-equipped accessible hotel rooms in city centres",
+        "description": "Wheelchair users needing a hoist have almost no hoist-equipped hotel rooms in UK city centres, with major chains like Travelodge, Britannia and Marriott offering none.",
+        "sources": [
+          {
+            "title": "UK city centre hotels are failing disabled guests - shock figures revealed",
+            "publisher": "NationalWorld (citing research by the Snowball accessibility app)",
+            "url": "https://www.nationalworld.com/travel/uk-city-centre-hotels-are-failing-disabled-guests-shock-figures-revealed-4888615",
+            "date": "2024-11-28",
+            "scope": "United Kingdom",
+            "metric": "Only 11 hoist-equipped rooms found across major hotel chains in UK city centres, out of roughly 700,000 total UK hotel rooms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Barclays Corporate's Hospitality and Leisure 2026 Outlook and BDO's Restaurants and Bars Report 2026 describe an operating environment of margin pressure from costs even as demand holds up, consistent with a 'beyond recovery' narrative reported by Hotel Magazine.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Sector reports through 2026 (Barclays, BDO, Savills' Spotlight: UK Leisure) frame the restaurant, bar and leisure sub-sectors as facing a structural shift toward margin management and consolidation rather than strong volume growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Cost inflation (labour, food, energy) squeezing margins",
+      "Consumer spending pressure on discretionary leisure"
+    ],
+    "opportunities": [
+      "Demand growth in leisure and hospitality per Hotel Magazine's 2026 sector analysis"
+    ],
+    "sources": [
+      {
+        "title": "Hospitality and Leisure: 2026 Outlook",
+        "publisher": "Barclays Corporate",
+        "url": "https://www.barclayscorporate.com/insights/2026-outlook/hospitality-and-leisure/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector outlook"
+      },
+      {
+        "title": "Restaurants and Bars Report 2026",
+        "publisher": "BDO",
+        "url": "https://www.bdo.co.uk/en-gb/insights/industries/leisure-and-hospitality/restaurant-and-bars-report",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector report"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "UK foodservice/restaurant/pub market data shows a large, mature, intensely competitive sector with margin pressure from costs rather than a visible unmet-demand niche.",
+      "sources": [
+        {
+          "title": "Leisure and hospitality industry outlook 2025",
+          "publisher": "RSM UK",
+          "url": "https://www.rsmuk.com/insights/consumer-outlook/leisure-and-hospitality-industry-outlook",
+          "date": "2025",
+          "scope": "United Kingdom",
+          "metric": "Sector characterized by thin margins and intense competition amid rising costs"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "BeautyMatter's coverage of British Beauty Council/Oxford Economics data shows the UK beauty and personal care industry contracted 0.4% in 2025 to £28.3bn GDP contribution but is forecast to grow 3.9% in 2026 to £29.4bn, with jobs supported rising 2.4% to 609,000.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Industry analysis of IBISWorld data (via Vagaro) projects UK hair and beauty sector revenue reaching £4.6 billion by 2029, a five-year growth trajectory despite cost-of-living pressures, with haircuts/colour (55% of revenue) and nail care (16.4%) as the largest sub-segments and continued digital-booking-driven demand growth.",
+      "evidenceDate": "2023"
+    },
+    "risks": [
+      "2025 decline in direct employment (down 2.1%) concentrated in retail",
+      "Real-terms export decline, including a 5.4% fall in US exports linked to tariffs"
+    ],
+    "opportunities": [
+      "Forecast 3.9% GDP growth in 2026 for the beauty and personal care industry",
+      "Projected job growth to 609,000 supported roles in 2026",
+      "Hair and beauty sub-sector revenue forecast to grow to £4.6bn by 2029 despite cost pressures"
+    ],
+    "sources": [
+      {
+        "title": "Britain's beauty industry is worth £28.3 billion",
+        "publisher": "BeautyMatter (citing British Beauty Council / Oxford Economics)",
+        "url": "https://beautymatter.com/articles/britains-beauty-industry-is-worth-28-3-billion",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector GDP contribution, employment and export figures"
+      },
+      {
+        "title": "UK Hair and Beauty Industry Revenue Projected to Reach £4.6bn by 2029",
+        "publisher": "Vagaro (analysis of IBISWorld data)",
+        "url": "https://modernbarber.co.uk/uk-hair-and-beauty-industry-revenue-projected-to-rise",
+        "date": "2023-12-07",
+        "scope": "UK",
+        "metric": "hair and beauty sector revenue forecast to 2029"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable, independent financial advice for mass-market (non-affluent) consumers",
+        "description": "A large share of UK consumers, particularly those with modest assets, are priced out of regulated financial advice because the cost of delivery exceeds the fees it generates.",
+        "sources": [
+          {
+            "title": "Overlooked and financially under-served",
+            "publisher": "PwC UK",
+            "url": "https://www.pwc.co.uk/industries/financial-services/insights/overlooked-and-financially-underserved.html",
+            "date": "2025",
+            "scope": "United Kingdom",
+            "metric": "Large proportion of UK adults identified as lacking access to affordable financial advice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "RSM UK's Sports Industry Outlook (published 21 August 2026, surveying 50 sports organisations) found 80% of leaders positive despite short-term economic uncertainty, with 49 of 50 receiving investment inquiries and 72% having reduced debt levels over the prior six months.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The RSM UK report and Sport and Recreation Alliance's Reconomics research point to continued investment appetite (individual investors, family offices, PE) and major 2026 sporting events expected to sustain growth momentum in the sector over the coming years.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rising influence of sports agents and PE investment cited as sector threats",
+      "Government regulation uncertainty"
+    ],
+    "opportunities": [
+      "Strong investment inquiry pipeline (98% of surveyed organisations)",
+      "Major 2026 events (Women's EUROS, Wimbledon, FIFA World Cup) driving sector optimism"
+    ],
+    "sources": [
+      {
+        "title": "UK sports industry outlook: growth, investment and challenges",
+        "publisher": "RSM UK",
+        "url": "https://www.rsmuk.com/insights/media-industry-outlook/uk-sports-industry-outlook-growth-investment-challenges",
+        "date": "2026-08",
+        "scope": "UK",
+        "metric": "sector survey of investment and financial confidence"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Disability-trained fitness instruction in mainstream gyms",
+        "description": "Disabled gym members lack access to disability-trained fitness instructors, as most mainstream UK gyms have no staff trained to work with disabled members.",
+        "sources": [
+          {
+            "title": "Our response to Sport England's Active Lives 2024-25 Report",
+            "publisher": "Activity Alliance",
+            "url": "https://www.activityalliance.org.uk/news/10563-our-response-to-sport-englands-active-lives-202425-report",
+            "date": "2026-04-23",
+            "scope": "United Kingdom (England)",
+            "metric": "39.3% of disabled people are physically inactive vs 19.7% of non-disabled people (19.6 percentage point gap)"
+          },
+          {
+            "title": "Survey shows UK gyms do not cater for disabled people (Raising the Bar report)",
+            "publisher": "Future Fit Training, supported by ukactive",
+            "url": "https://www.healtheuropa.com/uk-gyms-do-not-cater-for-disabled/93646/",
+            "date": "2019-09-27",
+            "scope": "United Kingdom",
+            "metric": "86% of fitness employees say current training does not equip gym professionals to work with disabled people"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "FashionNetwork reported the global/UK luxury market entering a 'phase of strategic normalisation' in 2026 after a period of post-pandemic volatility, indicating a levelling-off in luxury demand growth rather than continued rapid expansion.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Market research providers (Mordor Intelligence, Expert Market Research) tracking the UK luxury goods market through the 2030s describe continued but moderate growth as the sector normalises after prior boom years.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Slowing luxury demand growth after post-pandemic surge",
+      "Consumer spending pressure on discretionary fashion purchases"
+    ],
+    "opportunities": [
+      "BFC's 'Fashion Britain' initiative championing regional talent and growth"
+    ],
+    "sources": [
+      {
+        "title": "The luxury market set to enter phase of strategic normalisation in 2026",
+        "publisher": "FashionNetwork United Kingdom",
+        "url": "https://uk.fashionnetwork.com/news/The-luxury-market-set-to-enter-phase-of-strategic-normalisation-in-2026,1823700.html",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "luxury market trend"
+      },
+      {
+        "title": "BFC launches 'Fashion Britain' to champion regional talent across the UK",
+        "publisher": "TheIndustry.fashion",
+        "url": "https://www.theindustry.fashion/bfc-launches-fashion-britain-regional-growth-2026/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "industry initiative"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Plus-size womenswear ranges on the high street",
+        "description": "Plus-size women (UK size 18+) have shrinking access to plus-size womenswear as major high-street retailers cut the range of larger sizes they stock.",
+        "sources": [
+          {
+            "title": "Huge drop in number of plus-sized clothes sold in UK amid weight loss jabs boom",
+            "publisher": "AOL UK (citing retail intelligence firm Edited, via The Telegraph)",
+            "url": "https://www.aol.co.uk/articles/huge-drop-number-plus-sized-164311000.html",
+            "date": "2026-09-06",
+            "scope": "United Kingdom",
+            "metric": "Share of M&S dresses offered online in UK size 18+ fell from 34% in 2024 to 27% in 2026; John Lewis fell from 22% to 19%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "CBI and ECIU reporting in 2026 found the UK's net zero/green economy surged past £100 billion (some reports citing £105bn) a year and now supports over 1 million jobs, indicating continued near-term growth in the sector.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The CBI's 'Going for Green' report frames the UK's net zero economy as a sustained long-term growth opportunity, with ECIU tracking year-on-year growth in jobs and gross value added tied to the net zero transition.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Political uncertainty over net zero policy commitment",
+      "Investment and planning bottlenecks for green infrastructure"
+    ],
+    "opportunities": [
+      "Green economy surpassing £100bn in annual value with 1m+ jobs",
+      "CBI-identified net zero growth opportunity across sectors"
+    ],
+    "sources": [
+      {
+        "title": "UK's Green Economy Surges Past £100 Billion Mark, Creating Over One Million Jobs",
+        "publisher": "EnviroLink Network (citing CBI/ECIU data)",
+        "url": "https://www.envirolink.org/2026/06/02/uks-green-economy-surges-past-100-billion-mark-creating-over-one-million-jobs/",
+        "date": "2026-06",
+        "scope": "UK",
+        "metric": "net zero economy value and jobs"
+      },
+      {
+        "title": "Going for Green: The UK's net zero growth opportunity",
+        "publisher": "CBI",
+        "url": "https://www.cbi.org.uk/media/pplbtdca/12820_green_growth_report.pdf",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "net zero economic opportunity"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Green/net-zero skills training and upskilling for SMEs",
+        "description": "SMEs lack green and net-zero skills training, with 63% of UK environmental professionals reporting a growing shortage of qualified green-skills applicants.",
+        "sources": [
+          {
+            "title": "2025 National Environmental Services Survey",
+            "publisher": "ESS Expo / Groundwork / ESA",
+            "url": "https://insideecology.com/2025/12/10/passion-pay-gap-exposed-as-uk-environmental-sector-faces-green-skills-shortage/",
+            "date": "2025-12-10",
+            "scope": "United Kingdom",
+            "metric": "63% report growing green skills shortage; 43% cite lack of qualified applicants"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Ofwat provisionally approved £3.4 billion in additional water sector investment in 2026, and published a government white paper setting out sector reform, indicating a period of increased capital investment in water infrastructure.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The government's 'A new vision for water' white paper sets a long-term reform agenda for the sector, with Ofwat's economic impact analysis of water supply infrastructure investment framing sustained, regulator-approved capital investment over the coming price control period.",
+      "evidenceDate": "2026-03"
+    },
+    "risks": [
+      "Customer bill increases needed to fund investment",
+      "Regulatory and reform uncertainty following the water white paper"
+    ],
+    "opportunities": [
+      "£3.4bn additional Ofwat-approved investment",
+      "Long-term infrastructure investment under sector reform"
+    ],
+    "sources": [
+      {
+        "title": "Ofwat provisionally approves £3.4bn in additional water sector investment",
+        "publisher": "Water Magazine / Ofwat",
+        "url": "https://www.watermagazine.co.uk/2026/08/13/ofwat-3-4bn-water-investment/",
+        "date": "2026-08",
+        "scope": "UK",
+        "metric": "regulator-approved investment"
+      },
+      {
+        "title": "A new vision for water",
+        "publisher": "GOV.UK",
+        "url": "https://www.gov.uk/government/publications/a-new-vision-for-water-white-paper/a-new-vision-for-water",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "government white paper"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Customer-side leak detection and prevention for households/small businesses",
+        "description": "Households and small businesses have no dominant commercial solution for detecting and preventing leaks on their side of the water meter.",
+        "sources": [
+          {
+            "title": "Water Efficiency Lab 2 launches to prevent, predict, pinpoint and fix customer side leakage",
+            "publisher": "SME Today / Ofwat innovation programme",
+            "url": "https://www.smetoday.co.uk/environment/water-efficiency-lab-2-launches-to-prevent-predict-pinpoint-and-fix-customer-side-leakage/",
+            "date": "2025",
+            "scope": "United Kingdom",
+            "metric": "Dedicated national innovation fund launched for customer-side leak detection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "ADS Group publishes an annual UK Aerospace Sector Outlook (2026 edition referenced on its site) tracking industry facts and figures, providing the primary UK trade-body data source for the sector's near-term performance.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "ADS Group's ongoing Facts & Figures and economics publications provide the long-run tracking data for UK aerospace, without indicating a strong directional shift beyond steady industry activity.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Global supply chain and aircraft production cycle exposure"
+    ],
+    "opportunities": [
+      "ADS Group-tracked industry investment and export activity"
+    ],
+    "sources": [
+      {
+        "title": "UK Aerospace Sector Outlook 2026",
+        "publisher": "ADS Group",
+        "url": "https://www.adsgroup.org.uk/industry/uk-aerospace-sector-outlook-2026/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Working capital and digital tooling for small aerospace supply chain manufacturers",
+        "description": "Small aerospace supply chain manufacturers lack working capital and digital tooling to scale into Tier 1/2 contracts, a gap estimated at over £100m.",
+        "sources": [
+          {
+            "title": "UK Govt & BBB Target £100m Aerospace Supply Chain Gap",
+            "publisher": "Supply Chain Digital",
+            "url": "https://supplychaindigital.com/news/uk-govt-bbb-target-100m-aerospace-supply-chain-gap",
+            "date": "2025",
+            "scope": "United Kingdom",
+            "metric": "£100m+ identified supply-chain financing/support gap for small aerospace suppliers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The UK's Defence Investment Plan 2026, covered by Janes and the House of Commons Library, sets out increased funding commitments including for the Royal Navy, sovereign munitions and strike capacity, reflecting rising UK defence spending.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The Institute for Fiscal Studies and Institute for Government both track UK defence spending commitments trending upward, with the Defence Investment Plan setting multi-year equipment procurement priorities through the rest of the decade.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Fiscal constraints on sustaining higher defence spending commitments",
+      "Procurement and delivery risk on major equipment programmes"
+    ],
+    "opportunities": [
+      "Defence Investment Plan funding for sovereign munitions, Navy and strike capacity",
+      "Rising NATO-aligned defence spending commitments"
+    ],
+    "sources": [
+      {
+        "title": "UK Defence Investment Plan 2026",
+        "publisher": "Janes",
+        "url": "https://www.janes.com/defence-intelligence-insights/defence-and-national-security-analysis/uk-dip-2026-govt-changes-royal-navy-funds-sovereign-munitions-and-strike-capacity",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "defence investment plan"
+      },
+      {
+        "title": "UK defence spending: composition, commitments and challenges",
+        "publisher": "Institute for Fiscal Studies",
+        "url": "https://ifs.org.uk/publications/uk-defence-spending-composition-commitments-and-challenges",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "defence spending analysis"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Procurement access routes for small and micro defence suppliers",
+        "description": "Small and micro defence suppliers lack direct procurement access routes into Ministry of Defence contracts, receiving only 4% of direct MoD expenditure with UK industry.",
+        "sources": [
+          {
+            "title": "SME participation in defence procurement",
+            "publisher": "House of Commons Library",
+            "url": "https://commonslibrary.parliament.uk/research-briefings/cdp-2025-0020/",
+            "date": "2025",
+            "scope": "United Kingdom",
+            "metric": "4% of MOD direct spend with industry went to SMEs in FY2023/24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "ONS Public sector finances bulletins (March, May, June 2026) track UK government borrowing and spending on a monthly basis, showing continued fiscal pressure with public spending statistics released regularly by GOV.UK through 2026.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Public Expenditure Statistical Analyses 2026 (GOV.UK) provides the official long-run breakdown of UK public spending by department and function, framing a sector defined by fiscal constraint rather than expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Elevated government borrowing and fiscal pressure",
+      "Constrained departmental spending settlements"
+    ],
+    "opportunities": [
+      "Public sector digital transformation initiatives"
+    ],
+    "sources": [
+      {
+        "title": "Public sector finances, UK: June 2026",
+        "publisher": "Office for National Statistics (ONS)",
+        "url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/june2026",
+        "date": "2026-06",
+        "scope": "UK",
+        "metric": "public sector borrowing and spending"
+      },
+      {
+        "title": "Public Expenditure Statistical Analyses 2026",
+        "publisher": "GOV.UK",
+        "url": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2026",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "public spending breakdown"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Unified/interoperable citizen-facing digital services across local and central government",
+        "description": "UK citizen-facing government services are fragmented across thousands of disconnected legacy systems, forcing residents to re-enter the same information repeatedly.",
+        "sources": [
+          {
+            "title": "State of digital government review – January 2025",
+            "publisher": "UK Government (Department for Science, Innovation and Technology)",
+            "url": "https://assets.publishing.service.gov.uk/media/678a47649752f24aa1573589/state-of-digital-government.pdf",
+            "date": "2025-01",
+            "scope": "United Kingdom",
+            "metric": "Review identifies thousands of fragmented, siloed legacy IT systems across UK government"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "A House of Commons Library briefing on the UK's small charity sector (96% of the UK's 165,758 voluntary organisations) cites Charities Aid Foundation data showing individual giving down to 50% of people donating (from 58% in 2019), roughly four million fewer donors, plus reduced government funding and an estimated £1.4bn added National Insurance burden from October 2024 changes.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Legacy Foresight's charity legacy income forecasts project UK legacy giving reaching £5 billion annually by 2030 (up from £3bn in 2020), with an estimated £23 billion in cumulative legacy income over 2026-2030 and 146,000 bequests expected in 2030, driven by Baby Boomer wealth and demographics; legacy incomes are projected to double again in real terms by 2050. This long-term legacy-giving growth partly offsets near-term declines in individual cash donations.",
+      "evidenceDate": "2021"
+    },
+    "risks": [
+      "Declining individual donor base (down from 58% to 50% of the public)",
+      "Reduced government funding and lack of multi-year unrestricted grants",
+      "Added National Insurance costs from October 2024 changes (~£1.4bn sector-wide)"
+    ],
+    "opportunities": [
+      "Doubled Employment Allowance (to £10,500) partly offsetting NI cost increases",
+      "NCVO and sector bodies pushing for improved funding systems and representation",
+      "Legacy giving forecast to reach £5bn annually by 2030 and double again in real terms by 2050, driven by Baby Boomer wealth transfer"
+    ],
+    "sources": [
+      {
+        "title": "Small charity sector",
+        "publisher": "House of Commons Library",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cdp-2026-0041/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "small charity sector funding and structural challenges"
+      },
+      {
+        "title": "UK charity legacy income predicted to reach £5bn in 2030",
+        "publisher": "Third Sector (citing Legacy Foresight)",
+        "url": "https://www.thirdsector.co.uk/uk-charity-legacy-income-predicted-reach-5bn-2030/fundraising/article/1731256",
+        "date": "2021-10-25",
+        "scope": "UK",
+        "metric": "charity legacy income forecast to 2030 and 2050"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small charities' digital capability and tooling",
+        "description": "Small UK charities lack digital capability and tooling, with 68% still at early stages of digital development and only 44% having a digital strategy.",
+        "sources": [
+          {
+            "title": "2025 Charity Digital Skills Report",
+            "publisher": "Zoe Amar Digital et al.",
+            "url": "https://charitydigitalskills.co.uk/wp-content/uploads/2025/07/Charity-Digital-Skills-Report-2025.pdf",
+            "date": "2025-07",
+            "scope": "United Kingdom",
+            "metric": "68% of small charities at early digital development stage; only 44% have a digital strategy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "GOV.UK's 'Frontier technologies: powering the UK's digital innovation' announcement and techUK's dedicated Quantum and Frontier Compute programmes describe active government and industry investment in quantum computing and other frontier technologies in 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The UK National Quantum Technologies Showcase 2026 and ongoing government frontier-technology initiatives indicate sustained long-term investment in quantum computing and related emerging technology fields.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Long commercialisation timelines for quantum and frontier technologies",
+      "Global competition for talent and investment in frontier tech"
+    ],
+    "opportunities": [
+      "Government-backed National Quantum Technologies programme",
+      "UK quantum computing firms (e.g. Quantinuum, Oxford Ionics) building sector momentum"
+    ],
+    "sources": [
+      {
+        "title": "Frontier technologies: powering the UK's digital innovation",
+        "publisher": "GOV.UK",
+        "url": "https://www.gov.uk/government/news/frontier-technologies-powering-the-uks-digital-innovation",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "government frontier tech policy"
+      },
+      {
+        "title": "UK National Quantum Technologies Showcase 2026",
+        "publisher": "Innovate UK Business Connect",
+        "url": "https://iuk-business-connect.org.uk/events/uk-national-quantum-technologies-showcase-2026/",
+        "date": "2026",
+        "scope": "UK",
+        "metric": "sector showcase event"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Late-stage growth capital for UK deep-tech scale-ups",
+        "description": "The UK leads Europe in deep-tech startup creation but is structurally weak in late-stage investment, forcing scaling companies to seek growth capital abroad.",
+        "sources": [
+          {
+            "title": "UK top European deep tech hub and startup champion but weak at late-stage investment",
+            "publisher": "Royal Academy of Engineering",
+            "url": "https://raeng.org.uk/news/uk-top-european-deep-tech-hub-and-startup-champion-but-weak-at-late-stage-investment/",
+            "date": "2025",
+            "scope": "United Kingdom",
+            "metric": "UK leads Europe in deep-tech company creation but lags significantly in late-stage funding volume"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "rule_id": "L3-MGT-01-AB",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-01",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Get every needed capability covered by someone",
+      "finding": "Significant capabilities the business needs to run — commercial, delivery or technical, or financial — are not covered by anyone.",
+      "consequence": "The business currently has real gaps in what it needs to function, not just areas that could be stronger — without anyone covering these capabilities, that work either isn't happening or is being done by people not suited to it.",
+      "action": "Get every needed capability covered by someone, even if not yet by the most competent available option — whoever is available, even imperfectly, closes the gap of it being covered by no one.",
+      "avoid": "Leaving the most difficult-to-cover capability unaddressed while filling in the easier ones. The hardest gap to fill is often the one causing the most damage left uncovered.",
+      "action_evidence": "Every capability the business needs is covered by someone, even if not yet by someone with strong demonstrated competence in it.",
+      "assessment_evidence": "Re-asked: are capabilities covered by whoever is available, even if not yet demonstrably competent? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-01-BC",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-01",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Get most critical capabilities covered by someone genuinely competent",
+      "finding": "Capabilities are covered by whoever is available, regardless of whether they're actually competent in them.",
+      "consequence": "The business has bodies in every seat, but not necessarily the right skills in each one — coverage that isn't backed by competence can quietly produce poor decisions or poor delivery in areas that look handled.",
+      "action": "Identify the specific capabilities the business needs, and get most of them covered by someone with genuine competence — an owner, employee, contractor, adviser, or outsourced provider.",
+      "avoid": "Assuming whoever is currently doing the work is competent at it simply because they've been doing it for a while. Tenure isn't the same as competence.",
+      "action_evidence": "Most identified critical capabilities are covered by someone with genuine, demonstrable competence in them.",
+      "assessment_evidence": "Re-asked: has the business identified the capabilities it needs, with most covered by someone competent? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-01-CD",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-01",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Close the remaining capability gaps, or put an active plan in motion",
+      "finding": "Most identified critical capabilities are covered by someone competent, but not all of them, and the remaining gaps aren't yet being actively addressed.",
+      "consequence": "The business still has known capability gaps that haven't been closed — even if most of what's needed is covered, the uncovered parts are exactly where problems are likely to surface first.",
+      "action": "Close the remaining critical capability gaps, or put a specific, active plan in motion to address them — not just note that they exist.",
+      "avoid": "Listing the remaining gaps as \"known issues\" without any active plan to close them. Recognizing a gap isn't the same as addressing it.",
+      "action_evidence": "All identified critical capabilities are covered by someone demonstrably competent, or the remaining gaps have an active plan underway to close them.",
+      "assessment_evidence": "Re-asked: are all identified critical capabilities covered by someone competent, with remaining gaps recognized and being addressed? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-01",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-02-AB",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-02",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Clarify who's responsible for what",
+      "finding": "Responsibilities are unclear or overlap in ways that cause things to be missed.",
+      "consequence": "When something falls through the cracks right now, it's often not clear whose job it was to catch it — that ambiguity means the same kind of miss is likely to recur rather than get fixed.",
+      "action": "Clarify, even informally, who's responsible for what, so overlapping or unclear responsibilities stop causing things to be missed.",
+      "avoid": "Assigning responsibility only after something goes wrong, rather than clarifying it up front. Reactive assignment doesn't prevent the next miss.",
+      "action_evidence": "Responsibilities are understood informally by those involved, even without being formally defined yet.",
+      "assessment_evidence": "Re-asked: are responsibilities understood informally, even without being defined? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-02-BC",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-02",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Define responsibilities explicitly",
+      "finding": "Responsibilities are understood informally, but not defined — and accountability is ambiguous when something goes wrong.",
+      "consequence": "Because nothing is formally defined, understanding can quietly drift or be interpreted differently by different people — and when something does go wrong, there's no clear basis for saying whose responsibility it was.",
+      "action": "Define responsibilities explicitly, so they're understood the same way by everyone involved, not just informally assumed.",
+      "avoid": "Defining responsibilities in a document no one actually refers to or was involved in creating. Definition needs genuine shared understanding, not just a written record.",
+      "action_evidence": "Responsibilities are defined and understood consistently by everyone involved.",
+      "assessment_evidence": "Re-asked: are responsibilities defined and understood by those involved? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-02-CD",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-02",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Make named individuals accountable for outcomes, not just activities",
+      "finding": "Responsibilities are defined and understood, but accountability is tied to activities rather than to outcomes — no one is specifically accountable for whether the result was actually achieved.",
+      "consequence": "Being responsible for doing a task is different from being accountable for it working — without outcome accountability, activities can be completed correctly while the actual goal quietly isn't met.",
+      "action": "Name specific individuals as accountable for defined outcomes, not just for the activities that are supposed to produce them.",
+      "avoid": "Naming someone accountable for an outcome in name only, without them actually having the authority or resources to influence it. Accountability needs to come with real ability to affect the result.",
+      "action_evidence": "Named individuals are accountable for specific defined outcomes, not just for completing activities.",
+      "assessment_evidence": "Re-asked: are named individuals accountable for defined outcomes, not only activities? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-02",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-03-AB",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-03",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Name the key-person dependency explicitly",
+      "finding": "Critical knowledge and relationships sit with one person, undocumented and untransferable — if that person became unavailable, the business would substantially stop.",
+      "consequence": "The business currently has a single point of failure in one person's head — an illness, a departure, or even an extended absence would stop the business, not just slow it down.",
+      "action": "At minimum, recognize and name the specific dependency clearly, and start identifying what would need to be documented or shared to reduce it — even before any actual documentation exists.",
+      "avoid": "Acknowledging the dependency exists without taking any concrete first step toward addressing it. Recognition alone doesn't reduce the exposure.",
+      "action_evidence": "The dependency is explicitly recognized and named, even though nothing has been done yet to reduce it.",
+      "assessment_evidence": "Re-asked: is the dependency recognized, even if nothing has been done about it yet? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-03-BC",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-03",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Start documenting or sharing critical knowledge and relationships",
+      "finding": "The key-person dependency is recognized, but nothing has been done about it.",
+      "consequence": "Recognizing the risk without acting on it leaves the business exactly as exposed as before — the single point of failure is now a known one, but still a real one.",
+      "action": "Start documenting or sharing some of the critical knowledge and relationships, so at least parts of the business could continue through an absence.",
+      "avoid": "Documenting only the easiest, least critical knowledge while leaving the genuinely hard-to-transfer relationships and knowledge untouched.",
+      "action_evidence": "Some critical knowledge or relationships are now documented or shared, so parts of the business could continue through an absence.",
+      "assessment_evidence": "Re-asked: is some critical knowledge or relationships documented or shared, so parts of the business could continue? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-03-CD",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-03",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Extend coverage so the business could continue operating through an absence",
+      "finding": "Some critical knowledge and relationships are documented or shared, but not enough for the business to continue operating through the person's absence as a whole.",
+      "consequence": "The business has made real progress, but an absence would still likely disrupt more than the parts already covered — the dependency has been reduced, not yet resolved.",
+      "action": "Extend documentation and sharing to cover the remaining critical knowledge, relationships, and access, so the business could continue operating through an absence, not just partially function.",
+      "avoid": "Treating partial documentation as sufficient because the most obvious pieces are covered. The standard here is the business continuing to operate, not just surviving in a reduced form.",
+      "action_evidence": "Critical knowledge, relationships, and access are documented or shared such that the business could continue operating through the person's absence.",
+      "assessment_evidence": "Re-asked: are critical knowledge, relationships, and access documented or shared such that the business could continue operating through an absence? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-03",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-04-AB",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-04",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Gather information before deciding, even informally",
+      "finding": "Significant decisions are made reactively, without information gathered for the purpose.",
+      "consequence": "Decisions that matter to the business are currently being made without the information that would actually inform them — that's a real risk of getting important calls wrong, not just a process shortcoming.",
+      "action": "Before making a significant decision, at least gather relevant information first, even if the decision still ends up being made by whoever happens to be available at the time.",
+      "avoid": "Gathering information after the decision has effectively already been made, as a formality rather than something that could actually change the outcome.",
+      "action_evidence": "Recent significant decisions show evidence that relevant information was gathered before the decision was made.",
+      "assessment_evidence": "Re-asked: are decisions made by whoever is available, using judgement, but at least informed by gathered information? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-04-BC",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-04",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Identify who should decide, informed by gathered information",
+      "finding": "Decisions are made by whoever is available at the time, on judgement alone.",
+      "consequence": "Who happens to be around currently determines how a significant decision gets made, rather than the decision being made deliberately by whoever is best placed to make it, informed by what they need to know.",
+      "action": "Identify who should make significant decisions, and make sure relevant information is gathered beforehand, rather than leaving it to whoever happens to be available.",
+      "avoid": "Formally naming a decision-maker without changing whether relevant information is actually gathered beforehand. Both parts — who decides, and what they know — matter.",
+      "action_evidence": "Significant decisions are made by identified people, using relevant information gathered beforehand.",
+      "assessment_evidence": "Re-asked: are significant decisions made by identified people, using relevant information gathered beforehand? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-04-CD",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-04",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Record decisions with their reasoning",
+      "finding": "Significant decisions are made by identified people using relevant information, but they aren't recorded with their reasoning — so they can't easily be revisited later.",
+      "consequence": "Without a record of why a decision was made, the business can't easily learn from it later — was the reasoning sound and the outcome just went badly, or was the reasoning itself flawed? Right now there's no way to tell.",
+      "action": "Start recording significant decisions along with their reasoning, so they can be revisited later.",
+      "avoid": "Recording only the decision itself without the reasoning behind it. The reasoning is what makes a past decision useful to revisit.",
+      "action_evidence": "Recent significant decisions are recorded along with the reasoning behind them.",
+      "assessment_evidence": "Re-asked: are significant decisions recorded with their reasoning, so they can be revisited? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-04",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-05-AB",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-05",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 5,
+    "content": {
+      "title": "Stabilize who the business depends on",
+      "finding": "People central to the business leave unexpectedly, or capability gaps persist without being addressed.",
+      "consequence": "The business is currently losing people it depends on unpredictably, or living with capability gaps it isn't closing — either way, its ability to function is more fragile than it should be.",
+      "action": "Address whichever is the more pressing issue — reduce whatever is driving unexpected departures, or start addressing the most significant capability gap — so at least one of the two stabilizes.",
+      "avoid": "Treating turnover and capability gaps as unrelated. Departures sometimes happen specifically because capability gaps go unaddressed and the people covering them burn out.",
+      "action_evidence": "People the business depends on are staying, even if capability development isn't yet being actively considered.",
+      "assessment_evidence": "Re-asked: do people generally stay, even if capability development isn't yet considered? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-05",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-05-BC",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-05",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 5,
+    "content": {
+      "title": "Start recognizing capability needs as they arise",
+      "finding": "People generally stay, but capability development isn't considered.",
+      "consequence": "The business has stability in who's there, but isn't yet building the capability of those people forward — a gap that tends to surface later as the business's needs grow past what the current team can do.",
+      "action": "Start recognizing capability needs as they arise, even if nothing formal is done about developing them yet.",
+      "avoid": "Waiting until a capability gap becomes urgent before recognizing it exists. The construct asks for recognition as needs arise, not after they've become a problem.",
+      "action_evidence": "Capability needs are being recognized as they arise, even without a deliberate development response yet.",
+      "assessment_evidence": "Re-asked: are the people the business depends on stable, with capability needs recognized when they arise? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-05",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-MGT-05-CD",
+    "layer": 3,
+    "dimension": "Management & Team",
+    "source_field": "MGT-05",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 5,
+    "content": {
+      "title": "Deliberately develop capability where needs are recognized",
+      "finding": "Capability needs are recognized when they arise, but capability isn't yet being deliberately developed in response.",
+      "consequence": "The business notices where capability is lacking but isn't yet doing anything systematic about it — recognition without development leaves the same gaps recurring.",
+      "action": "Deliberately develop capability where needs are recognized — through training, mentoring, structured experience, or bringing in outside expertise.",
+      "avoid": "Relying on people to develop capability entirely on their own initiative, without any deliberate support or investment from the business.",
+      "action_evidence": "Capability is being deliberately developed — through training, mentoring, structured experience, or bringing in expertise — in response to recognized needs.",
+      "assessment_evidence": "Re-asked: is capability deliberately developed in response to recognized needs? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MGT-05",
+      "minimum_level": "D"
+    }
+  }
+]

@@ -1,0 +1,2379 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's agriculture sector continues to grow alongside overall GDP growth of 6-7% in 2025-2026, with World Bank and USDA reporting continued diversification away from raw cotton toward textiles and horticulture (fruits, vegetables) for export. Cotton-to-textile cluster reforms have expanded processing capacity and export value.",
+      "evidenceDate": "2025-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "World Bank programs on horticulture and cotton-textile cluster modernization aim to sustain long-term value-chain growth, but long-run productivity is constrained by water scarcity and climate stress in the Aral Sea basin, requiring continued irrigation and climate-adaptation investment.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Water scarcity and Aral Sea basin degradation threatening irrigation-dependent output",
+      "Climate-driven drought and rising temperatures reducing yields"
+    ],
+    "opportunities": [
+      "Horticulture export expansion supported by World Bank financing",
+      "Cotton-to-textile value chain upgrading increasing export value per unit"
+    ],
+    "sources": [
+      {
+        "title": "Weaving a New Future in Uzbekistan's Cotton Sector",
+        "publisher": "World Bank",
+        "url": "https://www.worldbank.org/en/news/feature/2025/05/27/weaving-a-new-future-in-uzbekistan-s-cotton-sector",
+        "date": "2025-05",
+        "scope": "Uzbekistan",
+        "metric": "cotton-textile cluster development"
+      },
+      {
+        "title": "From Root to Fruit: Growing the Horticulture Sector in Uzbekistan",
+        "publisher": "World Bank",
+        "url": "https://www.worldbank.org/en/results/2025/04/15/from-root-to-fruit-growing-the-horticulture-sector-in-uzbekistan",
+        "date": "2025-04",
+        "scope": "Uzbekistan",
+        "metric": "horticulture sector growth results"
+      },
+      {
+        "title": "Uzbekistan: Cotton and Products Annual",
+        "publisher": "USDA Foreign Agricultural Service",
+        "url": "https://www.fas.usda.gov/data/gain/2026/05/uzbekistan-cotton-and-products-annual",
+        "date": "2026-05",
+        "scope": "Uzbekistan",
+        "metric": "cotton production and trade"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Mid-size and smallholder fruit/vegetable exporters lack affordable cold storage and post-harvest handling, with existing capacity covering only about 4.5% of production.",
+        "sources": [
+          {
+            "title": "Uzbekistan faces cold storage capacity shortage for fruit and veg preservation",
+            "publisher": "FreshPlaza",
+            "url": "https://www.freshplaza.com/asia/article/9660616/uzbekistan-faces-cold-storage-capacity-shortage-for-fruit-and-veg-preservation/",
+            "date": "2024-01",
+            "scope": "Uzbekistan",
+            "metric": "Cold storage facility count, total capacity vs. required capacity, post-harvest loss rate"
+          }
+        ],
+        "subSector": "Cold storage & post-harvest handling for horticultural exporters"
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Gold remains Uzbekistan's dominant export commodity, accounting for roughly 53% of total exports in 2025 per trade data, and the government plans to raise gold production to 175 tonnes by 2030. Uzbekistan is increasingly discussed as a potential critical-minerals hub given its copper, uranium and rare-earth potential.",
+      "evidenceDate": "2025-12"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Government plans to expand gold output and international interest (e.g. Global Trade Review coverage) in Uzbekistan's critical minerals point to continued medium-term investment in mining, though this remains commodity-price dependent.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "High dependence on gold price volatility for export revenue",
+      "Long lead times and capital intensity for new critical-mineral projects"
+    ],
+    "opportunities": [
+      "Critical minerals (copper, rare earths, uranium) development attracting foreign interest",
+      "Planned gold production increase to 175 tonnes by 2030"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan export data revealed top exports at $10.81B in 2025, with gold drove 52.94% share",
+        "publisher": "Tradeint",
+        "url": "https://tradeint.com/insights/uzbekistan-export-data/",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "export composition"
+      },
+      {
+        "title": "Uzbekistan plans to raise gold production to 175 tons by 2030",
+        "publisher": "Kun.uz",
+        "url": "https://m.kun.uz/en/news/2025/12/26/uzbekistan-plans-to-raise-gold-production-to-175-tons-by-2030",
+        "date": "2025-12",
+        "scope": "Uzbekistan",
+        "metric": "gold production target"
+      },
+      {
+        "title": "Uzbekistan: The next critical minerals hub?",
+        "publisher": "Global Trade Review",
+        "url": "https://www.gtreview.com/magazine/the-commodities-issue-2025/uzbekistan-the-next-critical-minerals-hub/",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "critical minerals investment outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "On-site ore processing & safety support for artisanal gold miners",
+        "description": "Artisanal gold miners lack on-site ore processing, plus documented safety equipment, training and environmental-mitigation services, relying instead on external washing plants.",
+        "sources": [
+          {
+            "title": "Uzbekistan's Gold Mining Aims to Replace Labour Migration",
+            "publisher": "The Times of Central Asia",
+            "url": "https://timesca.com/uzbekistans-gold-mining-aims-to-replace-labour-migration/",
+            "date": "2025",
+            "scope": "Uzbekistan",
+            "metric": "Artisanal miner earnings, daily gold output per site, reliance on external processing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan has drawn nearly $35 billion in energy investment and continues large-scale capacity additions (including 6.7 GW of new capacity by 2026, of which 2.5 GW thermal), alongside rapid renewable buildout. The government targets 50% renewable share in the power mix by 2030.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IEA's Solar Energy Policy roadmap and continued large foreign investment (including Saudi and Japanese partnerships) support sustained expansion of generation capacity and renewables through 2030, though execution risk on the 50% renewable target remains.",
+      "evidenceDate": "2026-05"
+    },
+    "risks": [
+      "Execution risk on the ambitious 50% renewables-by-2030 target",
+      "Continued reliance on thermal capacity additions alongside renewables"
+    ],
+    "opportunities": [
+      "Nearly $35B in energy investment attracting further foreign capital",
+      "Solar and wind roadmap backed by IEA analysis and international partners"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan draws nearly $35 billion in energy investment, targets 50% renewables by 2030",
+        "publisher": "Kun.uz",
+        "url": "https://kun.uz/en/news/2026/05/14/uzbekistan-draws-nearly-35-billion-in-energy-investment-targets-50-renewables-by-2030",
+        "date": "2026-05",
+        "scope": "Uzbekistan",
+        "metric": "energy investment and renewables target"
+      },
+      {
+        "title": "Solar Energy Policy in Uzbekistan: A Roadmap",
+        "publisher": "IEA",
+        "url": "https://www.iea.org/reports/solar-energy-policy-in-uzbekistan-a-roadmap/context-of-renewable-energy-in-uzbekistan",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "renewable energy policy roadmap"
+      },
+      {
+        "title": "Uzbekistan plans 6.7 GW of new capacity, including 2.5 GW thermal, by 2026",
+        "publisher": "Enerdata",
+        "url": "https://www.enerdata.net/publications/daily-energy-news/uzbekistan-plans-67-gw-new-capacity-including-25-gw-thermal-2026.html",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "planned generation capacity"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Households and small businesses lack dependable winter electricity, as recurring gas shortages force scheduled blackouts.",
+        "sources": [
+          {
+            "title": "Uzbek National Electricity Control Center Says Gas Shortage May Cause Blackouts Across The Country",
+            "publisher": "RFE/RL",
+            "url": "https://www.rferl.org/a/uzbekistan-gas-shortage-power-cuts/32132084.html",
+            "date": "2022-11",
+            "scope": "Uzbekistan",
+            "metric": "Power plant units offline, cross-border blackout risk"
+          },
+          {
+            "title": "Uzbekistan Announces New Electricity Rationing Amid Power Shortages",
+            "publisher": "The Times of Central Asia",
+            "url": "https://timesca.com/uzbekistan-announces-new-electricity-rationing-amid-power-shortages/",
+            "date": "2026",
+            "scope": "Uzbekistan",
+            "metric": "Gas intake cut and rationing schedule"
+          }
+        ],
+        "subSector": "Reliable winter power supply for households and small businesses"
+      },
+      {
+        "subSector": "Backup/dedicated heating fuel systems for commercial greenhouse operators",
+        "description": "Commercial greenhouse operators lack backup heating fuel systems, forcing many onto coal or used tires when natural gas is curtailed.",
+        "sources": [
+          {
+            "title": "Uzbekistan's greenhouses struggle with energy crisis: can sustainable solutions help?",
+            "publisher": "Hortidaily",
+            "url": "https://www.hortidaily.com/article/9715102/uzbekistan-s-greenhouses-struggle-with-energy-crisis-can-sustainable-solutions-help/",
+            "date": "2022",
+            "scope": "Uzbekistan",
+            "metric": "Share of greenhouses requiring heating; share of gas-dependent greenhouses; share of operators in financial distress"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Water and power utility investment is being driven by climate adaptation programs (ADB's Aral Sea basin water resources management project) and large energy capacity expansion, indicating active infrastructure modernization in the near term.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Long-term utility sustainability faces structural water-stress pressure in Central Asia, per Times of Central Asia reporting on 2026 water stress, even as international financing (ADB, UNDP) supports modernization of water governance and infrastructure.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Water stress across Central Asia straining utility supply reliability",
+      "High capital needs for aging Soviet-era infrastructure upgrades"
+    ],
+    "opportunities": [
+      "ADB and UNDP financing for water resources management and governance",
+      "Energy capacity expansion supporting broader utility modernization"
+    ],
+    "sources": [
+      {
+        "title": "Climate Adaptive Water Resources Management in the Aral Sea Basin Sector Project",
+        "publisher": "Asian Development Bank",
+        "url": "https://www.adb.org/projects/53120-001/main",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "water infrastructure investment"
+      },
+      {
+        "title": "Water Stress: Will the Summer of 2026 Become a Turning Point for Central Asia?",
+        "publisher": "The Times of Central Asia",
+        "url": "https://timesca.com/water-stress-will-the-summer-of-2026-become-a-turning-point-for-central-asia/",
+        "date": "2026",
+        "scope": "regional",
+        "metric": "water stress outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Households in mid-size cities like Andijan, Bukhara, Chirchik and Samarkand lack efficient, well-maintained district heating due to high losses and under-investment.",
+        "sources": [
+          {
+            "title": "Uzbekistan | Keeping Urban Dwellers Warm",
+            "publisher": "World Bank / ESMAP",
+            "url": "https://www.esmap.org/uzbekistan_keeping_urban_dwellers_warm",
+            "date": "2018",
+            "scope": "Uzbekistan",
+            "metric": "District heating system condition and beneficiary population"
+          }
+        ],
+        "subSector": "District heating service quality for households in mid-size cities"
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Manufacturing benefits from the cotton-to-textile cluster upgrade program (World Bank) and broader industrial diversification supported by 6-7% GDP growth, per World Bank and ADB 2025-2026 growth reporting on Uzbekistan.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "ADB projects economic growth to remain strong in 2026-2027, supported by reforms and investment, which is expected to continue benefiting industrial and manufacturing diversification beyond raw commodity exports.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Dependence on continued reform momentum and foreign investment inflows",
+      "Global trade and commodity price volatility affecting industrial input costs"
+    ],
+    "opportunities": [
+      "Textile cluster value-chain upgrading increasing manufactured export value",
+      "Reform-driven investment climate improvements attracting industrial FDI"
+    ],
+    "sources": [
+      {
+        "title": "ADB: Uzbekistan's Economic Growth to Remain Strong in 2026-2027, Supported by Reforms and Investment",
+        "publisher": "Asian Development Bank",
+        "url": "https://www.adb.org/news/adb-uzbekistan-economic-growth-remain-strong-2026-2027-supported-reforms-and-investment",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "GDP growth and investment outlook"
+      },
+      {
+        "title": "Weaving a New Future in Uzbekistan's Cotton Sector",
+        "publisher": "World Bank",
+        "url": "https://www.worldbank.org/en/news/feature/2025/05/27/weaving-a-new-future-in-uzbekistan-s-cotton-sector",
+        "date": "2025-05",
+        "scope": "Uzbekistan",
+        "metric": "textile manufacturing cluster development"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Equipment leasing for manufacturing SMEs",
+        "description": "Manufacturing SMEs in Uzbekistan lack access to equipment leasing; the leasing sector was under 1% of GDP in 2013-2017, less than half the median for peer-income countries.",
+        "sources": [
+          {
+            "title": "Small and Medium-Sized Enterprise Finance in Uzbekistan: Challenges and Opportunities (ADBI Working Paper 997)",
+            "publisher": "Asian Development Bank Institute",
+            "url": "https://www.adb.org/sites/default/files/publication/524081/adbi-wp997.pdf",
+            "date": "2019",
+            "scope": "Uzbekistan",
+            "metric": "Leasing sector <1% of GDP (2013-2017) vs. more than double that in peer-income countries; 96.5% of SME loans require collateral"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "GlobalData and ResearchAndMarkets project the Uzbekistan construction market to grow at an average annual rate of 5.2% during 2026-2029, and real estate transaction volumes rose 12% amid mortgage growth per ICCI reporting.",
+      "evidenceDate": "2025-09"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Construction market outlook reports forecast continued mid-single-digit annual growth through 2029, supported by rising real estate demand, mortgage expansion, and infrastructure investment across regions.",
+      "evidenceDate": "2025-09"
+    },
+    "risks": [
+      "Rising property prices could outpace affordability and mortgage capacity",
+      "Construction sector growth dependent on continued credit availability"
+    ],
+    "opportunities": [
+      "5.2% average annual construction market growth forecast 2026-2029",
+      "12% rise in real estate transactions supported by expanding mortgage market"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan Construction Market Outlook Report 2025",
+        "publisher": "ResearchAndMarkets/BusinessWire",
+        "url": "https://secure.businesswire.com/news/home/20250509879763/en/Uzbekistan-Construction-Market-Outlook-Report-2025-Average-Annual-Growth-Rate-of-5.2-Forecast-During-2026-2029---ResearchAndMarkets.com",
+        "date": "2025-05",
+        "scope": "Uzbekistan",
+        "metric": "construction market growth forecast"
+      },
+      {
+        "title": "The number of real estate transactions in Uzbekistan increased by 12% amid a mortgage growth",
+        "publisher": "ICCI",
+        "url": "https://icci.uz/en/news/the-number-of-real-estate-transactions-in-uzbekistan-increased-by-12-amid-a-mortgage-growth",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "real estate transaction growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Independent quality inspection for affordable rural housing buyers",
+        "description": "Buyers in Uzbekistan's ADB-financed rural affordable-housing program report structural, plumbing and heating defects, and 60% distrust the complaint system enough not to report them.",
+        "sources": [
+          {
+            "title": "In Uzbekistan, Residents Complain of Poor Quality in Rural Housing Projects",
+            "publisher": "The Diplomat",
+            "url": "https://thediplomat.com/2023/12/in-uzbekistan-residents-complain-of-poor-quality-in-rural-housing-projects/",
+            "date": "December 2023",
+            "scope": "Uzbekistan",
+            "metric": "29,000 units across nine regions; ~50-owner monitoring sample; 60% of residents believe complaints would be ineffective"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The Central Bank of Uzbekistan's Q3 2025 real estate market analysis and ICCI reporting indicate rising activity and prices across regions, with transactions up 12% amid mortgage growth, and Russian developers entering the market per Yakov and Partners.",
+      "evidenceDate": "2025-09"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Zamin.uz reports the real estate market experiencing rapid growth into 2026, with rising prices and activity nationwide, though sustainability depends on continued mortgage market expansion and macroeconomic stability.",
+      "evidenceDate": "2026-04"
+    },
+    "risks": [
+      "Rapid price appreciation could create affordability pressure",
+      "Market growth partly reliant on foreign developer inflows sensitive to regional conditions"
+    ],
+    "opportunities": [
+      "Foreign (including Russian) developers entering the market",
+      "Mortgage market growth expanding transaction volumes nationwide"
+    ],
+    "sources": [
+      {
+        "title": "Real estate market analysis Q3 2025",
+        "publisher": "Central Bank of the Republic of Uzbekistan",
+        "url": "https://cbu.uz/en/press_center/releases/3181429/",
+        "date": "2025-09",
+        "scope": "Uzbekistan",
+        "metric": "real estate market trends"
+      },
+      {
+        "title": "The real estate market in Uzbekistan is experiencing rapid growth",
+        "publisher": "Zamin.uz",
+        "url": "https://zamin.uz/en/uzbekistan/196548-the-real-estate-market-in-uzbekistan-is-experiencing-rapid-growth.html",
+        "date": "2026-04",
+        "scope": "Uzbekistan",
+        "metric": "real estate market growth"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Households outside roughly the top 30% income bracket lack accessible mortgage financing products.",
+        "sources": [
+          {
+            "title": "Uzbekistan Housing Sector and Demand Analysis (TA 51348-005)",
+            "publisher": "Asian Development Bank",
+            "url": "https://www.adb.org/sites/default/files/linked-documents/51348-005-ld-02.pdf",
+            "date": "2022",
+            "scope": "Uzbekistan",
+            "metric": "Annual housing demand vs. construction volume, mortgage affordability threshold"
+          }
+        ],
+        "subSector": "Affordable mortgage financing for middle- and lower-income households"
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The World Bank is supporting Uzbekistan to modernize transport infrastructure and reform the sector (announced March 2026), and Uzbekistan is developing new rail links to strengthen its Eurasian transit role per Euronews.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's transport strategy and new rail corridor projects (including with Kazakhstan) position the country as a growing Central Asian logistics and transit hub, with continued World Bank and regional partner support.",
+      "evidenceDate": "2026-01"
+    },
+    "risks": [
+      "Large infrastructure financing needs and execution risk on multi-country rail projects",
+      "Regional competition from Kazakhstan as a logistics hub"
+    ],
+    "opportunities": [
+      "World Bank-backed transport sector reform and modernization program",
+      "New Eurasian rail links strengthening transit trade revenue"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan to Modernize Transport Infrastructure and Reform the Sector with Support from the World Bank",
+        "publisher": "World Bank",
+        "url": "https://www.worldbank.org/en/news/press-release/2026/03/23/uzbekistan-to-modernize-transport-infrastructure-and-reform-the-sector-with-support-from-the-world-bank",
+        "date": "2026-03",
+        "scope": "Uzbekistan",
+        "metric": "transport infrastructure investment"
+      },
+      {
+        "title": "Uzbekistan develops new rail links to strengthen Eurasian transit role",
+        "publisher": "Euronews",
+        "url": "https://www.euronews.com/business/2026/01/21/uzbekistan-develops-new-rail-links-to-strengthen-eurasian-transit-role",
+        "date": "2026-01",
+        "scope": "Uzbekistan",
+        "metric": "rail infrastructure expansion"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Safe transport employment and access for women bus riders/drivers",
+        "description": "Only 2 of roughly 2,000 urban bus drivers in Uzbekistan are women, despite a February 2024 regulation removing the ban on women driving buses over 2.5 tons.",
+        "sources": [
+          {
+            "title": "Empowering Women, Greening Urban Transport in Uzbekistan",
+            "publisher": "Asian Development Bank / Development Asia",
+            "url": "https://development.asia/insight/empowering-women-greening-urban-transport-uzbekistan",
+            "date": "2025",
+            "scope": "Uzbekistan",
+            "metric": "2 of ~2,000 bus drivers are women; women are 35% of the transport workforce overall"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's logistics push aims to turn transit growth into revenue per Times of Central Asia, with new contracts signed with Kazakhstan for large-scale logistics infrastructure in 2026.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan is positioning itself as a competing Central Asian logistics hub against Kazakhstan, backed by rail corridor development and transit strategy investment, though the outcome of that competition remains uncertain.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Competition with Kazakhstan for regional logistics hub status",
+      "Dependence on multi-country coordination for transit corridor success"
+    ],
+    "opportunities": [
+      "Kazakhstan-Uzbekistan logistics infrastructure contract signed 2026",
+      "Growing transit trade volume across new rail links"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan's Logistics Push Aims to Turn Transit Growth into Revenue",
+        "publisher": "The Times of Central Asia",
+        "url": "https://timesca.com/uzbekistans-logistics-push-aims-to-turn-transit-growth-into-revenue/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "logistics/transit revenue strategy"
+      },
+      {
+        "title": "Kazakhstan and Uzbekistan sign contract for large-scale logistics infrastructure project",
+        "publisher": "RailFreight.com",
+        "url": "https://www.railfreight.com/railfreight/2026/03/05/kazakhstan-and-uzbekistan-sign-contract-for-large-scale-logistics-infrastructure-project/",
+        "date": "2026-03",
+        "scope": "regional",
+        "metric": "logistics infrastructure investment"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Food exporters and producers lack sufficient refrigerated trucking and contract cold-storage capacity, causing significant spoilage.",
+        "sources": [
+          {
+            "title": "Uzbekistan faces cold storage capacity shortage for fruit and veg preservation",
+            "publisher": "FreshPlaza",
+            "url": "https://www.freshplaza.com/asia/article/9660616/uzbekistan-faces-cold-storage-capacity-shortage-for-fruit-and-veg-preservation/",
+            "date": "2024-01",
+            "scope": "Uzbekistan",
+            "metric": "Cold storage capacity vs. horticultural production/export volume and post-harvest loss rate"
+          }
+        ],
+        "subSector": "Refrigerated trucking & contract cold storage for food exporters"
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Wholesale trade turnover reached 209.4 trillion soums in January-May 2026, up 15.4% year-on-year, with 55,216 operating wholesale enterprises, according to the National Statistics Committee of Uzbekistan.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan launched a National Trade Facilitation Roadmap for 2025-2030 (with UNECE support) aimed at boosting regional trade leadership, and the 'Uzbekistan-2030' strategy targets deeper integration into the global economy and expansion of the private sector, providing a structural tailwind for wholesale and distribution activity, though sector-specific long-term forecasts remain limited.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Sector growth dependent on continued consumer demand and import trade flows",
+      "Long-term trade facilitation gains depend on execution of the 2025-2030 roadmap and broader reform follow-through"
+    ],
+    "opportunities": [
+      "15.4% year-on-year wholesale trade turnover growth in early 2026",
+      "Expanding enterprise base (55,216 wholesale operators)",
+      "National Trade Facilitation Roadmap 2025-2030 targeting regional trade leadership"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan Retail Trade Turnover Reaches 210.2 Trillion Soums in First Five Months of 2026",
+        "publisher": "IndexBox (citing National Statistics Committee of Uzbekistan)",
+        "url": "https://www.indexbox.io/blog/uzbekistan-retail-trade-turnover-reaches-2102-trillion-soums-in-first-five-months-of-2026/",
+        "date": "2026-05",
+        "scope": "Uzbekistan",
+        "metric": "wholesale and retail trade turnover growth"
+      },
+      {
+        "title": "Uzbekistan launches National Trade Facilitation Roadmap 2025-2030 to boost regional trade leadership",
+        "publisher": "UNECE",
+        "url": "https://unece.org/speca/news/uzbekistan-launches-national-trade-facilitation-roadmap-2025-2030-boost-regional-trade",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "national trade facilitation strategy 2025-2030"
+      },
+      {
+        "title": "Uzbekistan-2030 strategy: How the country reshapes its economy through reform, global investment",
+        "publisher": "Trend.Az",
+        "url": "https://www.trend.az/business/4190970.html",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "national economic diversification and trade strategy"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Cold-chain storage & distribution for smallholder fruit & vegetable farmers",
+        "description": "Smallholder fruit and vegetable growers lack adequate cold-chain storage and distribution, with existing capacity covering only about 4.9% of annual production.",
+        "sources": [
+          {
+            "title": "Rising fruit and vegetable exports and production drive the need to expand cold storage in Uzbekistan",
+            "publisher": "FreshPlaza",
+            "url": "https://www.freshplaza.com/asia/article/9778399/rising-fruit-and-vegetable-exports-and-production-drive-the-need-to-expand-cold-storage-in-uzbekistan/",
+            "date": "2025-10",
+            "scope": "Uzbekistan",
+            "metric": "Cold storage capacity vs. production/export volume and required expansion shortfall"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Retail trade turnover reached 210.2 trillion soums in the first five months of 2026, up 20.7% year-on-year, per the National Statistics Committee of Uzbekistan, and the government is targeting an 11% e-commerce share of retail in 2026.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Retail modernization and e-commerce expansion continue as structural trends, though academic analysis (e.g. European Journal of Economic Dynamics and Policy) notes the market remains at an early development stage relative to regional peers.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "E-commerce infrastructure and logistics still maturing relative to regional peers",
+      "Retail growth dependent on continued consumer income growth"
+    ],
+    "opportunities": [
+      "20.7% year-on-year retail trade turnover growth in early 2026",
+      "Government target of 11% e-commerce share of retail by 2026"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan Retail Trade Turnover Reaches 210.2 Trillion Soums in First Five Months of 2026",
+        "publisher": "IndexBox (citing National Statistics Committee of Uzbekistan)",
+        "url": "https://www.indexbox.io/blog/uzbekistan-retail-trade-turnover-reaches-2102-trillion-soums-in-first-five-months-of-2026/",
+        "date": "2026-05",
+        "scope": "Uzbekistan",
+        "metric": "retail trade turnover growth"
+      },
+      {
+        "title": "Uzbekistan Targets 11% E-Commerce Share in 2026 as Digital Growth Accelerates",
+        "publisher": "WORLDEF",
+        "url": "https://worldef.com/2026/04/10/uzbekistan-ecommerce-growth-2026/",
+        "date": "2026-04",
+        "scope": "Uzbekistan",
+        "metric": "e-commerce market share target"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Shoppers outside Tashkent lack meaningful supermarket or chain grocery retail, as modern retail covers only around 6% of national trade.",
+        "sources": [
+          {
+            "title": "The share of modern retail in the market of Uzbekistan will almost double by 2026 - forecast",
+            "publisher": "EastFruit",
+            "url": "https://east-fruit.com/en/horticulture-market/studies/the-share-of-modern-retail-in-the-market-of-uzbekistan-will-almost-double-by-2026-forecast/",
+            "date": "2024",
+            "scope": "Uzbekistan",
+            "metric": "Modern retail share of total retail trade, national vs. Tashkent vs. regions"
+          }
+        ],
+        "subSector": "Organized grocery retail (supermarkets) for shoppers outside Tashkent"
+      }
+    ]
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The IMF's 2026 Article IV Consultation and Financial Sector Assessment Program (FSAP) reviewed Uzbekistan's financial system stability, while the government has unveiled a fintech plan targeting $1 billion in investment, indicating active sector development.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMF's Financial System Stability Assessment (2025) and continued Article IV engagement point to an evolving but stabilizing banking and financial sector, with fintech development being actively promoted by government policy through 2026 and beyond.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Banking sector stability risks flagged in IMF's Financial Sector Assessment Program",
+      "Fintech investment targets dependent on continued regulatory and policy follow-through"
+    ],
+    "opportunities": [
+      "Government fintech plan targeting $1 billion in investment",
+      "IMF-supported financial sector reform improving system stability"
+    ],
+    "sources": [
+      {
+        "title": "Republic of Uzbekistan: Financial Sector Assessment Program-Financial System Stability Assessment",
+        "publisher": "IMF",
+        "url": "https://www.elibrary.imf.org/view/journals/002/2025/145/article-A001-en.xml",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "financial system stability assessment"
+      },
+      {
+        "title": "Uzbekistan unveils fintech plan to draw USD $1 billion",
+        "publisher": "IT Brief Asia",
+        "url": "https://itbrief.asia/story/uzbekistan-unveils-fintech-plan-to-draw-usd-1-billion",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "fintech investment target"
+      },
+      {
+        "title": "Uzbekistan: Staff Concluding Statement of the 2026 Article IV Mission",
+        "publisher": "IMF",
+        "url": "https://www.imf.org/en/news/articles/2026/04/13/mcs041326-uzbekistan",
+        "date": "2026-04",
+        "scope": "Uzbekistan",
+        "metric": "macro-financial outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Microenterprises, women-owned and climate-related businesses lack collateral-free lending products, leaving an estimated $10.5 billion in unmet MSME credit demand.",
+        "sources": [
+          {
+            "title": "Uzbekistan's Credit Gap Is Huge: IFC Is Testing a New Way Through",
+            "publisher": "Devdiscourse (citing IFC)",
+            "url": "https://www.devdiscourse.com/article/business/3953343-uzbekistans-credit-gap-is-huge-ifc-is-testing-a-new-way-through",
+            "date": "2026-07",
+            "scope": "Uzbekistan",
+            "metric": "Unmet MSME credit demand ($bn) by underserved borrower segment"
+          }
+        ],
+        "subSector": "Collateral-free credit for microenterprises, women-owned and climate-related businesses"
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's insurance market grew 37.8% in 2025 and expanded 46% in the first half of 2025 per Frank.uz and UzDaily reporting, with premiums surging according to Business Insurance.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Trend.Az reports the insurance market has grown more than 3.5 times over five years, indicating a sustained multi-year expansion trend from a low base, though the market remains small relative to GDP.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Market remains small and underpenetrated relative to GDP",
+      "High growth rates from a low base may not be sustainable long-term"
+    ],
+    "opportunities": [
+      "Insurance premiums up 37.8% in 2025, indicating strong demand growth",
+      "Market has grown 3.5x over five years, signaling structural expansion"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan's Insurance Market Grows 37.8% in 2025",
+        "publisher": "UzDaily",
+        "url": "https://www.uzdaily.uz/en/uzbekistans-insurance-market-grows-378-in-2025/",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "insurance premium growth"
+      },
+      {
+        "title": "Uzbekistan's insurance market grows more than 3.5 times in five years",
+        "publisher": "Trend.Az",
+        "url": "https://www.trend.az/business/finance/4201475.html",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "5-year insurance market growth"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Smallholder fruit and vegetable farmers lack accessible crop insurance, which is effectively limited to large farms with bank loans.",
+        "sources": [
+          {
+            "title": "Feasibility study: Insurance of fruits and vegetables in Uzbekistan",
+            "publisher": "InsuResilience Solutions Fund",
+            "url": "https://insuresilience-solutions-fund.org/wp-content/uploads/2025/03/2022_UZ-Report.pdf",
+            "date": "2022",
+            "scope": "Uzbekistan",
+            "metric": "Smallholder horticulture insurance coverage/uptake and farmer willingness-to-pay"
+          }
+        ],
+        "subSector": "Crop insurance for smallholder fruit & vegetable farmers"
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IT Park Uzbekistan reports record growth in service exports (May 2026), technology services exports surpassing $1 billion, and IT Park now hosting more than 3,800 resident companies including over 1,000 international businesses per Global Business Services Forum 2026 coverage.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Government reporting (gov.uz) and IT Park data show a sustained multi-year trend of IT sector growth and export diversification, with a nearly $5 billion data center investment near IT Park signaling long-term commitment to AI/digital infrastructure, positioning Uzbekistan as a growing regional IT services hub.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Sector growth concentrated in a government-sponsored IT Park framework, creating policy dependency",
+      "Global IT services demand volatility could affect export growth",
+      "Rising skilled-labor costs (60%+ of candidates expect 20%+ pay increases when switching jobs)"
+    ],
+    "opportunities": [
+      "Record IT service export growth, surpassing $1 billion",
+      "3,800+ resident IT Park companies including 1,000+ international firms",
+      "Nearly $5 billion data center investment near IT Park"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan IT Park Service Exports Reach Record Growth",
+        "publisher": "Zamin.uz",
+        "url": "https://zamin.uz/en/economy/203871-uzbekistan-it-park-service-exports-reach-record-growth.html",
+        "date": "2026-05",
+        "scope": "Uzbekistan",
+        "metric": "IT service export growth"
+      },
+      {
+        "title": "GBSF 2026 Highlights Uzbekistan's Push for Global Business Services and AI",
+        "publisher": "The Times of Central Asia",
+        "url": "https://timesca.com/gbsf-2026-highlights-uzbekistans-push-for-global-business-services-and-ai/",
+        "date": "2026-07",
+        "scope": "Uzbekistan",
+        "metric": "IT Park resident companies and tech exports"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable digital payments & credit-scoring tools for micro-merchants",
+        "description": "Uzbekistan's roughly 2 million self-employed individuals and micro-merchants lack low-cost digital payment and credit-scoring tools.",
+        "sources": [
+          {
+            "title": "MayaSoft: Digitizing payments and unlocking credit for Uzbekistan's small businesses",
+            "publisher": "Mastercard Strive",
+            "url": "https://www.mastercardstrive.org/programs/mayasoft-uzbekistan",
+            "date": "2025",
+            "scope": "Uzbekistan",
+            "metric": "POS terminal count/utilization, hardware cost and settlement delay, self-employed population size"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan is building two national AI clusters by 2026 (combined ~1 megawatt computing capacity) with NVIDIA partnership, and launched a $3 million Industrial AI Excellence Center in 2026 focused on robotics, digital twins and industrial automation, per Times of Central Asia reporting.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan adopted a Strategy for the Development of Artificial Intelligence Technologies until 2030 (approved 2024, tracked by OECD.AI), and the president has publicly pushed to expand AI use across the economy, indicating a sustained multi-year national AI push.",
+      "evidenceDate": "2024"
+    },
+    "risks": [
+      "Execution risk on ambitious national AI infrastructure targets",
+      "Dependence on foreign technology partners (e.g. NVIDIA) for compute capacity"
+    ],
+    "opportunities": [
+      "NVIDIA-backed AI Excellence Center and two national AI clusters by 2026",
+      "$3 million Industrial AI Excellence Center for robotics and digital twins",
+      "National AI strategy through 2030 providing policy continuity"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan Deepens U.S. Partnership Through New Investment Council and National AI Strategy",
+        "publisher": "The Times of Central Asia",
+        "url": "https://timesca.com/uzbekistan-deepens-u-s-partnership-through-new-investment-council-and-national-ai-strategy/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "national AI infrastructure investment"
+      },
+      {
+        "title": "The Strategy for the Development of Artificial Intelligence Technologies until 2030",
+        "publisher": "OECD.AI",
+        "url": "https://oecd.ai/en/dashboards/policy-initiatives/the-strategy-for-the-development-of-artificial-intelligence-technologies-until-2030",
+        "date": "2024",
+        "scope": "Uzbekistan",
+        "metric": "national AI strategy"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Local AI/NLP startups lack affordable compute and labeled Uzbek-language datasets, facing cloud costs of $20,000+/month.",
+        "sources": [
+          {
+            "title": "Uzbekistan Aims to Become a Regional Leader in Artificial Intelligence, but SMEs Face Significant Barriers",
+            "publisher": "UzDaily",
+            "url": "https://www.uzdaily.uz/en/uzbekistan-aims-to-become-a-regional-leader-in-artificial-intelligence-but-smes-face-significant-barriers/",
+            "date": "2026-02",
+            "scope": "Uzbekistan",
+            "metric": "AI startup compute costs, Uzbek-language dataset availability, comparative AI venture funding"
+          }
+        ],
+        "subSector": "Affordable compute & Uzbek-language datasets for local AI/NLP startups"
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Saudi Arabia's DataVolt raised $150 million for Uzbekistan's largest AI-ready data centre (10MW, with plans for a 250MW campus and 40MW facility), and Uzbekistan announced a further carbon-free data center project with Saudi partners in 2026, per DataCenterDynamics and The Source Code.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan is building a 'sovereign cloud' and positioning itself alongside Kazakhstan as a regional destination for AI and digital infrastructure investment, per Frank.uz and w.media reporting, indicating a sustained multi-year data infrastructure buildout.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High capital intensity and long lead times for large-scale data center projects",
+      "Regional competition with Kazakhstan for AI/digital infrastructure investment"
+    ],
+    "opportunities": [
+      "$150 million DataVolt AI-ready data centre investment with expansion plans (250MW campus)",
+      "Nearly $5 billion data center investment near IT Park",
+      "Sovereign cloud development initiative"
+    ],
+    "sources": [
+      {
+        "title": "DataVolt Raises $150m for AI-Ready Uzbekistan Data Centre",
+        "publisher": "The Source Code",
+        "url": "https://www.the-sourcecode.com/data-infrastructure/datavolt-150m-financing-uzbekistan-data-centre",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "AI data center investment"
+      },
+      {
+        "title": "Uzbekistan to build 'carbon-free' data center with Saudi partners",
+        "publisher": "Data Center Dynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/uzbekistan-to-build-carbon-free-data-center-with-saudi-partners/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "data center infrastructure investment"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Basic digital/data presence tools for formal private firms",
+        "description": "Only 26% of formal private firms in Uzbekistan maintain a website, versus a 63% average across Europe and Central Asia, constraining firms' ability to collect and use business data.",
+        "sources": [
+          {
+            "title": "Digital Economy of Uzbekistan: The State of Digital Entrepreneurship",
+            "publisher": "UNDP",
+            "url": "https://www.undp.org/sites/g/files/zskgke326/files/2025-05/uz_digital-economy-study_eng.pdf",
+            "date": "May 2025",
+            "scope": "Uzbekistan",
+            "metric": "26% of formal private firms have a website vs. 63% Europe/Central Asia average"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan adopted a national cybersecurity strategy for 2026-2030, establishing dedicated cybersecurity units within key ministries and strengthened vulnerability-detection protocols for state information systems, per Daryo.uz reporting.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan companies are stepping up cybersecurity and digital-twin investment per KPMG-cited Daryo.uz reporting, and the 2026-2030 national cybersecurity strategy provides a multi-year policy framework for continued sector development.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Rising cyber threats to state and enterprise digital infrastructure driving reactive rather than proactive investment",
+      "Limited independent market-size data available for the sector"
+    ],
+    "opportunities": [
+      "National cybersecurity strategy 2026-2030 creating structured government demand",
+      "Growing corporate investment in cybersecurity and digital twins per KPMG survey"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan to strengthen cyber defenses under new 2026-2030 strategy",
+        "publisher": "Daryo.uz",
+        "url": "https://daryo.uz/en/2026/03/11/uzbekistan-to-strengthen-cyber-defenses-under-new-20262030-strategy/",
+        "date": "2026-03",
+        "scope": "Uzbekistan",
+        "metric": "national cybersecurity strategy"
+      },
+      {
+        "title": "Uzbekistan companies step up cybersecurity and digital twin investment, KPMG says",
+        "publisher": "Daryo.uz",
+        "url": "https://daryo.uz/en/2026/07/02/uzbekistan-companies-increase-investment-in-digital-twins-kpmg-says/",
+        "date": "2026-07",
+        "scope": "Uzbekistan",
+        "metric": "corporate cybersecurity investment trend"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Small businesses and public-sector sites lack basic security certification and hardening, as only about 37% of .uz domains carry a valid security certificate.",
+        "sources": [
+          {
+            "title": "Is Uzbekistan Ready for Cyber Attacks?",
+            "publisher": "Embassy of the Republic of Uzbekistan to Kazakhstan",
+            "url": "https://www.uzembassy.kz/en/article/is-uzbekistan-ready-for-cyber-attacks",
+            "date": "2021",
+            "scope": "Uzbekistan",
+            "metric": ".uz domain SSL coverage and government system vulnerability audit results"
+          }
+        ],
+        "subSector": "Basic security certification & hardening for small businesses and public-sector sites"
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan leads the CIS in telecom growth with the market nearing UZS 28.5 trillion, and Uztelecom is expanding 5G rollout across the country per DataCenterDynamics and Kun.uz reporting.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "UzDaily reports Uzbekistan is projected to lead in 5G with 42% of connections by 2030, and Opensignal's Central Asia mobile analysis (2026) points to continued measurable network quality improvement region-wide.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "5G rollout capital intensity and rural coverage gaps",
+      "Regional competition for telecom infrastructure investment"
+    ],
+    "opportunities": [
+      "Telecom market nearing UZS 28.5 trillion, leading CIS growth",
+      "Projected 42% 5G connection share by 2030"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan leads CIS in telecom growth as market nears UZS 28.5 trillion",
+        "publisher": "Kun.uz",
+        "url": "https://kun.uz/en/news/2026/04/22/uzbekistan-leads-cis-in-telecom-growth-as-market-nears-uzs-285-trillion",
+        "date": "2026-04",
+        "scope": "Uzbekistan",
+        "metric": "telecom market size growth"
+      },
+      {
+        "title": "Uzbekistan to Lead in 5G: 42% of Connections by 2030",
+        "publisher": "UzDaily",
+        "url": "https://www.uzdaily.uz/en/uzbekistan-to-lead-in-5g-42-of-connections-by-2030/",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "5G adoption forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Households in regions like Karakalpakstan, Andijan and Surkhandarya lack adequate fixed broadband service, as ICT services remain concentrated in the capital.",
+        "sources": [
+          {
+            "title": "Uzbekistan Digital Inclusion Project (P179108) appraisal document",
+            "publisher": "World Bank",
+            "url": "https://ewsdata.rightsindevelopment.org/files/documents/08/WB-P179108_Y85EN6G.pdf",
+            "date": "2022-11",
+            "scope": "Uzbekistan",
+            "metric": "Regional distribution of ICT services and fixed broadband penetration"
+          }
+        ],
+        "subSector": "Reliable fixed broadband for households outside Tashkent"
+      }
+    ]
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan and Malaysia's MIMOS signed a strategic pact in 2026 to build a semiconductor industry hub in Central Asia, with Uzbekistan's Ministry of Economy and Finance presenting the country's semiconductor ambitions at the India AI Impact Summit 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "no_data",
+      "summary": "No reliable long-term forecast data found for this sector in Uzbekistan yet; the semiconductor push is at an early, agreement-stage phase.",
+      "evidenceDate": ""
+    },
+    "risks": [
+      "Semiconductor manufacturing requires long lead times and heavy capital investment with no domestic base yet established",
+      "Sector still at early MOU/partnership stage rather than committed production capacity"
+    ],
+    "opportunities": [
+      "MIMOS-Uzbekistan strategic pact to build a Central Asian semiconductor hub",
+      "Government positioning at international forums (India AI Impact Summit) to attract semiconductor investment"
+    ],
+    "sources": [
+      {
+        "title": "MIMOS and Uzbekistan Sign Strategic Pact to Build Central Asia's Semiconductor Powerhouse",
+        "publisher": "MIMOS",
+        "url": "https://www.mimos.my/mimos-uzbekistan-semiconductor-pact/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "semiconductor industry partnership"
+      },
+      {
+        "title": "At the Crossroads of Silicon and Strategy: Uzbekistan's Director of Semiconductors at India AI Impact Summit 2026",
+        "publisher": "Malaysia Sun",
+        "url": "https://www.malaysiasun.com/news/278871749/at-the-crossroads-of-silicon-and-strategy-uzbekistan-director-of-semiconductors-at-ministry-of-economy-and-finance-azizjon-akramov-at-india-ai-impact-summit-2026",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "semiconductor policy positioning"
+      }
+    ],
+    "noGapReason": {
+      "code": "underdeveloped",
+      "note": "Uzbekistan has no existing semiconductor fabrication or assembly-and-test base at all — the 2025 MIMOS pact is only an initial MoU aiming to build the country's first chip plant from scratch.",
+      "sources": [
+        {
+          "title": "MIMOS and Uzbekistan Sign Strategic Pact to Build Central Asia's Semiconductor Powerhouse",
+          "publisher": "MIMOS Berhad",
+          "url": "https://www.mimos.my/mimos-uzbekistan-semiconductor-pact/",
+          "date": "2025",
+          "scope": "Uzbekistan",
+          "metric": "Pact described as founding step toward Uzbekistan's first semiconductor manufacturing capability"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "South Korea's ROBOTIS broke ground on a humanoid robot manufacturing factory in Tashkent's Yangi Avlod Special Industrial Zone in June 2026, expected to create over 1,000 skilled jobs, alongside NUWA Robotics opening an office in Uzbekistan.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The $3 million Industrial AI Excellence Center launched in 2026 focuses on robotics, digital twins and industrial automation, positioning Uzbekistan to build a domestic robotics manufacturing and R&D base over the coming years, though the sector is still nascent.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Domestic robotics sector still nascent, dependent on foreign manufacturers establishing local production",
+      "Execution risk in scaling from single factory projects to a broader industry"
+    ],
+    "opportunities": [
+      "ROBOTIS humanoid robot factory expected to create 1,000+ skilled jobs",
+      "Industrial AI Excellence Center focused on robotics and automation",
+      "NUWA Robotics opening local office"
+    ],
+    "sources": [
+      {
+        "title": "South Korean robotics giant ROBOTIS launches humanoid robot factory project in Tashkent",
+        "publisher": "Kun.uz",
+        "url": "https://kun.uz/en/news/2026/06/23/south-korean-robotics-giant-robotis-launches-humanoid-robot-factory-project-in-tashkent-5151cd",
+        "date": "2026-06",
+        "scope": "Uzbekistan",
+        "metric": "robotics manufacturing investment and job creation"
+      },
+      {
+        "title": "Uzbekistan Deepens U.S. Partnership Through New Investment Council and National AI Strategy",
+        "publisher": "The Times of Central Asia",
+        "url": "https://timesca.com/uzbekistan-deepens-u-s-partnership-through-new-investment-council-and-national-ai-strategy/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "Industrial AI Excellence Center investment ($3 million)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Mechanized cotton harvesting for small-scale cotton farmers",
+        "description": "Small-scale cotton farmers outside organized textile clusters lack affordable, quality mechanized harvesting, covering only about 5% of the crop in 2019.",
+        "sources": [
+          {
+            "title": "Cotton Textile Clusters in Uzbekistan - Status and Outlook",
+            "publisher": "World Bank",
+            "url": "https://documents1.worldbank.org/curated/en/305731601271791257/pdf/Policy-Dialogue-on-Agriculture-Modernization-in-Uzbekistan-Cotton-Textile-Clusters-in-Uzbekistan-Status-and-Outlook.pdf",
+            "date": "2020",
+            "scope": "Uzbekistan",
+            "metric": "Mechanized cotton harvesting adoption rate vs. 2026 target; local harvester quality issues"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan launched a national State Health Insurance Fund-based universal medical insurance system with new regulations effective 2026, funding services through general taxation and introducing electronic referrals, per IndexBox reporting. The pharmaceutical market is also reported as the fastest-growing in Central Asia.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Continued foreign investment and localization in pharmaceuticals (e.g. STADA's strategy per Times of Central Asia), combined with the rollout of universal health insurance and digital referral infrastructure, point to sustained multi-year growth in Uzbekistan's healthcare sector.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Healthcare system capacity constraints amid rapid population and demand growth",
+      "Implementation risk in scaling universal insurance and digital referral systems nationwide"
+    ],
+    "opportunities": [
+      "National universal medical insurance system with digital referrals launched 2026",
+      "Fastest-growing pharmaceutical market in Central Asia attracting foreign investors"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan Emerges as Central Asia's Fastest-Growing Pharmaceutical Market",
+        "publisher": "Caspianpost",
+        "url": "https://caspianpost.com/uzbekistan/uzbekistan-emerges-as-central-asia-s-fastest-growing-pharmaceutical-market",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "pharmaceutical/healthcare market growth"
+      },
+      {
+        "title": "Uzbekistan's New State Medical Insurance: Universal Healthcare Launch",
+        "publisher": "IndexBox",
+        "url": "https://www.indexbox.io/blog/uzbekistan-launches-national-state-medical-insurance-system-in-2026/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "universal health insurance rollout"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Rural residents lack adequately equipped and staffed primary care, as family polyclinics lag urban hospitals in equipment, staffing and information systems.",
+        "sources": [
+          {
+            "title": "Transforming Rural Primary Healthcare Delivery in Uzbekistan",
+            "publisher": "Asian Development Bank / Development Asia",
+            "url": "https://development.asia/case-study/transforming-rural-primary-healthcare-delivery-uzbekistan",
+            "date": "2026-01",
+            "scope": "Uzbekistan",
+            "metric": "Case study of rural polyclinic staffing, equipment, and health-financing constraints"
+          }
+        ],
+        "subSector": "Adequately staffed primary care for rural patients"
+      },
+      {
+        "subSector": "Community-based outpatient mental health care for children and adolescents",
+        "description": "Children and adolescents lack community-based outpatient and day-treatment mental health services, making up only 26% of outpatient users despite being 34% of the population.",
+        "sources": [
+          {
+            "title": "WHO-AIMS Report on Mental Health System in Uzbekistan",
+            "publisher": "World Health Organization / Ministry of Health of Uzbekistan",
+            "url": "https://cdn.who.int/media/docs/default-source/mental-health/who-aims-country-reports/uzbekistan_who_aims_report.pdf",
+            "date": "2023",
+            "scope": "Uzbekistan",
+            "metric": "Share of outpatient and day-treatment mental health service users who are children, vs. their share of national population"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's pharmaceutical market is experiencing rapid growth, foreign investment, and localization according to Times of Central Asia (2025), with STADA and other multinationals expanding local production per UzDaily and Tihe.uz coverage.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Statista market forecasts and industry reports project continued expansion of Uzbekistan's pharmaceutical market, with localization of manufacturing supporting long-term structural growth beyond import dependence.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Sector growth still dependent on continued foreign direct investment and technology transfer",
+      "Regulatory and quality-standard harmonization needed to sustain investor confidence"
+    ],
+    "opportunities": [
+      "Rapid foreign investment and localization of pharma production",
+      "Positioning as Central Asia's fastest-growing pharmaceutical market"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan's Pharmaceutical Market in 2025: Rapid Growth, Foreign Investment, and Localization",
+        "publisher": "The Times of Central Asia",
+        "url": "https://timesca.com/uzbekistans-pharmaceutical-market-in-2025-rapid-growth-foreign-investment-and-localization/",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "pharmaceutical market growth and FDI"
+      },
+      {
+        "title": "Pharmaceutical market of Uzbekistan: Growth dynamics, key trends, and STADA's strategy",
+        "publisher": "UzDaily",
+        "url": "https://www.uzdaily.uz/en/pharmaceutical-market-of-uzbekistan-growth-dynamics-key-trends-and-stadas-strategy/",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "pharma sector localization"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Patients reliant on higher-value, higher-complexity medicines lack domestic manufacturing options, as imported drugs make up 87% of retail pharmaceutical sales by value.",
+        "sources": [
+          {
+            "title": "Uzbekistan's Pharma Pivot: Strategic Gains or Growing Dependence on China",
+            "publisher": "The Times of Central Asia",
+            "url": "https://timesca.com/uzbekistans-pharma-pivot-strategic-gains-or-growing-dependence-on-china/",
+            "date": "2025-08",
+            "scope": "Uzbekistan",
+            "metric": "Import share of pharmaceutical retail sales by value and volume"
+          }
+        ],
+        "subSector": "Domestic manufacturing of higher-value medicines for patients reliant on imports"
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's 2026 healthcare reform introduced a fully digital referral system and electronic health records as part of the new State Health Insurance Fund model, allowing patients to select facilities via government portals and mobile apps, per IndexBox reporting.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's State Register of medical products held 6,572 records as of mid-2026, with 99.95% of registrations remaining active and diagnostics (in-vitro diagnostics) identified as a smaller but rapidly growing segment, reflecting a market undergoing sustained modernization and rising import-driven demand, per MedDeviceGuide's registry analysis, though explicit multi-year market forecasts remain limited.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "Nationwide digital referral and e-health record rollout carries implementation and adoption risk, particularly in rural areas",
+      "Heavy reliance on imported medical devices (led by China, Russia, US, Germany) limits domestic manufacturing base"
+    ],
+    "opportunities": [
+      "National electronic health record and digital referral system rollout starting 2026",
+      "Government portal/mobile app-based patient facility selection creating digital health infrastructure demand",
+      "Rapidly growing in-vitro diagnostics segment within a 6,500+ record medical device registry"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan's New State Medical Insurance: Universal Healthcare Launch",
+        "publisher": "IndexBox",
+        "url": "https://www.indexbox.io/blog/uzbekistan-launches-national-state-medical-insurance-system-in-2026/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "digital health referral and e-health record rollout"
+      },
+      {
+        "title": "Uzbekistan Medical Device Registry: 6,572 Approvals & Entry Trends",
+        "publisher": "MedDeviceGuide",
+        "url": "https://meddeviceguide.com/blog/uzbekistan-medical-device-registry-analysis",
+        "date": "2026-06",
+        "scope": "Uzbekistan",
+        "metric": "medical device registry growth and import composition"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Telemedicine equipment for rural primary health facilities",
+        "description": "Rural primary health facilities far from specialist centers lack basic telemedicine equipment, forcing patients to travel over 30 km for specialist care.",
+        "sources": [
+          {
+            "title": "IT equipment and new technologies help to bridge the gap in healthcare",
+            "publisher": "UNICEF Uzbekistan",
+            "url": "https://www.unicef.org/uzbekistan/en/stories/it-equipment-and-new-technologies-help-bridge-gap-healthcare",
+            "date": "2023",
+            "scope": "Uzbekistan (Kegeyli district, Karakalpakstan)",
+            "metric": "Population served per district medical complex, distance/wait time for specialist consultation, clinics equipped"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The World Bank approved support (June 2026) to improve primary education quality for 2 million children, and a modernized student financing system was announced in December 2025 to expand access to education for 600,000 young people.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Government of Uzbekistan and development partners (Global Partnership for Education, UNICEF, World Bank) have committed to education reforms through 2026 and beyond, indicating sustained multi-year investment in the sector.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Reform implementation capacity across a large, geographically dispersed school system",
+      "Continued reliance on donor and multilateral financing for reform programs"
+    ],
+    "opportunities": [
+      "World Bank primary education program reaching 2 million children",
+      "Modernized student financing system expanding access for 600,000 young people"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan to Improve the Quality of Primary Education for 2 Million Children and Future Jobs Access with World Bank Support",
+        "publisher": "World Bank",
+        "url": "https://www.worldbank.org/en/news/press-release/2026/06/30/uzbekistan-to-improve-the-quality-of-primary-education-for-2-million-children-and-future-jobs-access",
+        "date": "2026-06",
+        "scope": "Uzbekistan",
+        "metric": "education investment program"
+      },
+      {
+        "title": "Modernized student financing system to expand access to education for 600,000 young people in Uzbekistan",
+        "publisher": "World Bank",
+        "url": "https://www.worldbank.org/en/news/press-release/2025/12/11/modernized-student-financing-system-to-expand-access-to-education-for-600000-young-people-in-uzbekistan",
+        "date": "2025-12",
+        "scope": "Uzbekistan",
+        "metric": "student financing reform"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "TVET students lack vocational training aligned to employer needs, with only 21% of surveyed employers finding college training relevant to their business.",
+        "sources": [
+          {
+            "title": "Skills Development in Uzbekistan: A Sector Assessment",
+            "publisher": "Asian Development Bank",
+            "url": "https://www.adb.org/sites/default/files/institutional-document/859636/skills-development-uzbekistan-sector-assessment.pdf",
+            "date": "2022-12",
+            "scope": "Uzbekistan",
+            "metric": "Employer survey on TVET relevance and Industry 4.0 course readiness"
+          }
+        ],
+        "subSector": "Industry-aligned vocational training for TVET students and employers"
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's audit sector reached 176 registered firms (up 10% year-on-year) and 1,337 certified auditors (up 9% year-on-year) in Q1 2026, driven by regulatory reforms aligning the sector with international standards, per Trend.Az.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "A World Bank analysis of Uzbekistan's services-led growth finds knowledge-intensive professional services (consulting, legal, architecture, engineering) are twice as productive as manufacturing but still account for less than 5% of services jobs, and estimates that liberalizing services trade restrictions could expand real GDP by up to 9% and real wages by up to 8%, indicating substantial long-term headroom for the sector if reform continues.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Sector growth still concentrated in audit; broader legal/consulting market data remains limited",
+      "Regulatory reform implementation and international-standard alignment still in progress",
+      "Uzbekistan ranks in the bottom third globally on services trade restrictiveness, constraining knowledge-intensive services growth"
+    ],
+    "opportunities": [
+      "10% year-on-year growth in registered audit firms",
+      "9% year-on-year growth in certified auditors amid international standards alignment",
+      "World Bank estimates up to 9% real GDP gain from services trade liberalization, with professional services twice as productive as manufacturing"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan's Audit Sector Sees Steady Growth",
+        "publisher": "Trend.Az",
+        "url": "https://www.trend.az/business/4190404.html",
+        "date": "2026-05",
+        "scope": "Uzbekistan",
+        "metric": "audit sector firm and auditor growth"
+      },
+      {
+        "title": "The promise of services-led growth in Uzbekistan",
+        "publisher": "World Bank Blogs",
+        "url": "https://blogs.worldbank.org/en/psd/the-promise-of-services-led-growth-in-uzbekistan",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "knowledge-intensive services productivity and growth potential"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Legal advisory & insurance products for women-owned SMEs",
+        "description": "Women entrepreneurs lack accessible legal clinics and tailored business insurance products, as insurers show little interest in this segment.",
+        "sources": [
+          {
+            "title": "Women's Entrepreneurship in Uzbekistan: Assessment and Recommendations",
+            "publisher": "UNDP Uzbekistan",
+            "url": "https://www.undp.org/sites/g/files/zskgke326/files/2025-04/report_women_entrepreneurship_in_uzbekistan_eng_uz.pdf",
+            "date": "2025",
+            "scope": "Uzbekistan",
+            "metric": "Assessment of legal clinic availability and insurance uptake among women-owned businesses"
+          }
+        ]
+      },
+      {
+        "subSector": "Financial-literacy, digital-skills and market-research training courses for women entrepreneurs",
+        "description": "Women entrepreneurs lack structured training in financial literacy, digital skills, data protection and market research.",
+        "sources": [
+          {
+            "title": "Women's Entrepreneurship in Uzbekistan: Assessment and Recommendations",
+            "publisher": "UNDP Uzbekistan",
+            "url": "https://www.undp.org/sites/g/files/zskgke326/files/2025-04/report_women_entrepreneurship_in_uzbekistan_eng_uz.pdf",
+            "date": "2025",
+            "scope": "Uzbekistan",
+            "metric": "Survey/focus-group responses on training and mentorship needs among women entrepreneurs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The Global Business Services Forum 2026 in Tashkent drew 450+ participants from 45+ countries, with IT Park Uzbekistan hosting 3,800+ resident companies (1,000+ international), technology services exports surpassing $1 billion, and a near-$5 billion data center investment near IT Park signaling strong BPO/GBS sector momentum.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Government incentives (Soft Landing program, Zero Risk initiative, tax incentives) and expanding outsourcing partnerships (e.g. Telecontact, Trenkwalder considering entry, freight-dispatch BPO hub) point to a sustained multi-year push to grow Uzbekistan as a global business services/outsourcing destination.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Rising skilled-labor costs (60%+ of candidates expect 20%+ pay increases when switching jobs) could erode cost competitiveness",
+      "Sector growth concentrated in government-incentivized IT Park framework"
+    ],
+    "opportunities": [
+      "3,800+ resident companies at IT Park, tech services exports over $1 billion",
+      "Nearly $5 billion data center investment signaling long-term AI/BPO infrastructure commitment",
+      "Government Soft Landing and Zero Risk incentive programs attracting foreign BPO firms"
+    ],
+    "sources": [
+      {
+        "title": "GBSF 2026 Highlights Uzbekistan's Push for Global Business Services and AI",
+        "publisher": "The Times of Central Asia",
+        "url": "https://timesca.com/gbsf-2026-highlights-uzbekistans-push-for-global-business-services-and-ai/",
+        "date": "2026-07",
+        "scope": "Uzbekistan",
+        "metric": "business services/BPO sector growth and investment"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Business advisory & development services for regional SMEs",
+        "description": "SMEs outside Tashkent lack accessible business development services, with around 70% of regional SMEs unable to name any private BDS provider.",
+        "sources": [
+          {
+            "title": "Small and Medium-Sized Enterprise Finance in Uzbekistan (ADBI Working Paper 997)",
+            "publisher": "Asian Development Bank Institute",
+            "url": "https://www.adb.org/sites/default/files/publication/524081/adbi-wp997.pdf",
+            "date": "2019",
+            "scope": "Uzbekistan",
+            "metric": "SME survey on awareness of business development service providers, by region"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "101digital.uz's 2026 digital marketing report indicates growing digital marketing activity aligned with Uzbekistan's rising e-commerce and internet penetration, and mobile advertising was valued at $150-160 million in 2024, projected to reach $190-210 million by end of 2025, per BYYD industry analysis.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "KPMG analysis cited by BYYD projects average annual e-commerce growth in Uzbekistan of 41.4%-47.4% between 2023-2027, with market size reaching $1.8-2.2 billion by end of 2027 (up from $311 million in 2022), a structural driver of sustained digital marketing and advertising spend growth through the medium term.",
+      "evidenceDate": "2025-10"
+    },
+    "risks": [
+      "Limited independent third-party data on advertising sector size and growth",
+      "Digital marketing growth heavily tied to e-commerce expansion, creating dependency risk if e-commerce growth slows"
+    ],
+    "opportunities": [
+      "Rising digital marketing activity tied to e-commerce and internet growth",
+      "Mobile advertising market projected to reach $190-210 million by end of 2025",
+      "E-commerce-driven digital marketing spend growth of 41.4%-47.4% annually through 2027"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan Digital Marketing 2026: Data for Market Entry",
+        "publisher": "101digital.uz",
+        "url": "https://101digital.uz/en/blog/uzbekistan-digital-marketing-report-2026/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "digital marketing market entry data"
+      },
+      {
+        "title": "Digital Marketing in Uzbekistan: 2025 Trends and Insights",
+        "publisher": "BYYD",
+        "url": "https://www.byyd.me/en/blog/2025/10/digital-marketing-in-uzbekistan-2025-trends-and-insights/",
+        "date": "2025-10",
+        "scope": "Uzbekistan",
+        "metric": "e-commerce and mobile advertising market growth forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Businesses in secondary cities like Namangan and Fergana lack quality digital marketing and branding services, as agencies remain concentrated in Tashkent.",
+        "sources": [
+          {
+            "title": "Uzbekistan Digital Marketing 2026: Data for Market Entry",
+            "publisher": "101 Digital",
+            "url": "https://101digital.uz/en/blog/uzbekistan-digital-marketing-report-2026/",
+            "date": "2026",
+            "scope": "Uzbekistan",
+            "metric": "Keyword content-supply counts, regional internet penetration and agency geographic concentration"
+          }
+        ],
+        "subSector": "Digital marketing & SEO services for businesses in secondary cities"
+      }
+    ]
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan targets expanding its creative economy to 145 trillion UZS ($12.6 billion), launched the 'Global Cinema Weekend' to attract international film industry attention, and is eliminating the cinematography commission and film councils to boost creative freedom, per Trend.Az and Gazeta.uz.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "New creative-industry parks under construction in Tashkent's Shaykhantakhur district and Nukus, tax incentives for the Creative Industry Park, and planned international exhibitions across Europe, the US, and Asia point to a sustained multi-year creative-economy expansion strategy.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Ambitious $12.6 billion creative-economy target requires sustained execution across many new initiatives",
+      "Regulatory transition (removing film councils/commission) creates near-term uncertainty for the sector"
+    ],
+    "opportunities": [
+      "$12.6 billion creative economy expansion target",
+      "New Creative Industry Park tax incentives and physical infrastructure in Tashkent and Nukus",
+      "Global Cinema Weekend platform to attract international film industry"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan targets $12.6 billion creative economy through cultural development",
+        "publisher": "Trend.Az",
+        "url": "https://www.trend.az/business/4192897.html",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "creative economy expansion target"
+      },
+      {
+        "title": "'To promote creative freedom': Uzbekistan to eliminate cinematography commission and film councils",
+        "publisher": "Gazeta.uz",
+        "url": "https://www.gazeta.uz/en/2026/06/02/cinema/",
+        "date": "2026-06",
+        "scope": "Uzbekistan",
+        "metric": "film industry regulatory reform"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Film post-production and technical craft services",
+        "description": "Uzbek filmmakers rely on foreign post-production and sound-design houses because domestic technical/post-production quality lags the surge in local film output.",
+        "sources": [
+          {
+            "title": "Uzbek Film Industry Blossoms, But Quality Takes A Hit",
+            "publisher": "RFE/RL",
+            "url": "https://www.rferl.org/a/uzbekistan-film-industry-quantity-versus-quality/24745666.html",
+            "date": "2013",
+            "scope": "Uzbekistan",
+            "metric": "Dozens of low-budget films produced annually with weak technical/post-production standards"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan welcomed 6.5 million international tourists in H1 2026, up nearly 25% year-on-year, and FIFA World Cup 2026 exposure drove over 1 billion media views and a 40% rise in search interest in 'Uzbekistan' per UzDaily and Travel Tomorrow.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Continued year-over-year double-digit growth in international arrivals and UNWTO recognition as one of the world's fastest-growing tourism destinations in 2025 suggest a sustained multi-year tourism boom, positioning Uzbekistan as a fast-growing Central Asian destination.",
+      "evidenceDate": "2025-12"
+    },
+    "risks": [
+      "Tourism infrastructure capacity may need to scale to match rapid arrival growth",
+      "Regional geopolitical or travel-pattern shifts could affect visitor flows"
+    ],
+    "opportunities": [
+      "6.5 million tourists in H1 2026, up ~25% year-on-year",
+      "World Cup 2026 exposure generating over 1 billion media views and rising search interest",
+      "Ranked among world's fastest-growing tourism destinations by UNWTO-referenced reporting"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan welcomes 6.5 million international tourists in first half of 2026, up nearly 25%",
+        "publisher": "Travel Tomorrow",
+        "url": "https://traveltomorrow.com/uzbekistan-welcomes-6-5-million-international-tourists-in-first-half-of-2026-up-nearly-25/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "international tourist arrivals growth"
+      },
+      {
+        "title": "World Cup Boosts Uzbekistan's Tourism Brand Past 1 Billion Views",
+        "publisher": "UzDaily",
+        "url": "https://www.uzdaily.uz/en/world-cup-boosts-uzbekistans-tourism-brand-past-1-billion-views/",
+        "date": "2026-06",
+        "scope": "Uzbekistan",
+        "metric": "tourism brand media exposure"
+      },
+      {
+        "title": "UNWTO: Uzbekistan ranks among world's fastest growing tourism destinations in 2025",
+        "publisher": "Euronews",
+        "url": "https://euronews.com/travel/2025/12/19/unwto-uzbekistan-ranks-among-worlds-fastest-growing-tourism-destinations-in-2025",
+        "date": "2025-12",
+        "scope": "Uzbekistan",
+        "metric": "tourism growth ranking"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Travelers visiting secondary destinations beyond Tashkent, Samarkand and Bukhara lack sufficient licensed hotel capacity, leaving informal guesthouses to fill the gap.",
+        "sources": [
+          {
+            "title": "Guesthouses fill gap left by Uzbekistan's hotel shortage",
+            "publisher": "Eurasianet",
+            "url": "https://eurasianet.org/guesthouses-fill-gap-left-by-uzbekistans-hotel-shortage",
+            "date": "2019",
+            "scope": "Uzbekistan",
+            "metric": "Hotel room stock vs. visitor arrivals growth and guesthouse licensing data"
+          }
+        ],
+        "subSector": "Licensed lodging for travelers visiting secondary destinations"
+      }
+    ]
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's catering sector turnover exceeded 17.2 trillion soums in the first nine months of 2025 across 125 major businesses (fast food, catering companies, restaurants), and total market services volume reached 664.9 trillion soums in H1 2026, per UzDaily and IndexBox.",
+      "evidenceDate": "2025-09"
+    },
+    "longTerm": {
+      "outlook": "no_data",
+      "summary": "No reliable long-term forecast data (multi-year growth rate) found specifically for the restaurant/catering sector in Uzbekistan.",
+      "evidenceDate": ""
+    },
+    "risks": [
+      "No year-over-year comparison data available to confirm growth trajectory beyond absolute turnover figures"
+    ],
+    "opportunities": [
+      "17.2 trillion soums in catering sector turnover across major operators in nine months",
+      "Broader market services sector reaching 664.9 trillion soums in H1 2026"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan's Catering Sector Turns Over Over 17 Trillion Soums in Nine Months",
+        "publisher": "UzDaily",
+        "url": "https://www.uzdaily.uz/en/uzbekistans-catering-sector-turns-over-over-17-trillion-soums-in-nine-months/",
+        "date": "2025-09",
+        "scope": "Uzbekistan",
+        "metric": "catering sector turnover"
+      },
+      {
+        "title": "Uzbekistan Market Services Volume Hits 664.9 Trillion Soums in First Half of 2026",
+        "publisher": "IndexBox",
+        "url": "https://www.indexbox.io/blog/uzbekistans-market-services-reach-6649-trillion-soums-in-h1-2026/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "market services sector volume"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Food-safety compliance support for public catering establishments",
+        "description": "Uzbekistan's sanitary authorities inspected only 1,512 of 20,184 registered public catering establishments in 2024, finding violations at 664 of those inspected.",
+        "sources": [
+          {
+            "title": "Food safety concerns rise in Uzbekistan with 14 poisoning incidents over five months",
+            "publisher": "Kun.uz",
+            "url": "https://kun.uz/en/news/2025/06/25/food-safety-concerns-rise-in-uzbekistan-with-14-poisoning-incidents-over-five-months",
+            "date": "June 25, 2025",
+            "scope": "Uzbekistan",
+            "metric": "1,512 of 20,184 catering establishments inspected in 2024; violations found at 664 locations"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's broader market services sector (which includes consumer services such as trade, transport, communications and personal services) reached 293.6 trillion soums (~$24 billion) in Q1 2026, up steadily across regions, with Tashkent city alone contributing 117.3 trillion soums, per National Statistics Committee data cited by Trend.Az.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "A World Bank analysis finds services employment in Uzbekistan grew from 37% to 50% of all jobs between 1991-2022, with growth concentrated in low-skilled consumer services such as retail and hospitality; the World Bank estimates liberalizing services trade restrictions could expand real GDP by up to 9%, pointing to continued structural growth in consumer-facing services, though productivity in this segment remains low relative to knowledge-intensive services.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Sector remains dominated by low-productivity, low-skilled activity relative to knowledge-intensive services",
+      "No granular sector-specific (e.g., personal care, repair services) statistics are separately published, limiting precision of this estimate"
+    ],
+    "opportunities": [
+      "Market services sector reached ~$24 billion in Q1 2026 with growth across all regions",
+      "Services employment share rose from 37% to 50% of jobs over three decades, led by consumer services",
+      "Potential real GDP gains of up to 9% from further services trade liberalization"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan's service sector nears $24 billion in 1Q2026",
+        "publisher": "Trend.Az",
+        "url": "https://www.trend.az/business/4192348.html",
+        "date": "2026-05",
+        "scope": "Uzbekistan",
+        "metric": "market services sector size and regional distribution"
+      },
+      {
+        "title": "The promise of services-led growth in Uzbekistan",
+        "publisher": "World Bank Blogs",
+        "url": "https://blogs.worldbank.org/en/psd/the-promise-of-services-led-growth-in-uzbekistan",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "services employment growth and consumer services composition"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Working parents of children under 3 lack formal, affordable childcare, cited by 71% of surveyed young people as the biggest constraint on women's employment.",
+        "sources": [
+          {
+            "title": "Who Cares? Young People Are Calling for a Fairer Care Economy in Uzbekistan",
+            "publisher": "UNDP Uzbekistan",
+            "url": "https://www.undp.org/uzbekistan/blog/who-cares-young-people-are-calling-fairer-care-economy-uzbekistan",
+            "date": "2026",
+            "scope": "Uzbekistan",
+            "metric": "Survey data on childcare gap and female labor force participation trend"
+          },
+          {
+            "title": "Legal recognition is not protection: what registration changes for domestic workers in Uzbekistan",
+            "publisher": "UN Women Europe and Central Asia",
+            "url": "https://eca.unwomen.org/en/stories/news/2026/08/legal-recognition-is-not-protection-what-registration-changes-for-domestic-workers-in-uzbekistan",
+            "date": "2026-08",
+            "scope": "Uzbekistan",
+            "metric": "Registered domestic worker counts by service type and pension contribution rate"
+          }
+        ],
+        "subSector": "Formal childcare for working parents with children under 3"
+      },
+      {
+        "subSector": "Geriatric specialists and home-based elderly care for aging urban households",
+        "description": "Aging urban households lack geriatric specialists and home-based elderly care, with an estimated 112 geriatricians needed nationwide against close to none available.",
+        "sources": [
+          {
+            "title": "Assessing the Need for Geriatric Care in Uzbekistan Before the Demographic Wave",
+            "publisher": "Epidemiology and Health Data Insights",
+            "url": "https://www.journalehdi.com/article/assessing-the-need-for-geriatric-care-in-uzbekistan-before-the-demographic-wave-17314",
+            "date": "2025",
+            "scope": "Uzbekistan",
+            "metric": "Required vs. available geriatric specialists nationally; elderly population share"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's national football team qualified for the FIFA World Cup 2026, driving over 1 billion media views across 3,000+ outlets and a 450% surge in search interest around its matches; separately, the government doubled its national sports budget over four years from UZS 1.5 trillion ($115.4 million) to UZS 3 trillion ($230.8 million), building 101 new sports facilities and reconstructing 67 others, per The Times of Central Asia.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan has launched the recurring 'Presidential Olympics' (Olympic Peaks of New Uzbekistan) competition held twice yearly at regional level with annual championship rounds, backed by an additional UZS 300 billion ($23 million) for athlete preparation, explicitly targeting a top-ten finish at the LA 2028 Olympics, indicating sustained multi-year public investment in sports infrastructure and athlete development beyond the World Cup cycle.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Sector visibility currently driven heavily by major events (World Cup 2026, LA 2028) rather than purely organic year-round demand",
+      "Sustained budget growth depends on continued government prioritization of sports spending"
+    ],
+    "opportunities": [
+      "Over 1 billion media views generated by World Cup 2026 participation",
+      "Sports budget doubled to $230.8 million with 101 new and 67 reconstructed facilities",
+      "Recurring Presidential Olympics program and LA 2028 top-ten target driving multi-year investment"
+    ],
+    "sources": [
+      {
+        "title": "World Cup Boosts Uzbekistan's Tourism Brand Past 1 Billion Views",
+        "publisher": "UzDaily",
+        "url": "https://www.uzdaily.uz/en/world-cup-boosts-uzbekistans-tourism-brand-past-1-billion-views/",
+        "date": "2026-06",
+        "scope": "Uzbekistan",
+        "metric": "sports event media exposure and tourism impact"
+      },
+      {
+        "title": "Uzbekistan Doubles Sports Budget to $230 Million, Launches Presidential Olympics",
+        "publisher": "The Times of Central Asia",
+        "url": "https://timesca.com/uzbekistan-doubles-sports-budget-to-230-million-launches-presidential-olympics/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "national sports budget and infrastructure investment"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Parasport training & coaching outside Tashkent",
+        "description": "Athletes with disabilities outside Tashkent lack parasport training infrastructure and specialized coaching, including sign-language expertise for deaf/hard-of-hearing athletes.",
+        "sources": [
+          {
+            "title": "Formation and Development Stages of Parasport in Uzbekistan",
+            "publisher": "Central Asian Journal of Social Sciences and History",
+            "url": "https://cajssh.casjournal.org/index.php/CAJSSH/article/view/1399",
+            "date": "2026",
+            "scope": "Uzbekistan",
+            "metric": "Review of parasport infrastructure, coaching capacity and regional distribution, 1991-2021"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's combined textile and apparel exports surged 25% year-on-year in H1 2026 to reach $1.6 billion, with the trade balance improving nearly 30% to $1.2 billion, according to Textiles Resources industry reporting.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan has targeted tripling textile and apparel exports to $6.5 billion, reflecting a sustained multi-year government push to grow the sector's export value chain beyond raw cotton, per Just-Style/Fibre2Fashion industry reporting.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Domestic apparel production growth (7.4% in H1 2026) lagging export growth, signaling potential capacity constraints",
+      "Ambitious export targets dependent on continued value-chain investment"
+    ],
+    "opportunities": [
+      "25% year-on-year textile/apparel export growth reaching $1.6 billion in H1 2026",
+      "Government target to triple textile/apparel exports to $6.5 billion"
+    ],
+    "sources": [
+      {
+        "title": "Uzbek Textile & Apparel Exports Jump 25% in H1",
+        "publisher": "Textiles Resources",
+        "url": "https://www.textilesresources.com/news/uzbek-textile-apparel-exports-2026/",
+        "date": "2026-08",
+        "scope": "Uzbekistan",
+        "metric": "textile and apparel export growth"
+      },
+      {
+        "title": "Uzbekistan eyes tripling of textile, apparel exports to $6.5bn by 2026",
+        "publisher": "Just-Style",
+        "url": "https://www.just-style.com/news/uzbekistan-eyes-tripling-of-textile-apparel-exports-to-6-5bn-by-2026/",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "textile/apparel export target"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Small and mid-size garment manufacturers lack access to export-grade quality certification, held by only about 3% of textile and garment enterprises.",
+        "sources": [
+          {
+            "title": "Challenges Facing Uzbekistan's Textile Industry",
+            "publisher": "The Times of Central Asia",
+            "url": "https://timesca.com/challenges-facing-uzbekistans-textile-industry/",
+            "date": "2024-04",
+            "scope": "Uzbekistan",
+            "metric": "Share of enterprises with international export certification; value-added export potential"
+          }
+        ],
+        "subSector": "Export-certification services for small and mid-size garment manufacturers"
+      }
+    ]
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "UNDP and Japan are partnering to transform water governance in the Aral Sea region, and UNDP reports integrated climate solutions are transforming lives in the Aral Sea region, reflecting active climate-adaptation investment activity.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "UNEP's Atlas shows climate change is driving rising temperatures and severe drought in Uzbekistan, creating a long-term structural challenge that ongoing ADB and UNDP climate-adaptation programs are working to offset, resulting in a stable but strained long-term outlook.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Rising temperatures and severe drought per UNEP climate atlas",
+      "Aral Sea basin degradation continuing to threaten regional ecosystems"
+    ],
+    "opportunities": [
+      "UNDP-Japan partnership on Aral Sea water governance transformation",
+      "ADB Climate Adaptive Water Resources Management project financing"
+    ],
+    "sources": [
+      {
+        "title": "Climate change drives rising temperatures and severe drought in Uzbekistan, shows new UNEP Atlas",
+        "publisher": "UNEP",
+        "url": "https://www.unep.org/news-and-stories/press-release/climate-change-drives-rising-temperatures-and-severe-drought",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "climate change impact assessment"
+      },
+      {
+        "title": "Integrated Climate Solutions Are Transforming Lives in Uzbekistan's Aral Sea Region",
+        "publisher": "UNDP",
+        "url": "https://www.undp.org/uzbekistan/press-releases/integrated-climate-solutions-are-transforming-lives-uzbekistans-aral-sea-region",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "climate adaptation program results"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Households lack organized recycling and composting collection services, with under 10% of recyclables recovered nationwide.",
+        "sources": [
+          {
+            "title": "Sanitary Landfill Design and Future Pathways, ADB Brief 396",
+            "publisher": "Asian Development Bank",
+            "url": "https://www.adb.org/sites/default/files/publication/1154631/adb-brief-396-waste-management-tashkent-uzbekistan.pdf",
+            "date": "2026",
+            "scope": "Uzbekistan (Tashkent focus)",
+            "metric": "Recycling rate, waste composition, landfill count vs. authorized landfills"
+          }
+        ],
+        "subSector": "Household recycling & composting collection services"
+      }
+    ]
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "ADB's Climate Adaptive Water Resources Management project and UNDP-Japan water governance partnership are actively financing water sector modernization, but Times of Central Asia's 2026 reporting on regional water stress signals ongoing supply pressure.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Water stress is projected to be a defining long-term issue for Central Asia including Uzbekistan per Times of Central Asia's 2026 water-stress analysis, offset partially by continued international investment in water governance and resource management.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regional water stress intensifying, per 2026 Central Asia analysis",
+      "Aral Sea basin water scarcity affecting long-term supply reliability"
+    ],
+    "opportunities": [
+      "ADB and UNDP financing for water resources management and governance reform",
+      "Growing international attention to Central Asian water security creating investment interest"
+    ],
+    "sources": [
+      {
+        "title": "Water Stress: Will the Summer of 2026 Become a Turning Point for Central Asia?",
+        "publisher": "The Times of Central Asia",
+        "url": "https://timesca.com/water-stress-will-the-summer-of-2026-become-a-turning-point-for-central-asia/",
+        "date": "2026",
+        "scope": "regional",
+        "metric": "water stress outlook"
+      },
+      {
+        "title": "Uzbekistan and Japan partnering with UNDP unite to Transform Water Governance in the Aral Sea Region",
+        "publisher": "UNDP",
+        "url": "https://www.undp.org/uzbekistan/press-releases/uzbekistan-and-japan-partnering-undp-unite-transform-water-governance-aral-sea-region",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "water governance investment"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Off-grid farms lack reliable power to run water-saving drip irrigation, deterred by unreliable electricity even with heavy subsidies.",
+        "sources": [
+          {
+            "title": "Why subsidies alone won't drive adoption of water-saving technology",
+            "publisher": "CGIAR System",
+            "url": "https://www.cgiar.org/news-events/news/why-subsidies-alone-wont-drive-adoption-water-saving-technology",
+            "date": "2025-12",
+            "scope": "Uzbekistan",
+            "metric": "Drip-irrigation non-adoption rate, distance-to-grid effect, solar adoption rate"
+          }
+        ],
+        "subSector": "Solar-powered irrigation systems for off-grid farms"
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan announced plans in February 2026 to launch its first satellite by 2028 and is considering sending its first astronaut, with Russia offering support for the cosmonaut and satellite program, per Gazeta.uz and Times of Central Asia.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's Space Activity Law (signed January 2025) and Uzbekcosmos are developing a 10-year national space program strategy through 2035, covering short-, medium- and long-term goals for Earth observation, satellite/ground navigation infrastructure and space-related education, developed with global consulting partners including SpaceX and Surrey Satellite Technology Ltd, per UzDaily.",
+      "evidenceDate": "2025-01"
+    },
+    "risks": [
+      "Space program still in early planning phase with no domestic launch or satellite manufacturing capability yet",
+      "Dependent on foreign partner support (e.g. Russia, SpaceX, SSTL) for satellite and cosmonaut program execution"
+    ],
+    "opportunities": [
+      "Planned first sovereign satellite launch by 2028",
+      "Russian government support for cosmonaut and satellite development",
+      "10-year national space program strategy through 2035 developed with SpaceX and SSTL"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan plans satellite launch in 2028, considers sending first astronaut",
+        "publisher": "Gazeta.uz",
+        "url": "https://www.gazeta.uz/en/2026/02/17/cosmos/",
+        "date": "2026-02",
+        "scope": "Uzbekistan",
+        "metric": "sovereign satellite program timeline"
+      },
+      {
+        "title": "Russia Offers Support for Uzbekistan's First Cosmonaut and Satellite Launch",
+        "publisher": "The Times of Central Asia",
+        "url": "https://timesca.com/russia-offers-support-for-uzbekistans-first-cosmonaut-and-satellite-launch/",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "space program international partnership"
+      },
+      {
+        "title": "Uzbekistan to develop a national space program until 2035",
+        "publisher": "UzDaily",
+        "url": "https://www.uzdaily.uz/en/uzbekistan-to-develop-a-national-space-program-until-2035/",
+        "date": "2025-01",
+        "scope": "Uzbekistan",
+        "metric": "10-year national space program strategy"
+      }
+    ],
+    "noGapReason": {
+      "code": "underdeveloped",
+      "note": "Uzbekistan has no satellite or launch capability yet — it is only now building a national space program with a first satellite targeted for 2028.",
+      "sources": [
+        {
+          "title": "Uzbekistan aims to launch its first satellite by 2028",
+          "publisher": "Kun.uz",
+          "url": "https://www.kun.uz/en/news/2025/06/09/uzbekistan-aims-to-launch-its-first-satellite-by-2028",
+          "date": "2025-06-09",
+          "scope": "Uzbekistan",
+          "metric": "First national satellite launch targeted for 2028"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan unveiled several domestically developed defense systems in July 2026 (Arslon armored personnel carriers, Tofon 155mm self-propelled howitzer, upgraded T-64 tank) at the Nurafshon Special Equipment facility, reflecting a new phase of domestic military modernization, per The Defense Post.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan's defense budget grew roughly 26-fold between 2003 ($54.1M) and 2018 ($1,440.4M) per Trading Economics/SIPRI-sourced data, a sustained multi-year expansion trend that, combined with 2026's new domestic production of armored vehicles, howitzers and tanks, points to continued long-term growth in defense spending and local manufacturing capacity.",
+      "evidenceDate": "2018"
+    },
+    "risks": [
+      "No published budget or investment figures accompany the new domestic systems, limiting visibility into sustained funding",
+      "Shift toward domestic production still early relative to established defense manufacturers",
+      "Long-term spending trend based on data through 2018; more recent multi-year budget figures are not publicly itemized"
+    ],
+    "opportunities": [
+      "Domestic production of armored vehicles, howitzers and upgraded tanks reducing reliance on foreign procurement",
+      "New Nurafshon Special Equipment production facility expanding local defense manufacturing capacity"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan Expands Its Battlefield Arsenal With New Combat Systems",
+        "publisher": "The Defense Post",
+        "url": "https://thedefensepost.com/2026/07/29/uzbekistan-arsenal-combat-systems/amp/",
+        "date": "2026-07",
+        "scope": "Uzbekistan",
+        "metric": "domestic defense production expansion"
+      },
+      {
+        "title": "Uzbekistan Military Spending/Defense Budget | Historical Chart & Data",
+        "publisher": "Trading Economics / Macrotrends (SIPRI-derived)",
+        "url": "https://www.macrotrends.net/global-metrics/countries/uzb/uzbekistan/military-spending-defense-budget",
+        "date": "2018",
+        "scope": "Uzbekistan",
+        "metric": "Defense budget historical trend, 2003-2018"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Industrial/OT cybersecurity for critical infrastructure",
+        "description": "Uzbekistan's industrial and critical-infrastructure cybersecurity capacity remains underdeveloped, with few local providers of dedicated OT/industrial cybersecurity services.",
+        "sources": [
+          {
+            "title": "Uzbekistan to strengthen cyber defenses under new 2026-2030 strategy",
+            "publisher": "Daryo.uz",
+            "url": "https://daryo.uz/en/2026/03/11/uzbekistan-to-strengthen-cyber-defenses-under-new-20262030-strategy/",
+            "date": "2026-03-11",
+            "scope": "Uzbekistan",
+            "metric": "New 5-year national strategy adopted to address gaps in cyber-defense capacity"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IMF's 2026 Article IV Consultation concluded with continued engagement on Uzbekistan's public sector reform agenda, and World Bank-financed education and transport reform programs indicate active public-sector modernization in 2025-2026.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "ADB's Country Partnership Strategy (2024-2028) and continued IMF Article IV engagement support a multi-year public sector reform trajectory, backed by sustained multilateral financing.",
+      "evidenceDate": "2024"
+    },
+    "risks": [
+      "Reform implementation capacity across large multilateral-financed programs",
+      "Macro-fiscal risks flagged in IMF Article IV consultations"
+    ],
+    "opportunities": [
+      "ADB Country Partnership Strategy 2024-2028 providing structured multi-year support",
+      "World Bank financing multiple public-service modernization programs (education, transport)"
+    ],
+    "sources": [
+      {
+        "title": "IMF Executive Board Concludes 2026 Article IV Consultation with the Republic of Uzbekistan",
+        "publisher": "IMF",
+        "url": "https://www.imf.org/en/news/articles/2026/06/18/pr-26214-uzbekistan-imf-executive-board-concludes-2026-article-iv-consultation",
+        "date": "2026-06",
+        "scope": "Uzbekistan",
+        "metric": "public sector and macro-fiscal review"
+      },
+      {
+        "title": "Uzbekistan: Country Partnership Strategy (2024-2028)",
+        "publisher": "Asian Development Bank",
+        "url": "https://www.adb.org/documents/uzbekistan-country-partnership-strategy-2024-2028",
+        "date": "2024",
+        "scope": "Uzbekistan",
+        "metric": "public sector development strategy"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "Residents outside Tashkent lack adequate digital infrastructure for e-government services, as internet access per capita trails the capital roughly threefold.",
+        "sources": [
+          {
+            "title": "Digital Inequality — A Barrier to the Development of the Regions of Uzbekistan",
+            "publisher": "Development Strategy Center (Uzbekistan)",
+            "url": "https://strategy.uz/index.php?news=2170&lang=en",
+            "date": "2025-10",
+            "scope": "Uzbekistan",
+            "metric": "Internet subscribers per 100 residents, Tashkent vs. regions"
+          }
+        ],
+        "subSector": "Digital government service access for residents outside Tashkent"
+      },
+      {
+        "subSector": "Assistive technology and ICT job-readiness support for persons with disabilities",
+        "description": "Persons with disabilities lack adequate assistive-technology subsidies and ICT job-readiness training, receiving just one 45-minute computer session per week in specialized schools.",
+        "sources": [
+          {
+            "title": "Accelerating the Inclusion of Persons with Disabilities in Uzbekistan's Digital Economy",
+            "publisher": "World Bank",
+            "url": "https://documents1.worldbank.org/curated/en/099072924092034323/pdf/P179589-9f34a1d9-5523-43ff-8cc6-7ca799748cc8.pdf",
+            "date": "2024",
+            "scope": "Uzbekistan",
+            "metric": "Employment rate and ICT-sector representation of persons with disabilities; assistive technology subsidy tiers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "President Mirziyoyev announced a major mahalla (community) reform on July 16, 2026, with districts receiving an average of 250 billion soums each and each mahalla 5.5 billion soums for community infrastructure, alongside 2 trillion soums in soft loans for family entrepreneurship (rates cut from 17.5% to 12% for disadvantaged mahallas) and expansion of 25 types of social services to neighborhood level by year-end 2026, per UzDaily; separately, UNDP continues small-grants programmes (up to $8,000 per grant) for civil society organizations.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Mahalla-level community budgets are projected to rise to 1.6 trillion soums by year-end 2026 and to 2 trillion soums annually thereafter, with a new National Institute for Mahalla Development established to provide ongoing training and support for community governance across Uzbekistan's 8,992 neighborhoods, indicating a sustained, structurally-funded push in community/social-economy programming, per UzDaily.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Implementation remains uneven across neighborhoods, with 152 officials dismissed and ~700 more facing discipline for inadequate management as of mid-2026",
+      "Sector data is dominated by government-led mahalla programs rather than independent nonprofit/civil-society statistics"
+    ],
+    "opportunities": [
+      "2 trillion soums in soft loans for family entrepreneurship at reduced interest rates",
+      "110,000 microprojects financed over six months, creating employment for 259,000 people",
+      "Mahalla budgets set to reach 2 trillion soums annually on an ongoing basis",
+      "UNDP small-grants programme continuing to fund civil society organizations"
+    ],
+    "sources": [
+      {
+        "title": "Mirziyoyev Announces Mahalla Reform and New Funding Push",
+        "publisher": "UzDaily",
+        "url": "https://www.uzdaily.uz/en/mirziyoyev-announces-mahalla-reform-and-new-funding-push/",
+        "date": "2026-07",
+        "scope": "Uzbekistan",
+        "metric": "community/mahalla-level social funding and microfinance"
+      },
+      {
+        "title": "Five Civil Society Organizations Selected under the 2026 Low Value Grants Programme to Expand Access to Justice Across Uzbekistan",
+        "publisher": "UNDP",
+        "url": "https://www.undp.org/uzbekistan/press-releases/five-civil-society-organizations-selected-under-the2026-low-value-grants-programme-expand-access-justice-across-uzbekistan",
+        "date": "2026",
+        "scope": "Uzbekistan",
+        "metric": "civil society organization grant funding"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable infant/toddler (0-3) childcare for working mothers",
+        "description": "Working mothers of children under 3 lack formal, affordable childcare, even as preschool coverage for ages 3-6 has expanded.",
+        "sources": [
+          {
+            "title": "Who Cares? Young People Are Calling for a Fairer Care Economy in Uzbekistan",
+            "publisher": "UNDP Uzbekistan",
+            "url": "https://www.undp.org/uzbekistan/blog/who-cares-young-people-are-calling-fairer-care-economy-uzbekistan",
+            "date": "2026-06",
+            "scope": "Uzbekistan",
+            "metric": "Youth consultation findings on care-economy gaps"
+          }
+        ]
+      },
+      {
+        "subSector": "Sheltered employment & social enterprises for people with disabilities",
+        "description": "People with disabilities lack adequate work-integration options, as social enterprises run by Disabled People Organizations fell 3.5x between 1991 and 2015.",
+        "sources": [
+          {
+            "title": "The role of social enterprises in employment and social protection of population",
+            "publisher": "UNDP Uzbekistan",
+            "url": "https://www.undp.org/uzbekistan/publications/role-social-enterprises-employment-and-social-protection-population",
+            "date": "2016-12",
+            "scope": "Uzbekistan",
+            "metric": "Trend in Disabled People Organization-run social enterprises and NGO self-financing share"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Uzbekistan led global venture capital growth with a 539.7% year-on-year surge in Q2 2026, attracting over $123 million in VC funding in 2026 (driven by major fintech deals involving Uzum and TBC Uzbekistan), with its startup ecosystem valued at approximately $3.3 billion, per Dealroom data cited by Kursiv Media.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Startup Genome's Global Startup Ecosystem Report 2025 named Uzbekistan Central Asia's fastest-rising startup ecosystem, and Uzbekistan ranked top 5 globally in startup growth in Q1 2026 per UzDaily, indicating a sustained multi-year emerging-tech growth trajectory, though from a low base.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "High VC growth rate driven off a very low prior-year base, raising sustainability questions",
+      "Ecosystem still early-stage relative to established regional hubs"
+    ],
+    "opportunities": [
+      "539.7% year-on-year VC funding growth in Q2 2026, ranked #1 globally",
+      "Startup ecosystem valued at ~$3.3 billion",
+      "Ranked Central Asia's fastest-rising startup ecosystem by Startup Genome"
+    ],
+    "sources": [
+      {
+        "title": "Uzbekistan Leads Global Venture Capital Growth With 540% Surge",
+        "publisher": "Kursiv Media",
+        "url": "https://uz.kursiv.media/en/2026-07-18/uzbekistan-leads-global-venture-capital-growth-with-540-surge/",
+        "date": "2026-07",
+        "scope": "Uzbekistan",
+        "metric": "venture capital funding growth"
+      },
+      {
+        "title": "Uzbekistan: Central Asia's Fastest-Rising Startup Ecosystem",
+        "publisher": "Startup Genome",
+        "url": "https://startupgenome.com/report/gser2025/uzbekistan-central-asias-fastest-rising-startup-ecosystem",
+        "date": "2025",
+        "scope": "Uzbekistan",
+        "metric": "startup ecosystem ranking"
+      }
+    ],
+    "gaps": [
+      {
+        "description": "The general population lacks comparable access to and adoption of generative AI tools, trailing both the global average and regional peers Kazakhstan and Kyrgyzstan.",
+        "sources": [
+          {
+            "title": "Uzbekistan AI adoption Trails Global Average, Microsoft Report Finds",
+            "publisher": "The Times of Central Asia / Microsoft",
+            "url": "https://timesca.com/uzbekistan-ai-adoption-trails-global-average-microsoft-report-finds/",
+            "date": "2026-05",
+            "scope": "Uzbekistan",
+            "metric": "% of population aged 15-64 using generative AI tools vs. global and regional averages"
+          }
+        ],
+        "subSector": "Generative AI access & literacy for the general population"
+      },
+      {
+        "subSector": "Digital payments & e-commerce monetization tools for rural craftswomen",
+        "description": "Rural craftswomen lack digital-payment adoption and e-commerce monetization tools despite high smartphone ownership, with only 37.6% using digital payments.",
+        "sources": [
+          {
+            "title": "Bridging the digital gender gap in rural Uzbekistan: financial literacy, smartphone adoption, and entry into the creative platform economy",
+            "publisher": "Frontiers in Human Dynamics",
+            "url": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1800743/full",
+            "date": "2026",
+            "scope": "Uzbekistan (rural)",
+            "metric": "Smartphone ownership, digital payment adoption, financial literacy index, and creative-platform engagement among rural women"
+          }
+        ]
+      }
+    ]
+  }
+]

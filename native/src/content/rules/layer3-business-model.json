@@ -1,0 +1,386 @@
+[
+  {
+    "rule_id": "L3-BM-01-AB",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-01",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 1,
+    "content": {
+      "title": "Define a basic, consistent pricing approach",
+      "finding": "No defined pricing or revenue mechanism exists — charging is ad hoc or still undecided.",
+      "consequence": "Without a defined way of converting what the business delivers into payment, revenue currently depends on case-by-case decisions rather than a mechanism the business can rely on, explain, or improve.",
+      "action": "Settle on a basic pricing approach and apply it consistently, even if it's simple — a flat rate, a per-unit price, a subscription — so there's a defined mechanism rather than ad hoc decisions each time.",
+      "avoid": "Leaving pricing open-ended \"until the business figures out its value.\" A basic, revisable mechanism now is more useful than an undefined one waiting for certainty.",
+      "action_evidence": "A basic pricing approach is defined and being applied.",
+      "assessment_evidence": "Re-asked: does a basic pricing approach exist, even if set without analysis and not yet revisited? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-BM-01-BC",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-01",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 1,
+    "content": {
+      "title": "Give the pricing mechanism a stated rationale",
+      "finding": "A basic pricing approach exists, but it was set without analysis — copied from a competitor or chosen as a round number — and hasn't been revisited since.",
+      "consequence": "The current pricing mechanism may or may not fit how this business actually delivers and captures value — it was chosen for convenience, not reasoned through, so there's no way to know if it's leaving money on the table or pricing the business out.",
+      "action": "Define a specific pricing mechanism with a stated rationale for why it's structured that way, and apply it consistently.",
+      "avoid": "Changing the number (raising or lowering the price) without changing the underlying reasoning. A different price chosen the same way the first one was doesn't resolve this.",
+      "action_evidence": "A specific pricing mechanism is defined, consistently applied, with a stated rationale.",
+      "assessment_evidence": "Re-asked: is a specific mechanism defined and consistently applied, with a stated rationale for its structure? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-BM-01-CD",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-01",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 1,
+    "content": {
+      "title": "Test or adjust pricing based on real evidence",
+      "finding": "A specific pricing mechanism is defined, consistently applied, and has a stated rationale — solid, but it hasn't yet been deliberately tested or adjusted based on evidence.",
+      "consequence": "The mechanism's rationale is currently theoretical — it hasn't been checked against how customers actually respond, so the business doesn't know if the reasoning holds up in practice.",
+      "action": "Deliberately test or adjust the pricing mechanism based on evidence — customer response, conversion rates, or margin impact — rather than leaving the original rationale unexamined.",
+      "avoid": "Testing a price change without tracking what it does to conversion or margin. The test needs to produce evidence, not just a new number.",
+      "action_evidence": "The pricing mechanism has been deliberately tested or adjusted, with the resulting evidence (customer response, conversion, margin impact) documented.",
+      "assessment_evidence": "Re-asked: has the mechanism been deliberately tested or adjusted based on evidence? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-01",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-BM-02-AB",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-02",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Start tracking direct costs of delivery",
+      "finding": "Direct costs of delivery are not tracked, so margin per sale is unknown.",
+      "consequence": "The business doesn't currently know whether each sale makes money or loses it — every pricing, volume, and growth decision is being made without knowing the basic economics behind a single transaction.",
+      "action": "Start tracking the direct costs of delivering what the business sells, so margin per sale can be calculated, even if it turns out thin or inconsistent.",
+      "avoid": "Estimating costs roughly from memory instead of tracking them. An estimate that isn't checked against real costs can be badly wrong in either direction.",
+      "action_evidence": "Direct costs are tracked, and margin per sale can be calculated, even if currently thin or inconsistent.",
+      "assessment_evidence": "Re-asked: are direct costs tracked, even if margin per sale is thin, inconsistent, or sometimes negative? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-BM-02-BC",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-02",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Get margin per sale positive and consistent",
+      "finding": "Direct costs are tracked, but margin per sale is thin, inconsistent, or sometimes negative.",
+      "consequence": "Even with costs tracked, the business isn't yet reliably keeping enough value per sale to build a surplus from — volume alone won't fix this if the per-sale economics don't hold up.",
+      "action": "Address whatever is driving thin or negative margin — pricing, cost structure, or which sales are being taken — until margin per sale is positive and reasonably consistent.",
+      "avoid": "Chasing volume to make up for thin margins rather than fixing the margin itself. More sales at a loss is not progress.",
+      "action_evidence": "Margin per sale is positive and reasonably consistent across recent sales.",
+      "assessment_evidence": "Re-asked: is margin per sale positive and reasonably consistent? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-BM-02-CD",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-02",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Understand how margin behaves as volume changes",
+      "finding": "Margin per sale is positive and reasonably consistent, but the business doesn't yet distinguish which costs are fixed and which vary with volume — so it doesn't know how margin would behave if volume changed.",
+      "consequence": "Without understanding the fixed/variable split, the business can't reliably predict what happens to margin if it grows, shrinks, or takes on a large new commitment — a real blind spot for any volume-changing decision.",
+      "action": "Break down costs into fixed and variable components, and use that to understand how margin behaves as volume changes.",
+      "avoid": "Treating all costs as variable (or all as fixed) for simplicity. The distinction is the whole point — collapsing it back into one number loses the value of doing this.",
+      "action_evidence": "Costs are categorized as fixed or variable, and the business can explain how margin would change at higher or lower volume.",
+      "assessment_evidence": "Re-asked: does the business understand which costs are fixed and which vary with volume, and how margin behaves as a result? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-02",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-BM-03-AB",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-03",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Start tracking acquisition and service costs",
+      "finding": "The cost to acquire and serve customers is not tracked, or is never compared to what a customer generates.",
+      "consequence": "The business doesn't currently know whether winning and serving a customer is a good economic trade — it could be spending more to acquire and serve customers than they're worth, without any way to notice.",
+      "action": "Start tracking the cost to acquire and serve customers, even if it isn't yet compared systematically against what a customer generates.",
+      "avoid": "Tracking acquisition cost alone while ignoring the ongoing cost of serving the customer afterward. Both sides matter to this construct.",
+      "action_evidence": "Acquisition and service costs are being tracked, even without a systematic comparison to customer value yet.",
+      "assessment_evidence": "Re-asked: are costs tracked, even if not yet systematically compared against customer value? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-BM-03-BC",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-03",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Compare costs against customer value, even with estimates",
+      "finding": "Costs to acquire and serve customers are tracked, but not systematically compared against what a customer generates.",
+      "consequence": "The business is collecting the right numbers but not yet putting them together — without the comparison, it can't say whether it's coming out ahead or behind on a typical customer.",
+      "action": "Compare acquisition and service costs against customer value using reasonable estimates, so there's at least an approximate answer to whether the relationship is break-even or better.",
+      "avoid": "Comparing acquisition cost against revenue rather than value generated more broadly, or using best-case assumptions that flatter the comparison.",
+      "action_evidence": "Costs have been compared against estimated customer value, and the relationship appears to be break-even or better.",
+      "assessment_evidence": "Re-asked: is the relationship, compared using estimates, break-even or better? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-BM-03-CD",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-03",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Replace estimates with actual data, measured against margin",
+      "finding": "Acquisition and service costs are compared against customer value using estimates, and the relationship appears break-even or better — but this is still based on estimates, not actual data, and compared against revenue rather than margin.",
+      "consequence": "An estimate-based comparison can be optimistic in ways the business wouldn't catch until real numbers come in — and comparing against revenue rather than margin overstates how much room there actually is.",
+      "action": "Replace the estimates with actual data once it exists, and compare acquisition and service cost against margin rather than revenue, so the picture reflects what the business actually earns back per customer. This level requires real, collected customer data — a genuine evidence ceiling, not a stage penalty (Questionnaire Specification, Part D): if the business is still pre-revenue, this action is tied to progress on winning real customers (Market dimension, MKT-02); once revenue exists, redo this comparison with actual figures.",
+      "avoid": "Continuing to rely on the original estimates well after real data becomes available, because the estimates were more favorable.",
+      "action_evidence": "The comparison uses actual data, not estimates, and is measured against margin rather than revenue — showing the business earns back more than it spends per customer.",
+      "assessment_evidence": "Re-asked: is the comparison based on actual data, measured against margin, and showing the business earns back more than it spends? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-03",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-BM-04-AB",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-04",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Reduce reliance on being cheapest or discounting routinely",
+      "finding": "The business competes primarily on being the cheapest option, or discounts routinely to close or retain business.",
+      "consequence": "Revenue currently depends on being the lowest-cost choice or on giving up margin to win and keep customers — a position that's vulnerable to anyone willing to go lower, and that leaves little room to invest in the business.",
+      "action": "Reduce reliance on being cheapest or on routine discounting — hold price on at least some deals rather than discounting as a default response to hesitation.",
+      "avoid": "Framing occasional non-discounted deals as progress while discounting remains the default response whenever a customer hesitates.",
+      "action_evidence": "Prices are mostly being held, even though discounting is still common enough to be a normal part of closing.",
+      "assessment_evidence": "Re-asked: are prices mostly held, even if discounting is still common enough to be a normal part of closing? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-BM-04-BC",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-04",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Make holding price the default, not discounting",
+      "finding": "Prices are mostly held, but discounting is still common enough to be a normal part of closing deals.",
+      "consequence": "The business hasn't yet established that its price is something customers will accept as a matter of course — discounting as a normal closing tactic suggests the stated price isn't fully trusted to hold on its own.",
+      "action": "Hold price without discounting as the default approach, so that discounting becomes the exception rather than a routine part of closing.",
+      "avoid": "Replacing an explicit discount with an equivalent concession dressed up differently (extra scope for the same price, deferred payment with no cost). The point is holding the actual value exchanged, not just the sticker price.",
+      "action_evidence": "Prices are generally held without routine discounting.",
+      "assessment_evidence": "Re-asked: are prices generally held without routine discounting, even if whether they could be raised is untested? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-BM-04-CD-PR",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-04",
+    "transition": "C->D",
+    "stage_variant": "PRE_REVENUE",
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Get a representative prospect to accept the stated price",
+      "finding": "Prices are generally held without routine discounting, but whether prospects would actually accept the stated price hasn't been tested.",
+      "consequence": "The business doesn't yet know if its price would survive contact with a real prospect deciding whether to commit — holding a price internally is different from a prospect accepting it.",
+      "action": "Test the stated price with prospects representative of the target segment, and get at least one to accept it without a discount to proceed — a letter of intent, a pilot agreement, or a commitment at that price.",
+      "avoid": "Testing the price only with the friendliest or most enthusiastic prospect. The test needs to be representative, not the easiest case available.",
+      "action_evidence": "At least one representative prospect has accepted the stated price without a discount, evidenced by a letter of intent, pilot agreement, or commitment.",
+      "assessment_evidence": "Re-asked: have representative prospects accepted the stated price without a discount to proceed? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-04",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-BM-04-CD-RG",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-04",
+    "transition": "C->D",
+    "stage_variant": "REVENUE_GENERATING",
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Test a price increase and retain the customer",
+      "finding": "Prices are generally held without routine discounting, but whether the business could actually raise its price hasn't been tested.",
+      "consequence": "The business doesn't yet know how much pricing power it actually has — holding the current price is different from knowing customers would accept a higher one.",
+      "action": "Apply a price increase to new or existing customers and see whether the business retains them at the higher price.",
+      "avoid": "Testing a price increase only on new customers while never testing it on existing ones, or vice versa — either alone is a narrower test than the item asks for.",
+      "action_evidence": "A price increase has been applied to new or existing customers, and the business retained them at the higher price.",
+      "assessment_evidence": "Re-asked: has a price increase been applied and the business retained at the higher price? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-04",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-BM-05-AB",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-05",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Build toward some forward revenue visibility",
+      "finding": "No revenue for the period ahead is visible in advance — every sale must be won afresh, and the business cannot see what's coming.",
+      "consequence": "The business is currently planning blind on the revenue side — without any forward visibility, it can't tell in advance whether it's heading toward a shortfall or has room to invest.",
+      "action": "Start building toward some forward visibility — even informal expectations of repeat business, based on real patterns rather than hope, are a starting point.",
+      "avoid": "Treating optimistic hope for repeat business as visibility. The construct requires something forecastable, not just a wish that customers return.",
+      "action_evidence": "Some repeat business is reasonably expected based on observed patterns, even without anything committed or fully forecastable yet.",
+      "assessment_evidence": "Re-asked: is some repeat business expected, even without anything committed or forecastable? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-05",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-BM-05-BC",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-05",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Convert expected repeat business into something committed",
+      "finding": "Some repeat business is expected, but nothing is committed or forecastable — the business still can't point to a visible, quantifiable forward revenue base.",
+      "consequence": "Without something committed — a contract, a subscription, a booked order — forward revenue remains a hope rather than something the business can plan around or show to others.",
+      "action": "Convert expected repeat business into something committed and visible — contracts, subscriptions, retainers, booked pipeline, or a documented repeat pattern — so a meaningful portion of forward revenue is actually visible in advance.",
+      "avoid": "Counting informal, unconfirmed interest from a few customers as committed revenue. The construct requires something with real weight behind it — an order, a contract, a subscription — not an impression.",
+      "action_evidence": "A meaningful portion of forward revenue is visible in advance through committed orders, contracts, subscriptions, retainers, or a documented repeat pattern.",
+      "assessment_evidence": "Re-asked: is a meaningful portion of revenue visible in advance through one of these mechanisms? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-05",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-BM-05-CD",
+    "layer": 3,
+    "dimension": "Business Model",
+    "source_field": "BM-05",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Plan the business against a defined forward period",
+      "finding": "A meaningful portion of revenue is visible in advance, but the business doesn't yet plan against a defined forward period using that visibility.",
+      "consequence": "The forward visibility that exists isn't yet being put to use — the business has more predictability available to it than it's currently building its planning around.",
+      "action": "Define a specific forward period (a quarter, a set number of months) and plan the business's activity against the visible revenue that covers it.",
+      "avoid": "Tracking the visible revenue number without actually changing how the business plans around it. Visibility that doesn't inform planning isn't yet doing its job.",
+      "action_evidence": "The business plans against a defined forward period, using the visible portion of revenue as the basis.",
+      "assessment_evidence": "Re-asked: does the visible portion cover a defined forward period the business plans against? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "BM-05",
+      "minimum_level": "D"
+    }
+  }
+]

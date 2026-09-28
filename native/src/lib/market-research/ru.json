@@ -1,0 +1,1996 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Russia's 2025-2026 grain export season is running ahead of prior-year pace (grain exports up ~11% to 61 mln tons per TASS/Rosselkhoznadzor data), and the government has set a 2026 export quota reflecting a strong harvest. However, wheat exports hit a decade low in August 2026 amid Black Sea shipping disruptions, showing volatility.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Russia remains a top global wheat exporter with continued government support for export quotas and expanding trade with China, but logistics disruption from the war (Black Sea attacks) and sanctions on shipping/insurance create structural risk to export volumes. The Central Bank has flagged agriculture as one of the sectors facing the most severe labor shortages heading toward 2030.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Black Sea shipping and insurance disruptions from the war",
+      "Export quota and taxation policy volatility",
+      "Worsening farm labor shortages"
+    ],
+    "opportunities": [
+      "Growing grain trade with China and Asian markets",
+      "Strong 2025/26 harvest supporting export volumes"
+    ],
+    "sources": [
+      {
+        "title": "Russian grain exports gain 11% to 61 mln tons in 2025-2026 season",
+        "publisher": "TASS",
+        "url": "https://tass.com/economy/2160767",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "grain export volume"
+      },
+      {
+        "title": "Russian Wheat Exports Brace for Decade Low in August Amid Black Sea Attacks",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/08/11/russian-wheat-exports-brace-for-decade-low-in-august-amid-black-sea-attacks-a93462",
+        "date": "2026-08",
+        "scope": "Russia",
+        "metric": "wheat export volume"
+      },
+      {
+        "title": "First time in modern history: Russian Central Bank chief says country faces labour shortage",
+        "publisher": "Ukrainska Pravda",
+        "url": "https://www.pravda.com.ua/eng/news/2026/04/16/8030430/",
+        "date": "2026-04",
+        "scope": "Russia",
+        "metric": "sector labor shortages including agriculture"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small and mid-size farm operations needing to replace agricultural machinery amid a collapsing domestic equipment market",
+        "description": "Small and mid-size farms without leasing or financing access can't replace aging agricultural machinery as the domestic equipment market collapses.",
+        "sources": [
+          {
+            "title": "Рынок сельхозтехники в России: продажи упали на 21,1% в 2025 году",
+            "publisher": "Kommersant",
+            "url": "https://www.kommersant.ru/doc/8379206",
+            "date": "2025",
+            "scope": "Russia",
+            "metric": "Year-over-year percentage decline in agricultural machinery sales"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Russia continues to report strong gold output (potentially reaching 500 tons per some estimates), though independent analysts flag divergence between official and independently estimated production figures. USGS continues to track Russian mineral production trends despite reduced data transparency since 2022.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Diamond miner Alrosa's diversification into gold (its $276 million acquisition of a large gold deposit from Polyus) illustrates a structural shift among Russian miners toward diversifying revenue away from sanctioned diamond exports and toward gold, which faces fewer Western trade restrictions and stronger non-Western buyer demand.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Sanctions limiting equipment/technology imports for mining",
+      "Data transparency concerns limiting independent verification of output figures",
+      "Sanctions on diamond exports pressuring Alrosa to diversify"
+    ],
+    "opportunities": [
+      "Continued gold and diamond production demand from non-Western buyers",
+      "Diversification into gold mining as a hedge against diamond-sector sanctions"
+    ],
+    "sources": [
+      {
+        "title": "Russia | U.S. Geological Survey",
+        "publisher": "USGS",
+        "url": "https://www.usgs.gov/centers/national-minerals-information-center/russia",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "mineral production data"
+      },
+      {
+        "title": "Russia Claims Record Gold Output as Production Estimates Diverge",
+        "publisher": "Investing News Network",
+        "url": "https://investingnews.com/russia-gold-output-vs-production/",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "gold production estimates"
+      },
+      {
+        "title": "Russian Diamond Giant Alrosa Expands into Gold with $276 Million Acquisition",
+        "publisher": "Diamond World",
+        "url": "https://www.diamondworld.net/news/russian-diamond-giant-alrosa-expands-into-gold-with-276-million-acquisition",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "mining sector diversification / M&A"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Russia's mining sector is dominated by opaque state-linked and sanctioned majors whose operational and supply-chain data is not independently verifiable since 2022.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Russia has revised down its oil and gas production and export forecasts for 2026-2029, and new US/EU sanctions (including on Rosneft/Lukoil) are projected by independent analysts (Re:Russia) to cut oil and gas exports by more than 25% in 2026, with budget losses exceeding 1 trillion rubles. Independent tracking (CREA) shows continued monthly declines in fossil fuel export revenue.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Structural constraints on crude production capacity are emerging (Rystad Energy analysis) as sanctions limit access to technology, equipment, and shipping/insurance, with export markets increasingly redirected to discounted sales to China and India.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Expanded Western sanctions on major oil companies (Rosneft, Lukoil)",
+      "Loss of access to Western oilfield technology and shipping/insurance capacity"
+    ],
+    "opportunities": [
+      "Continued discounted exports to China and India",
+      "Domestic energy demand growth"
+    ],
+    "sources": [
+      {
+        "title": "Russia revises down oil and gas production and exports forecasts for 2026-2029",
+        "publisher": "Hydrocarbon Processing",
+        "url": "https://www.hydrocarbonprocessing.com/news/2026/05/russia-revises-down-oil-and-gas-production-and-exports-forecasts-for-2026-2029/",
+        "date": "2026-05",
+        "scope": "Russia",
+        "metric": "oil and gas production forecast"
+      },
+      {
+        "title": "Cutting Off The Tail Piece By Piece: oil and gas exports may decline by more than 25% in 2026",
+        "publisher": "Re:Russia",
+        "url": "https://re-russia.net/en/analytics/0355/",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "oil and gas export decline forecast"
+      },
+      {
+        "title": "July 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+        "publisher": "Centre for Research on Energy and Clean Air (CREA)",
+        "url": "https://energyandcleanair.org/july-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+        "date": "2026-07",
+        "scope": "Russia",
+        "metric": "fossil fuel export revenue"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "EV charging infrastructure investment/co-location tools for regional cities",
+        "description": "EV drivers in regional cities outside Moscow and Tatarstan lack investable charging infrastructure, leaving chargers badly overloaded relative to well-served hubs.",
+        "sources": [
+          {
+            "title": "Сколько в России зарядных станций для электрокаров",
+            "publisher": "Autonews.ru",
+            "url": "https://www.autonews.ru/news/6a5f76c29a7947804afac7c9",
+            "date": "2026-04",
+            "scope": "Russia",
+            "metric": "~8,000 public charging stations vs ~80,000 EVs nationally; Moscow ratio far more overloaded than Tatarstan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The government plans steep utility tariff hikes well above inflation targets: total housing/utility payments are set to rise 9.9% in 2026, 8.7% in 2027, and 7.1% in 2028 (27.9% cumulative), with electricity tariffs rising fastest (up to 11.3% in 2026) to fund power-system and infrastructure investment.",
+      "evidenceDate": "2025-09"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Tariff growth is structured to generate additional annual revenue equal to 1.5% of utility companies' turnover for infrastructure modernization, including gas and heating infrastructure in newly annexed territories, implying continued above-inflation revenue growth for the utilities sector through at least 2028.",
+      "evidenceDate": "2025-09"
+    },
+    "risks": [
+      "Consumer affordability pressure and political backlash against fast-rising tariffs",
+      "Labor shortages flagged in the energy and water-supply sub-sectors"
+    ],
+    "opportunities": [
+      "Guaranteed above-inflation tariff revenue growth funding infrastructure investment"
+    ],
+    "sources": [
+      {
+        "title": "Russia Plans Steeper Utility Tariff Hikes in 2026-2028, Outpacing Inflation",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2025/09/30/russia-plans-steeper-utility-tariff-hikes-in-2026-2028-outpacing-inflation-a90669",
+        "date": "2025-09",
+        "scope": "Russia",
+        "metric": "utility tariff increase schedule 2026-2028"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Municipal water network monitoring for mid-size/regional cities",
+        "description": "Water supply network wear across Russia has reached 75%, leaving regional utility operators without affordable leak-detection and pipe-condition monitoring tools.",
+        "sources": [
+          {
+            "title": "Общий износ сетей водоснабжения в стране достиг 75%",
+            "publisher": "Независимая газета (Nezavisimaya Gazeta)",
+            "url": "https://www.ng.ru/economics/2024-10-31/4_9127_waterservice.html",
+            "date": "2024-10-31",
+            "scope": "Russia",
+            "metric": "75% wear/depreciation of national water supply network infrastructure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Rosstat reported industrial production growth of just 0.1% in January-July 2026, with independent economists (Re:Russia, Moscow Times) questioning the reliability of official industrial output data and noting the broader industrial economy is oscillating between stagnation and weak growth once military production is excluded.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Officials have acknowledged that the defense-manufacturing boom that has propped up industrial output is nearing its limits, suggesting future growth will depend on non-military manufacturing which has been comparatively weak; the Central Bank separately forecasts a shortage of over 3 million workers by 2030, concentrated partly in manufacturing.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Over-reliance on defense-sector output masking broader industrial stagnation",
+      "Data reliability concerns flagged by independent economists",
+      "Growing manufacturing labor shortages"
+    ],
+    "opportunities": [
+      "Import-substitution driven domestic manufacturing investment"
+    ],
+    "sources": [
+      {
+        "title": "Russia's industrial production grows by 0.1% in January-July — Rosstat",
+        "publisher": "TASS",
+        "url": "https://tass.com/economy/2178035",
+        "date": "2026-08",
+        "scope": "Russia",
+        "metric": "industrial production growth"
+      },
+      {
+        "title": "Russia's Defense Manufacturing Boom Is Nearing Its Limit, Official Says",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/07/07/russias-defense-manufacturing-boom-is-nearing-its-limit-official-says-a93191",
+        "date": "2026-07",
+        "scope": "Russia",
+        "metric": "defense manufacturing capacity"
+      },
+      {
+        "title": "Growth on Growth: dynamics of Russian industry oscillates between stagnation and weak growth",
+        "publisher": "Re:Russia",
+        "url": "https://re-russia.net/en/review/755/",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "industrial production excluding military"
+      },
+      {
+        "title": "First time in modern history: Russian Central Bank chief says country faces labour shortage",
+        "publisher": "Ukrainska Pravda",
+        "url": "https://www.pravda.com.ua/eng/news/2026/04/16/8030430/",
+        "date": "2026-04",
+        "scope": "Russia",
+        "metric": "projected labor shortage by 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Domestic-equivalent machine tools for mid-size industrial enterprises",
+        "description": "Mid-size industrial enterprises lack domestic-equivalent machine tools, forcing reliance on imported or parallel-imported machinery.",
+        "sources": [
+          {
+            "title": "Отечественные станки продолжают занимать менее 2% доли российского рынка",
+            "publisher": "Абирег (Abireg.ru)",
+            "url": "https://abireg.ru/newsitem/106775/",
+            "date": "2025-04-22",
+            "scope": "Russia",
+            "metric": "Domestic machine tools = <2% of Russian market share (2024)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Construction output fell around 10% year-on-year in Q1 2026, and multiple sources (The Moscow Times, industry outlets) describe a deepening wartime slump driven by high interest rates, reduced mortgage subsidies, and falling demand.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Analysts describe the Russian construction market as 'rapidly approaching crisis,' with developers facing financing strain from high central bank rates and reduced state mortgage support programs.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "High interest rates constraining developer financing and mortgage demand",
+      "Reduced state mortgage subsidy programs"
+    ],
+    "opportunities": [
+      "Potential rebound if interest rates ease"
+    ],
+    "sources": [
+      {
+        "title": "As Wartime Slump Deepens, Russia's Construction Sector Is on Shaky Ground",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/06/23/as-wartime-slump-deepens-russias-construction-sector-is-on-shaky-ground-a93049",
+        "date": "2026-06",
+        "scope": "Russia",
+        "metric": "construction sector conditions"
+      },
+      {
+        "title": "Construction output in Russia down 10% in the first quarter",
+        "publisher": "SteelStructures International Industrial Exhibition",
+        "url": "https://mc-expo.ru/en/news/4457",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "construction output"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Labor-productivity and workforce-automation tools for small construction firms",
+        "description": "Small construction firms facing a 200,000-worker shortage lack labor-productivity and workforce-automation tools to offset the gap.",
+        "sources": [
+          {
+            "title": "Дефицит кадров в строительной отрасли России достиг 200 тыс. человек",
+            "publisher": "Агентство Бизнес Новостей (ABN)",
+            "url": "https://abn.agency/2026/08/06/deficzit-kadrov-v-stroitelnoj-otrasli-rossii-dostig-200-tys-chelovek/",
+            "date": "2026-08-06",
+            "scope": "Russia",
+            "metric": "Construction workforce deficit: ~200,000 workers; 87%+ of small construction firms not prioritizing productivity improvements"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "The Moscow apartment market is reported to be hit by construction delays and a broader slowdown, with the residential property market described as continuing to decline amid high mortgage rates and weakened demand.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Analysis from Yakov and Partners on 'the new normal' for Russian real estate points to structurally weaker demand and financing conditions persisting into 2026, tied to the same interest-rate and sanctions pressures affecting construction.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High mortgage rates suppressing demand",
+      "Construction delays and developer financial stress"
+    ],
+    "opportunities": [],
+    "sources": [
+      {
+        "title": "Moscow Apartment Market Hit by Construction Delays and Slowdown",
+        "publisher": "Global Banking & Finance",
+        "url": "https://www.globalbankingandfinance.com/russian-building-downturn-leaves-moscow-apartment-buyers/",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "residential real estate market conditions"
+      },
+      {
+        "title": "The New Normal: What will happen to the Russian real estate market in 2026",
+        "publisher": "Yakov and Partners",
+        "url": "https://yakovpartners.com/publications/development-trends/",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "real estate market outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable new housing supply in the Far East and weaker regional cities",
+        "description": "Homebuyers in the Far East and weaker regional cities lack affordable new housing supply as subsidized mortgage rates end.",
+        "sources": [
+          {
+            "title": "Russia Faces Looming Housing Shortage as Construction Slows",
+            "publisher": "The Moscow Times (citing DOM.RF)",
+            "url": "https://www.themoscowtimes.com/2025/04/14/russia-faces-looming-housing-shortage-as-construction-slows-a88726",
+            "date": "2025-04-14",
+            "scope": "Russia",
+            "metric": "Up to 30 million sq. m. projected housing shortfall by 2027; Q1 2025 new construction down 24% YoY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Russia's car market posted its weakest January-February in two decades: overall sales fell 9.5% year-on-year in January 2026 to roughly 80,600 vehicles, and Lada (AvtoVAZ) registrations dropped 28.7%, prompting AvtoVAZ to cut its production target to 400,000 units for 2026, well below 2024's 525,000.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Separately, Russia's aviation sector is described as being in structural decline: over 400 foreign-owned aircraft remain seized/grounded, roughly 20% of the airline fleet is grounded due to maintenance and sanctions-driven parts shortages, and the domestic MC-21 jet program faces large cost overruns (per-aircraft cost up from ~$40 million in 2023 to ~$67 million in 2026) and delayed timelines, with an aviation researcher calling government production targets 'unimplementable.'",
+      "evidenceDate": "2026-08"
+    },
+    "risks": [
+      "Weak consumer demand for new vehicles amid high interest rates",
+      "Sanctions-driven aircraft parts and maintenance shortages grounding airline fleets",
+      "Cost overruns and delays in domestic aircraft production (MC-21)"
+    ],
+    "opportunities": [
+      "Import-substitution push in domestic auto and aircraft manufacturing"
+    ],
+    "sources": [
+      {
+        "title": "Russia's Car Market Posts Worst Start to Year in 2 Decades, AvtoVAZ Executive Says",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/02/27/russias-car-market-posts-worst-start-to-year-in-2-decades-avtovaz-executive-says-a92069",
+        "date": "2026-02",
+        "scope": "Russia",
+        "metric": "vehicle sales decline and AvtoVAZ production targets"
+      },
+      {
+        "title": "Russia Is Betting on the MC-21 to Reverse Its Aviation Decline. It's No Silver Bullet.",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/08/24/russia-is-betting-on-the-mc-21-to-reverse-its-aviation-decline-its-no-silver-bullet-a93403",
+        "date": "2026-08",
+        "scope": "Russia",
+        "metric": "aircraft fleet grounding rate and MC-21 program costs"
+      },
+      {
+        "title": "Fleet Groundings Mount at Several Russian Airlines as Sanctions Strain Maintenance – Kommersant",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/06/29/fleet-groundings-mount-at-several-russian-airlines-as-sanctions-strain-maintenance-a93119",
+        "date": "2026-06",
+        "scope": "Russia",
+        "metric": "airline fleet grounding"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "EV charging infrastructure in remote/peripheral regions",
+        "description": "EV drivers in remote regions like Kamchatka and Transbaikalia lack charging infrastructure despite Moscow's dense charger network.",
+        "sources": [
+          {
+            "title": "Сколько зарядных станций в России в 2025 году",
+            "publisher": "avtocharge.ru",
+            "url": "https://avtocharge.ru/razvitie-zaryadnoy-infrastruktury-v-rossii-na-2025-god/",
+            "date": "2025",
+            "scope": "Russia",
+            "metric": "~900-1,500 charging points in Moscow/Moscow region vs. acute shortages in Kamchatka, Transbaikalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Russian Railways (RZD) has reported freight loading declines despite earlier growth targets, and industry sources note the company has turned to the debt market amid financial pressure, indicating strain across rail-based logistics — a core mode of Russian freight movement. Freight volumes fell 6.7% in the first nine months of 2025, with grain transport down 26.6%.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "RZD has cut its investment program roughly 40% (from $16.3 billion to $10.7 billion) and resorted to unpaid leave for managers rather than layoffs amid a fourth consecutive year of freight decline (down 3.9% in 2022, 0.2% in 2023, 4.1% in 2024); with debt around 2.77 trillion rubles and net profit down 95% in H1 2025, analysts (citing Ukraine's Foreign Intelligence Service reporting) warn of a potential working-capital shortage in 2026 that could delay eastern-corridor expansion projects toward China.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rail freight volume decline and RZD financial strain",
+      "Sanctions affecting international shipping and insurance access",
+      "Sharp cuts to RZD's infrastructure investment program limiting capacity expansion"
+    ],
+    "opportunities": [
+      "Growing trade corridors with China and Asia requiring logistics investment"
+    ],
+    "sources": [
+      {
+        "title": "Russian Railways Reports Freight Decline Despite 2026 Growth Targets",
+        "publisher": "Odessa Journal",
+        "url": "https://odessa-journal.com/foreign-intelligence-service-russian-railways-records-a-decline-in-key-sectors-and-enters-the-debt-market",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "rail freight loadings"
+      },
+      {
+        "title": "Russian Railways Faces Staff Cuts and Hiring Freeze Amid Falling Freight and Profits",
+        "publisher": "Odessa Journal",
+        "url": "https://odessa-journal.com/foreign-intelligence-service-russian-railways-is-cutting-staff-and-investments-amid-a-decline-in-freight-volumes",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "rail freight decline, investment cuts, net profit"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Regional cold-chain / low-temperature warehousing",
+        "description": "Mid-size fish and seafood processors in the Far East and other non-central regions lack regional cold-storage and low-temperature wholesale distribution, forcing product to travel 8,000-9,000 km to Moscow/St. Petersburg facilities.",
+        "sources": [
+          {
+            "title": "Дефицит холодильных складов в регионах создает проблемы для рыбопромышленников",
+            "publisher": "Fishretail.ru",
+            "url": "https://fishretail.ru/news/defitsit-holodilnih-skladov-v-regionah-sozdaet-502826",
+            "date": "2026-06-24",
+            "scope": "Russia",
+            "metric": "Only 15-20 major inter-regional wholesale distribution centers currently operate in Russia versus 200-250 during the Soviet period; roughly half of all low-temperature warehouse capacity is located outside Moscow, St. Petersburg and surrounding regions; 2026 low-temperature capacity additions expected to fall 36% year-over-year to 160,000 sq m."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Rosstat's March 2026 operational data show wholesale trade turnover (excluding vehicles/motorcycles) at 9,181.1 billion rubles, up to 107.5% year-on-year in nominal terms, but Q1 2026 wholesale volumes ran at only 99.4% of Q1 2025 in comparable terms, pointing to a sector that is nominally growing on inflation and price effects but flat-to-softening in real volume.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Russian wholesale and distribution continues to adapt to sanctions-driven reconfiguration of supply chains (parallel imports, new logistics corridors via Central Asia/China/Turkiye), with the sector's fortunes tied closely to retail and industrial demand, ruble stability, and continued access to import channels.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Real (volume-adjusted) wholesale turnover running below prior-year levels despite nominal ruble growth",
+      "Continued dependence on parallel-import and alternative logistics channels exposed to sanctions enforcement",
+      "High interest rates increasing working-capital costs for distributors"
+    ],
+    "opportunities": [
+      "Growing trade volumes with China, Central Asia and other non-Western partners",
+      "Import-substitution demand creating new distribution niches for domestic and allied-country goods"
+    ],
+    "sources": [
+      {
+        "title": "Основные экономические и социальные показатели (март 2026)",
+        "publisher": "Rosstat (Federal State Statistics Service)",
+        "url": "https://rosstat.gov.ru/storage/mediabank/osn-03-2026.pdf",
+        "date": "2026-03",
+        "scope": "Russia",
+        "metric": "wholesale trade turnover, nominal and comparable growth"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Post-2022 reconfiguration of Russian wholesale/distribution around parallel imports is tracked mainly by informal trade estimates, not specific, checkable segment-level data.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "TradingEconomics tracks continuing but slowing retail sales growth; consumer spending indicators show average monthly household spending rose year-on-year, but a UNITED24 Media report notes zero new international brands entered the Russian market in Q1 2026, signaling continued retreat of foreign retail investment. Fashion retail specifically is in acute distress: 400-500 stores and 25 brands closed in 2025, and mall vacancy is projected to rise from 7.7% to 9.7%.",
+      "evidenceDate": "2026-01"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "The Moscow Times reports that fashion retailers have 'largely exhausted their financial buffers' after the post-2022 rush of brands filling space vacated by departed Western companies; many 2022-2023 launches failed to reach profitability within the typical 2-3 year cycle, only 12 international fashion labels entered Russia in 2025 (down from 20+ in prior years), and industry executives describe 2026 as a 'year of survival' for retail broadly amid weak consumer demand.",
+      "evidenceDate": "2026-01"
+    },
+    "risks": [
+      "Continued absence of foreign brand re-entry",
+      "Inflation pressure on real consumer spending power",
+      "Retailer financial distress and rising store closures/vacancy rates"
+    ],
+    "opportunities": [
+      "Domestic and parallel-import retail brands filling market gaps"
+    ],
+    "sources": [
+      {
+        "title": "Russia Retail Sales YoY",
+        "publisher": "Trading Economics",
+        "url": "https://tradingeconomics.com/russia/retail-sales-annual",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "retail sales growth"
+      },
+      {
+        "title": "Zero New Brands Enter Russian Market in Q1 2026 Amid Retail Crisis",
+        "publisher": "UNITED24 Media",
+        "url": "https://united24media.com/latest-news/russian-retail-stagnates-as-no-new-brands-enter-market-in-early-2026-17261",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "new foreign brand entries"
+      },
+      {
+        "title": "Store Closures Sweep Russia's Fashion Market as Profits Come Under Pressure",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/01/09/store-closures-sweep-russias-fashion-market-as-profits-come-under-pressure-a91642",
+        "date": "2026-01",
+        "scope": "Russia",
+        "metric": "fashion retail store closures and brand exits"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "E-commerce last-mile delivery in small/remote cities",
+        "description": "Last-mile delivery costs and times remain significantly higher and pickup-point density lower in small Russian towns than in Moscow/St. Petersburg, as marketplaces concentrate fulfillment investment in major hubs.",
+        "sources": [
+          {
+            "title": "Последняя миля eCommerce 2025: объем и каналы",
+            "publisher": "Data Insight",
+            "url": "https://datainsight.ru/Russian_online_shopping_market_with_delivery_2025",
+            "date": "2025",
+            "scope": "Russia",
+            "metric": "Last-mile delivery volume/channel split shows regional disparity"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The Bank of Russia raised its forecast for banking sector 2026 profits, and rating agency Expert RA projects Russian bank profits of roughly $51-54 billion for 2026, while Sberbank CEO Gref cited a lower estimate of about $45.8 billion — indicating continued but moderating profitability amid high interest rates.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The Bank of Russia's own baseline scenario projects its key policy rate easing gradually from 14.5-14.6% in 2026 to 10.5-12.5% in 2027 and 8-9% in 2028 as inflation is brought down from 6-7% to a 4% target, with GDP growth recovering from 0-1% in 2026 to 1.5-2.5% in 2027-2029 — implying margin compression and constrained lending in the near term followed by a gradual normalization supportive of banking-sector recovery later in the decade.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High interest rate environment squeezing loan demand and asset quality",
+      "Continued exclusion from SWIFT and Western correspondent banking"
+    ],
+    "opportunities": [
+      "Growth of domestic payment systems (Mir) and yuan-denominated trade settlement"
+    ],
+    "sources": [
+      {
+        "title": "Russia central bank raises forecast for banks' 2026 profits",
+        "publisher": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/russia-central-bank-raises-forecast-for-banks-2026-profits-ce7f5adedf8df423",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "banking sector profit forecast"
+      },
+      {
+        "title": "Russian banking sector may earn around $45.82 bln in 2026 — Gref",
+        "publisher": "TASS",
+        "url": "https://tass.com/economy/2181633",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "banking sector profit estimate"
+      },
+      {
+        "title": "Bank of Russia projects key rate at 14.5-14.6% in 2026 under baseline scenario",
+        "publisher": "TASS",
+        "url": "https://tass.com/economy/2179839",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "key rate and GDP/inflation forecast 2026-2029"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "SME/small-business lending",
+        "description": "Russian SME access to bank credit remains constrained by collateral requirements and risk-based pricing, a financing gap only partially filled by fintech alternative lenders.",
+        "sources": [
+          {
+            "title": "Financing SMEs and Entrepreneurs 2024: An OECD Scoreboard",
+            "publisher": "OECD",
+            "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/financing-smes-and-entrepreneurs-2024_015c0c26/fa521246-en.pdf",
+            "date": "2024",
+            "scope": "Russia",
+            "metric": "SME loan approval rates / financing gap indicators"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Russian rating agency ACRA projects the insurance market will 'grow moderately' in 2026, following the Bank of Russia's 2024 insurance market results report, suggesting continued but slowing expansion consistent with the broader high-interest-rate, slowing-growth macro backdrop.",
+      "evidenceDate": "2025-12"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "As with banking, the Bank of Russia's own baseline projects the key rate easing from 14.5-14.6% in 2026 toward 8-9% by 2028 alongside gradually recovering GDP growth (1.5-2.5% in 2027-2029) — a trajectory ACRA's 'moderate growth' framing is consistent with, implying insurance premium growth staying muted near-term before improving investment income and demand conditions later in the decade.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Slowing overall economic growth constraining premium growth",
+      "High interest rate environment affecting investment income"
+    ],
+    "opportunities": [
+      "Continued moderate market expansion per ACRA forecast"
+    ],
+    "sources": [
+      {
+        "title": "The Insurance market will grow moderately in 2026",
+        "publisher": "ACRA (Analytical Credit Rating Agency)",
+        "url": "https://www.acra-ratings.ru/research/2837/?lang=en",
+        "date": "2025-12",
+        "scope": "Russia",
+        "metric": "insurance market growth forecast"
+      },
+      {
+        "title": "Insurance market: 2024 results",
+        "publisher": "Bank of Russia",
+        "url": "https://www.cbr.ru/eng/press/event/?id=23464",
+        "date": "2024",
+        "scope": "Russia",
+        "metric": "insurance market results"
+      },
+      {
+        "title": "Bank of Russia projects key rate at 14.5-14.6% in 2026 under baseline scenario",
+        "publisher": "TASS",
+        "url": "https://tass.com/economy/2179839",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "key rate and GDP/inflation forecast 2026-2029"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Commercial insurance for SMEs outside major metros",
+        "description": "SMEs outside Moscow, St. Petersburg and Yekaterinburg lack access to commercial insurance despite growing SME insured-entity counts.",
+        "sources": [
+          {
+            "title": "Как изменилось отношение МСП к страхованию бизнеса",
+            "publisher": "Expert.ru",
+            "url": "https://expert.ru/analitika/kak-izmenilos-otnoshenie-msp-k-strakhovaniyu-biznesa/",
+            "date": "2025",
+            "scope": "Russia",
+            "metric": "Moscow, St. Petersburg and Yekaterinburg account for ~80% of SME insurance premium collections"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Independent analysis (Re:Russia) finds the Russian IT sector's growth under forced import substitution has largely translated into higher prices rather than a genuine capacity breakthrough. A separate report noted that companies spent 116 times more implementing import-substitute IT solutions than the 1.6 billion rubles in benefits gained, suggesting inefficiency in the transition. Adjacent segments show robust nominal growth: the telecom-adjacent Big Data & AI market grew to an estimated 433 billion rubles in 2024 and a projected 520 billion rubles in 2025 (~20% growth), per TAdviser/Association of Big Data/B1 research.",
+      "evidenceDate": "2025-11"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Growth continues to be driven by government support, import-substitution mandates, and cloud-infrastructure expansion, but structural constraints persist: a shortage of machine-learning and other specialists, and a market structure oriented toward selling anonymized analytical reports and packaged solutions rather than raw data due to stringent storage/processing regulations, which raises costs relative to more open markets.",
+      "evidenceDate": "2025-11"
+    },
+    "risks": [
+      "Import-substitution mandates driving costs up without proportional capability gains",
+      "Continued loss of access to Western software and cloud platforms",
+      "Shortage of qualified IT/ML specialists"
+    ],
+    "opportunities": [
+      "Government-mandated demand for domestic software vendors",
+      "Rapid growth of the domestic Big Data and AI services market"
+    ],
+    "sources": [
+      {
+        "title": "The Boom Has Gone to Prices: the Russian IT sector has not made a breakthrough despite favourable conditions and forced import substitution",
+        "publisher": "Re:Russia",
+        "url": "https://re-russia.net/en/analytics/0236/",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "IT sector growth and pricing"
+      },
+      {
+        "title": "Import substitution in IT brought Russian companies 1.6 billion rubles, but they spent 116 times more",
+        "publisher": "Aroged",
+        "url": "https://www.aroged.com/2026/05/23/import-substitution-in-it-brought-russian-companies-1-6-billion-rubles-but-they-spent-116-times-more/",
+        "date": "2026-05",
+        "scope": "Russia",
+        "metric": "IT import substitution cost/benefit"
+      },
+      {
+        "title": "Russia's Big Data and AI market projected to reach 520 billion rubles in 2025",
+        "publisher": "Kommersant",
+        "url": "https://www.kommersant.ru/doc/8195596",
+        "date": "2025-11",
+        "scope": "Russia",
+        "metric": "Big Data and AI market size and growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "IT talent recruitment/retention tools for manufacturing enterprises",
+        "description": "Manufacturing enterprises lack IT talent recruitment and retention tools, leaving personnel shortages as their top barrier to digital-technology adoption.",
+        "sources": [
+          {
+            "title": "Дефицит ИТ-специалистов и ИИ-кадров тормозит цифровизацию индустрии в России",
+            "publisher": "Vedomosti",
+            "url": "https://www.vedomosti.ru/management/articles/2025/06/03/1114488-defitsit-it-spetsialistov-i-ii-kadrov-tormozit-tsifrovizatsiyu-industrii",
+            "date": "2025-06-03",
+            "scope": "Russia",
+            "metric": "44% of surveyed enterprise leaders cite personnel shortage as main digitalization barrier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "TAdviser's Russian AI market review finds the market reached 650 billion rubles in 2023 (up 18% from 647 billion rubles — likely reflecting a broader AI-adjacent definition than the narrower Big Data & AI figure), with 39% of Russian companies using AI solutions as of early 2024 and 34% actively implementing AI for business problems; the Big Data & AI market specifically is projected at 520 billion rubles for 2025 (~20% growth), driven by government support, import substitution, and cloud expansion.",
+      "evidenceDate": "2025-11"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Industry analysts project the AI market could expand toward 0.3-0.6 trillion rubles by 2028 at a roughly 50% CAGR under some estimates, backed by substantial state funding (32.1 billion rubles budgeted for federal AI projects 2021-2024, 839 grants issued under the Digital Economy national project). However, adoption faces persistent barriers: 63.6% of organizations cite high implementation costs, 49.9% cite a specialist shortage, and about 51% of Russian companies report inadequate IT infrastructure for AI deployment.",
+      "evidenceDate": "2024"
+    },
+    "risks": [
+      "Shortage of machine-learning and AI specialists",
+      "High implementation costs and inadequate IT infrastructure at many companies",
+      "Loss of access to Western AI chips, cloud platforms, and research collaboration under sanctions"
+    ],
+    "opportunities": [
+      "Strong government funding and grant programs for AI startups and R&D",
+      "Rapid growth of the domestic Big Data and AI services market (~20%/year)"
+    ],
+    "sources": [
+      {
+        "title": "Artificial Intelligence (Russian market)",
+        "publisher": "TAdviser",
+        "url": "https://tadviser.com/index.php/Article:Artificial_Intelligence_(Russian_market)",
+        "date": "2024",
+        "scope": "Russia",
+        "metric": "AI market size, adoption rate, government funding and barriers"
+      },
+      {
+        "title": "Russia's Big Data and AI market projected to reach 520 billion rubles in 2025",
+        "publisher": "Kommersant",
+        "url": "https://www.kommersant.ru/doc/8195596",
+        "date": "2025-11",
+        "scope": "Russia",
+        "metric": "Big Data and AI market size and growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Industrial AI upskilling / AI talent development for manufacturing",
+        "description": "Manufacturing companies lack AI upskilling and talent-development programs, leaving most without any AI implementation.",
+        "sources": [
+          {
+            "title": "Дефицит промышленных кадров со знанием ИИ к 2030 году достигнет 3 млн человек",
+            "publisher": "ComNews",
+            "url": "https://www.comnews.ru/content/239013/2025-04-25/2025-w17/1009/deficit-promyshlennykh-kadrov-so-znaniem-ii-k-2030-godu-dostignet-3-mln-chelovek",
+            "date": "2025-04-25",
+            "scope": "Russia",
+            "metric": "2-3 million AI-skilled industrial workers shortage projected by 2030; only 25% AI adoption in manufacturing (2023)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Research by the Association of Big Data, B1, and TAdviser (reported by Kommersant) finds Russia's Big Data and AI market grew from 433 billion rubles in 2024 to a projected 520 billion rubles in 2025, roughly 20% annual growth, driven by government support programs, import substitution, and expanding cloud infrastructure.",
+      "evidenceDate": "2025-11"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The market's structure is distinctive: rather than trading raw data directly, Russian providers emphasize selling anonymized analytical reports and ready-made solutions, a model shaped by strict data storage/processing regulations that raises costs. Persistent shortage of machine-learning specialists and business uncertainty about proven use cases are flagged as ongoing constraints on faster growth.",
+      "evidenceDate": "2025-11"
+    },
+    "risks": [
+      "Shortage of specialists, particularly in machine learning",
+      "Regulatory constraints on data storage/processing raising compliance costs",
+      "Business hesitancy adopting analytics due to unclear ROI"
+    ],
+    "opportunities": [
+      "Government support and import-substitution demand for domestic analytics platforms",
+      "Growth of packaged analytical-solution sales as an alternative to raw data trading"
+    ],
+    "sources": [
+      {
+        "title": "Russia's Big Data and AI market projected to reach 520 billion rubles in 2025",
+        "publisher": "Kommersant",
+        "url": "https://www.kommersant.ru/doc/8195596",
+        "date": "2025-11",
+        "scope": "Russia",
+        "metric": "Big Data and AI market size and growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Enterprise data management/governance tooling after Western vendor exit",
+        "description": "The exit of Western database and BI vendors left domestic replacements immature specifically in data governance and quality-management functionality.",
+        "sources": [
+          {
+            "title": "Рынок систем управления и обработки данных в Российской Федерации",
+            "publisher": "Center for Strategic Research (CSR)",
+            "url": "https://www.csr.ru/upload/iblock/26a/swogkcus54ne2jaqcn5r98cq8hiu4d3p.pdf",
+            "date": "2024-05",
+            "scope": "Russia",
+            "metric": "Market share shift from foreign to domestic DBMS/BI vendors documented"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Russia's information-security market reached 337 billion rubles in 2024, up 27% year-over-year, and is forecast to exceed 400 billion rubles in 2025 (20-25% growth) per CNews reporting citing TAdviser data. Leading vendors posted strong growth: Kaspersky Lab (77.3B rubles, +15.7%), Softline (50B+, +47.2%), and Gazinformservice (47.8B, +28.3%); 84 of the top 100 security firms grew revenue in 2024, 15 by more than 100%.",
+      "evidenceDate": "2025-12"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Structural growth drivers are expected to persist: continued migration to domestic platforms requiring new protection layers, tightening FSTEC/FSB/Central Bank regulatory requirements (including personal liability rules for executives on data security), rising SMB security spending, and elevated geopolitical cyber-threat activity. A related TAdviser/Positive Technologies estimate projects the cybersecurity-event-monitoring sub-segment alone could reach 48.8 billion rubles by 2026.",
+      "evidenceDate": "2025-12"
+    },
+    "risks": [
+      "Rising costs of compliance with tightening FSTEC/FSB/Central Bank regulation",
+      "Talent shortage in cybersecurity specialties amid rapid market expansion"
+    ],
+    "opportunities": [
+      "Sustained 20%+ annual market growth driven by import substitution and regulation",
+      "Growing demand from SMBs for baseline IT security investment"
+    ],
+    "sources": [
+      {
+        "title": "Объем российского рынка информационной безопасности превысит 400 млрд рублей",
+        "publisher": "CNews",
+        "url": "https://www.cnews.ru/news/line/2025-12-23_obem_rossijskogo_rynka",
+        "date": "2025-12",
+        "scope": "Russia",
+        "metric": "cybersecurity market size and growth forecast"
+      },
+      {
+        "title": "TAdviser и Positive Technologies: рынок мониторинга событий кибербезопасности может вырасти до 48,8 млрд руб. к 2026 году",
+        "publisher": "itsec.ru",
+        "url": "https://www.itsec.ru/news/tadviser-i-positive-technologies-rinok-monitoringa-sobitiy-kiberbezopasnosti-mozhet-virasti-do-488-mlrd-rubley-k-2026-godu",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "cybersecurity event-monitoring sub-market forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Managed/outsourced cybersecurity services for SMEs and mid-size enterprises",
+        "description": "Small and mid-size companies can't hire in-house cybersecurity staff and lack access to managed or outsourced cybersecurity services.",
+        "sources": [
+          {
+            "title": "Дефицит IT-кадров в России достиг 1 млн человек",
+            "publisher": "Infoforum",
+            "url": "https://infoforum.ru/glavnoe/deficit-it-kadrov-v-rossii-dostig-1-mln-chelovek",
+            "date": "2026-07-02",
+            "scope": "Russia",
+            "metric": "IT/infosec workforce deficit: 1,000,000 people (up from 700,000 in 2024)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Per TAdviser, Russia's telecom market reached 2.1 trillion rubles in 2024 (7.4-7.8% growth, following 10.5% growth to 2.328 trillion rubles in 2023 by a different revenue base), with 270 million active mobile subscribers (+2.5%), 188 million mobile internet users (+6.5%), and 39 million fixed internet subscribers (+4.7%). Mobile internet revenue grew fastest among segments (+11.9% to 435.3B rubles).",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The state is directing substantial infrastructure investment (36 billion rubles in preferential operator loans; 116-282 billion rubles for a planned 292-satellite internet constellation) even as the broader industry consolidates sharply — the number of telecom operators fell from roughly 10,000 to 5,300 by end-2021, and the sector's GDP share halved from 1.6% (2012) to 0.8% (2022). Tighter regulation (license fees raised 130-fold, doubled universal-service-fund contributions, FSB coordination requirements for network builds) adds compliance cost even as revenue keeps growing.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Continued market consolidation and shrinking operator count",
+      "Rising regulatory/compliance costs (license fees, FSB coordination, universal service fund)",
+      "Sanctions limiting access to Western telecom equipment and technology"
+    ],
+    "opportunities": [
+      "Mobile internet and fixed internet segments driving above-inflation revenue growth",
+      "State-backed satellite internet constellation and rural connectivity investment"
+    ],
+    "sources": [
+      {
+        "title": "Communication (Russian market)",
+        "publisher": "TAdviser",
+        "url": "https://tadviser.com/index.php/Article:Communication_(Russian_market)",
+        "date": "2025",
+        "scope": "Russia",
+        "metric": "telecom market revenue, subscriber growth, segment breakdown"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Residents of small villages currently without any mobile/broadband coverage",
+        "description": "Residents of roughly 1,600 small villages and rural settlements lack any mobile or broadband coverage.",
+        "sources": [
+          {
+            "title": "Минцифры: интернет появится в более полутора тысячах деревнях и селах в 2025 году",
+            "publisher": "Expert.ru (citing Ministry of Digital Development)",
+            "url": "https://expert.ru/news/mintsifry-internet-poyavitsya-v-1-6-tys-derevnyakh-i-selakh-v-2025-godu/",
+            "date": "2025-01",
+            "scope": "Russia",
+            "metric": "Number of rural settlements slated to receive first-time mobile internet coverage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Russia has acknowledged failure of its electronics import-substitution program, per Ukraine's Foreign Intelligence Service reporting on Russian government data: the 2030 domestic-content target was cut from 80% to 58.7%, program funding will fall from $338.4 million (2024) to $62.6 million (2026), and deadlines for domestic processors/modems were pushed to 2032. Russia's touted 'Irtysh' processor was found to be a copy of a Chinese Loongson chip.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Russian experts cited in the same reporting acknowledge the country lacks a full production cycle for modern electronics (materials, equipment, and technology), and that localization above 60% is impossible without domestic 28nm-or-smaller chip fabrication, which sanctions currently block — implying continued structural dependence on imports (increasingly from China) over the long term.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Lack of domestic advanced chip fabrication capability under sanctions",
+      "Sharp cuts to electronics import-substitution program funding",
+      "Delayed processor/modem production deadlines (pushed to 2032)"
+    ],
+    "opportunities": [
+      "Continued reliance on Chinese semiconductor and electronics supply as a stopgap"
+    ],
+    "sources": [
+      {
+        "title": "Russia has acknowledged the failure of its electronics import substitution program",
+        "publisher": "UA.NEWS (citing Ukraine's Foreign Intelligence Service)",
+        "url": "https://ua.news/en/war-vs-rf/rosiia-viznala-proval-importozamishchennia-elektroniki",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "electronics import substitution targets and funding"
+      },
+      {
+        "title": "Microelectronics in Russia: from shortages to technological independence",
+        "publisher": "Yakov and Partners",
+        "url": "https://yakovpartners.com/publications/microelectronics-in-russia/",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "microelectronics industry analysis"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "ECB design/process engineering training pipeline",
+        "description": "Russia's micro- and radioelectronics sector lacks a training pipeline for ECB design/process engineering, CAD tooling and fab equipment operation.",
+        "sources": [
+          {
+            "title": "Некому работать. Для взлета российской микроэлектроники не хватает 21 тысячи инженеров",
+            "publisher": "CNews",
+            "url": "https://www.cnews.ru/news/top/2025-06-27_razvitiyu_mikroelektroniki",
+            "date": "2025-06-27",
+            "scope": "Russia",
+            "metric": "21,000+ specialist shortfall in micro/radioelectronics engineering, 2025-2027"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Per TAdviser, the 30 largest Russian robot manufacturers earned 29.3 billion rubles in 2023, up 44.3% from 20.3 billion rubles in 2022, with over 460 companies now active in service robotics across 21 segments as of October 2024. Robot density reached 11 robots per 10,000 workers, up from 6 four years earlier — growing faster than the global average, though Russia still holds only about 0.2% of the global industrial robot stock (7,000-7,500 units vs. 3.5 million worldwide).",
+      "evidenceDate": "2024-10"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The government has allocated 300 billion rubles toward robotization through 2030, including subsidies covering up to 50% of robot purchase costs and a new National Anthropomorphic Platform for humanoid robot development (Sberbank unveiled its humanoid robot 'Green' in November 2025). Structural constraints remain significant: an estimated 30,000 robotics specialists are needed annually, 58.8% of Russian robotics firms don't export, and 76.5% of firms are still in an early commercialization stage.",
+      "evidenceDate": "2024-10"
+    },
+    "risks": [
+      "Severe shortage of qualified robotics specialists (~30,000/year needed)",
+      "Very low robot density and manufacturing base relative to global leaders",
+      "Most firms still pre-commercial, limiting near-term export potential"
+    ],
+    "opportunities": [
+      "Large state funding commitment (300 billion rubles through 2030) and purchase subsidies",
+      "Fast-growing service robotics segment (460+ companies, 21 segments)"
+    ],
+    "sources": [
+      {
+        "title": "Robotics (Russian market)",
+        "publisher": "TAdviser",
+        "url": "https://tadviser.com/index.php/Article:Robotics_(Russian_market)",
+        "date": "2024-10",
+        "scope": "Russia",
+        "metric": "robotics market revenue, robot density, government funding"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable robotic system integration for small/mid-size non-automotive manufacturers",
+        "description": "Industrial robot density in Russia is 11 units per 10,000 manufacturing employees, far below global leaders, leaving smaller regional manufacturers without accessible integration services.",
+        "sources": [
+          {
+            "title": "Одиннадцать роботов на 10 тыс. человек",
+            "publisher": "Эксперт (Expert.ru)",
+            "url": "https://expert.ru/promishlennost/odinnadtsat-robotov-na-10-tys-chelovek/",
+            "date": "2024",
+            "scope": "Russia",
+            "metric": "11 industrial robots per 10,000 manufacturing employees"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Reporting on Russia's federal budget planning (Russian Life, citing budget documents) describes shrinking real-terms health budgets even as the government touts nominal healthcare spending increases, reflecting fiscal pressure from war costs crowding out non-military spending.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "A tension exists between financing and equipment: reporting on federal budget planning (Russian Life) points to shrinking real-terms health budgets even as the domestically-reported medical equipment market itself grew 27% in 2025 to 589 billion rubles, with the domestic-manufacture share surpassing 40% of sales for the first time — suggesting equipment procurement/import-substitution investment is being prioritized even as overall health-budget growth in real terms lags.",
+      "evidenceDate": "2026-01"
+    },
+    "risks": [
+      "War-driven fiscal pressure crowding out health budget growth",
+      "Sector-wide reports of budget constraints amid rising costs"
+    ],
+    "opportunities": [
+      "Rapid growth of the domestic medical-equipment manufacturing base under import substitution"
+    ],
+    "sources": [
+      {
+        "title": "Russia's Shrinking Health Budgets",
+        "publisher": "Russian Life",
+        "url": "https://www.russianlife.com/the-russia-file/russias-shrinking-health-budgets/",
+        "date": "2025",
+        "scope": "Russia",
+        "metric": "federal health budget trends"
+      },
+      {
+        "title": "Рынок медицинского оборудования в России продолжает расти",
+        "publisher": "МедМос (TD MedMos)",
+        "url": "https://med-mos.ru/news/26-01-2026/rynok-medicinskogo-oborudovaniya-v-rossii-prodolzhaet-rasti",
+        "date": "2026-01",
+        "scope": "Russia",
+        "metric": "medical equipment market size and growth, domestic production share"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Primary-care patients in rural and small-town clinics lacking general practitioners and nurses",
+        "description": "Primary-care patients in rural and small-town clinics lack access to general practitioners and nurses amid a 23,000-doctor shortage.",
+        "sources": [
+          {
+            "title": "В Минздраве оценили дефицит врачей более чем в 23 тыс. человек",
+            "publisher": "Interfax / Parlamentskaya Gazeta",
+            "url": "https://www.interfax.ru/russia/1010663",
+            "date": "2025-03",
+            "scope": "Russia",
+            "metric": "Nationwide count of unfilled physician positions"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Industry reporting (GxP News) indicates Russia's drug market grew about 12% in value in 2026 as patients shift toward costlier medicines, reflecting both inflation and a shift in purchasing patterns amid reduced availability of some imported drugs.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Growth continues to be dominated by import-substitution policy and domestic manufacturing expansion, mirroring the pattern seen in medical equipment where the domestic-production share of a related device market surpassed 40% in 2025; but as with IT, this value growth partly reflects a price/mix shift toward costlier medicines rather than pure volume expansion, and continued reliance on imported active pharmaceutical ingredients remains a structural constraint under sanctions.",
+      "evidenceDate": "2026-08"
+    },
+    "risks": [
+      "Reduced access to imported medicines and active pharmaceutical ingredients due to sanctions",
+      "Value growth driven by price/mix shift rather than volume"
+    ],
+    "opportunities": [
+      "Domestic pharmaceutical manufacturing expansion under import substitution"
+    ],
+    "sources": [
+      {
+        "title": "Russia's drug market grows 12% in value as patients switch to costlier medicines",
+        "publisher": "GxP News",
+        "url": "https://gxpnews.net/en/2026/08/russias-drug-market-grows-12-in-value-as-patients-switch-to-costlier-medicines/",
+        "date": "2026-08",
+        "scope": "Russia",
+        "metric": "pharmaceutical market value growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Essential/vital medicines availability in regional pharmacies",
+        "description": "Roughly 20% of vital and essential medicines have disappeared from Russian pharmacies nationally, with shortages reaching 65% in some regional cities.",
+        "sources": [
+          {
+            "title": "От войны нет лекарств",
+            "publisher": "Новая газета Европа (Novaya Gazeta Europe)",
+            "url": "https://novayagazeta.eu/articles/2023/11/09/ot-voiny-net-lekarstv",
+            "date": "2023-11-09",
+            "scope": "Russia",
+            "metric": "~20% of vital/essential drugs missing nationally; up to 65% shortage in some cities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Russia's medical equipment market grew 27% in 2025 to 589 billion rubles, with domestic manufacturers' share of sales surpassing 40% for the first time — the strongest categories were diagnostic equipment, resuscitation systems, rehabilitation devices, and surgical systems, driven by import-substitution policy and hospital/clinic modernization spending.",
+      "evidenceDate": "2026-01"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Growth is being driven primarily by state-supported import substitution and modernization programs rather than organic private demand, meaning continued expansion likely depends on sustained government healthcare-infrastructure spending even as the broader federal health budget faces real-terms pressure from war-related fiscal priorities.",
+      "evidenceDate": "2026-01"
+    },
+    "risks": [
+      "Dependence on state procurement and import-substitution subsidies for continued growth",
+      "Broader federal health budget pressure limiting downstream demand"
+    ],
+    "opportunities": [
+      "Rapidly growing domestic medical device manufacturing base (now >40% of market sales)",
+      "Strong demand in diagnostic, rehabilitation, and surgical equipment segments"
+    ],
+    "sources": [
+      {
+        "title": "Рынок медицинского оборудования в России продолжает расти",
+        "publisher": "МедМос (TD MedMos)",
+        "url": "https://med-mos.ru/news/26-01-2026/rynok-medicinskogo-oborudovaniya-v-rossii-prodolzhaet-rasti",
+        "date": "2026-01",
+        "scope": "Russia",
+        "metric": "medical equipment market size and growth, domestic production share"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Telemedicine access in rural/regional areas",
+        "description": "Despite millions of telemedicine consultations recorded nationally, availability and physician participation remain concentrated in large cities, leaving rural residents with much lower access.",
+        "sources": [
+          {
+            "title": "Телемедицина в России: спрос и предложение",
+            "publisher": "VCIOM (ВЦИОМ)",
+            "url": "https://wciom.ru/analytical-reviews/analiticheskii-obzor/telemedicina-v-rossii-spros-i-predlozhenie",
+            "date": "2023-2024",
+            "scope": "Russia",
+            "metric": "Telemedicine consultation volume and regional access disparity documented"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The Russian EdTech market reached roughly 149 billion rubles in 2024 (21% growth versus 2023), but growth has decelerated sharply from 32% growth in 2023, with analysts (TAdviser) citing the high central bank key rate, reduced interest in IT courses, and pricing-strategy shifts; the top 10 companies now hold about 55% of revenue among the top 100 players, indicating a maturing, consolidating market.",
+      "evidenceDate": "2024"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Analysts describe the sector as having 'reached its maturity phase' after pandemic-era hypergrowth, implying more moderate single-digit-to-low-double-digit growth going forward rather than the 30%+ rates seen in 2021-2023.",
+      "evidenceDate": "2024"
+    },
+    "risks": [
+      "High interest rates reducing consumer spending on paid courses",
+      "Market maturation and slowing growth after pandemic-era boom"
+    ],
+    "opportunities": [
+      "Continued digitalization of education despite slower growth"
+    ],
+    "sources": [
+      {
+        "title": "The volume of the Russian EdTech market for the year grew by 12% and reached 154 billion rubles. Leaders",
+        "publisher": "TAdviser",
+        "url": "https://tadviser.com/index.php/Article:Online_Education_(Russian_Market)",
+        "date": "2025",
+        "scope": "Russia",
+        "metric": "EdTech market size and growth rate"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Remote/online core-subject teaching for rural and small-town schools",
+        "description": "Twenty Russian regions reported shortages of teachers in core subjects such as math and foreign languages, leaving rural schools without qualified in-person instruction.",
+        "sources": [
+          {
+            "title": "В 20 регионах России заявили о дефиците школьных учителей по базовым предметам",
+            "publisher": "Lenta.ru",
+            "url": "https://lenta.ru/news/2024/01/09/v-20-regionah-rossii-zayavili-o-defitsite-shkolnyh-uchiteley-po-bazovym-predmetam/",
+            "date": "2024-01-09",
+            "scope": "Russia",
+            "metric": "20 regions reporting core-subject teacher shortages"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "The Central Bank governor stated Russia faces an unprecedented labor shortage, with unemployment at just 2% (ministry forecasts 2.6% for 2026) and a projected shortage of over 3 million workers by 2030, spanning technical and service-oriented roles that constrain capacity across professional and business services firms.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Independent Ukrainian intelligence-sourced analysis (Odessa Journal) frames the deepening labor shortage as evidence of broader technological and economic degradation, suggesting structural capacity constraints for skilled-service sectors will persist for years.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Severe and worsening labor/skills shortages",
+      "Wage inflation pressure from a tight labor market"
+    ],
+    "opportunities": [],
+    "sources": [
+      {
+        "title": "First time in modern history: Russian Central Bank chief says country faces labour shortage",
+        "publisher": "Ukrainska Pravda",
+        "url": "https://www.pravda.com.ua/eng/news/2026/04/16/8030430/",
+        "date": "2026-04",
+        "scope": "Russia",
+        "metric": "unemployment rate and projected labor shortage by 2030"
+      },
+      {
+        "title": "Russia Faces Severe Labor Shortage as Forecast Shows 12 Million Workers Needed",
+        "publisher": "Odessa Journal",
+        "url": "https://odessa-journal.com/foreign-intelligence-service-the-labor-shortage-is-evidence-of-russias-deep-technological-degradation",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "projected workforce shortage"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No checkable, segment-specific sourced data on gaps within Russian professional services post-2022 exit of international firms could be located beyond general market-exit commentary.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Rosstat's March 2026 data show turnover in professional, scientific and technical activities (which includes consulting and business-support services) at 1,065.1 billion rubles, up 110.4% year-on-year, with Q1 2026 up 111.0% versus Q1 2025 — one of the stronger-growing service categories tracked. Scientific research and development turnover specifically rose 121.4% year-on-year in March 2026.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Business and professional services (consulting, IT outsourcing, R&D services) continue to benefit structurally from import substitution as Western vendors have exited, with Russian consulting and IT-outsourcing firms absorbing demand previously served by departed multinationals, per TAdviser's ongoing market tracking of the Russian consulting and IT-outsourcing sectors.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Acute shortage of qualified specialists (IT, engineering, consulting) constraining capacity",
+      "Loss of access to Western software/methodology tooling underlying some service lines",
+      "Client-side budget pressure from high interest rates and slower corporate investment"
+    ],
+    "opportunities": [
+      "Import-substitution demand shifting business-services spend to domestic providers",
+      "Above-average growth in professional/scientific/technical services versus broader economy",
+      "Expansion of R&D-services demand tied to domestic technology development"
+    ],
+    "sources": [
+      {
+        "title": "Основные экономические и социальные показатели (март 2026)",
+        "publisher": "Rosstat (Federal State Statistics Service)",
+        "url": "https://rosstat.gov.ru/storage/mediabank/osn-03-2026.pdf",
+        "date": "2026-03",
+        "scope": "Russia",
+        "metric": "professional, scientific and technical services turnover growth"
+      },
+      {
+        "title": "Консалтинг (рынок России)",
+        "publisher": "TAdviser",
+        "url": "https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:%D0%9A%D0%BE%D0%BD%D1%81%D0%B0%D0%BB%D1%82%D0%B8%D0%BD%D0%B3_(%D1%80%D1%8B%D0%BD%D0%BE%D0%BA_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8)",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "consulting market tracking / import substitution"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No specific sourced metric identifying an underserved business-services segment in Russia could be found; available commentary is anecdotal rather than checkable.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Per TAdviser, Russia's advertising market reached 679.1 billion rubles in 2024, up 24.3% year-over-year, with internet advertising representing nearly half the market (311.1 billion rubles) and outdoor advertising the fastest-growing segment (+40.4% to 75.8 billion rubles). The top five advertisers (led by Sberbank at 5.5% of budgets, followed by Ozon, Yandex, T-Bank, and Avito) now account for 15.1% of all ad spend, up 7.1 percentage points from 2023.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Market concentration among a handful of large domestic tech/finance platforms (Sberbank, Ozon, Yandex, T-Bank, Avito) is deepening year over year, reflecting the post-2022 shift of ad budgets toward domestic digital ecosystems after most Western platforms exited; sustained growth for the sector is likely to remain closely tied to the fortunes of these dominant advertisers rather than broad-based diversification.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Growing revenue concentration among a small number of dominant advertisers/platforms",
+      "Continued absence of major global advertising platforms (Meta, Google Ads) from the market"
+    ],
+    "opportunities": [
+      "Strong double-digit growth led by internet and outdoor advertising segments",
+      "Domestic e-commerce and fintech platforms driving ad budget growth"
+    ],
+    "sources": [
+      {
+        "title": "Advertising (Russian market)",
+        "publisher": "TAdviser",
+        "url": "https://tadviser.com/index.php/Article:Advertising_(Russian_market)",
+        "date": "2025",
+        "scope": "Russia",
+        "metric": "advertising market size, growth, segment and advertiser breakdown"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "Russian digital advertising has consolidated around a few domestic platforms that rapidly absorbed budgets vacated by Western platforms since 2022, leaving the market competitive rather than showing an identifiable underserved niche.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Russia's online video (VOD) market generated 73.6-78.2 billion rubles in H1 2025 alone, up 40-45% year-over-year, with subscription revenue (sVoD) making up 96% of the total; leading platforms (Kinopoisk ~33% share, Okko 17%, Ivi 16%, Wink 13-14%) raised subscription prices sharply in H1 2025 (Okko +50%, Kinopoisk +33%). Separately, the domestic cinema box-office market grew per TAdviser reporting on 2024/2025 results.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Growth is shifting from subscriber acquisition toward engagement and monetization as the VOD market matures, with platforms increasingly investing in original productions, sports content, and cross-platform partnerships; continued reliance on price increases (rather than volume growth) to sustain revenue growth suggests the segment may face affordability limits as household budgets remain constrained by high inflation and interest rates.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Heavy reliance on subscription price hikes to sustain revenue growth amid a maturing subscriber base",
+      "Continued absence of major Western streaming platforms and content"
+    ],
+    "opportunities": [
+      "Strong VOD revenue growth (40%+ YoY) led by domestic platforms",
+      "Growing investment in original domestic content production"
+    ],
+    "sources": [
+      {
+        "title": "Онлайн-кинотеатры в России: на чём зарабатывали в 2025 году и какие планы на 2026-й",
+        "publisher": "RB.RU",
+        "url": "https://rb.ru/reviews/onlajn-kinoteatry-v-rossii-na-chyom-zarabatyvali-v-2025-godu-i-kakie-plany-na-2026-j/",
+        "date": "2025",
+        "scope": "Russia",
+        "metric": "online video (VOD) market revenue, growth, and market share"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No specific, sourced sub-sector gap in Russian media/entertainment could be verified with checkable current metrics.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Reports diverge: some outlets (Travel and Tour World, Modern Diplomacy/Eurasia Review op-eds) describe strong domestic tourism growth with nearly 46 million domestic travelers in 2026, while another source reports foreign tourist visits down 30-40% amid a broader slowdown — reflecting a shift toward domestic rather than inbound international tourism.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Russia's economic development ministry reports foreign inbound tourist arrivals up 20% year-over-year in H1 2026, following 12% growth in 2025, attributed to visa facilitation (new visa-free agreements with China, Oman, Saudi Arabia, Jordan, and Myanmar) and an expanded e-visa system; Chinese visitors are now the largest inbound segment (22%+ of arrivals), with growing diversification toward Gulf states, Turkey, and India, and geographic spread beyond Moscow/St. Petersburg to Murmansk, Vladivostok, and Kazan — suggesting inbound tourism is rebounding through non-Western channels even as earlier-year data showed declines.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Sharp decline in inbound international tourism from Western countries",
+      "Flight restrictions and Western airspace closures limiting international travel access"
+    ],
+    "opportunities": [
+      "Growing domestic tourism to destinations like Sochi, Baikal, and the Far East",
+      "Rebounding inbound tourism from China, Gulf states, Turkey, and India via visa facilitation"
+    ],
+    "sources": [
+      {
+        "title": "Foreign Tourists in Russia 2026: Visits Decline by 30-40% Amid Tourism Slowdown",
+        "publisher": "International Investment",
+        "url": "https://internationalinvestment.biz/en/tourism/7733-foreign-tourists-in-russia-number-of-visits-down-3040.html",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "foreign tourist arrivals"
+      },
+      {
+        "title": "Russia Welcomes Nearly Forty Six Million Travellers",
+        "publisher": "MICE Travel Advisor",
+        "url": "https://www.micetraveladvisor.com/news/article/russia-welcomes-nearly-forty-six-million-travellers-as-moscow-saint-petersburg-sochi-and-lake-baikal-spark-a-new-era-of-tourism-growth/",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "domestic tourist arrivals"
+      },
+      {
+        "title": "Number of foreign tourists visiting Russia up 20% in H1 2026 — minister",
+        "publisher": "TASS",
+        "url": "https://tass.com/economy/2168715",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "foreign tourist arrival growth and visa policy drivers"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Staffing/training platforms for regional hotels and hospitality",
+        "description": "Regional hotels and hospitality businesses lack staffing and training platforms to address a 25-40% workforce shortage.",
+        "sources": [
+          {
+            "title": "Дефицит кадров в туризме РФ в регионах достигает 40%",
+            "publisher": "Реальное время",
+            "url": "https://realnoevremya.ru/news/393648-deficit-kadrov-v-turizme-rf-dostigaet-40-v-regionah",
+            "date": "2026-04-21",
+            "scope": "Russia",
+            "metric": "National average shortage 25-30%, up to 40% in specific regions; ~200,000 unfilled vacancies now"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Russia's restaurant traffic and revenue hit 25-year lows per an industry group cited by The Moscow Times: chains saw 10-15% year-on-year traffic drops (some as steep as 30-40%), Moscow restaurant/bar purchases fell 12%, food-service business liquidations rose 29% year-on-year in Jan-Feb 2026, and restaurant franchise applications plunged 47.5% in the same period.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "A follow-up Moscow Times report from mid-2026 describes Russian cafe chains shrinking as the sector continues to feel pressure from rising costs (new taxes, higher supplier expenses) and changing, more cost-conscious consumer habits, suggesting the contraction is a structural trend rather than a one-off dip.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Weakening consumer discretionary spending",
+      "Rising operational costs including new taxes and supplier price increases",
+      "Elevated business closure/liquidation rates"
+    ],
+    "opportunities": [],
+    "sources": [
+      {
+        "title": "Russia's Restaurant Traffic, Revenue Hit 25-Year Lows – Industry Group",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/03/26/russias-restaurant-traffic-revenue-hit-25-year-lows-industry-group-a92350",
+        "date": "2026-03",
+        "scope": "Russia",
+        "metric": "restaurant traffic and revenue decline"
+      },
+      {
+        "title": "Russian Cafe Chains Shrink as Restaurant Sector Feels Pressure From Costs, Changing Consumer Habits",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/07/01/russian-cafe-chains-shrink-as-restaurant-sector-feels-pressure-from-costs-changing-consumer-habits-a93144",
+        "date": "2026-07",
+        "scope": "Russia",
+        "metric": "cafe chain contraction"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No specific sourced gap in Russian restaurant/catering/leisure segments could be located with checkable evidence.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Rosstat's March 2026 data put paid services to the population (платные услуги населению — the category covering personal and consumer services) at 1,843.7 billion rubles, up 103.8% year-on-year and 102.7% versus February 2026; Q1 2026 growth versus Q1 2025 was also 103.8%, a slower pace than the roughly 102.5% year-on-year comparable seen through 2025, indicating steady but decelerating real growth as household budgets tighten under high interest rates.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Consumer and personal services spending has grown steadily as a share of household budgets post-2022 import-substitution shifts, but Rosstat's own data show the pace of growth in paid services has been slowing through 2025-2026, consistent with tighter real incomes and elevated interest rates dampening discretionary personal-service consumption.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High interest rates and inflation squeezing discretionary household spending on personal services",
+      "Labor shortages in service-heavy trades (beauty, repair, hospitality) pushing up costs",
+      "Decelerating year-on-year growth versus 2024-2025 pace"
+    ],
+    "opportunities": [
+      "Continued steady nominal growth in paid services to the population",
+      "Import-substitution-driven demand for domestic personal-service providers"
+    ],
+    "sources": [
+      {
+        "title": "Основные экономические и социальные показатели (март 2026)",
+        "publisher": "Rosstat (Federal State Statistics Service)",
+        "url": "https://rosstat.gov.ru/storage/mediabank/osn-03-2026.pdf",
+        "date": "2026-03",
+        "scope": "Russia",
+        "metric": "paid services to population, nominal and comparable growth"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No specific sourced gap in Russian personal services could be verified with checkable current data.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Kommersant reports Russia's fitness-services market is projected to reach 365 billion rubles in 2026, up 15% year-on-year — the slowest growth rate in four years versus 20% growth in 2025 and 23% in 2024 — with average industry margins expected to fall from about 7% to 5% amid squeezed consumer spending power and rising operating costs.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Investment into the fitness/sports-recreation sector remains strong (about 33 billion rubles into new clubs and 3.4 billion into studios in 2025, the latter up 30% year-on-year), suggesting continued capacity expansion, but rising costs pushed roughly 20% of newly opened facilities to close within 2025, pointing to a maturing, consolidating market rather than a high-growth one longer term.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Slowing revenue growth and declining margins across the fitness/recreation sector",
+      "High closure rate among newly opened facilities amid rising operating costs",
+      "Squeezed consumer discretionary spending reducing membership renewal rates"
+    ],
+    "opportunities": [
+      "Continued strong capital investment into new fitness clubs and studios",
+      "Regional expansion by established chains driving consolidation and scale"
+    ],
+    "sources": [
+      {
+        "title": "Рынок фитнес-услуг в России: замедление роста и снижение рентабельности в 2026 году",
+        "publisher": "Kommersant",
+        "url": "https://www.kommersant.ru/doc/8339923",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "fitness services market size, growth rate, margins, investment"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No specific, checkable sourced gap in Russian sports/recreation infrastructure or services could be located.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "The Moscow Times reports 400-500 fashion retail stores and 25 brands closed in Russia in 2025 amid weak consumer demand and exhausted financial buffers; only 12 international fashion labels entered the market in 2025 (down from 20+ in prior years), with Turkish retailers AC&Co and Mudo among those exiting, and shopping-mall vacancy projected to rise from 7.7% to 9.7%.",
+      "evidenceDate": "2026-01"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Industry executives (Eterna CEO Dmitry Tomilin) describe market sentiment as pessimistic, framing 2026 as 'a year of survival': many brands that launched in 2022-2023 to fill space vacated by departed Western labels failed to reach profitability within the typical 2-3 year cycle, and landlords are coming under pressure to cut rents as retailers close unprofitable locations — pointing to continued consolidation and thinning of the fashion/luxury retail base rather than a rebound of international entrants.",
+      "evidenceDate": "2026-01"
+    },
+    "risks": [
+      "Continued store closures and brand exits amid weak consumer demand",
+      "Near-absence of new international fashion/luxury brand entry",
+      "Rising shopping-mall vacancy pressuring retail real estate economics"
+    ],
+    "opportunities": [
+      "Domestic and parallel-import fashion brands filling space left by departed Western labels"
+    ],
+    "sources": [
+      {
+        "title": "Store Closures Sweep Russia's Fashion Market as Profits Come Under Pressure",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/01/09/store-closures-sweep-russias-fashion-market-as-profits-come-under-pressure-a91642",
+        "date": "2026-01",
+        "scope": "Russia",
+        "metric": "fashion retail store closures and brand exits"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Post-sanctions restructuring of Russian fashion/luxury retail is documented only in general trade press, not with a specific checkable underserved segment.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Russia's Public Law Company Russian Ecological Operator (RÉO) reports over 55% of household waste is now directed to processing, with the landfill-disposal share down 17.5% since the 2019 waste reform began and more than 300 waste-management facilities built nationwide; a new government decree sets 2026 baseline eco-fee (extended producer responsibility) rates across 52 goods/packaging categories, estimated to add a maximum 0.3% to the overall consumer price basket.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Russia has set a formal target of 100% solid-waste treatment by 2030 and halving landfill disposal, backed by continued eco-fee-funded infrastructure investment (12 billion rubles in 2025 alone directed to underfunded regions), indicating a structurally growing environmental-infrastructure and waste-processing economy even as broader climate policy remains constrained by continued reliance on fossil-fuel exports.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Continued dependence on fossil-fuel export revenue limiting broader decarbonization investment",
+      "Regional funding gaps for waste infrastructure outside better-resourced regions",
+      "Rising eco-fee costs passed through to producers and consumers"
+    ],
+    "opportunities": [
+      "Formal 2030 target for 100% solid-waste treatment driving sustained infrastructure investment",
+      "Extended producer responsibility (eco-fee) system channeling dedicated funding into recycling capacity",
+      "Growing share of household waste diverted from landfill to processing"
+    ],
+    "sources": [
+      {
+        "title": "Проект базовых ставок экосбора подготовлен для производителей на 2026 год",
+        "publisher": "Russian Ecological Operator (RÉO / ППК РЭО)",
+        "url": "https://reo.ru/tpost/lhk9gylxg1-proekt-bazovih-stavok-ekosbora-podgotovl",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "waste processing share, landfill reduction, eco-fee rates and price impact"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No specific sourced gap in Russia's climate/environmental economy could be verified; state climate policy has deprioritized this area with little independent tracking.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Industry coverage of Russia's water-treatment sector describes 2025-2026 as a turning point: the Federal Antimonopoly Service set a minimum guaranteed return on invested capital of 17.55% for water utilities, private-sector modernization investment is projected to rise up to 30%, and total water supply/treatment investment is expected to increase 25% in 2026, alongside large municipal programs such as St. Petersburg's 2026-2030 plan to upgrade 400 treatment facilities and 550 km of networks.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Sustained regulatory support for investor returns in water infrastructure, combined with domestic R&D in water-treatment technology (e.g., new sorption materials and photocatalytic membrane systems reported by Russian research institutions), points to continued capital inflow and technology development in the water sector, though execution depends on continued tariff/ROE guarantees holding through the investment cycle.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Execution risk on multi-year municipal modernization programs (funding, contractor capacity)",
+      "Dependence on continued regulatory ROE guarantees to sustain private investment appetite",
+      "Legacy infrastructure age and scale relative to available capital"
+    ],
+    "opportunities": [
+      "Regulatory return guarantees drawing private capital into water infrastructure modernization",
+      "Domestic development of new water-treatment technologies (sorption and photocatalytic membrane systems)",
+      "Large municipal upgrade programs (e.g., St. Petersburg, Tyumen) creating sustained project pipelines"
+    ],
+    "sources": [
+      {
+        "title": "Рынок водоочистки России в 2026 году: рекордные инвестиции и прорывные технологии",
+        "publisher": "EcwaTech",
+        "url": "https://ecwatech.ru/news/tpost/2h0mhzygi1-rinok-vodoochistki-rossii-v-2026-godu-re",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "water treatment investment growth, regulatory ROE, municipal modernization programs"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Municipal wastewater/drinking-water treatment modernization",
+        "description": "Millions of Russians still lack access to centralized clean drinking water, and municipal wastewater treatment plants remain largely unmodernized.",
+        "sources": [
+          {
+            "title": "Amid record spending on the war, millions in Russia still lack clean drinking water",
+            "publisher": "Meduza",
+            "url": "https://meduza.io/en/feature/2025/11/18/amid-record-spending-on-the-war-millions-in-russia-still-lack-clean-drinking-water",
+            "date": "2025-11",
+            "scope": "Russia",
+            "metric": "Population without access to centralized clean drinking water"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Russia's civil aviation manufacturing sector is in acute difficulty per The Moscow Times: the domestic MC-21 jet's first 18 localized aircraft cost 96.1 billion rubles ($1.2 billion) as of June 2026, up 63% from an earlier estimate, and per-aircraft cost has risen from about $39-41 million (2023) to about $67 million (2026), with only four planes targeted for completion by end of 2026 pending certification.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "An aviation-institute researcher quoted by The Moscow Times called Russia's aircraft production targets 'unimplementable' under wartime conditions; the redesigned MC-21 became roughly 6 metric tons heavier (eliminating its planned nonstop Moscow-Vladivostok range), and industry sources predict further airline bankruptcies as domestically produced aircraft prove less fuel-efficient and costlier to operate than the foreign jets they are meant to replace.",
+      "evidenceDate": "2026-08"
+    },
+    "risks": [
+      "Large cost overruns and delays in domestic aircraft production (MC-21)",
+      "Loss of access to foreign aircraft, parts, and maintenance under sanctions",
+      "Reduced technical performance of redesigned domestic aircraft"
+    ],
+    "opportunities": [
+      "State-backed investment push to build an independent aviation manufacturing base"
+    ],
+    "sources": [
+      {
+        "title": "Russia Is Betting on the MC-21 to Reverse Its Aviation Decline. It's No Silver Bullet.",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/08/24/russia-is-betting-on-the-mc-21-to-reverse-its-aviation-decline-its-no-silver-bullet-a93403",
+        "date": "2026-08",
+        "scope": "Russia",
+        "metric": "MC-21 aircraft program costs and production targets"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Commercial Earth-observation satellite constellations",
+        "description": "Roscosmos had to turn to a private domestic company to build an Earth-observation satellite constellation because the state-run program could not meet commercial imaging demand.",
+        "sources": [
+          {
+            "title": "Roscosmos Turns To Private Company For Earth Observation Constellation",
+            "publisher": "Aviation Week",
+            "url": "https://aviationweek.com/space/budget-policy-regulation/roscosmos-turns-private-company-earth-observation-constellation",
+            "date": "2024",
+            "scope": "Russia",
+            "metric": "State constellation shortfall drove a private-sector EO satellite contract"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "SIPRI's analysis of Russia's 2026 budget describes it as 'a budget for a fifth year of war,' with continued elevated military spending; various trackers estimate the 2026 defense budget at roughly $166 billion, among the largest military budgets globally as a share of GDP.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Officials themselves acknowledge (per Moscow Times reporting under manufacturing) that the defense-driven production boom is approaching capacity limits, suggesting spending growth may plateau even as absolute levels remain historically high.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Fiscal sustainability of elevated defense spending amid falling oil/gas revenue",
+      "Capacity constraints in defense manufacturing"
+    ],
+    "opportunities": [
+      "Continued high-priority state investment in defense-industrial base"
+    ],
+    "sources": [
+      {
+        "title": "A Budget for a Fifth Year of War: Military Spending in Russia's Budget for 2026",
+        "publisher": "SIPRI",
+        "url": "https://www.sipri.org/publications/2026/sipri-insights-peace-and-security/budget-fifth-year-war-military-spending-russias-budget-2026",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "military budget analysis"
+      },
+      {
+        "title": "Russia's Defense Manufacturing Boom Is Nearing Its Limit, Official Says",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/07/07/russias-defense-manufacturing-boom-is-nearing-its-limit-official-says-a93191",
+        "date": "2026-07",
+        "scope": "Russia",
+        "metric": "defense manufacturing capacity"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Russian defense-sector data is state-controlled and not independently checkable at the segment level.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Multiple forecasters (IMF, World Bank, BOFIT) project modest but positive Russian GDP growth for 2026 (estimates ranging roughly 0.7%-1.1%), with the World Bank flagging further deceleration to 0.7% in 2027 — indicating continued fiscal capacity for public services but a slowing macro backdrop under sanctions and high taxes.",
+      "evidenceDate": "2026-01"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "The Moscow Times' 2026 economic outlook describes a trajectory of 'more war, slower growth and higher taxes,' pointing to structural fiscal pressure that could constrain public service funding over time as war costs and sanctions persist.",
+      "evidenceDate": "2026-01"
+    },
+    "risks": [
+      "Rising tax burden to fund war and public spending",
+      "Declining oil/gas revenue reducing federal budget resources"
+    ],
+    "opportunities": [],
+    "sources": [
+      {
+        "title": "IMF Slashes Russia's 2026 Growth Forecast to 0.8%",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/01/19/imf-slashes-russias-2026-growth-forecast-to-08-a91718",
+        "date": "2026-01",
+        "scope": "Russia",
+        "metric": "GDP growth forecast"
+      },
+      {
+        "title": "World Bank retains forecast for Russia's GDP to grow 0.8% in 2026, lowers outlook to 0.7% for 2027",
+        "publisher": "Interfax",
+        "url": "https://interfax.com/newsroom/top-stories/117015/",
+        "date": "2026",
+        "scope": "Russia",
+        "metric": "GDP growth forecast"
+      },
+      {
+        "title": "Russia's Economy in 2026: More War, Slower Growth and Higher Taxes",
+        "publisher": "The Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/01/02/russias-economy-in-2026-more-war-slower-growth-and-higher-taxes-a91579",
+        "date": "2026-01",
+        "scope": "Russia",
+        "metric": "economic outlook"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No specific, checkable sourced gap in Russian public-sector digital services could be located beyond general, non-independently-verifiable ministry progress claims.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Following restrictions on international funding sources (the 'foreign agent' law framework), the Kremlin has redirected many Russian NGOs toward government-aligned priorities — chiefly social-service delivery and crisis response — with a system of presidential grants now serving as a primary financial mechanism supporting thousands of nonprofit organizations, per analysis of the sector's reorientation.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "The structural shift away from independent advocacy toward state-aligned service delivery, combined with continued restriction of foreign funding, points to a nonprofit sector increasingly dependent on and shaped by state grant funding rather than independent civil-society activity over the long term, constraining the sector's traditional advocacy and watchdog functions even as its social-service role persists.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Continued restriction of independent/foreign funding sources under 'foreign agent' laws",
+      "Growing dependence on state grants reducing organizational independence"
+    ],
+    "opportunities": [
+      "Presidential grant programs providing a stable, if state-directed, funding channel for social-service NGOs"
+    ],
+    "sources": [
+      {
+        "title": "How the Kremlin Has Centralized the Russian Nonprofit Space",
+        "publisher": "Russia Post",
+        "url": "https://russiapost.info/society/russian_nonprofit_space",
+        "date": "2025",
+        "scope": "Russia",
+        "metric": "NGO funding mechanisms and sector reorientation"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Diversified/non-state funding sources for socially oriented NGOs",
+        "description": "State grants remain the dominant funding channel for Russian NGOs while private philanthropic and earned-income funding mechanisms remain structurally underdeveloped.",
+        "sources": [
+          {
+            "title": "Отчет по развитию СО НКО за 2024 год",
+            "publisher": "reg-nko.ru",
+            "url": "https://reg-nko.ru/smi/razvitie-sektora-so-nko-v-2024-godu-rost-pokazatelej-na-fone-mer-gospodderzhki",
+            "date": "2024",
+            "scope": "Russia",
+            "metric": "Share of SO NKO funding from state support vs. private/earned sources documented"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Russia's quantum computing program has received substantial state backing: 100 billion rubles allocated through 2025 (24.1 billion rubles actually spent 2020-2024) and a further 41 billion rubles planned for quantum computing/communications roadmaps through 2026. Milestones include a 50-qubit ion-based quantum computer (Russian Quantum Center/FIAN, September 2024), a Moscow-St. Petersburg quantum communication network, and Gazprom Transgaz Tomsk's adoption of quantum communications (October 2024), per TAdviser.",
+      "evidenceDate": "2024-10"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The state roadmap (managed by Rosatom for computing and Russian Railways for communications) targets full-scale industrial quantum computers by 2028-2030 and 15,000 km of quantum communication trunk channels by 2030, indicating sustained multi-year state investment; however, sanctions-driven isolation from Western quantum research collaboration and semiconductor/component supply chains remains a structural constraint on the pace of commercialization.",
+      "evidenceDate": "2024-10"
+    },
+    "risks": [
+      "Isolation from Western quantum research collaboration and component supply chains under sanctions",
+      "Ambitious 2028-2030 industrial-scale targets facing execution risk given broader tech-sector capacity constraints"
+    ],
+    "opportunities": [
+      "Sustained large-scale state funding (100+ billion rubles) for quantum computing and communications",
+      "Early operational quantum network deployments (Moscow-St. Petersburg, industrial use by Gazprom Transgaz Tomsk)"
+    ],
+    "sources": [
+      {
+        "title": "Quantum computers and networks in Russia",
+        "publisher": "TAdviser",
+        "url": "https://tadviser.com/index.php/Article:Quantum_computers_and_networks_in_Russia",
+        "date": "2024-10",
+        "scope": "Russia",
+        "metric": "quantum computing/communications investment and milestones"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No specific, checkable sourced gap in Russian frontier tech could be located; available data is dominated by unverifiable state-program announcements.",
+      "sources": []
+    }
+  }
+]

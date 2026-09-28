@@ -1,0 +1,81 @@
+{
+  "dimension": "Operations",
+  "dimension_weight": 10,
+  "questions": [
+    {
+      "question_id": "OPS-01",
+      "dimension": "Operations",
+      "weight": 2,
+      "fallback_order": 1,
+      "text": "Are the business's recurring operating activities defined so they are performed the same way each time?",
+      "levels": {
+        "A": { "text": "Activities are performed differently depending on who does them; nothing is defined", "points": 0 },
+        "B": { "text": "Some activities are defined informally — in people's heads or scattered notes", "points": 0.5 },
+        "C": { "text": "The most important recurring activities are defined and written down", "points": 1 },
+        "D": { "text": "As C, and they are followed in practice rather than only documented", "points": 1.5 },
+        "E": { "text": "As D, and they are kept current — reviewed and updated when the business changes how it works", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "OPS-02",
+      "dimension": "Operations",
+      "weight": 3,
+      "fallback_order": 2,
+      "text": "Does the business have the capacity — people, equipment, facilities, or time — to meet what it has committed to, and does it manage that capacity forward?",
+      "levels": {
+        "A": { "text": "Capacity is regularly insufficient; commitments are missed, or met only through unsustainable effort", "points": 0 },
+        "B": { "text": "Capacity roughly matches commitments but is not planned; pressure is discovered when it arrives", "points": 0.75 },
+        "C": { "text": "Capacity meets current commitments and is monitored, so pressure becomes visible before it is acute", "points": 1.5 },
+        "D": { "text": "As C, and capacity is planned forward against expected demand, with the lead time to add it understood", "points": 2.25 },
+        "E": { "text": "As D, and the business holds headroom or a defined means of adding capacity quickly enough to absorb a material increase without failing commitments", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "OPS-03",
+      "dimension": "Operations",
+      "weight": 2,
+      "fallback_order": 3,
+      "text": "How does the business manage the suppliers, providers, or inputs it depends on?",
+      "levels": {
+        "A": { "text": "Dependencies are not identified; disruption to a supplier or provider would be discovered when it happened", "points": 0 },
+        "B": { "text": "Dependencies are known informally; no alternatives have been identified", "points": 0.5 },
+        "C": { "text": "Critical dependencies are identified, and their terms and reliability are understood", "points": 1 },
+        "D": { "text": "As C, and alternatives have been identified for the critical ones, or the relationship is secured — contract, agreed terms, held stock, or equivalent", "points": 1.5 },
+        "E": { "text": "As D, and the arrangement has been tested or the alternative used, so it is known to work rather than assumed", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "OPS-04",
+      "dimension": "Operations",
+      "weight": 2,
+      "fallback_order": 4,
+      "text": "Does the business deliver what it commits to, when and how it committed?",
+      "levels": {
+        "A": { "text": "Missed commitments are a normal occurrence rather than an exception", "points": 0 },
+        "B": { "text": "Commitments are usually met, but through individual effort and rework rather than reliable process", "points": 0.5 },
+        "C": { "text": "Commitments are met consistently; failures are the exception", "points": 1 },
+        "D": { "text": "As C, and failures are recorded and their causes identified", "points": 1.5 },
+        "E": { "text": "As D, and causes are addressed so the same failure does not recur, with evidence this is working", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "OPS-05",
+      "dimension": "Operations",
+      "weight": 1,
+      "fallback_order": 5,
+      "text": "If a significant disruption occurred — loss of a facility, a system, a key supplier, or access to a location — how prepared is the business to continue?",
+      "levels": {
+        "A": { "text": "No consideration has been given to it", "points": 0 },
+        "B": { "text": "The risks are recognised but nothing is prepared", "points": 0.25 },
+        "C": { "text": "The most significant disruptions have been identified and basic protections exist — backups, insurance, alternative arrangements", "points": 0.5 },
+        "D": { "text": "As C, and a defined plan exists for continuing or recovering operations", "points": 0.75 },
+        "E": { "text": "As D, and the plan has been tested or used rather than assumed to work", "points": 1 }
+      },
+      "stage_variant": false
+    }
+  ]
+}

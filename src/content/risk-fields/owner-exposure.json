@@ -1,0 +1,13 @@
+{
+  "field_id": "OWN-01",
+  "scored": false,
+  "text": "If the business could not meet its obligations, what personal consequence would fall on the owners — through personal guarantees, pledged assets, personal borrowing, or informal obligations?",
+  "levels": {
+    "1": { "text": "No material personal exposure — the owners' position is limited to their investment in the business" },
+    "2": { "text": "Some personal exposure — recoverable without significant personal disruption" },
+    "3": { "text": "Significant personal exposure — substantial personal assets or income at risk" },
+    "4": { "text": "Severe personal exposure — the owners' principal assets or livelihood at risk" },
+    "5": { "text": "Potentially catastrophic — the owners' home, essential security, or long-term financial position at risk" }
+  },
+  "weight_equivalence": { "4": 6, "5": 8 }
+}

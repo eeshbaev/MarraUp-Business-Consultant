@@ -1,0 +1,2320 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "USDA's 2026 farm income forecast shows net farm income falling despite record government payments, driven by low commodity prices (corn, soybeans) and elevated input/tariff-related costs. Farm Bureau analysis confirms weakness persisting from 2025 into 2026.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Long-run US agricultural output has historically grown via productivity gains even as farm-level profitability cycles with commodity prices; USDA long-term projections show trend yield growth continuing but trade and input-cost volatility remain persistent structural pressures.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Low corn/soybean prices squeezing margins",
+      "Tariff and trade-policy disruption to export markets",
+      "Rising input and land costs"
+    ],
+    "opportunities": [
+      "Record government support payments cushioning near-term income",
+      "Growing demand for specialty/value-added and export ag products"
+    ],
+    "sources": [
+      {
+        "title": "U.S. 2026 Farm Income Falls Despite Record $47.4 Billion in Government Payments",
+        "publisher": "USDA/Ag Bull Trading",
+        "url": "https://www.agbull.com/u-s-2026-farm-income-falls-despite-record-47-4-billion-in-government-payments/",
+        "date": "2026-02",
+        "scope": "USA",
+        "metric": "net farm income forecast"
+      },
+      {
+        "title": "USDA Cuts 2025 Farm Income as Weakness Persists into 2026",
+        "publisher": "American Farm Bureau Federation",
+        "url": "https://www.fb.org/intel/markets/usda-cuts-2025-farm-income-as-weakness-persists-into-2026",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "farm income revisions"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Federal crop insurance for small and specialty-crop farms",
+        "description": "Small and specialty-crop farmers can't get federal crop insurance because only 9-15% carry coverage versus 74-78% of large commodity-grain farms.",
+        "sources": [
+          {
+            "title": "Uninsured: Federal Crop Insurance Program Leaves Most Farms Unprotected",
+            "publisher": "National Sustainable Agriculture Coalition",
+            "url": "https://sustainableagriculture.net/blog/uninsured-federal-crop-insurance-program-leaves-most-farms-unprotected/",
+            "date": "2025-03",
+            "scope": "USA",
+            "metric": "Share of farms with crop insurance by size, sales class, and crop type"
+          }
+        ]
+      },
+      {
+        "subSector": "Independent small-scale livestock ranchers needing USDA-inspected small-batch slaughter/processing",
+        "description": "Independent livestock ranchers lack USDA-inspected small-batch slaughter capacity, forcing long drives and multi-month waits for processing slots.",
+        "sources": [
+          {
+            "title": "Regional Meat Processing Infrastructure (2021 NSAC Infrastructure/Training/Funding Policy Briefs)",
+            "publisher": "National Sustainable Agriculture Coalition",
+            "url": "https://sustainableagriculture.net/wp-content/uploads/2021/08/2021-NSAC-Infrastructure_Training-Funding-Policy-Briefs.pdf",
+            "date": "2021",
+            "scope": "USA",
+            "metric": "Number of small USDA-inspected slaughter facilities and share of producer working hours spent traveling to processing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "US critical minerals policy push (2026 Critical Minerals Ministerial, federal permitting reform) is driving new investment into domestic mining, though industry groups warn 2026 could 'reset' the US's global competitive position absent faster permitting and processing capacity.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "USGS 2026 Mineral Commodity Summaries and Deloitte's mining outlook point to sustained long-term demand growth for critical minerals (lithium, copper, rare earths) tied to electrification, defense, and supply-chain de-risking from China, supporting continued domestic investment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Slow federal/state permitting timelines",
+      "Dependence on China for processing/refining capacity",
+      "Commodity price volatility"
+    ],
+    "opportunities": [
+      "Federal critical-minerals investment and stockpiling programs",
+      "Reshoring of mineral processing capacity"
+    ],
+    "sources": [
+      {
+        "title": "US mining outlook: Critical minerals and investment",
+        "publisher": "Deloitte",
+        "url": "https://www.deloitte.com/us/en/industries/energy/articles/us-mining-outlook-critical-minerals.html",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "investment outlook"
+      },
+      {
+        "title": "4 Key Takeaways From USGS' 2026 Mineral Report",
+        "publisher": "USGS/NAI 500",
+        "url": "https://nai500.com/blog/2026/05/4-key-takeaways-from-usgs-2026-mineral-report/",
+        "date": "2026-05",
+        "scope": "USA",
+        "metric": "mineral commodity summary"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Domestic rare-earth separation & processing for US mining companies",
+        "description": "Domestic rare-earth miners lack US-based separation and processing facilities, forcing up to 90% of mined ore to be shipped to China for processing.",
+        "sources": [
+          {
+            "title": "The missing link in America's critical minerals push isn't mining – it's processing expertise",
+            "publisher": "The Conversation",
+            "url": "https://investmacro.com/2026/05/the-missing-link-in-americas-critical-minerals-push-isnt-mining-its-processing-expertise/",
+            "date": "2026-05",
+            "scope": "USA",
+            "metric": "Share of US-mined rare earths sent to China for processing; import volumes vs. domestic output; mineral engineering graduate counts"
+          }
+        ]
+      },
+      {
+        "subSector": "Domestic e-waste and end-of-life battery recyclers lacking critical-mineral recovery capacity",
+        "description": "US battery and e-waste recyclers lack domestic critical-mineral recovery capacity, so usable feedstock is landfilled or exported instead of processed.",
+        "sources": [
+          {
+            "title": "Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling Technologies",
+            "publisher": "U.S. Government Accountability Office",
+            "url": "https://www.gao.gov/products/gao-26-108687",
+            "date": "2025",
+            "scope": "USA",
+            "metric": "Domestic recycling capacity gaps for battery and electronics feedstock"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "EIA forecasts US crude oil production will decrease slightly in 2026 after years of growth, while natural gas and power demand (driven by data centers/AI) continue rising; the Short-Term Energy Outlook shows a mixed but broadly stable near-term picture.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "EIA's Annual Energy Outlook 2026 projects continued growth in US electricity demand driven by data centers, electrification, and manufacturing, alongside an evolving generation mix; BLS projects solar electric power generation employment to grow 180% from 2024-2034, among the fastest of any industry.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Oil price volatility and geopolitical supply shocks (Middle East conflict)",
+      "Grid capacity constraints amid surging electricity demand"
+    ],
+    "opportunities": [
+      "Data center and AI-driven electricity demand growth",
+      "Rapid expansion of solar/renewable generation and related employment"
+    ],
+    "sources": [
+      {
+        "title": "EIA forecasts U.S. crude oil production will decrease slightly in 2026",
+        "publisher": "U.S. Energy Information Administration",
+        "url": "https://www.eia.gov/todayinenergy/detail.php?id=66844",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "crude oil production forecast"
+      },
+      {
+        "title": "Annual Energy Outlook 2026",
+        "publisher": "U.S. Energy Information Administration",
+        "url": "https://www.eia.gov/outlooks/aeo/",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "energy demand/supply projections"
+      },
+      {
+        "title": "Solar electric power generation employment projected to grow 180.2 percent from 2024 to 2034",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/opub/ted/2026/solar-electric-power-generation-employment-projected-to-grow-180-2-percent-from-2024-to-2034.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "employment projection"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "EV charging infrastructure in rural electric cooperative territories",
+        "description": "Rural electric-cooperative territories, covering half the US landmass, lack public EV charging infrastructure compared to major metro areas.",
+        "sources": [
+          {
+            "title": "Rural Electric Cooperatives Take the Lead on Boosting Electric Vehicle Charging Infrastructure",
+            "publisher": "Environmental and Energy Study Institute",
+            "url": "https://www.eesi.org/articles/view/rural-electric-cooperatives-take-the-lead-on-boosting-electric-vehicle-charging-infrastructure",
+            "date": "2022-04",
+            "scope": "USA",
+            "metric": "Public charging outlet density, rural vs. metro areas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Electric utilities are ramping capital spending to meet surging demand from data centers and electrification; BLS employment projections show utility-adjacent power generation occupations among the fastest-growing categories for 2024-2034.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "EIA's Annual Energy Outlook projects sustained multi-decade growth in electricity demand and grid investment needs, requiring significant transmission and generation buildout, positioning utilities for long-term capital expenditure growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Aging grid infrastructure and interconnection backlogs",
+      "Regulatory/rate-case delays constraining capex recovery"
+    ],
+    "opportunities": [
+      "Data-center driven load growth",
+      "Grid modernization and resilience investment"
+    ],
+    "sources": [
+      {
+        "title": "Annual Energy Outlook 2026",
+        "publisher": "U.S. Energy Information Administration",
+        "url": "https://www.eia.gov/outlooks/aeo/",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "electricity demand projections"
+      },
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "industry employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Financing & project-development support for small rural water systems",
+        "description": "Small rural water systems lack financing and project-development support to navigate state funding applications, stalling most requests before approval.",
+        "sources": [
+          {
+            "title": "Broke and On Their Own: Small Water Systems Lose Ground as Federal Support Wavers",
+            "publisher": "Circle of Blue",
+            "url": "https://www.circleofblue.org/2026/supply/water-management/infrastructure/broke-and-on-their-own-small-water-systems-lose-ground-as-federal-support-wavers/",
+            "date": "2026-06",
+            "scope": "USA",
+            "metric": "Share of water funding requests/approvals from small systems, credit downgrades, cost-recovery rate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US manufacturing output has been roughly flat-to-mixed through 2025-2026 amid tariff uncertainty and high interest rates, with reshoring investment in select sectors (semiconductors, EVs) offsetting softness elsewhere per BEA GDP-by-industry data.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "BLS long-term projections show overall manufacturing employment roughly flat to slightly declining through 2034 even as output rises with automation and productivity gains, consistent with the sector's multi-decade pattern.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Tariff and trade policy volatility raising input costs",
+      "Automation reducing manufacturing employment even as output grows"
+    ],
+    "opportunities": [
+      "Federal reshoring incentives (CHIPS Act-adjacent programs)",
+      "Advanced manufacturing and robotics adoption"
+    ],
+    "sources": [
+      {
+        "title": "Industry share of GDP in the U.S. 2025",
+        "publisher": "Statista/BEA",
+        "url": "https://www.statista.com/statistics/248004/percentage-added-to-the-us-gdp-by-industry/",
+        "date": "2025",
+        "scope": "USA",
+        "metric": "GDP by industry share"
+      },
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "industry employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Industrial energy-efficiency assessments for manufacturers far from DOE assessment centers",
+        "description": "Manufacturers located far from DOE Industrial Assessment Centers lack access to affordable industrial energy-efficiency assessment services.",
+        "sources": [
+          {
+            "title": "Energy Department Announces Funding to Extend Industrial Assessment Centers to Underserved Areas",
+            "publisher": "U.S. Department of Energy",
+            "url": "https://www.energy.gov/eere/amo/articles/energy-department-announces-funding-extend-industrial-assessment-centers",
+            "date": "2025",
+            "scope": "USA",
+            "metric": "Eligibility thresholds and count of existing centers relative to geographic coverage gaps"
+          }
+        ]
+      },
+      {
+        "subSector": "Small DoD manufacturing subcontractors needing affordable CMMC 2.0 compliance assessment",
+        "description": "Small DoD manufacturing subcontractors lack affordable third-party CMMC 2.0 compliance assessment capacity ahead of accelerating deadlines.",
+        "sources": [
+          {
+            "title": "The CMMC readiness gap: Why many small manufacturers are unprepared",
+            "publisher": "Federal News Network",
+            "url": "https://federalnewsnetwork.com/commentary/2026/04/the-cmmc-readiness-gap-why-many-small-manufacturers-are-unprepared/",
+            "date": "2026-04",
+            "scope": "USA",
+            "metric": "Gap between self-assessed and actual CMMC compliance scores"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "AGC's 2026 Construction Industry Outlook describes 'demand shifts and rising uncertainty,' with residential softness offset by continued data-center, infrastructure, and manufacturing-facility construction; AIA's July 2026 Consensus Construction Forecast reflects a mixed near-term picture.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "FMI's 2026 North American Engineering and Construction Outlook projects moderate multi-year growth supported by infrastructure spending and data-center/manufacturing buildouts, tempered by high financing costs and labor shortages.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High interest rates depressing residential and commercial starts",
+      "Skilled labor shortages",
+      "Tariffs raising materials costs"
+    ],
+    "opportunities": [
+      "Data center and manufacturing facility construction boom",
+      "Federal infrastructure spending"
+    ],
+    "sources": [
+      {
+        "title": "2026 Construction Industry Outlook: Demand Shifts, Rising Uncertainty",
+        "publisher": "Associated General Contractors of America (AGC)",
+        "url": "https://news.agc.org/economics/2026-construction-industry-outlook/",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "construction spending/demand outlook"
+      },
+      {
+        "title": "AIA Consensus Construction Forecast - July 2026",
+        "publisher": "American Institute of Architects",
+        "url": "https://www.aia.org/resource-center/july-2026-consensus-construction-forecast",
+        "date": "2026-07",
+        "scope": "USA",
+        "metric": "nonresidential construction spending forecast"
+      },
+      {
+        "title": "2026 North American Engineering and Construction Outlook: Second Quarter",
+        "publisher": "FMI Corp",
+        "url": "https://fmicorp.com/insights/construction-outlook/2026-north-american-engineering-and-construction-outlook-second-quarter",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "construction put-in-place forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Skilled trades staffing (electricians, plumbers, HVAC, finished carpentry) for homebuilders",
+        "description": "Homebuilders can't find enough licensed electricians, plumbers, HVAC techs and finish carpenters, with shortages reported industry-wide.",
+        "sources": [
+          {
+            "title": "Home Builders Institute Construction Labor Market Report, Fall 2025",
+            "publisher": "Home Builders Institute",
+            "url": "https://hbi.org/wp-content/uploads/2025/10/Fall-2025-Final-Construction-Labor-Market-Report-Update.pdf",
+            "date": "2025-10",
+            "scope": "USA",
+            "metric": "Percent of builders reporting shortages by trade; state-level immigrant worker share in construction trades"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Elevated mortgage rates continue to constrain existing-home sales and transaction volume, while commercial office remains soft; industrial and multifamily segments show relative resilience per NAR and industry commercial real estate outlooks.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Long-term US housing demand remains supported by demographic household formation, but affordability constraints and elevated rates are expected to keep growth moderate rather than robust over the coming decade.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Elevated mortgage rates constraining affordability and transaction volume",
+      "Office sector oversupply and remote-work-driven vacancy"
+    ],
+    "opportunities": [
+      "Industrial/logistics and data-center real estate demand",
+      "Multifamily development to address housing shortage"
+    ],
+    "sources": [
+      {
+        "title": "Industry share of GDP in the U.S. 2025",
+        "publisher": "Statista/BEA",
+        "url": "https://www.statista.com/statistics/248004/percentage-added-to-the-us-gdp-by-industry/",
+        "date": "2025",
+        "scope": "USA",
+        "metric": "real estate GDP share"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Mortgage-equivalent financing for manufactured-home buyers",
+        "description": "Manufactured-home buyers who don't own the underlying land lack access to standard mortgage financing and are routed into costlier chattel loans.",
+        "sources": [
+          {
+            "title": "Manufactured Housing Finance: New Insights from the Home Mortgage Disclosure Act",
+            "publisher": "Consumer Financial Protection Bureau",
+            "url": "https://www.consumerfinance.gov/data-research/research-reports/manufactured-housing-finance-new-insights-hmda/",
+            "date": "2021-05",
+            "scope": "USA",
+            "metric": "Denial rates, interest-rate gaps, and racial disparities between chattel and mortgage financing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Freight and passenger transportation volumes have been mixed through 2025-2026, with trucking facing a prolonged freight recession while air travel demand remains resilient, per industry and BLS data.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS Employment Projections 2024-2034 show continued growth in transportation-sector employment overall, supported by e-commerce-driven freight demand and eventual freight-cycle recovery.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Prolonged trucking freight recession/overcapacity",
+      "Fuel price volatility"
+    ],
+    "opportunities": [
+      "E-commerce driven last-mile and freight demand growth",
+      "Autonomous vehicle and EV fleet adoption"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "industry employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "On-demand transit for elderly & disabled riders in rural areas",
+        "description": "Elderly and disabled riders in rural areas lack on-demand transit, since most rural systems only offer scheduled, demand-response service.",
+        "sources": [
+          {
+            "title": "Transit Infrastructure — 2025 Infrastructure Report Card",
+            "publisher": "American Society of Civil Engineers",
+            "url": "https://infrastructurereportcard.org/cat-item/transit-infrastructure/",
+            "date": "2025",
+            "scope": "USA",
+            "metric": "Share of rural transit systems that are demand-response-only, national transit-access rate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US warehousing and logistics activity remains steady but off pandemic-era peaks, with e-commerce fulfillment demand offsetting a soft industrial trucking freight market; tariff-driven import volume shifts are adding near-term volatility to supply chains.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Long-term e-commerce growth and supply-chain reshoring/diversification (nearshoring away from single-country dependence) are expected to sustain demand for logistics, warehousing, and supply-chain technology infrastructure.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Tariff-driven trade volume disruption",
+      "Trucking sector overcapacity depressing rates"
+    ],
+    "opportunities": [
+      "Nearshoring/reshoring of supply chains",
+      "Warehouse automation and robotics adoption"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "industry employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Overnight parking infrastructure for long-haul truck drivers",
+        "description": "Long-haul truck drivers lack overnight parking, with only one public truck parking space available for every 11 drivers nationwide.",
+        "sources": [
+          {
+            "title": "National Truck Parking Shortage: A Growing Safety Concern for All Motorists",
+            "publisher": "American Transportation Research Institute / AASHTO",
+            "url": "https://gotruckingmagazine.com/2025/07/10/truck-parking-shortage-national-safety-crisis/",
+            "date": "2025-07",
+            "scope": "USA",
+            "metric": "Ratio of public truck parking spaces to registered truck drivers nationwide"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "US wholesale trade sales rose 14.1% year-over-year to $794.1B in June 2026 per Census Bureau data, while inventories grew only 4.2%, leaving distributors with lean inventories-to-sales ratios (1.19) and flexibility to meet demand.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Distributors are managing working capital efficiently with disciplined stock levels even as sales surge, positioning the sector to handle demand fluctuations, though risks remain from supply disruptions or sudden demand spikes.",
+      "evidenceDate": "2026-08"
+    },
+    "risks": [
+      "Lean inventories could strain fulfillment if demand spikes or supply chains disrupt",
+      "Monthly sales volatility (down 3.0% from May 2026 despite YoY gains)"
+    ],
+    "opportunities": [
+      "Efficient working capital management improving margins",
+      "Strong YoY sales growth outpacing inventory build"
+    ],
+    "sources": [
+      {
+        "title": "Wholesale Sales Surge 14.1% as Distributors Hold the Line on Inventories",
+        "publisher": "Distribution Strategy Group (citing US Census Bureau Monthly Wholesale Trade Report)",
+        "url": "https://distributionstrategy.com/2026/08/wholesale-sales-surge-14-1-as-distributors-hold-the-line-on-inventories/",
+        "date": "2026-08",
+        "scope": "United States",
+        "metric": "14.1% YoY wholesale sales growth to $794.1B, June 2026; inventories-to-sales ratio 1.19"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Ecommerce ordering tools for mid-market building-materials distributors",
+        "description": "Mid-market building-materials distributors lack self-service ecommerce ordering tools for their complex product catalogs.",
+        "sources": [
+          {
+            "title": "2024 State of eCommerce in Distribution",
+            "publisher": "Distribution Strategy Group",
+            "url": "https://distributionstrategy.com/wp-content/uploads/2024/11/DSG-Report-2024-State-of-eCommerce-in-Distribution.pdf",
+            "date": "2024-11",
+            "scope": "USA",
+            "metric": "Ecommerce adoption rate by distributor revenue band and industry vertical"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "NRF forecasts US retail sales will grow 4.4% in 2026 to $5.6 trillion, though geopolitical conflict (Middle East) and tariff uncertainty are complicating the outlook per eMarketer analysis.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "NRF's updated economic model projects continued steady annual retail sales growth driven by e-commerce expansion and consumer spending resilience, consistent with the sector's decade-long growth trend.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Tariff-driven cost pass-through to consumers",
+      "Geopolitical conflict disrupting supply chains and consumer confidence"
+    ],
+    "opportunities": [
+      "Continued e-commerce channel growth",
+      "AI-driven personalization and retail media"
+    ],
+    "sources": [
+      {
+        "title": "NRF Forecasts 4.4% Annual Retail Sales Growth with New Economic Model",
+        "publisher": "National Retail Federation",
+        "url": "https://nrf.com/media-center/press-releases/nrf-forecasts-4-4-annual-retail-sales-growth-with-new-economic-model",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "annual retail sales growth forecast"
+      },
+      {
+        "title": "War in the Middle East complicates 2026 retail sales forecasts",
+        "publisher": "eMarketer",
+        "url": "https://www.emarketer.com/content/war-middle-east-complicates-2026-retail-sales-forecasts",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "retail sales forecast risk factors"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "AI-driven inventory & POS technology for independent grocers",
+        "description": "Independent and small-chain grocers lack affordable AI-driven inventory and POS technology compared to national chains' tech budgets.",
+        "sources": [
+          {
+            "title": "Independent grocers need to embrace tech to stay competitive, experts say",
+            "publisher": "Grocery Dive",
+            "url": "https://www.grocerydive.com/news/independent-grocers-technology-2026-nga-conference/811068/",
+            "date": "2026-02",
+            "scope": "USA",
+            "metric": "Industry commentary on technology capital-budget gap between national chains and independent grocers"
+          }
+        ]
+      },
+      {
+        "subSector": "Rural and small-town residents needing convenient retail pharmacy access",
+        "description": "Rural and small-town residents lack convenient retail pharmacy access as chain closures and independent pharmacy consolidation shrink coverage.",
+        "sources": [
+          {
+            "title": "48.4 million Americans lack adequate access to a pharmacy",
+            "publisher": "GoodRx Research",
+            "url": "https://www.goodrx.com/healthcare-access/research/many-americans-lack-convenient-access-to-pharmacies",
+            "date": "2025-05",
+            "scope": "USA",
+            "metric": "Number of Americans without convenient access to a retail pharmacy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US financial services activity has remained resilient with steady bank lending and capital markets activity through 2025-2026, per Federal Reserve data, while fintech investment has picked up alongside broader tech funding recovery.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS long-term projections and industry reporting point to continued growth in financial services employment and output, with fintech/digital payments adoption expanding the sector's addressable market over the coming decade.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Interest rate volatility affecting lending margins",
+      "Regulatory uncertainty around fintech/crypto oversight"
+    ],
+    "opportunities": [
+      "AI-driven underwriting and fraud detection",
+      "Embedded finance and digital payments growth"
+    ],
+    "sources": [
+      {
+        "title": "Industry share of GDP in the U.S. 2025",
+        "publisher": "Statista/BEA",
+        "url": "https://www.statista.com/statistics/248004/percentage-added-to-the-us-gdp-by-industry/",
+        "date": "2025",
+        "scope": "USA",
+        "metric": "finance/insurance GDP share"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable small-dollar installment credit for thin-credit-file consumers",
+        "description": "Low-credit-score, Black, Hispanic, immigrant and under-30 borrowers lack affordable small-dollar installment credit at most banks.",
+        "sources": [
+          {
+            "title": "Affordable Credit Poised to Save Consumers Billions",
+            "publisher": "The Pew Charitable Trusts",
+            "url": "https://www.pew.org/en/research-and-analysis/issue-briefs/2023/05/affordable-credit-poised-to-save-consumers-billions",
+            "date": "2023-05",
+            "scope": "USA",
+            "metric": "Share of largest banks/bank branches offering small installment loans, demographic usage of high-cost credit"
+          }
+        ]
+      },
+      {
+        "subSector": "Immigrant households needing bank accounts without SSN requirements and integrated low-cost remittance products",
+        "description": "Immigrant households, especially unbanked Mexican immigrants, lack bank accounts without SSN requirements and integrated low-cost remittance products.",
+        "sources": [
+          {
+            "title": "Immigrant Financial Services Study",
+            "publisher": "FDIC",
+            "url": "https://www.fdic.gov/media/167846",
+            "date": "2024",
+            "scope": "USA",
+            "metric": "Unbanked rate and remittance-channel usage among immigrant populations"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US property & casualty insurers have seen improved underwriting profitability in 2025-2026 after several years of catastrophe-driven losses, though rate increases continue in high-risk regions (wildfire, hurricane exposure) per industry reporting.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Insurance industry GDP contribution has trended upward as a share of the US economy per BEA data, with growing demand for coverage tied to climate risk, cyber risk, and an aging population sustaining long-term sector growth.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Rising climate-driven catastrophe losses (wildfire, hurricanes)",
+      "Reinsurance capacity and pricing volatility"
+    ],
+    "opportunities": [
+      "Cyber insurance market expansion",
+      "Parametric and climate-risk insurance products"
+    ],
+    "sources": [
+      {
+        "title": "Industry share of GDP in the U.S. 2025",
+        "publisher": "Statista/BEA",
+        "url": "https://www.statista.com/statistics/248004/percentage-added-to-the-us-gdp-by-industry/",
+        "date": "2025",
+        "scope": "USA",
+        "metric": "insurance GDP share"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Flood insurance for homeowners outside FEMA high-risk zones",
+        "description": "Homeowners outside FEMA high-risk flood zones lack flood insurance coverage despite facing significant flood exposure.",
+        "sources": [
+          {
+            "title": "77% of At-Risk Homes Outside FEMA Zones Have No Flood Insurance",
+            "publisher": "Insurance Journal, citing Neptune Flood",
+            "url": "https://www.insurancejournal.com/news/national/2025/08/07/834908.htm",
+            "date": "2025-08",
+            "scope": "USA",
+            "metric": "Share of at-risk homes outside FEMA high-risk zones without flood insurance"
+          }
+        ]
+      },
+      {
+        "subSector": "Mid-market businesses ($10M-$250M revenue) needing adequate cyber insurance coverage",
+        "description": "Mid-market businesses ($10M-$250M revenue) lack adequate cyber insurance coverage relative to their ransomware and breach risk exposure.",
+        "sources": [
+          {
+            "title": "Small Businesses Continue to Be Underserved by Cyber Insurers: CyberCube Report",
+            "publisher": "Insurance Journal / CyberCube",
+            "url": "https://www.insurancejournal.com/news/national/2025/04/02/818020.htm",
+            "date": "2025-04-02",
+            "scope": "USA",
+            "metric": "Share of ransomware/cyber incident response cases by company size"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "US software and IT services spending has continued to expand through 2025-2026, propelled heavily by enterprise AI adoption and cloud infrastructure investment, per BEA GDP-by-industry data showing information services among the fastest-growing sectors.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS Employment Projections 2024-2034 rank computer/IT occupations among the fastest-growing job categories, reflecting sustained long-term demand for software development, cloud, and data infrastructure.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "AI-driven disruption to traditional software labor models",
+      "Elevated valuations and capex concentration risk"
+    ],
+    "opportunities": [
+      "Enterprise AI/cloud adoption",
+      "SaaS and platform expansion"
+    ],
+    "sources": [
+      {
+        "title": "Industry share of GDP in the U.S. 2025",
+        "publisher": "Statista/BEA",
+        "url": "https://www.statista.com/statistics/248004/percentage-added-to-the-us-gdp-by-industry/",
+        "date": "2025",
+        "scope": "USA",
+        "metric": "information sector GDP share"
+      },
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "computer occupations employment growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable cybersecurity services for small-town hospitals, schools and utilities",
+        "description": "Small-town hospitals, schools and utilities lack affordable cybersecurity tooling, since deployment costs far more per person in small communities.",
+        "sources": [
+          {
+            "title": "Small Towns, Big Targets",
+            "publisher": "Aspen Institute / Aspen Digital",
+            "url": "https://www.aspendigital.org/blog/cyber-poverty-line/",
+            "date": "2025-07",
+            "scope": "USA",
+            "metric": "Relative per-capita cost of cybersecurity tools/services in small/rural communities vs. larger markets"
+          }
+        ]
+      },
+      {
+        "subSector": "Rural hospitals needing affordable EHR interoperability and advanced-function software",
+        "description": "Rural hospitals lack affordable EHR interoperability and advanced-function software compared to urban hospitals.",
+        "sources": [
+          {
+            "title": "Digital divide in adoption and advanced use of electronic health records among US hospitals: rural versus urban disparities from 2008 to 2023",
+            "publisher": "Journal of the American Medical Informatics Association",
+            "url": "https://doi.org/10.1093/jamia/ocag043",
+            "date": "2025",
+            "scope": "USA",
+            "metric": "Percentage-point gap in comprehensive/advanced EHR capability, rural vs. urban hospitals"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "US AI infrastructure and enterprise adoption investment has surged through 2025-2026, with hyperscalers announcing record capital expenditure on AI data centers and chips, driving rapid near-term growth in the sector per SIA and industry semiconductor sales data (global semiconductor sales up 25.6% in 2025 to $791.7B, AI-driven).",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS's fastest-growing occupation lists for 2024-2034 are dominated by AI/data-related roles, and analysts broadly project sustained multi-year growth in AI infrastructure spending, though some warn of capex/valuation bubble risk.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Capex/valuation bubble concerns",
+      "Power/grid capacity constraints limiting data center buildout"
+    ],
+    "opportunities": [
+      "Enterprise AI adoption across all industries",
+      "Continued hyperscaler infrastructure investment"
+    ],
+    "sources": [
+      {
+        "title": "Global Annual Semiconductor Sales Increase 25.6% to $791.7 Billion in 2025",
+        "publisher": "Semiconductor Industry Association",
+        "url": "https://www.semiconductors.org/global-annual-semiconductor-sales-increase-25-6-to-791-7-billion-in-2025/",
+        "date": "2025",
+        "scope": "global",
+        "metric": "semiconductor sales growth (AI-driven)"
+      },
+      {
+        "title": "The 10 fastest-growing jobs of the next decade, according to BLS report",
+        "publisher": "CNBC/BLS",
+        "url": "https://www.cnbc.com/2025/11/30/the-10-fastest-growing-jobs-of-the-next-decade-according-to-blsmany-can-pay-6-figures.html",
+        "date": "2025-11",
+        "scope": "USA",
+        "metric": "fastest-growing occupations"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "AI tools packaged for micro-businesses (fewer than 5 employees)",
+        "description": "Micro-businesses with fewer than 5 employees lack AI tools tailored to their scale and needs, most not adopting AI at all.",
+        "sources": [
+          {
+            "title": "Research Spotlight: AI in Business — Small Firms Closing In",
+            "publisher": "U.S. Small Business Administration, Office of Advocacy",
+            "url": "https://advocacy.sba.gov/wp-content/uploads/2025/09/Research-Spotlight-AI-in-Business-Small-Firms-Closing-In_-092425.pdf",
+            "date": "2025-09",
+            "scope": "USA",
+            "metric": "Share of firms by employee-size band citing 'relevance' as reason for not adopting AI"
+          }
+        ]
+      },
+      {
+        "subSector": "Small and mid-size farms needing affordable, interoperable precision-agriculture AI tools",
+        "description": "Small and mid-size farms lack affordable, interoperable precision-agriculture AI tools due to high upfront costs and standards gaps.",
+        "sources": [
+          {
+            "title": "Precision Agriculture: Benefits and Challenges for Technology Adoption and Use",
+            "publisher": "U.S. Government Accountability Office (GAO-24-105962)",
+            "url": "https://www.gao.gov/products/gao-24-105962",
+            "date": "2023-12",
+            "scope": "USA",
+            "metric": "Percentage of US farms/ranches using precision agriculture practices"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Demand for data infrastructure and analytics roles continues to climb alongside AI adoption, with data-related occupations featuring prominently among BLS's fastest-growing job categories for the 2024-2034 period.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The long-term BLS employment projections and enterprise AI adoption trends both point to sustained demand growth for data engineering, analytics, and data science roles through 2034.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Data privacy regulation increasing compliance costs",
+      "Talent shortage in specialized data science roles"
+    ],
+    "opportunities": [
+      "AI/ML-driven demand for structured data pipelines",
+      "Growth of data monetization business models"
+    ],
+    "sources": [
+      {
+        "title": "The 10 fastest-growing jobs of the next decade, according to BLS report",
+        "publisher": "CNBC/BLS",
+        "url": "https://www.cnbc.com/2025/11/30/the-10-fastest-growing-jobs-of-the-next-decade-according-to-blsmany-can-pay-6-figures.html",
+        "date": "2025-11",
+        "scope": "USA",
+        "metric": "fastest-growing occupations"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Real-time AML/financial-crime analytics for mid-size and community banks",
+        "description": "Mid-size and community banks lack real-time AI/ML-based anti-money-laundering and financial-crime monitoring systems.",
+        "sources": [
+          {
+            "title": "Hidden Threats, Local Impact: New Industry Survey Finds U.S. Mid-size and Community Banks on the Front Lines of Rising Financial Crime",
+            "publisher": "Quantexa",
+            "url": "https://www.quantexa.com/press/hidden-threats-local-impact-new-industry-survey-finds-u-s-mid-size-and-community-banks-on-the-front-lines-of-rising-financial-crime/",
+            "date": "2025-07",
+            "scope": "USA",
+            "metric": "Share of surveyed AML professionals lacking AI/ML, real-time monitoring, and modernization expertise, by bank asset size"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Cybersecurity spending has continued rising through 2025-2026 as enterprises expand AI adoption and face increased ransomware/nation-state threats, with information security analyst roles among BLS's higher-growth occupational categories.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS Employment Projections show information security analyst employment growing significantly faster than the average for all occupations through 2034, reflecting sustained structural demand tied to digitization and threat escalation.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Escalating sophistication of AI-enabled cyberattacks",
+      "Persistent cybersecurity talent shortage"
+    ],
+    "opportunities": [
+      "AI-driven security tooling adoption",
+      "Regulatory-driven compliance spending (e.g., critical infrastructure rules)"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "information security analyst employment growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Managed cybersecurity services for resource-constrained rural hospitals",
+        "description": "Rural and small critical-access hospitals lack adequately staffed managed cybersecurity services and tooling.",
+        "sources": [
+          {
+            "title": "On the Edge: Cybersecurity Health of America's Resource-Constrained Health Providers",
+            "publisher": "Health Sector Coordinating Council",
+            "url": "https://healthsectorcouncil.org/wp-content/uploads/2025/05/On-the-Edge-RESOURCE-CONSTRAINED-HEALTHCARE-CYBERSECURITY.pdf",
+            "date": "2025-05",
+            "scope": "USA",
+            "metric": "Interview-based report on rural/resource-constrained hospital cybersecurity staffing"
+          }
+        ]
+      },
+      {
+        "subSector": "CMMC compliance support for small defense manufacturers",
+        "description": "Small manufacturers in the defense industrial base lack the cybersecurity resources to meet CMMC certification requirements needed to keep DoD contracts.",
+        "sources": [
+          {
+            "title": "The CMMC readiness gap: Why many small manufacturers are unprepared",
+            "publisher": "Federal News Network",
+            "url": "https://federalnewsnetwork.com/commentary/2026/04/the-cmmc-readiness-gap-why-many-small-manufacturers-are-unprepared/",
+            "date": "2026-04",
+            "scope": "United States",
+            "metric": "Majority of small defense-industrial-base manufacturers report being unprepared to meet CMMC certification deadlines as enforcement phases begin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Deloitte's 2026 Telecommunications Industry Outlook describes telecom as a low-growth industry with persistent pricing pressure, though its US Communications Infrastructure Index grew an estimated 4% in 2025 driven by wireless speed gains and fixed wireless access (FWA) adoption; EBITDA margins remain steady near 35%.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Deloitte expects continued strategic transformation rather than revenue growth acceleration: operators are building flanker brands, expanding into B2B technology services beyond connectivity, and shifting toward personalized value-driven ecosystems as customers see little differentiation among telecom providers despite fiber and 5G investment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Persistent pricing pressure limiting consumer monetization and ARPU growth",
+      "FWA speed capacity constraints emerging by year-end 2025",
+      "Low customer-perceived differentiation despite heavy infrastructure investment"
+    ],
+    "opportunities": [
+      "Fixed wireless access (FWA) adoption accelerating infrastructure growth",
+      "Expansion into B2B technology services beyond core connectivity",
+      "Flanker brands targeting secondary market segments"
+    ],
+    "sources": [
+      {
+        "title": "2026 Telecommunications Industry Outlook",
+        "publisher": "Deloitte Insights",
+        "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/telecommunications-industry-outlook.html",
+        "date": "2026",
+        "scope": "United States",
+        "metric": "US Communications Infrastructure Index growth ~4% (2025 est.); EBITDA margins ~35%; capex intensity ~18%"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Fixed broadband for remote rural households and students",
+        "description": "Rural households and students lack reliable fixed broadband access compared to suburban households.",
+        "sources": [
+          {
+            "title": "Rural Students' Access to the Internet",
+            "publisher": "National Center for Education Statistics",
+            "url": "https://nces.ed.gov/programs/coe/indicator/lfc/internet-access-students-rural",
+            "date": "2025",
+            "scope": "USA",
+            "metric": "Percentage of students by locale with fixed broadband, mobile broadband, or no internet at home"
+          }
+        ]
+      },
+      {
+        "subSector": "Native American and Black farm operators lacking on-farm broadband connectivity",
+        "description": "Native American and Black farm operators lack on-farm broadband connectivity, blocking access to precision-agriculture and telehealth services.",
+        "sources": [
+          {
+            "title": "Broadband's broken promise: How federal failures and funding fights keep Native and Black farmers offline",
+            "publisher": "Investigate Midwest",
+            "url": "https://investigatemidwest.org/2025/10/22/broadbands-broken-promise-how-federal-failures-and-funding-fights-keep-native-and-black-farmers-offline/",
+            "date": "2025-10-22",
+            "scope": "USA",
+            "metric": "Percent of farms/households with broadband access by race/ethnicity"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "SIA's 2026 State of the Industry Report describes 'historic growth amid intensifying global competition,' with global semiconductor sales up 25.6% to $791.7 billion in 2025 and continuing double-digit growth into 2026, driven heavily by AI chip demand.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "SIA's 2026 State of the U.S. Semiconductor Industry report and CHIPS Act-driven domestic fab investment point to sustained long-term growth in US semiconductor manufacturing capacity and R&D, though competition with global rivals remains intense.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Intensifying global competition (China, Taiwan) for chip manufacturing leadership",
+      "Capital-intensive fab buildout execution risk"
+    ],
+    "opportunities": [
+      "AI chip demand driving record sales growth",
+      "CHIPS Act-supported domestic fab expansion"
+    ],
+    "sources": [
+      {
+        "title": "2026 State of the Industry Report: Historic Growth Amid Intensifying Global Competition",
+        "publisher": "Semiconductor Industry Association",
+        "url": "https://www.semiconductors.org/2026-state-of-the-industry-report-historic-growth-amid-intensifying-global-competition/",
+        "date": "2026",
+        "scope": "global",
+        "metric": "semiconductor industry growth"
+      },
+      {
+        "title": "Global Annual Semiconductor Sales Increase 25.6% to $791.7 Billion in 2025",
+        "publisher": "Semiconductor Industry Association",
+        "url": "https://www.semiconductors.org/global-annual-semiconductor-sales-increase-25-6-to-791-7-billion-in-2025/",
+        "date": "2025",
+        "scope": "global",
+        "metric": "annual sales growth"
+      },
+      {
+        "title": "2026 State of the U.S. Semiconductor Industry",
+        "publisher": "Semiconductor Industry Association",
+        "url": "https://www.semiconductors.org/2026-state-of-the-u-s-semiconductor-industry/",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "US semiconductor industry state"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Domestic supply of legacy chips for automakers and medical device makers",
+        "description": "Automakers and medical device makers lack a resilient domestic supply of mature, legacy-node semiconductor chips.",
+        "sources": [
+          {
+            "title": "The Strategic Importance of Legacy Chips",
+            "publisher": "Center for Strategic and International Studies",
+            "url": "https://www.csis.org/analysis/strategic-importance-legacy-chips",
+            "date": "2024",
+            "scope": "USA",
+            "metric": "Analysis of legacy-chip dependency and shortage impact by industry segment"
+          }
+        ]
+      },
+      {
+        "subSector": "Certificate/associate-degree technicians and advanced-degree engineers for the semiconductor talent pipeline",
+        "description": "The semiconductor industry lacks enough certificate/associate-degree technicians and advanced-degree engineers to fill projected job growth.",
+        "sources": [
+          {
+            "title": "Chipping Away: Assessing and Addressing the Labor Market Gap Facing the U.S. Semiconductor Industry",
+            "publisher": "Semiconductor Industry Association / Oxford Economics",
+            "url": "https://www.semiconductors.org/chipping-away-assessing-and-addressing-the-labor-market-gap-facing-the-u-s-semiconductor-industry/",
+            "date": "2024",
+            "scope": "USA",
+            "metric": "Projected 2030 job openings vs. degree/certificate completion rates by role category"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Manufacturing and warehousing automation investment continues to expand as labor shortages and reshoring drive robotics adoption; BLS employment data shows robotics-adjacent technician and engineering roles growing faster than average.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Long-term structural drivers (labor shortages, reshoring, AI integration into physical automation) point to sustained multi-year growth for industrial and service robotics deployment in the US.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High upfront capital costs limiting SME adoption",
+      "Supply chain dependence on foreign robotics components"
+    ],
+    "opportunities": [
+      "Warehouse/logistics automation demand",
+      "AI-enabled robotics for manufacturing reshoring"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "industry employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable automation (cobots) for small and mid-size manufacturers",
+        "description": "Small and mid-size manufacturers lack affordable collaborative-robot (cobot) automation, with most plants running zero automation.",
+        "sources": [
+          {
+            "title": "Industrial automation's AI gap: why 80% of U.S. factories still run without robots",
+            "publisher": "MarketScale",
+            "url": "https://www.marketscale.com/industries/industrial-iot/industrial-automations-ai-gap-why-80-of-us-factories-still-run-without-robots",
+            "date": "2025",
+            "scope": "USA",
+            "metric": "Share of US manufacturing facilities without automation, Deloitte 2025 Smart Manufacturing survey"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "CMS's National Health Expenditure Projections 2025-34 show 'strong utilization growth initially,' with US health spending on track to reach nearly $9 trillion by 2034, though legislative changes are expected to affect growth in later years.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "CMS projects national health expenditures to continue rising through 2034, and BLS projects healthcare support and practitioner occupations among the largest sources of new US jobs over the coming decade, driven by an aging population.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Legislative/policy changes to Medicare/Medicaid funding",
+      "Healthcare workforce shortages"
+    ],
+    "opportunities": [
+      "Aging population driving sustained demand",
+      "Telehealth and value-based care expansion"
+    ],
+    "sources": [
+      {
+        "title": "National Health Expenditure Projections, 2025–34: Strong Utilization Growth Initially, Legislative Impacts Later",
+        "publisher": "Health Affairs / CMS",
+        "url": "https://www.healthaffairs.org/doi/10.1377/hlthaff.2026.00642",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "national health expenditure projections"
+      },
+      {
+        "title": "US health spending set to reach $9T by 2034: CMS report",
+        "publisher": "Fierce Healthcare",
+        "url": "https://www.fiercehealthcare.com/finance/us-health-spending-set-reach-9t-2034-cms-report",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "health spending projection"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Primary and maternity care access for rural counties",
+        "description": "Rural counties lack adequate primary and maternity care access, with most designated primary-care shortage areas.",
+        "sources": [
+          {
+            "title": "The State of Rural Primary Care in the United States",
+            "publisher": "Commonwealth Fund",
+            "url": "https://www.commonwealthfund.org/publications/issue-briefs/2025/nov/state-rural-primary-care-united-states",
+            "date": "2025-11",
+            "scope": "USA",
+            "metric": "County-level primary care physician counts and shortage-area designation rates"
+          }
+        ]
+      },
+      {
+        "subSector": "Low-income residents in Dental Care Health Professional Shortage Areas needing affordable dental access",
+        "description": "Low-income residents in Dental Care Health Professional Shortage Areas lack affordable access to dental care providers.",
+        "sources": [
+          {
+            "title": "Dental Care Health Professional Shortage Areas (HPSAs)",
+            "publisher": "KFF (using HRSA HPSA data)",
+            "url": "https://www.kff.org/other-health/state-indicator/dental-care-health-professional-shortage-areas-hpsas/",
+            "date": "2025-12-31",
+            "scope": "USA",
+            "metric": "Population in designated dental HPSAs and percent of dental provider need met"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US pharma/biotech has faced mixed conditions in 2025-2026, with strong drug pricing/tariff policy uncertainty (Most Favored Nation pricing proposals) offsetting continued growth in specialty and biologic drug spending within the broader CMS national health expenditure outlook.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "CMS's national health expenditure projections through 2034 include continued growth in prescription drug spending, and biotech innovation (gene therapy, GLP-1 drugs) is expected to sustain long-term sector growth despite pricing policy headwinds.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Drug pricing policy and tariff uncertainty",
+      "Patent cliffs for major blockbuster drugs"
+    ],
+    "opportunities": [
+      "GLP-1 and biologics market expansion",
+      "AI-accelerated drug discovery"
+    ],
+    "sources": [
+      {
+        "title": "National Health Expenditure Projections, 2025–34: Strong Utilization Growth Initially, Legislative Impacts Later",
+        "publisher": "Health Affairs / CMS",
+        "url": "https://www.healthaffairs.org/doi/10.1377/hlthaff.2026.00642",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "prescription drug spending projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Approved treatments for Americans with rare/orphan diseases",
+        "description": "Americans with rare and orphan diseases lack approved treatments, since only 4-6% of the 7,000-10,000 known rare diseases have an FDA-approved drug.",
+        "sources": [
+          {
+            "title": "Revisiting the Orphan Drug Act",
+            "publisher": "Commonwealth Fund",
+            "url": "https://www.commonwealthfund.org/publications/issue-briefs/2025/nov/revisiting-orphan-drug-act",
+            "date": "2025-11",
+            "scope": "USA",
+            "metric": "Rare disease prevalence and share with FDA-approved treatments"
+          }
+        ]
+      },
+      {
+        "subSector": "Prescription access for residents of pharmacy deserts",
+        "description": "Residents in low-income and rural areas lack convenient access to a retail pharmacy to fill prescriptions as independent pharmacies close nationwide.",
+        "sources": [
+          {
+            "title": "48.4 Million Americans Lack Convenient Access to a Pharmacy",
+            "publisher": "GoodRx Research",
+            "url": "https://www.goodrx.com/healthcare-access/research/many-americans-lack-convenient-access-to-pharmacies",
+            "date": "2025-03",
+            "scope": "United States",
+            "metric": "48.4 million Americans (about 1 in 7) live in a pharmacy desert with no convenient pharmacy access"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Digital health and medtech investment has continued recovering through 2025-2026 alongside AI-enabled diagnostics and remote monitoring adoption, within a broader healthcare spending environment CMS projects will keep growing toward 2034.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Long-term healthcare spending growth (CMS projecting $9T by 2034) combined with an aging population and AI-driven diagnostic tools point to sustained multi-year growth for medical technology and digital health.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "FDA regulatory approval timelines for AI-enabled devices",
+      "Reimbursement uncertainty for digital health tools"
+    ],
+    "opportunities": [
+      "AI-enabled diagnostics and remote patient monitoring",
+      "Aging-population-driven demand for medtech"
+    ],
+    "sources": [
+      {
+        "title": "US health spending set to reach $9T by 2034: CMS report",
+        "publisher": "Fierce Healthcare",
+        "url": "https://www.fiercehealthcare.com/finance/us-health-spending-set-reach-9t-2034-cms-report",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "health spending projection"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Remote patient monitoring for rural chronic-disease patients",
+        "description": "Rural chronic-disease patients lack widespread access to remote patient monitoring due to reimbursement and implementation barriers.",
+        "sources": [
+          {
+            "title": "Maximizing the Value of Remote Patient Monitoring",
+            "publisher": "Bipartisan Policy Center",
+            "url": "https://bipartisanpolicy.org/explainer/maximizing-the-value-of-remote-patient-monitoring/",
+            "date": "2025",
+            "scope": "USA",
+            "metric": "RPM utilization growth and rural access barriers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US education sector employment and enrollment have remained broadly stable through 2025-2026, with K-12 enrollment declines in some regions offset by continued postsecondary and vocational/edtech growth, per BLS industry data.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "BLS Employment Projections 2024-2034 show education services employment growing modestly, roughly tracking overall labor force growth, without the outsized gains seen in tech or healthcare.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Declining K-12 enrollment in some states",
+      "Federal education funding policy uncertainty"
+    ],
+    "opportunities": [
+      "AI-powered personalized learning tools",
+      "Growth in workforce reskilling/vocational training programs"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "education services employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Short-term, workforce-aligned credential programs for working-age adults",
+        "description": "Working-age adults seeking education lack well-matched short-term, workforce-aligned credential programs versus four-year degree options.",
+        "sources": [
+          {
+            "title": "CAEL, CollegeAPP Study Places Millions of Adults in 'Intent To Enroll' Pipeline",
+            "publisher": "Council for Adult and Experiential Learning",
+            "url": "https://www.cael.org/resources/newsroom/adult-learner-intent-to-enroll",
+            "date": "2026-06",
+            "scope": "USA",
+            "metric": "National survey of adult enrollment intent, program preferences, and barriers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US professional, scientific and technical services output has remained a steady, growing share of GDP per BEA data, though legal and consulting demand growth has moderated amid broader corporate cost discipline in 2025-2026.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS Employment Projections 2024-2034 show professional/business services (including consulting, legal, accounting) among the larger sources of projected job growth, reflecting continued economy-wide demand for specialized expertise.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "AI-driven disruption to traditional billable-hour service models",
+      "Corporate cost-cutting reducing consulting/legal spend"
+    ],
+    "opportunities": [
+      "AI-augmented professional services offerings",
+      "Growing demand for specialized regulatory/compliance advisory"
+    ],
+    "sources": [
+      {
+        "title": "Industry share of GDP in the U.S. 2025",
+        "publisher": "Statista/BEA",
+        "url": "https://www.statista.com/statistics/248004/percentage-added-to-the-us-gdp-by-industry/",
+        "date": "2025",
+        "scope": "USA",
+        "metric": "professional services GDP share"
+      },
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "professional/business services employment growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable legal counsel for small business owners",
+        "description": "Small business owners lack affordable legal counsel, with most avoiding lawyers over cost and complexity.",
+        "sources": [
+          {
+            "title": "New Study: Legal Pitfalls Dent Small Business Owners' Bottom Line, Yet Most Forgo Counsel",
+            "publisher": "LegalShield",
+            "url": "https://www.businesswire.com/news/home/20250519395084/en/New-Study-Legal-Pitfalls-Dent-Small-Business-Owners-Bottom-Line-Yet-Most-Forgo-Counsel",
+            "date": "2025-05",
+            "scope": "USA",
+            "metric": "Survey of small business owners on legal service usage and cost impact"
+          }
+        ]
+      },
+      {
+        "subSector": "Rural residents and farmers in 'legal desert' counties needing access to any local attorney",
+        "description": "Rural residents and farmers in \"legal desert\" counties lack access to any local attorney.",
+        "sources": [
+          {
+            "title": "Mapping Legal Deserts",
+            "publisher": "Harvard Law School Center on the Legal Profession",
+            "url": "https://clp.law.harvard.edu/article/mapping-legal-deserts/",
+            "date": "2023",
+            "scope": "USA",
+            "metric": "Rural population share vs. share of small law practices located in rural areas; estimated lawyer shortfall"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Administrative and support services (staffing, facilities, back-office) have shown steady but modest growth through 2025-2026, per BLS industry employment data, reflecting broader economic stability rather than distinct acceleration.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS Employment Projections 2024-2034 project continued growth in business support services employment, aligned with overall economic and business-formation trends.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Automation of routine back-office functions",
+      "Sensitivity to broader corporate spending cycles"
+    ],
+    "opportunities": [
+      "Outsourcing/BPO growth",
+      "AI-enabled business process automation services"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "business services employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Financial & business advisory services for minority-owned small businesses",
+        "description": "Minority-owned small businesses lack adequate financial and business advisory services reaching their needs.",
+        "sources": [
+          {
+            "title": "Small Business Advisory Services in Diverse, Underserved Communities",
+            "publisher": "The American College of Financial Services",
+            "url": "https://www.theamericancollege.edu/knowledge-hub/insights/small-business-advisory-services-in-diverse-underserved-communities",
+            "date": "2024",
+            "scope": "USA",
+            "metric": "Small Business Credit Survey financial-condition ratings by owner race/ethnicity"
+          }
+        ]
+      },
+      {
+        "subSector": "Small business succession & exit-planning advisory",
+        "description": "Small business owners nearing retirement lack formal succession or exit plans as millions of businesses face ownership transition over the next decade.",
+        "sources": [
+          {
+            "title": "Top Bank Warns 12 Million Small Businesses Could Change Hands Over the Next Decade",
+            "publisher": "Benzinga (citing U.S. Bank survey)",
+            "url": "https://www.benzinga.com/news/financing/26/09/61762717/top-bank-warns-12-million-small-businesses-could-change-hands-over-the-next-decade-70-of-owners-are-still-in-early-succession-planning",
+            "date": "2026-09",
+            "scope": "United States",
+            "metric": "70% of small business owners are still in early-stage succession planning; ~12 million businesses expected to change hands over the next decade"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US advertising spending has continued growing modestly through 2025-2026 driven by digital/retail media, though traditional agency segments face pressure from AI-driven in-housing of creative and media-buying functions.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Long-term advertising spend growth is expected to track GDP and digital commerce growth, with continued shift of ad dollars toward digital/retail media platforms rather than an outsized structural boom.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "AI disintermediation of traditional agency creative/media-buying work",
+      "Ad spend sensitivity to broader economic slowdowns"
+    ],
+    "opportunities": [
+      "Retail media network growth",
+      "AI-powered ad targeting and content generation"
+    ],
+    "sources": [
+      {
+        "title": "Industry share of GDP in the U.S. 2025",
+        "publisher": "Statista/BEA",
+        "url": "https://www.statista.com/statistics/248004/percentage-added-to-the-us-gdp-by-industry/",
+        "date": "2025",
+        "scope": "USA",
+        "metric": "GDP by industry"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Minority-owned and women-owned advertising agencies seeking access to federal government advertising contracts",
+        "description": "Minority-owned and women-owned advertising agencies lack meaningful access to federal government advertising contracts.",
+        "sources": [
+          {
+            "title": "Federal Advertising: Fourteen Percent of Contract Obligations in the Past Decade Went to Small Disadvantaged Businesses and Those Owned by Women and Minorities",
+            "publisher": "U.S. Government Accountability Office (GAO-24-107021)",
+            "url": "https://www.gao.gov/products/gao-24-107021",
+            "date": "2024",
+            "scope": "USA",
+            "metric": "Share of federal advertising contract dollars obligated to minority/women/disadvantaged-owned businesses, FY2014-2023"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US media/entertainment has faced continued disruption from streaming consolidation and cord-cutting through 2025-2026, with box office and traditional TV/media revenue soft while streaming and live entertainment segments hold up better.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "BLS long-term projections show mixed outcomes within media (declines in traditional broadcasting/publishing employment offset by growth in streaming/digital content), netting to roughly stable overall sector employment through 2034.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Continued cord-cutting eroding traditional TV/cable revenue",
+      "Streaming platform profitability pressure"
+    ],
+    "opportunities": [
+      "Generative AI content production tools",
+      "Live entertainment and sports media rights growth"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "media/publishing employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Local Spanish-language news coverage for Latino communities",
+        "description": "Spanish-speaking neighborhoods lack local Spanish-language news coverage as legacy outlets shrink their newsrooms.",
+        "sources": [
+          {
+            "title": "The State of Latino News Media — The Industry at a Glance",
+            "publisher": "CUNY Craig Newmark Graduate School of Journalism",
+            "url": "https://thelatinomediareport.journalism.cuny.edu/the-industry-at-a-glance/",
+            "date": "2025",
+            "scope": "USA",
+            "metric": "Census of Latino news outlets, staffing levels, and geographic coverage gaps"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US travel and hospitality demand has remained resilient through 2025-2026 with steady air travel and hotel occupancy, though international inbound travel has softened amid visa/tariff-related geopolitical friction per industry trade reporting.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS long-term employment projections show continued growth in leisure and hospitality employment through 2034, consistent with sustained consumer demand for travel and experiences.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Softening international inbound travel due to geopolitical/visa friction",
+      "Consumer discretionary spending sensitivity to economic slowdown"
+    ],
+    "opportunities": [
+      "Domestic leisure travel resilience",
+      "Experience-economy spending growth"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "leisure and hospitality employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Accessible accommodations for travelers with disabilities",
+        "description": "Travelers with disabilities lack reliably accessible hotel accommodations and airline services.",
+        "sources": [
+          {
+            "title": "Report: Disabled Travelers Spend $58 Billion a Year and Want Better Access",
+            "publisher": "New Mobility (United Spinal Association)",
+            "url": "https://newmobility.com/report-disabled-travelers-spend-58-billion-a-year-and-want-better-access/",
+            "date": "2022-08",
+            "scope": "USA",
+            "metric": "Survey of travelers with disabilities on spending and accessibility problem rates"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US restaurant industry traffic has been roughly flat to slightly softer through 2025-2026 amid persistent food-cost inflation and cautious consumer spending, per National Restaurant Association-type industry data trends.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "BLS long-term projections show continued, moderate growth in food service employment through 2034, tracking population growth and dining-out habits rather than outsized acceleration.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Persistent food and labor cost inflation squeezing margins",
+      "Cautious consumer discretionary spending"
+    ],
+    "opportunities": [
+      "Delivery/digital ordering channel growth",
+      "Fast-casual segment resilience"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "food services employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Hourly restaurant and foodservice workers lacking access to affordable employer-sponsored health coverage",
+        "description": "Hourly restaurant and foodservice workers lack access to affordable employer-sponsored health coverage compared to other industries.",
+        "sources": [
+          {
+            "title": "The Current State of Health Insurance in Hospitality",
+            "publisher": "Independent Restaurant Coalition, citing U.S. Bureau of Labor Statistics",
+            "url": "https://www.independentrestaurantcoalition.com/the_current_state_of_health_insurance_in_hospitality",
+            "date": "2021",
+            "scope": "USA",
+            "metric": "Share of hospitality workers with healthcare coverage vs. private industry average"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Personal care and consumer services employment has grown steadily but unremarkably through 2025-2026, tracking overall consumer spending trends per BLS industry data, without distinct acceleration or contraction signals.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS Employment Projections 2024-2034 list several personal-care occupations (e.g., personal care aides) among the largest sources of projected job growth, driven substantially by an aging population's care needs.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Wage inflation in labor-intensive personal services",
+      "Aging-population care demand outpacing available workforce"
+    ],
+    "opportunities": [
+      "Aging population driving personal/home care demand",
+      "Subscription/membership consumer service models"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "personal care aide employment growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Licensed child care access, especially in rural areas",
+        "description": "Families, especially in rural areas, lack access to licensed child care, with many living in child care deserts.",
+        "sources": [
+          {
+            "title": "New Report Shows Nearly Half of All Young Children Live in Child Care Deserts",
+            "publisher": "First Five Years Fund",
+            "url": "https://www.ffyf.org/2026/05/27/new-report-shows-nearly-half-of-all-young-children-live-in-child-care-deserts/",
+            "date": "2026-05",
+            "scope": "USA",
+            "metric": "Ratio of licensed child care slots to children age 5-and-under, national and rural breakdown"
+          }
+        ]
+      },
+      {
+        "subSector": "Rural older adults needing in-home aide and nursing-assistant care",
+        "description": "Rural older adults lack access to in-home aide and nursing-assistant care compared to urban seniors.",
+        "sources": [
+          {
+            "title": "Who Will Care for Rural Older Adults? Measuring the Direct Care Workforce in Rural Areas",
+            "publisher": "National Institutes of Health (PMC)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10427731/",
+            "date": "2023",
+            "scope": "USA",
+            "metric": "Direct care workers per 1,000 adults age 65+, rural vs. urban"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "US sports and recreation spending has continued expanding through 2025-2026, supported by strong live sports/media rights revenue and continued consumer spending on recreational activities, per industry and BEA data trends.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS long-term projections show continued growth in arts, entertainment, and recreation employment through 2034, consistent with sustained consumer demand for live sports and recreational experiences.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Consumer discretionary spending sensitivity to economic downturn",
+      "Rising costs of live event production/venues"
+    ],
+    "opportunities": [
+      "Sports media rights and streaming growth",
+      "Experience-economy consumer spending"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "arts/entertainment/recreation employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Youth sports access for girls and low-income/minority children",
+        "description": "Girls and low-income/minority children lack equitable access to youth sports programs and transportation to activities.",
+        "sources": [
+          {
+            "title": "State of Play: Washington, D.C.",
+            "publisher": "Aspen Institute Project Play",
+            "url": "https://about.underarmour.com/en/stories/2025/03/significant-disparities-in-sports-engagement-found-among-washing.html",
+            "date": "2025-03",
+            "scope": "USA",
+            "metric": "Youth sports participation rates by gender, race, and income, with transportation-access breakdown"
+          }
+        ]
+      },
+      {
+        "subSector": "Children with disabilities seeking organized or adaptive sports programs",
+        "description": "Children with disabilities lack access to organized or adaptive sports programs in schools and communities.",
+        "sources": [
+          {
+            "title": "Project Play survey: Youth with disabilities need sports more but play less",
+            "publisher": "Aspen Institute Project Play",
+            "url": "https://projectplay.org/news/project-play-survey-youth-with-disabilities-need-sports-more-but-play-less",
+            "date": "2024-2025",
+            "scope": "USA",
+            "metric": "Organized/adaptive sports participation rate among children with disabilities vs. without"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "US apparel and luxury retail sales growth has been modest through 2025-2026 within NRF's broader 4.4% retail sales growth forecast for 2026, with value-conscious consumer behavior tempering discretionary luxury spending.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Long-term apparel/fashion sector growth is expected to track broader retail sales trends rather than outperform, per NRF's retail forecasting methodology, with e-commerce channel shift continuing.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Tariff-driven cost increases on imported apparel/luxury goods",
+      "Value-conscious consumer shift away from discretionary luxury spending"
+    ],
+    "opportunities": [
+      "Resale/secondhand luxury market growth",
+      "Direct-to-consumer e-commerce expansion"
+    ],
+    "sources": [
+      {
+        "title": "NRF Forecasts 4.4% Annual Retail Sales Growth with New Economic Model",
+        "publisher": "National Retail Federation",
+        "url": "https://nrf.com/media-center/press-releases/nrf-forecasts-4-4-annual-retail-sales-growth-with-new-economic-model",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "retail sales growth forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Adaptive clothing & footwear for people with disabilities",
+        "description": "People with disabilities lack mainstream adaptive clothing and footwear options despite a sizable underserved market.",
+        "sources": [
+          {
+            "title": "The US Adaptive Clothing and Footwear Market Represents a $47.3 Billion Largely Untapped Opportunity",
+            "publisher": "Coresight Research",
+            "url": "https://coresight.com/research/the-us-adaptive-clothing-and-footwear-market-represents-a-47-3-billion-largely-untapped-opportunity/",
+            "date": "2019-02",
+            "scope": "USA",
+            "metric": "US adaptive apparel market size estimate and forecast"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "US solar and clean-energy employment is projected by BLS to grow dramatically through 2034 (solar electric power generation employment up 180.2% 2024-2034), reflecting continued near-term buildout of renewable generation capacity despite federal policy shifts affecting some incentive programs.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "EIA's Annual Energy Outlook and BLS long-term occupational projections both point to sustained growth in renewable energy and climate-adjacent employment and infrastructure investment through 2034.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Federal policy shifts affecting clean-energy tax incentives",
+      "Grid interconnection bottlenecks for renewable projects"
+    ],
+    "opportunities": [
+      "Solar/renewable generation employment growth (BLS: +180% 2024-2034)",
+      "Corporate decarbonization and ESG-driven investment"
+    ],
+    "sources": [
+      {
+        "title": "Solar electric power generation employment projected to grow 180.2 percent from 2024 to 2034",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/opub/ted/2026/solar-electric-power-generation-employment-projected-to-grow-180-2-percent-from-2024-to-2034.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "solar power employment projection"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Cooling retrofits for low-income renters in substandard housing",
+        "description": "Low-income renters in substandard housing lack adequate cooling and heat-resilience retrofits as extreme heat events worsen.",
+        "sources": [
+          {
+            "title": "Extreme Heat, Substandard Housing Pose Heightened Risk to People in Affordable Housing",
+            "publisher": "Union of Concerned Scientists",
+            "url": "https://www.ucs.org/about/news/extreme-heat-substandard-housing-pose-heightened-risk-people-affordable-housing",
+            "date": "2024",
+            "scope": "USA",
+            "metric": "Health-risk documentation of heat exposure in affordable housing stock"
+          }
+        ]
+      },
+      {
+        "subSector": "Black and Hispanic/Latino workers seeking entry into clean-energy jobs via training and hiring pipelines",
+        "description": "Black and Hispanic/Latino workers lack proportional access to clean-energy job training and hiring pipelines.",
+        "sources": [
+          {
+            "title": "Women, Black, and Hispanic/Latino Workers Underrepresented in US Clean Energy",
+            "publisher": "E2 (Environmental Entrepreneurs)",
+            "url": "https://e2.org/releases/women-black-and-hispanic-latino-workers-underrepresented-in-us-clean-energy/",
+            "date": "2024",
+            "scope": "USA",
+            "metric": "Share of clean energy workforce by race/gender vs. share of overall national workforce"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "US water supply and irrigation systems reached an estimated $132.5B market in 2026, having grown at a 5.5% CAGR from 2021-2026, aided by resilient demand and higher water rates even as new-build activity softens.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBISWorld projects continued industry growth over the next five years, supported by ongoing capital investment in aging infrastructure and firm above-inflation rate increases; separately, EPA has been releasing billions annually (e.g. $2.9B in 2026) for lead service line replacement, signaling sustained federal infrastructure spending in the sector.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "Softer new-build/construction activity weighing on volume growth",
+      "Rising compliance and input costs from aging infrastructure and lead pipe mandates"
+    ],
+    "opportunities": [
+      "Federal lead pipe replacement funding (EPA, billions annually through 2026)",
+      "Consolidation and technology adoption improving utility operational efficiency",
+      "Firm pricing power via above-inflation rate increases"
+    ],
+    "sources": [
+      {
+        "title": "Water Supply & Irrigation Systems in the US Industry Analysis, 2026",
+        "publisher": "IBISWorld",
+        "url": "https://www.ibisworld.com/united-states/industry/water-supply-irrigation-systems/161/",
+        "date": "2026-03",
+        "scope": "United States",
+        "metric": "$132.5B market size 2026, 5.5% CAGR 2021-2026, positive 5-year forecast"
+      },
+      {
+        "title": "EPA Announces $2.9 Billion for Lead Service Line Replacement Efforts",
+        "publisher": "Association of State Drinking Water Administrators (ASDWA)",
+        "url": "https://www.asdwa.org/2026/05/20/epa-announces-2-9-billion-for-lead-service-line-replacement-efforts/",
+        "date": "2026-05",
+        "scope": "United States",
+        "metric": "$2.9B in federal lead pipe replacement funding allotted to states for 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable compliance & treatment technology for small rural water systems",
+        "description": "Small and rural water systems lack affordable compliance and treatment technology, driving disproportionate violation rates.",
+        "sources": [
+          {
+            "title": "States Find Innovative Ways to Support Rural and Small Water Systems",
+            "publisher": "The Pew Charitable Trusts",
+            "url": "https://www.pew.org/en/research-and-analysis/articles/2026/05/22/states-find-innovative-ways-to-support-rural-and-small-water-systems",
+            "date": "2026-05",
+            "scope": "USA",
+            "metric": "Violation rates, per-capita infrastructure cost, and SRF access rates for small/rural systems"
+          }
+        ]
+      },
+      {
+        "subSector": "Small/rural water utilities needing workforce pipeline and operator-certification training programs",
+        "description": "Small and rural water utilities lack workforce pipeline and operator-certification training programs as their workforce ages toward retirement.",
+        "sources": [
+          {
+            "title": "EPA Report Warns Of Critical Labor Shortage And Longterm Staffing Risks Within America's Water Industry",
+            "publisher": "Water Online / EPA America's Water Sector Workforce Initiative",
+            "url": "https://www.wateronline.com/doc/epa-report-warns-of-critical-labor-shortage-and-longterm-staffing-risks-within-america-s-water-industry-0001",
+            "date": "2024-09-23",
+            "scope": "USA",
+            "metric": "Projected water-sector workforce retirement rate by 2035; average operator age by region"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Deloitte's 2026 Aerospace and Defense Industry Outlook and its midyear update both point to continued growth, driven by strong commercial aircraft order backlogs and sustained defense spending, though supply-chain constraints continue to limit delivery rates.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Growth market research (GMInsights) and Deloitte both project continued multi-year expansion of the US aerospace and defense market through the mid-2030s, supported by commercial aviation recovery, space investment, and sustained defense budgets.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Persistent supply-chain and labor constraints limiting aircraft delivery rates",
+      "Program cost overruns in major defense platforms"
+    ],
+    "opportunities": [
+      "Commercial aircraft order backlog growth",
+      "Expanding commercial space launch and satellite market"
+    ],
+    "sources": [
+      {
+        "title": "2026 Aerospace and Defense Industry Outlook",
+        "publisher": "Deloitte Insights",
+        "url": "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "aerospace & defense industry outlook"
+      },
+      {
+        "title": "Midyear update: 2026 Aerospace and Defense Industry Outlook",
+        "publisher": "Deloitte Insights",
+        "url": "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/midyear-update-aerospace-and-defense-industry-outlook.html",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "midyear outlook update"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rapid small-satellite reconstitution for the US Space Force",
+        "description": "The US Space Force lacks a fielded, at-scale capability to rapidly reconstitute small satellites during a crisis.",
+        "sources": [
+          {
+            "title": "Space Force Sets New Speed Record Going from Orders to Launch in 27 Hours",
+            "publisher": "Air & Space Forces Magazine",
+            "url": "https://www.airandspaceforces.com/space-force-victus-nox-launch/",
+            "date": "2023-09",
+            "scope": "USA",
+            "metric": "Order-to-launch timeline for Victus Nox tactically responsive space mission"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Deloitte's 2026 Aerospace and Defense Industry Outlook confirms sustained near-term growth in US defense spending and industrial base activity, supported by elevated geopolitical tensions and continued federal defense budget growth.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Long-term defense market forecasts (GMInsights Aerospace & Defense Market Report, 2026-2035) project continued expansion through the mid-2030s, underpinned by modernization programs and elevated global security spending.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Defense program cost overruns and schedule delays",
+      "Federal budget/appropriations uncertainty"
+    ],
+    "opportunities": [
+      "Elevated global security spending",
+      "Growth in autonomous/AI-enabled defense systems"
+    ],
+    "sources": [
+      {
+        "title": "2026 Aerospace and Defense Industry Outlook",
+        "publisher": "Deloitte Insights",
+        "url": "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "defense industry outlook"
+      },
+      {
+        "title": "Aerospace & Defense Market Size, Forecast Report 2026-2035",
+        "publisher": "Global Market Insights (GMInsights)",
+        "url": "https://www.gminsights.com/industry-analysis/aerospace-and-defense-market",
+        "date": "2026",
+        "scope": "global",
+        "metric": "market size forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Counter-drone detection tools for local police and small installations",
+        "description": "Local police departments and small installations lack deployed counter-drone detection tools despite rising drone threats.",
+        "sources": [
+          {
+            "title": "The Counter-Drone Technology Gap That Is Leaving Agencies Blind to the Fastest-Growing Threat",
+            "publisher": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2026/07/09/3324789/0/en/the-counter-drone-technology-gap-that-is-leaving-agencies-blind-to-the-fastest-growing-threat.html",
+            "date": "2026-07",
+            "scope": "USA",
+            "metric": "Number of agencies without counter-UAS tools, response-time comparison, market size"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Federal, state, and local government employment has remained broadly stable through 2025-2026, per BLS industry data, with growth in state/local roles offsetting federal workforce constraints tied to budget policy.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "BLS Employment Projections 2024-2034 show government sector employment growing modestly, roughly in line with population growth, without the outsized gains seen in private-sector tech or healthcare.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Federal budget constraints affecting hiring",
+      "State/local fiscal pressure from pension obligations"
+    ],
+    "opportunities": [
+      "Government digital modernization and AI adoption initiatives",
+      "Infrastructure-related public-sector spending"
+    ],
+    "sources": [
+      {
+        "title": "Employment Projections: 2024-2034 Summary",
+        "publisher": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/news.release/ecopro.nr0.htm",
+        "date": "2026",
+        "scope": "USA",
+        "metric": "government sector employment projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Modern claims-processing technology for unemployment-insurance claimants",
+        "description": "Unemployment-insurance claimants lack reliable claims-processing technology, stuck on outdated legacy state IT systems.",
+        "sources": [
+          {
+            "title": "Centering Workers—How to Modernize Unemployment Insurance Technology",
+            "publisher": "The Century Foundation",
+            "url": "https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/",
+            "date": "2020-10",
+            "scope": "USA",
+            "metric": "UI payment rates during COVID-19 surge, state system failure case studies"
+          }
+        ]
+      },
+      {
+        "subSector": "Small local governments needing affordable cybersecurity tools and staffing support",
+        "description": "Small local governments lack affordable cybersecurity tools and staffing support to secure their systems.",
+        "sources": [
+          {
+            "title": "Local governments need more cyber funding, report finds",
+            "publisher": "StateScoop, citing Center for Internet Security",
+            "url": "https://statescoop.com/local-government-cybersecurity-funding-cis-2025/",
+            "date": "2024-12-12",
+            "scope": "USA",
+            "metric": "Share of local governments with informal/ad-hoc cybersecurity practices and staffing levels"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "US charitable giving reached a record $617.2 billion in 2025, up 5.7% (3% inflation-adjusted) year-over-year per Giving USA 2026, with eight of nine subsectors showing gains led by education (+11.7%) and environment/animals (+11%).",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Giving USA researchers describe a generally favorable fundraising environment driven by strong financial markets, but note low consumer sentiment is restraining some household giving; bequest giving (+19.7% in 2025) has grown over 20% in three of the last four years, an emerging bright spot for long-term sector funding.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "Low consumer sentiment restraining individual household giving despite market gains",
+      "Giving concentrated in a few subsectors while others lag"
+    ],
+    "opportunities": [
+      "Record bequest giving growth (+19.7% in 2025) as an emerging long-term funding source",
+      "Strong foundation giving growth (+5.7%) amid favorable financial markets"
+    ],
+    "sources": [
+      {
+        "title": "U.S. charitable giving tops record $617B in 2025",
+        "publisher": "Movers & Makers (reporting Giving USA 2026 report)",
+        "url": "https://moversmakers.org/2026/06/23/u-s-charitable-giving-tops-record-617b-in-2025/",
+        "date": "2026-06",
+        "scope": "United States",
+        "metric": "$617.2B total giving in 2025, +5.7% YoY; bequests +19.7%; sector breakdown by subsector"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable donor & financial data software for small nonprofits",
+        "description": "Small nonprofits and independent donors lack affordable donor and financial data software built for their scale.",
+        "sources": [
+          {
+            "title": "The Fragmented World Of Nonprofit Software: Why Tech Outsiders Are Stepping In",
+            "publisher": "Dataconomy",
+            "url": "https://dataconomy.com/2025/08/12/the-fragmented-world-of-nonprofit-software-why-tech-outsiders-are-stepping-in/",
+            "date": "2025-08",
+            "scope": "USA",
+            "metric": "Pricing thresholds of nonprofit data platforms and target-user gap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Investment in frontier technologies (AI infrastructure, quantum computing, advanced semiconductors) has accelerated sharply through 2025-2026, evidenced by record semiconductor sales growth (25.6% in 2025) and continued hyperscaler capex, per SIA industry data.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BLS's fastest-growing occupation projections for 2024-2034 are dominated by emerging-tech-adjacent roles (AI, data, solar), and industry reporting (SIA, Deloitte) consistently projects continued multi-year growth in frontier technology investment and deployment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High capital intensity and execution risk for unproven frontier technologies",
+      "Talent shortages in specialized emerging-tech fields"
+    ],
+    "opportunities": [
+      "AI infrastructure and chip investment boom",
+      "Quantum computing and advanced-materials commercialization"
+    ],
+    "sources": [
+      {
+        "title": "Global Annual Semiconductor Sales Increase 25.6% to $791.7 Billion in 2025",
+        "publisher": "Semiconductor Industry Association",
+        "url": "https://www.semiconductors.org/global-annual-semiconductor-sales-increase-25-6-to-791-7-billion-in-2025/",
+        "date": "2025",
+        "scope": "global",
+        "metric": "semiconductor sales growth"
+      },
+      {
+        "title": "The 10 fastest-growing jobs of the next decade, according to BLS report",
+        "publisher": "CNBC/BLS",
+        "url": "https://www.cnbc.com/2025/11/30/the-10-fastest-growing-jobs-of-the-next-decade-according-to-blsmany-can-pay-6-figures.html",
+        "date": "2025-11",
+        "scope": "USA",
+        "metric": "fastest-growing occupations"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Clinical AI diagnostics validated for rural patient populations",
+        "description": "Rural patients lack clinical AI diagnostic tools validated for their population, since most models train on urban-centric datasets.",
+        "sources": [
+          {
+            "title": "Artificial Intelligence in Rural Health Care: A Policy Roadmap",
+            "publisher": "National Rural Health Association",
+            "url": "https://www.ruralhealth.us/nationalruralhealth/media/documents/advocacy/2026/nrha-artificial-intellegence-policy-paper.pdf",
+            "date": "2025-12",
+            "scope": "USA",
+            "metric": "Documentation of rural underrepresentation in AI training data"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,2121 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Japan's food self-sufficiency ratio fell to a record-low 37% in FY2025 (calorie basis), well below the government's 45% target for 2030, as farmland continues to shrink and the farming population ages.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "OECD's 2025 agricultural policy review and long-run data from Nippon.com show Japan's cultivated farmland has shrunk by more than 30% over the past 60 years, with structural aging of farmers and rural depopulation projected to keep shrinking the sector absent a shift to smart/precision agriculture.",
+      "evidenceDate": "2025-10"
+    },
+    "risks": [
+      "Record-low food self-sufficiency and import dependence",
+      "Aging, shrinking farmer population",
+      "Continued farmland loss"
+    ],
+    "opportunities": [
+      "Smart agriculture / precision farming adoption to offset labor loss",
+      "Policy push toward 45% self-sufficiency target"
+    ],
+    "sources": [
+      {
+        "title": "Japan's food self-sufficiency ratio falls to 37%, well below 2030 goal of 45%",
+        "publisher": "The Japan Times",
+        "url": "https://www.japantimes.co.jp/news/2026/08/07/japan/japan-food-self-sufficiency-ratio-falls/",
+        "date": "2026-08",
+        "scope": "country",
+        "metric": "FY2025 calorie-based food self-sufficiency ratio fell to 37%"
+      },
+      {
+        "title": "Japan: Agricultural Policy Monitoring and Evaluation 2025",
+        "publisher": "OECD",
+        "url": "https://www.oecd.org/en/publications/2025/10/agricultural-policy-monitoring-and-evaluation-2025_354e7040/full-report/japan_d94ab3f7.html",
+        "date": "2025-10",
+        "scope": "country",
+        "metric": "Structural decline in farm labor force and farmland"
+      },
+      {
+        "title": "Japan's Farmland Shrinks by More than 30% Over Past 60 Years",
+        "publisher": "Nippon.com",
+        "url": "https://www.nippon.com/en/japan-data/h02580/",
+        "date": "2024",
+        "scope": "country",
+        "metric": "Cultivated farmland decline over six decades"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Smart agriculture / farm digitization tools for small-scale and part-time farms",
+        "description": "Small and part-time Japanese farmers lack affordable, financed smart-agriculture tools, leaving 55% of farms without any digital adoption due to high upfront equipment costs.",
+        "sources": [
+          {
+            "title": "スマート農業導入４５％ 初期投資費用の高さ課題",
+            "publisher": "日本農業新聞, citing 日本政策金融公庫 survey",
+            "url": "https://www.agrinews.co.jp/news/index/300195",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "45% smart agriculture adoption rate nationally; top barrier = high initial investment cost"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Japan is expanding JOGMEC's mandate and investment freedom for critical minerals in 2026, pursuing new resource partnerships (e.g. with Uzbekistan) and hosting a METI Conference on Critical Materials and Minerals in June 2026, reflecting active near-term policy focus on securing rare-earth and critical mineral supply given Japan's near-total import dependence.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The Diplomat's analysis of Japan's critical minerals resilience describes a multi-decade strategy (predating 2010) of diversifying resource supply chains, which continues via JOGMEC's expanded investment powers and deep-sea mineral exploration interests, positioning Japan's resource-security sector for sustained but import-dependent stability rather than domestic extraction growth.",
+      "evidenceDate": "2026-02"
+    },
+    "risks": [
+      "Near-total dependence on imported minerals and rare earths",
+      "Geopolitical concentration of critical mineral supply chains"
+    ],
+    "opportunities": [
+      "Expanded JOGMEC investment mandate for critical minerals",
+      "New resource-security partnerships (e.g. Uzbekistan) and deep-sea mineral exploration"
+    ],
+    "sources": [
+      {
+        "title": "Japan Proposes Expanding JOGMEC's Critical Minerals Investment Freedom",
+        "publisher": "Discovery Alert",
+        "url": "https://discoveryalert.com.au/japan-jogmec-critical-minerals-rare-earth-reform-2026/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Proposed expansion of JOGMEC investment powers for critical minerals"
+      },
+      {
+        "title": "Japan's Critical Minerals Resilience Didn't Start in 2010 – or 2026",
+        "publisher": "The Diplomat",
+        "url": "https://thediplomat.com/2026/02/japans-critical-minerals-resilience-didnt-start-in-2010-or-2026/",
+        "date": "2026-02",
+        "scope": "country",
+        "metric": "Long-run critical minerals supply-chain diversification strategy"
+      },
+      {
+        "title": "METI hosted Conference on Critical Materials and Minerals",
+        "publisher": "Ministry of Economy, Trade and Industry (METI)",
+        "url": "https://www.meti.go.jp/english/press/2026/0611_003.html",
+        "date": "2026-06",
+        "scope": "country",
+        "metric": "Government convening on critical materials/minerals policy"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rare earth refining & critical minerals processing",
+        "description": "Japanese manufacturers dependent on medium and heavy rare earths lack any domestic refining source, since China supplies over 90% of Japan's rare-earth refining capacity.",
+        "sources": [
+          {
+            "title": "The Potential and Challenges of Rare Earth Mining at Minamitorishima",
+            "publisher": "Sasakawa Peace Foundation",
+            "url": "https://www.spf.org/opri/en/global-data/report/perspectives/prsp_036_2025_kobayashi_en.pdf",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "China controls >90% of global rare-earth refining capacity; >90% of Japan's medium/heavy rare earths sourced from China"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The Institute of Energy Economics Japan's 2026 Global and Japanese Energy Outlook and Renewable Energy Institute commentary describe a gradual energy transition constrained by fossil-fuel exposure highlighted by Middle East supply risk, with incremental clean-power investment such as a reported $1.34B clean power initiative.",
+      "evidenceDate": "2026-01"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Japan has signaled a policy shift toward accelerated energy transformation targets by 2040, per Renewable Energy Institute reporting, though Climate Action Tracker continues to rate Japan's overall climate policy trajectory as insufficient relative to Paris goals.",
+      "evidenceDate": "2026-01"
+    },
+    "risks": [
+      "Continued heavy fossil-fuel import dependence and Middle East supply risk",
+      "Climate Action Tracker rates Japan's policy ambition as insufficient"
+    ],
+    "opportunities": [
+      "Government commitment to radical energy transformation by 2040",
+      "New clean-power investment initiatives"
+    ],
+    "sources": [
+      {
+        "title": "Middle East Crisis Highlights Japan's Energy Risk: Now Is the Time to Accelerate the Transition from Fossil Fuels",
+        "publisher": "Renewable Energy Institute",
+        "url": "https://www.renewable-ei.org/en/activities/reports/20260417.php",
+        "date": "2026-04",
+        "scope": "country",
+        "metric": "Fossil-fuel import dependence and transition urgency"
+      },
+      {
+        "title": "2026 Global and Japanese Energy Outlook",
+        "publisher": "Institute of Energy Economics, Japan (IEEJ)",
+        "url": "https://eneken.ieej.or.jp/data/12949.pdf",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Japan energy supply/demand outlook"
+      },
+      {
+        "title": "Japan | Climate Action Tracker",
+        "publisher": "Climate Action Tracker",
+        "url": "https://climateactiontracker.org/countries/japan/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Overall climate policy rating: insufficient"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Independent renewable/battery-storage developers seeking grid interconnection",
+        "description": "Independent wind, solar, and battery-storage developers lack usable grid-interconnection capacity, with only 27% of studied projects actually connected and battery storage conversion below 0.35%.",
+        "sources": [
+          {
+            "title": "Japan's renewable integration is constrained by its grid connection framework",
+            "publisher": "IEEFA",
+            "url": "https://ieefa.org/resources/japans-renewable-integration-constrained-its-grid-connection-framework",
+            "date": "2025-2026",
+            "scope": "Japan",
+            "metric": "27% of studied 317GW capacity actually connected; <1% offshore wind and ~0.35% battery storage conversion rate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The U.S. EIA reports Japan restarted Unit 6 of the Kashiwazaki-Kariwa nuclear plant (the world's largest) on February 9, 2026, displacing an estimated 1.3 million tons of LNG demand annually, while a 2026 water-infrastructure analysis finds 25.3% of Japan's 746,000km water-pipe network already past its 40-year statutory service life with only a 0.61% annual replacement rate.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Japan's long-term energy policy targets nuclear power reaching ~20% of electricity by FY2040 (requiring up to 30 operating reactors versus 15 currently running), while water-utility researchers project pipe aging will climb to ~69% by 2042 and that 96% of the 1,243 utilities studied will need average rate hikes of 48% by FY2046 to fund renewal amid a ~30% decline in utility staff.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Aging water infrastructure: 25% of pipes already past 40-year life, requiring 2x current replacement pace to avoid crisis",
+      "96% of water utilities projected to need major rate hikes (avg. 48%) by FY2046",
+      "Only 15 of 32 operable nuclear reactors currently running against a 30-reactor 2040 target"
+    ],
+    "opportunities": [
+      "Nuclear restart program displacing LNG imports (Kashiwazaki-Kariwa Unit 6, Feb 2026)",
+      "Water infrastructure renewal and leak-detection technology demand"
+    ],
+    "sources": [
+      {
+        "title": "Nuclear reactor restart in Japan will likely displace natural gas electricity generation",
+        "publisher": "U.S. Energy Information Administration (EIA)",
+        "url": "https://www.eia.gov/todayinenergy/detail.php?id=67244",
+        "date": "2026-02",
+        "scope": "country",
+        "metric": "Feb 2026 nuclear restart; 15 of 32 operable reactors running; 2040 target ~20% nuclear share"
+      },
+      {
+        "title": "20% of Japan's Water Pipes Are Past Their Service Life — Data on an Invisible Infrastructure Crisis",
+        "publisher": "ISVD (Institute for Sustainable Vision & Development)",
+        "url": "https://isvd.or.jp/en/columns/water-infrastructure-aging-crisis",
+        "date": "2026",
+        "scope": "country",
+        "metric": "25.3% of 746,000km water pipe network past 40-year statutory life"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Municipal water utilities / leak detection & pipe renewal for shrinking-population regions",
+        "description": "Over 20% of Japan's water distribution pipes have exceeded their statutory service life, with depopulating rural municipalities lacking budget and staff to run renewal programs.",
+        "sources": [
+          {
+            "title": "Over 20% of Japan's water pipes are past their service life",
+            "publisher": "The Japan Times",
+            "url": "https://www.japantimes.co.jp/news/2025/04/28/japan/outdated-water-pipes/",
+            "date": "2025-04-28",
+            "scope": "Japan",
+            "metric": "20%+ of water pipes past service life; ~0.6% annual replacement rate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "JETRO's investing-in-Japan manufacturing overview continues to position Japan as an attractive manufacturing base, and its FY2025 survey of Japanese-affiliated companies operating overseas tracks ongoing but cautious overseas business conditions amid yen and cost pressures.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "GlobalData's Japan Construction Industry Report 2026 (which tracks industrial and manufacturing-facility construction as a subsegment) projects the broader construction/industrial-facility market reaching roughly ¥38.75 trillion by 2030, with semiconductor-related plants and energy-efficient retrofit projects cited as key drivers reshaping industrial investment through the decade.",
+      "evidenceDate": "2026-02"
+    },
+    "risks": [
+      "Yen volatility and input cost pressure on overseas-affiliated manufacturers"
+    ],
+    "opportunities": [
+      "JETRO-supported inbound investment into manufacturing sectors",
+      "Semiconductor-plant and energy-efficient retrofit investment reshaping industrial construction toward 2030"
+    ],
+    "sources": [
+      {
+        "title": "Manufacturing | Industries - Investing in Japan",
+        "publisher": "JETRO",
+        "url": "https://www.jetro.go.jp/en/invest/attractive_sectors/manufacturing/overview.html",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Manufacturing investment attractiveness overview"
+      },
+      {
+        "title": "FY2025 JETRO Survey on Business Conditions of Japanese-Affiliated Companies Overseas (Global Edition)",
+        "publisher": "JETRO",
+        "url": "https://www.jetro.go.jp/en/news/releases/2025/04461099867183d4.html",
+        "date": "2025-04",
+        "scope": "global/regional",
+        "metric": "Business conditions of Japanese manufacturers operating overseas"
+      },
+      {
+        "title": "Japan Construction Industry Report 2026: A JPY 38.75 Trillion Market by 2030",
+        "publisher": "GlobalData (via GlobeNewswire)",
+        "url": "https://www.globenewswire.com/news-release/2026/02/12/3237389/28124/en/Japan-Construction-Industry-Report-2026-A-JPY-38-75-Trillion-Market-by-2030-Semiconductors-Energy-Efficient-Retrofits-Resilience-Projects-Reshape-Construction-Investments.html",
+        "date": "2026-02",
+        "scope": "country",
+        "metric": "Construction/industrial facility market forecast to ¥38.75 trillion by 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "DX/digitalization tooling for small and mid-sized manufacturers",
+        "description": "Small and mid-sized Japanese manufacturers lack accessible digital-transformation tooling suited to their scale, trailing large enterprises significantly in DX adoption.",
+        "sources": [
+          {
+            "title": "2025年版 中小企業白書 第5節 デジタル化・DX",
+            "publisher": "中小企業庁 (SME Agency, METI)",
+            "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_5.html",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "SME White Paper documents digitalization/DX gap for SME manufacturers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "GlobalData's Japan Construction Industry Report 2026 projects construction output to grow 1.5% in 2026, though Nikkei Asia reports builders are turning down large projects because of an acute labor crunch.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The same GlobalData report forecasts an average annual growth rate of 1.2% between 2027-2030, driven by investment in renewable energy and transportation infrastructure.",
+      "evidenceDate": "2026-04"
+    },
+    "risks": [
+      "Severe construction labor shortage causing builders to decline major projects"
+    ],
+    "opportunities": [
+      "Renewable energy and transportation infrastructure investment driving output growth"
+    ],
+    "sources": [
+      {
+        "title": "Japan Construction Industry Report 2026: Output to Grow by 1.5% This Year Before Registering an AAGR of 1.2% Between 2027-2030",
+        "publisher": "GlobalData (via GlobeNewswire)",
+        "url": "https://www.globenewswire.com/news-release/2026/04/07/3269389/0/en/japan-construction-industry-report-2026-output-to-grow-by-1-5-this-year-before-registering-an-aagr-of-1-2-between-2027-2030-driven-by-investments-in-renewable-energy-and-transporta.html",
+        "date": "2026-04",
+        "scope": "country",
+        "metric": "2026 output growth 1.5%; 2027-2030 AAGR 1.2%"
+      },
+      {
+        "title": "Japan builders turn down big projects because of labor crunch: poll",
+        "publisher": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/business/construction/japan-builders-turn-down-big-projects-because-of-labor-crunch-poll",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Construction labor shortage causing project refusals"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Regional construction firms unable to secure young skilled tradespeople as the workforce ages toward mass retirement",
+        "description": "Regional construction firms lack a pipeline of young skilled tradespeople to replace an aging workforce approaching mass retirement in 2025.",
+        "sources": [
+          {
+            "title": "国土交通分野における担い手不足等によるサービスの供給制約の現状と課題",
+            "publisher": "国土交通省 (MLIT)",
+            "url": "https://www.mlit.go.jp/hakusyo/mlit/r06/hakusho/r07/pdf/np101100.pdf",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "labor-shortage-driven service supply constraints"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "CBRE Japan's Market Outlook 2026 describes continued investor interest across Japanese real estate segments, supported by relatively low financing costs versus other developed markets and sustained inbound capital flows.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The Bank of Japan's April 2026 Financial System Report flags real estate as a structural watch area: rising real estate prices coupled with accelerating real estate-related lending and compressed real estate yield gaps signal stretched valuations, while long-run demographic decline is expected to reduce domestic loan and property demand, tempering the sector's multi-year trajectory even as near-term investor appetite (per CBRE's 2026 Asia Pacific Investor Intentions Survey) stays firm.",
+      "evidenceDate": "2026-04"
+    },
+    "risks": [
+      "Rising interest rate trajectory as Bank of Japan normalizes policy",
+      "BOJ flags compressed real estate yield gaps and accelerating real-estate lending as a financial stability watch item",
+      "Long-run demographic decline reducing domestic property demand"
+    ],
+    "opportunities": [
+      "Continued foreign investor demand into Japanese property markets",
+      "Over 57% of Asia Pacific investors intend to buy more real estate in 2026 per CBRE survey"
+    ],
+    "sources": [
+      {
+        "title": "Japan Market Outlook 2026",
+        "publisher": "CBRE Japan",
+        "url": "https://www.cbre.co.jp/en/insights/reports/japan-market-outlook-2026",
+        "date": "2026",
+        "scope": "country",
+        "metric": "2026 real estate investment and leasing market outlook"
+      },
+      {
+        "title": "Financial System Report (April 2026)",
+        "publisher": "Bank of Japan",
+        "url": "https://www.boj.or.jp/en/research/brp/fsr/fsr260421.htm",
+        "date": "2026-04",
+        "scope": "country",
+        "metric": "Real estate valuation and lending risk assessment"
+      },
+      {
+        "title": "2026 Asia Pacific Investor Intentions Survey: Japan Results",
+        "publisher": "CBRE",
+        "url": "https://www.cbre.com/insights/reports/2026-asia-pacific-investor-intentions-survey-japan-results",
+        "date": "2026",
+        "scope": "regional",
+        "metric": "Over 57% of APAC investors intend to buy more real estate in 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural/regional heirs of abandoned houses (akiya) lacking local property-management, disposal, or resale services",
+        "description": "Rural heirs of vacant inherited homes (akiya) lack local property-management, disposal, and resale services to handle Japan's steadily growing stock of abandoned houses.",
+        "sources": [
+          {
+            "title": "令和６年空き家所有者実態調査",
+            "publisher": "国土交通省 (MLIT)",
+            "url": "https://www.mlit.go.jp/jutakukentiku/house/R6_akiya_syoyuusya_jittaityousa.html",
+            "date": "2024",
+            "scope": "Japan",
+            "metric": "national survey of vacant-house owners"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "MLIT's White Paper on Land, Infrastructure, Transport and Tourism documents severe near-term labor shortages across transport, including a projected 28% shortfall in bus drivers by 2030 (from 116,000 in 2021 to 93,000 needed) and roughly 34% logistics transport capacity shortfall without intervention, alongside a March 2024 average 8% freight-rate increase to address driver compensation gaps.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "MLIT's white paper links transport capacity decline to Japan's shrinking working-age population share (59.5% in 2020 falling to a projected 52.1% by 2070, with total population below 90 million by 2070), driving structural investment into autonomous buses (Level-4 operations from 2024), double-articulated trucks, and rail-based freight modal shift such as JR East's 'Hakobyun' service.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Bus driver shortfall projected at 28% below required levels by 2030",
+      "Logistics transport capacity shortfall of ~34% without intervention",
+      "Structural workforce decline tied to shrinking working-age population"
+    ],
+    "opportunities": [
+      "Autonomous/Level-4 bus operations and automation investment",
+      "Rail-based freight modal shift (e.g. JR East's Hakobyun service)",
+      "March 2024 freight-rate reforms improving driver compensation"
+    ],
+    "sources": [
+      {
+        "title": "Summary of the White Paper on Land, Infrastructure, Transport and Tourism in Japan (R7)",
+        "publisher": "MLIT (Ministry of Land, Infrastructure, Transport and Tourism)",
+        "url": "https://www.mlit.go.jp/hakusyo/mlit/r06/hakusho/r07/data/R7_English%20Summary.pdf",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Bus driver shortfall projections, logistics capacity shortfall, demographic transport workforce trends"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Residents of depopulating regions left without public transit after local bus route abolition",
+        "description": "Residents of depopulating regions lack replacement public-transit options after roughly 3,887km of local bus routes were abolished nationwide.",
+        "sources": [
+          {
+            "title": "地域交通をめぐる現状と課題",
+            "publisher": "国土交通省 (MLIT)",
+            "url": "https://www.mlit.go.jp/policy/shingikai/content/001311082.pdf",
+            "date": "2024",
+            "scope": "Japan",
+            "metric": "km of bus routes abolished nationally"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Japan's 2024 overtime cap on truck drivers (the '2024 Problem') has materially reduced trucking capacity; Prologis and industry sources report the driver cap is straining supply chains and pushing shippers toward warehouse proximity strategies through 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "The World Economic Forum and driver-shortage research (Road to Autonomy) note Japan's shrinking working-age population is structurally worsening the truck driver shortage, requiring automation and modal-shift investment to sustain logistics capacity long-term.",
+      "evidenceDate": "2024-02"
+    },
+    "risks": [
+      "Truck driver overtime cap ('2024 Problem') cutting road freight capacity",
+      "Structural driver shortage from shrinking working-age population"
+    ],
+    "opportunities": [
+      "Government logistics efficiency budget for 2026",
+      "Automation and modal shift (rail/sea) investment"
+    ],
+    "sources": [
+      {
+        "title": "Japan's Truck Driver Cap Is Testing Supply Chains—Proximity Is the Fix",
+        "publisher": "Prologis",
+        "url": "https://www.prologis.com/insights-news/blog/japans-truck-driver-cap-testing-supply-chains-proximity-fix",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Impact of driver overtime cap on logistics capacity"
+      },
+      {
+        "title": "How Japan is creating a sustainable and resilient future for the logistics industry",
+        "publisher": "World Economic Forum",
+        "url": "https://www.weforum.org/stories/2024/02/japan-sustainable-and-resilient-future-for-logistics/",
+        "date": "2024-02",
+        "scope": "country",
+        "metric": "Structural labor shortage in logistics sector"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Route/capacity optimization and driver-matching tools for small trucking operators post-'2024 Problem'",
+        "description": "Small and regional trucking operators lack route-consolidation and driver-matching software to cope with driver shortages following the 2024 overtime cap, affecting 91.2% of carriers.",
+        "sources": [
+          {
+            "title": "Navitime Japan survey shows 91.2% of carriers face driver shortage",
+            "publisher": "IBTimes JP / Navitime Japan survey",
+            "url": "https://jp.ibtimes.com/navitime-japan-survey-shows-912-carriers-face-driver-shortage-104120",
+            "date": "2024",
+            "scope": "Japan",
+            "metric": "91.2% of surveyed carriers report driver shortages post-2024 overtime cap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "no_data",
+      "summary": "",
+      "evidenceDate": ""
+    },
+    "longTerm": {
+      "outlook": "no_data",
+      "summary": "",
+      "evidenceDate": ""
+    },
+    "risks": [],
+    "opportunities": [],
+    "sources": [],
+    "gaps": [
+      {
+        "subSector": "SME wholesalers' warehouse/inventory digitalization",
+        "description": "Japan's small and mid-sized wholesalers still rely on manual, paper- and fax-based order and inventory processes, lagging larger distributors in digital adoption.",
+        "sources": [
+          {
+            "title": "SMEs and Evolving Distribution Channels: The Future of Wholesale in Japan",
+            "publisher": "One Step Beyond",
+            "url": "https://onestepbeyond.co.jp/blog/smes-and-evolving-distribution-channels-the-future-of-wholesale-in-japan/",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "SME wholesalers lag in digital adoption versus large distributors"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's Japan e-commerce market outlook (2026-2033) and IMARC's Japan e-commerce market report both project continued expansion of online retail through the near term, building on rising cross-border and mobile commerce.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Multiple industry market reports (Grand View Research, IMARC) forecast sustained e-commerce growth in Japan through 2033-2034, driven by cross-border commerce and continued smartphone-based shopping adoption.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Slow overall population and consumer base decline weighing on physical retail"
+    ],
+    "opportunities": [
+      "Cross-border and mobile e-commerce growth"
+    ],
+    "sources": [
+      {
+        "title": "Japan E-commerce Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/e-commerce-market/japan",
+        "date": "2026",
+        "scope": "country",
+        "metric": "E-commerce market size forecast 2026-2033"
+      },
+      {
+        "title": "Japan E-Commerce Market Size, Share & Forecast 2034",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/japan-e-commerce-market",
+        "date": "2026",
+        "scope": "country",
+        "metric": "E-commerce market growth forecast to 2034"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Elderly single/car-less households 500m+ from a grocery store lacking delivery or mobile-vendor access ('food deserts')",
+        "description": "Elderly, car-less households living 500m or more from a grocery store lack delivery or mobile-vendor food access, a population projected to reach 5.98 million by 2025.",
+        "sources": [
+          {
+            "title": "食品アクセス（買物困難者等）問題の現状について",
+            "publisher": "農林水産省 (MAFF)",
+            "url": "https://www.maff.go.jp/j/shokusan/eat/access_genjo.html",
+            "date": "2024-2025",
+            "scope": "Japan",
+            "metric": "population count with food access difficulty; % of municipalities with countermeasures"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The Fintech Times' 2026 overview of Japan's fintech and digital sector and JPCC's cashless payments analysis both report continued growth in cashless payment adoption and fintech services through 2026, and the Bank of Japan's April 2026 Financial System Report finds banks hold sufficient capital and stable funding to withstand major stress scenarios.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The Bank of Japan's Financial System Report warns that Japan's demographic decline may structurally reduce domestic loan demand over the long run, pushing banks toward either an 'excessive search for yield' or a contraction in credit intermediation, with structural profitability facing downward pressure despite recent improvement.",
+      "evidenceDate": "2026-04"
+    },
+    "risks": [
+      "BOJ warns of long-run structural profitability pressure and demographic-driven decline in loan demand",
+      "Foreign hedge fund leverage in JGB markets and rising real-estate/data-center lending exposure flagged as near-term vulnerabilities"
+    ],
+    "opportunities": [
+      "Continued rise of cashless payments and mobile/fintech adoption"
+    ],
+    "sources": [
+      {
+        "title": "The Fintech and Wider Digital Overview of Japan in 2026",
+        "publisher": "The Fintech Times",
+        "url": "https://thefintechtimes.com/the-fintech-and-wider-digital-overview-of-japan-in-2026/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "2026 fintech and digital sector overview"
+      },
+      {
+        "title": "Cashless Payments in Japan 2026: Latest Trends and Statistics",
+        "publisher": "JPCC",
+        "url": "https://jpcc.inc/en/column/cashless-japan-2026/index.html",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Cashless payment adoption trends"
+      },
+      {
+        "title": "Financial System Report (April 2026)",
+        "publisher": "Bank of Japan",
+        "url": "https://www.boj.or.jp/en/research/brp/fsr/fsr260421.htm",
+        "date": "2026-04",
+        "scope": "country",
+        "metric": "Banking sector capital/funding stability and long-run structural risk assessment"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Digitally-enabled succession-matching and advisory for SMEs beyond regional banks",
+        "description": "SME owners without a designated successor lack digital succession-matching and advisory services beyond what regional banks currently offer, affecting over half of Japanese companies.",
+        "sources": [
+          {
+            "title": "全国「後継者不在率」動向調査（2025年）",
+            "publisher": "帝国データバンク (Teikoku Databank)",
+            "url": "https://www.tdb.co.jp/report/economic/20251121-successor25y/",
+            "date": "2025-11",
+            "scope": "Japan",
+            "metric": "50.1% of surveyed companies report no successor in place"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Beinsure's 2025 review reports Japan's non-life insurance sector gaining strength through reform, with rising demand for cyber and natural-catastrophe policies; market-forecast data (GlobalData, via Atlas Magazine) put non-life turnover on a path toward roughly ¥12.9 trillion, growing on large-scale infrastructure projects and increased catastrophe/cyber cover demand.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Atlas Magazine's multi-year non-life insurance forecast projects a moderate compound annual growth rate of roughly 3% over a five-year horizon, with motor insurance remaining the dominant line (just over half of premiums) even as growth increasingly comes from property/casualty and specialty catastrophe and cyber cover.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Rising natural catastrophe (earthquake/typhoon) exposure increasing claims volatility"
+    ],
+    "opportunities": [
+      "Growing demand for cyber insurance and natural catastrophe policies",
+      "Large-scale infrastructure project-related insurance demand"
+    ],
+    "sources": [
+      {
+        "title": "Japan's Non-Life Insurance in 2025 Gains Strength Through Reform",
+        "publisher": "Beinsure",
+        "url": "https://beinsure.com/japans-non-life-insurance-gains-strength/",
+        "date": "2025",
+        "scope": "country",
+        "metric": "Non-life insurance sector reform and growth drivers"
+      },
+      {
+        "title": "2026 Japanese non-life insurance market forecasts",
+        "publisher": "Atlas Magazine (citing GlobalData)",
+        "url": "https://www.atlas-mag.net/en/articles/2026-japanese-non-life-insurance-market-forecasts-0",
+        "date": "2025",
+        "scope": "country",
+        "metric": "Non-life insurance turnover forecast ~¥12.9 trillion; ~3% CAGR"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Cyber-risk insurance products tailored and priced for small businesses",
+        "description": "Small businesses lack cyber-risk insurance products priced and designed for their scale, leaving only 4.8% of Japanese SMEs covered despite rising ransomware incidents.",
+        "sources": [
+          {
+            "title": "中小企業におけるリスク意識・対策実態調査2023",
+            "publisher": "日本損害保険協会 (General Insurance Association of Japan)",
+            "url": "https://www.weeklybcn.com/journal/feature/detail/20240905_205880.html",
+            "date": "2023",
+            "scope": "Japan",
+            "metric": "4.8% of surveyed SMEs (n=1,031) hold cyber insurance"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "JETRO's Digital Technology investment-attractiveness pages continue to position Japan's ICT sector as a priority area for inbound investment, and IDC reports Japan's software market grew strongly in H1 2025 with generative AI software use up 62% year-on-year and cloud software revenue up 20.2%.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IDC forecasts Japan's software market will reach ¥9.61 trillion by 2029, growing at a 12.1% CAGR from 2024-2029, driven by AI adoption (including full-scale enterprise AI-agent deployment from 2026), application modernization, and continued public cloud migration.",
+      "evidenceDate": "2026"
+    },
+    "risks": [],
+    "opportunities": [
+      "Government-backed digital transformation and inbound ICT investment incentives",
+      "IDC-forecast 12.1% CAGR software market growth to ¥9.61 trillion by 2029",
+      "Enterprise AI agent adoption accelerating from 2026"
+    ],
+    "sources": [
+      {
+        "title": "Digital Technology | Industries - Investing in Japan",
+        "publisher": "JETRO",
+        "url": "https://www.jetro.go.jp/en/invest/attractive_sectors/ict/attractive_markets.html",
+        "date": "2026",
+        "scope": "country",
+        "metric": "ICT sector investment attractiveness"
+      },
+      {
+        "title": "IDC: Japan Software Market Set to Reach 9.6 Trillion Yen by 2029 on AI and Cloud Growth",
+        "publisher": "InfoTech Lead (citing IDC)",
+        "url": "https://infotechlead.com/software/idc-japan-software-market-set-to-reach-9-6-trillion-yen-by-2029-on-ai-and-cloud-growth-92740",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Software market forecast ¥9.61 trillion by 2029, 12.1% CAGR 2024-2029"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Outsourced/fractional DX implementation for Stage-1 (non-digitized) SMEs",
+        "description": "Paper-based, non-digitized SMEs lack outsourced or fractional DX implementation help, since insufficient in-house personnel is their top-cited barrier to digitalization.",
+        "sources": [
+          {
+            "title": "2025年版 中小企業白書 第5節 デジタル化・DX",
+            "publisher": "中小企業庁 (SME Agency, METI)",
+            "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_5.html",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "DX personnel shortage cited as top barrier; ~50% of Stage-1 firms report no plans to adopt generative AI/IoT"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's Japan AI market outlook (2026-2033) and multiple industry reports (Statista, MarketsandMarkets) forecast strong near-term expansion of Japan's AI market, reinforced by METI's FY2026 budget increase for AI and semiconductor funding to roughly ¥1.23 trillion (a 50% rise).",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Industry forecasts (Grand View Research to 2033, IMARC to 2034) project continued double-digit-pace growth for Japan's AI market through the early 2030s, spanning agentic AI and embodied AI applications.",
+      "evidenceDate": "2026"
+    },
+    "risks": [],
+    "opportunities": [
+      "METI's ~50% FY2026 budget increase for AI/semiconductor funding to ~¥1.23 trillion",
+      "Growth in agentic and embodied AI applications"
+    ],
+    "sources": [
+      {
+        "title": "Japan Artificial Intelligence Market Size & Outlook, 2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/artificial-intelligence-market/japan",
+        "date": "2026",
+        "scope": "country",
+        "metric": "AI market size forecast through 2033"
+      },
+      {
+        "title": "Japan's METI to lift 2026 AI and semiconductor budget to ¥1.23T with 50% overall rise",
+        "publisher": "BingX News",
+        "url": "https://bingx.com/en/news/post/japan-s-meti-to-lift-ai-and-semiconductor-budget-to-t-with-overall-rise",
+        "date": "2025-12",
+        "scope": "country",
+        "metric": "METI FY2026 AI/semiconductor budget raised ~50% to ¥1.23 trillion"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "AI adoption enablement for small enterprises",
+        "description": "Small enterprises lack AI adoption enablement and trust-building support, with only 33% aware of AI's benefits and just 19% trusting AI output accuracy.",
+        "sources": [
+          {
+            "title": "Bridging the AI Gap: Advancing Adoption and Governance in Japan",
+            "publisher": "Access Partnership",
+            "url": "https://accesspartnership.com/wp-content/uploads/2025/09/Bridging-the-AI-Gap_Final_EN.pdf",
+            "date": "2025-09",
+            "scope": "Japan",
+            "metric": "33% of small orgs vs 74% of large orgs aware of AI benefits; 19% vs 51% trust AI accuracy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's Japan data analytics market outlook estimates the market at roughly USD 6.0 billion in 2026, up from USD 4.46 billion in 2025, reflecting rapid near-term enterprise adoption of AI-driven analytics tools.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The same Grand View Research outlook projects Japan's data analytics market expanding at a 40.7% CAGR from 2026 to reach roughly USD 65.8 billion by 2033, one of the fastest-growth technology segments tracked, driven by generative AI and enterprise data infrastructure investment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [],
+    "opportunities": [
+      "Data analytics market forecast to grow at 40.7% CAGR through 2033",
+      "Enterprise generative AI-driven analytics adoption"
+    ],
+    "sources": [
+      {
+        "title": "Japan Data Analytics Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/data-analytics-market/japan",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Market size USD 4.46bn (2025) to USD 65.8bn (2033), 40.7% CAGR"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "General IT/data-talent shortage is well documented, but no source identifies a specific, narrow underserved data-analytics product/service segment with a checkable metric.",
+      "sources": [
+        {
+          "title": "Japan IT Market Trends",
+          "publisher": "TEKsystems",
+          "url": "https://www.teksystems.com/en-jp/insights/japan-it-market-trends-2025",
+          "date": "2025",
+          "scope": "Japan",
+          "metric": "Persistent IT/data talent shortage"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Multiple market research reports (IMARC, Grand View Research, Mordor Intelligence) covering 2025-2035 project continued growth of Japan's cybersecurity market, including a distinct defense cybersecurity segment forecast for 2026-2032.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Industry forecasts extending to 2034-2035 (IMARC, OpenPR) project sustained multi-year growth in Japan's cybersecurity spending.",
+      "evidenceDate": "2026"
+    },
+    "risks": [],
+    "opportunities": [
+      "Growing defense cybersecurity segment",
+      "Rising enterprise cybersecurity spending"
+    ],
+    "sources": [
+      {
+        "title": "Japan Cybersecurity Market Size and Forecast to 2034",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/japan-cybersecurity-market",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Cybersecurity market growth forecast to 2034"
+      },
+      {
+        "title": "Japan Defense Cybersecurity Market (2026-2032): Size, Threat Landscape, Growth Drivers & Forecast",
+        "publisher": "OpenPR",
+        "url": "https://www.openpr.com/news/4478547/japan-defense-cybersecurity-market-2026-2032-size-threat",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Defense cybersecurity market forecast 2026-2032"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small/medium supply-chain subcontractors with zero implemented cybersecurity countermeasures",
+        "description": "Small and medium supply-chain subcontractors lack basic cybersecurity countermeasures, with about 60% investing nothing in security despite 70% of breaches spreading to business partners.",
+        "sources": [
+          {
+            "title": "2024年度 中小企業における情報セキュリティ対策に関する実態調査",
+            "publisher": "IPA 独立行政法人情報処理推進機構 / METI",
+            "url": "https://www.ipa.go.jp/security/reports/sme/sme-survey2024.html",
+            "date": "2025-02",
+            "scope": "Japan",
+            "metric": "% of SMEs with no security countermeasures/investment; % reporting supply-chain impact"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "TelecomLead reports Japan's telecom market, driven by 5G and fiber broadband expansion, is set to grow revenue toward $78 billion by 2030, with continued government backing for IoT and satellite broadband.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Multiple market reports (ResearchAndMarkets 2019-2029, IMARC to 2034) project continued but moderate telecom market growth as Japan's mobile and fixed broadband markets mature.",
+      "evidenceDate": "2026"
+    },
+    "risks": [],
+    "opportunities": [
+      "5G and fiber broadband expansion driving revenue toward $78bn by 2030",
+      "Government-backed IoT and satellite broadband investment"
+    ],
+    "sources": [
+      {
+        "title": "Japan Telecom Market: 5G and Fiber Broadband Set to Drive Revenue to $78 bn by 2030",
+        "publisher": "TelecomLead",
+        "url": "https://telecomlead.com/5g/japan-telecom-market-5g-and-fiber-broadband-set-to-drive-revenue-to-78-bn-by-2030-125208",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Telecom revenue forecast to reach $78bn by 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Last-mile fiber/broadband connectivity for remaining rural and mountainous unserved households",
+        "description": "Roughly 0.28% of Japanese households, concentrated in mountainous and remote regions, still lack fiber broadband access despite near-universal national coverage.",
+        "sources": [
+          {
+            "title": "令和5年版 情報通信白書 インフラの整備状況",
+            "publisher": "総務省 (Ministry of Internal Affairs and Communications)",
+            "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd242230.html",
+            "date": "2023",
+            "scope": "Japan",
+            "metric": "Fiber (FTTH) household coverage rate = 99.72% as of end of FY2021, leaving ~0.28% of households unserved"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "METI raised Japan's FY2026 AI and semiconductor budget by roughly 50% to about ¥1.23 trillion, and Tower Semiconductor announced a strategic capacity expansion in Japan with METI support in mid-2026, signaling continued near-term investment momentum.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "CSIS analysis of Japan's semiconductor revitalization strategy and Institut Montaigne's review of Japan's chip industry plans describe a sustained multi-year government push (including Rapidus and TSMC-linked investment) to rebuild domestic advanced chip manufacturing capacity through the end of the decade.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Execution risk on ambitious state-backed chip revitalization plans (e.g., Rapidus)"
+    ],
+    "opportunities": [
+      "~50% FY2026 METI budget increase for chips/AI to ¥1.23 trillion",
+      "New foreign fab investment (e.g., Tower Semiconductor capacity expansion)"
+    ],
+    "sources": [
+      {
+        "title": "Tower Semiconductor with METI Support Announces Strategic Capacity Expansion in Japan",
+        "publisher": "Tower Semiconductor",
+        "url": "https://towersemi.com/2026/07/14/07142026/",
+        "date": "2026-07",
+        "scope": "country",
+        "metric": "New semiconductor capacity investment with METI support"
+      },
+      {
+        "title": "Japan Seeks to Revitalize Its Semiconductor Industry",
+        "publisher": "CSIS",
+        "url": "https://www.csis.org/analysis/japan-seeks-revitalize-its-semiconductor-industry",
+        "date": "2025",
+        "scope": "country",
+        "metric": "Government strategy to rebuild domestic chip manufacturing"
+      },
+      {
+        "title": "Racing for the New Rice - Japan's Plans For its Semiconductor Industry",
+        "publisher": "Institut Montaigne",
+        "url": "https://www.institutmontaigne.org/en/expressions/racing-new-rice-japans-plans-its-semiconductor-industry",
+        "date": "2025",
+        "scope": "country",
+        "metric": "Semiconductor industrial policy and Rapidus project"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Specialized semiconductor technical training/staffing for new fab hiring surge",
+        "description": "New semiconductor fabs like Rapidus and TSMC Kumamoto lack enough trained local engineers and technicians, driving acute regional staffing shortages.",
+        "sources": [
+          {
+            "title": "半導体分野の人材育成・確保等に向けた取組について",
+            "publisher": "関東経済産業局 (Kanto Bureau of Economy, Trade and Industry, METI)",
+            "url": "https://www.kanto.meti.go.jp/seisaku/iot_robot/digital_industry/data/r7_torikumi.pdf",
+            "date": "2025-07",
+            "scope": "Japan",
+            "metric": "Dedicated national/regional workforce programs launched to address semiconductor talent shortage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Industry market reports (IMARC, Fortune Business Insights) describe Japan retaining the world's highest industrial robot density, with continued factory automation investment led by domestic leaders such as Fanuc and Yaskawa amid labor shortages.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMARC's Japan robotics and industrial robotics market reports forecast continued expansion through 2034, driven by AI integration into robotics and structural labor shortages pushing automation adoption.",
+      "evidenceDate": "2026"
+    },
+    "risks": [],
+    "opportunities": [
+      "World's highest industrial robot density supporting domestic robotics leadership",
+      "Structural labor shortage accelerating automation investment",
+      "AI integration into robotics"
+    ],
+    "sources": [
+      {
+        "title": "Japan Industrial Robotics Market Size & Forecast 2034",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/japan-industrial-robotics-market",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Industrial robotics market growth forecast to 2034"
+      },
+      {
+        "title": "Japan Robotics Market 2026: World's #1 Robot Density, Fanuc, Yaskawa",
+        "publisher": "SVRC (roboticscenter.ai)",
+        "url": "https://www.roboticscenter.ai/robotics-market-japan",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Japan's global-leading industrial robot density"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Robotics/automation for non-manufacturing SMEs outside automotive/electronics",
+        "description": "Despite Japan's world-leading robot density, adoption remains concentrated in large automotive and electronics makers, leaving smaller manufacturers and sectors like food processing under-automated.",
+        "sources": [
+          {
+            "title": "Closer Robotics Finds Opportunity Automating Japan's Overlooked Industries",
+            "publisher": "Growthstock Pulse",
+            "url": "https://pulse.growthstock.app/closer-robotics-1/",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "SME/non-auto sectors cited as underserved by robot deployment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The OECD's Health at a Glance 2025: Japan report documents continued rises in medical expenditure driven by Japan's rapidly aging population, a trend expected to persist through the near term.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "WHO analysis of population aging and health expenditure trends in Japan and system-dynamics forecasting research both project continued long-run growth in medical care expenditure as Japan's elderly population share keeps rising.",
+      "evidenceDate": "2022"
+    },
+    "risks": [
+      "Rising fiscal burden of medical expenditure amid an aging population"
+    ],
+    "opportunities": [
+      "Sustained demand growth in elderly and long-term care services"
+    ],
+    "sources": [
+      {
+        "title": "Health at a Glance 2025: Japan",
+        "publisher": "OECD",
+        "url": "https://www.oecd.org/en/publications/health-at-a-glance-2025_15a55280-en/japan_319bfc39-en.html",
+        "date": "2025",
+        "scope": "country",
+        "metric": "Medical expenditure trends amid population aging"
+      },
+      {
+        "title": "How will population ageing affect health expenditure trends in Japan",
+        "publisher": "WHO",
+        "url": "https://iris.who.int/server/api/core/bitstreams/22c7b4e7-8fb4-41e2-9964-fa29e509472e/content",
+        "date": "2023",
+        "scope": "country",
+        "metric": "Long-run health expenditure projections tied to aging"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Residents of rural/depopulated municipalities lacking access to physicians due to urban-rural doctor maldistribution",
+        "description": "Residents of rural and depopulated municipalities lack access to physicians due to worsening urban-rural doctor maldistribution despite rising national physician counts.",
+        "sources": [
+          {
+            "title": "医師偏在とは？現状や厚生労働省の医師偏在対策",
+            "publisher": "厚生労働省 (MHLW) policy summary",
+            "url": "https://www.yuyama.co.jp/column/medicalrecord/uneven-distribution-of-doctors/",
+            "date": "2024",
+            "scope": "Japan",
+            "metric": "urban-rural physician distribution ratio"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Japan's FY2026 National Health Insurance drug price revision cuts prices on roughly 15,800 drugs, and the Japan Pharmaceutical Manufacturers Association has jointly warned the pricing/cost-effectiveness system needs reform, putting near-term margin pressure on pharma companies.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "no_data",
+      "summary": "",
+      "evidenceDate": ""
+    },
+    "risks": [
+      "FY2026 NHI drug price cuts affecting ~15,800 drugs squeezing margins",
+      "Industry association warnings that the pricing system needs structural reform"
+    ],
+    "opportunities": [],
+    "sources": [
+      {
+        "title": "15,800 Drugs Hit by Japan Price Cuts, Pharma Margins Under Pressure",
+        "publisher": "Zamann Pharma Support",
+        "url": "https://zamann-pharma.com/2026/05/20/15800-drugs-hit-by-japan-price-cuts-pharma-margins-under-pressure/",
+        "date": "2026-05",
+        "scope": "country",
+        "metric": "FY2026 price cuts affecting ~15,800 drugs"
+      },
+      {
+        "title": "Joint Statement on Need for FY2026 NHI Drug Pricing and Cost-Effectiveness Assessment System Reform",
+        "publisher": "Japan Pharmaceutical Manufacturers Association (JPMA)",
+        "url": "https://www.jpma.or.jp/english/news_room/release/news2025/251216.html",
+        "date": "2025-12",
+        "scope": "country",
+        "metric": "Industry call for drug pricing system reform"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rare disease / pediatric drug access (Drug Loss)",
+        "description": "Japanese rare-disease and pediatric patients lack access to 86 drugs already approved abroad, including 14 flagged as highly medically necessary, because no domestic company is developing them.",
+        "sources": [
+          {
+            "title": "厚労省 ドラッグ・ロス86品目で「医療上必要性特に高い」医薬品14品目",
+            "publisher": "ミクスOnline (Mixonline, citing MHLW review committee)",
+            "url": "https://www.mixonline.jp/tabid55.html?artid=78135",
+            "date": "2025-03-31",
+            "scope": "Japan",
+            "metric": "86 drugs identified as 'drug loss' (approved overseas, no Japan development); 14 classified as having especially high medical necessity with no company currently developing them in Japan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "JETRO describes Japan's healthcare system undergoing its most drastic digital makeover since universal healthcare began in 1961, driven by an aging population (29% of Japan's 125 million people are 65+) and total medical costs of ¥44.2 trillion (FY2021); two digital therapeutics already receive public reimbursement, and global pharma majors (Astellas, Shionogi, GSK, AstraZeneca) have partnered with digital health firms entering Japan.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "JETRO's investing-in-Japan life science pages and demographic projections showing Japan's 65+ population share rising to 35% by 2040 point to sustained long-term structural demand for digital health, remote monitoring and chronic disease management technology as the government continues favorable regulatory treatment for digital therapeutics under its 2014 revised Pharmaceutical Act framework.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High and rising medical cost burden (¥44.2 trillion FY2021) amid aging demographics"
+    ],
+    "opportunities": [
+      "Public reimbursement pathway for digital therapeutics",
+      "65+ population share rising from 29% to a projected 35% by 2040 driving digital health demand",
+      "Foreign pharma/digital-health partnerships entering the Japanese market"
+    ],
+    "sources": [
+      {
+        "title": "Digital Health on the Rise as Japan's Healthcare System Gets Hi-Tech Makeover",
+        "publisher": "JETRO",
+        "url": "https://www.jetro.go.jp/en/invest/insights/japan-insight/digital-health-rise-japan-healthcare-system-hitech-makeover.html",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Digital therapeutics reimbursement; aging-driven demand; medical cost figures"
+      },
+      {
+        "title": "Attractive Markets | Life Science - Industries - Investing in Japan",
+        "publisher": "JETRO",
+        "url": "https://www.jetro.go.jp/en/invest/attractive_sectors/life_science/attractive_markets.html",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Life science / medtech sector investment attractiveness"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable, easy-to-deploy elder-care technology for small/mid-size facilities",
+        "description": "Small and mid-size elder-care facilities among Japan's roughly 380,000 total lack affordable, easy-to-deploy care technology to offset chronic staff shortages.",
+        "sources": [
+          {
+            "title": "「ロボット技術の介護利用における重点分野」を改訂しました",
+            "publisher": "厚生労働省 (MHLW)",
+            "url": "https://www.mhlw.go.jp/stf/juutenbunya_r6kaitei_00001.html",
+            "date": "2024-2025",
+            "scope": "Japan",
+            "metric": "National priority-field policy revised specifically to push technology adoption in labor-short care facilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Japan's declining birthrate is driving nursery school closures and shrinking university enrollment, with reporting (Newsweek, academicjobs.com) describing a looming '2026 problem' of university financial strain and closures.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Nippon.com and demographic analyses document a persistent, multi-decade decline in Japan's school-age population, structurally shrinking the traditional education sector even as EdTech (AI tutors, virtual classrooms) expands within it.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "University and nursery school closures from shrinking birth cohorts",
+      "'2026 problem' of financial strain at smaller universities"
+    ],
+    "opportunities": [
+      "Growth of AI tutors and virtual classroom EdTech within a shrinking base"
+    ],
+    "sources": [
+      {
+        "title": "Japan 2026 Problem Universities: Enrollment Decline & Financial Strain",
+        "publisher": "AcademicJobs.com",
+        "url": "https://www.academicjobs.com/en-jp/higher-education-news/japan-2026-problem-universities-enrollment-decline-and-financial-strain-8487",
+        "date": "2026",
+        "scope": "country",
+        "metric": "University enrollment decline and financial strain"
+      },
+      {
+        "title": "As Japan's Birth Rate Dwindles, Its Nursery Schools Keep Closing",
+        "publisher": "Unseen Japan",
+        "url": "https://unseen-japan.com/japan-nursery-school-closures/",
+        "date": "2025",
+        "scope": "country",
+        "metric": "Nursery school closures tied to declining births"
+      },
+      {
+        "title": "Japan's EdTech Leap: From Virtual Classrooms to AI Tutors",
+        "publisher": "Webmobinfo",
+        "url": "https://www.webmobinfo.ch/blog/japans-edtech-leap-from-virtual-classrooms-to-ai-tutors",
+        "date": "2025",
+        "scope": "country",
+        "metric": "EdTech adoption trend (AI tutors, virtual classrooms)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Alternative/remote learning support for children with school non-attendance (futoko)",
+        "description": "Children experiencing school non-attendance (futoko), a record 415,252 in FY2023, lack alternative or remote learning support outside current school-based systems.",
+        "sources": [
+          {
+            "title": "令和5年度 児童生徒の問題行動・不登校等生徒指導上の諸課題に関する調査結果",
+            "publisher": "文部科学省 (MEXT)",
+            "url": "https://resemom.jp/article/2025/01/14/80241.html",
+            "date": "2025-01-14",
+            "scope": "Japan",
+            "metric": "415,252 combined non-attendance cases (record high)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "no_data",
+      "summary": "",
+      "evidenceDate": ""
+    },
+    "longTerm": {
+      "outlook": "no_data",
+      "summary": "",
+      "evidenceDate": ""
+    },
+    "risks": [],
+    "opportunities": [],
+    "sources": [],
+    "gaps": [
+      {
+        "subSector": "Small/regional business owners nearing retirement age with no identified successor and no accessible M&A or succession-matching service",
+        "description": "Small and regional business owners nearing retirement with no identified successor lack an accessible M&A or succession-matching service, driving rising successor-absence bankruptcies.",
+        "sources": [
+          {
+            "title": "全国「後継者不在率」動向調査（2024年）",
+            "publisher": "株式会社帝国データバンク (Teikoku Databank)",
+            "url": "https://www.tdb.co.jp/report/economic/succession2024/",
+            "date": "2024",
+            "scope": "Japan",
+            "metric": "successor-absence rate among Japanese businesses"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "no_data",
+      "summary": "",
+      "evidenceDate": ""
+    },
+    "longTerm": {
+      "outlook": "no_data",
+      "summary": "",
+      "evidenceDate": ""
+    },
+    "risks": [],
+    "opportunities": [],
+    "sources": [],
+    "gaps": [
+      {
+        "subSector": "SME succession & M&A advisory for very small enterprises",
+        "description": "Very small enterprises lack succession and M&A advisory services suited to their scale, with 57.3% of small enterprises reporting no identified successor versus 24.9% of large firms.",
+        "sources": [
+          {
+            "title": "全国「後継者不在率」動向調査（2025年）",
+            "publisher": "Teikoku Databank (TDB)",
+            "url": "https://www.tdb.co.jp/report/economic/20251121-successor25y/",
+            "date": "2025-11-21",
+            "scope": "Japan",
+            "metric": "Successor shortage rate: SMEs 51.2%, small enterprises 57.3%, large enterprises 24.9%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Dentsu's 2025 Japan Advertising Expenditures Analysis reports total ad spend reached a record ¥8.0623 trillion (+5.1% YoY), the fourth consecutive record year, with internet advertising exceeding 50% of total spend for the first time (¥4.0459 trillion, +10.8% YoY) and video advertising crossing ¥1 trillion for the first time (+121.8% YoY).",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Dentsu's global ad-spend outlook projects Japan's growth continuing but slowing, with worldwide ad spend growth projected to decelerate to 5.0% in 2026 as the market matures; traditional mass media in Japan remained roughly flat (98.4% of prior year) in 2025, underscoring a structural long-term shift of spend toward digital/video/social formats within an overall maturing market.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Traditional mass-media advertising largely flat/declining as digital cannibalizes spend"
+    ],
+    "opportunities": [
+      "Internet advertising surpassing 50% of total ad spend for the first time",
+      "Video and social advertising each growing over 100% YoY in 2025"
+    ],
+    "sources": [
+      {
+        "title": "\"2025 Japan Advertising Expenditures Analysis\" — Exceeding 8 Trillion Yen for a Record High",
+        "publisher": "Dentsu",
+        "url": "https://dentsu-ho.com/en/articles/9645",
+        "date": "2026-03",
+        "scope": "country",
+        "metric": "2025 total ad spend ¥8.0623 trillion (+5.1% YoY); internet ad share >50%"
+      },
+      {
+        "title": "Ad Spend Growth Is Projected to Slow to 5.0% in 2026, Still Outpacing Economic Growth",
+        "publisher": "Dentsu",
+        "url": "https://www.dentsu.com/news-releases/ad-spend-growth-is-projected-to-slow-to-5-percent-in-2026-still-outpacing-economic-growth",
+        "date": "2026",
+        "scope": "global/regional",
+        "metric": "Global/regional ad spend growth deceleration to 5.0% in 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable digital-marketing execution tools/services for very small businesses (≤100 employees)",
+        "description": "Japanese SMEs with 100 or fewer employees have a digital-marketing implementation rate of roughly 10% or lower.",
+        "sources": [
+          {
+            "title": "マーケティング活動のデジタル化に関する実態調査",
+            "publisher": "株式会社ペライチ (Peraichi Inc.)",
+            "url": "https://peraichi.com/news/press_2025_0610",
+            "date": "2025-06-10",
+            "scope": "Japan",
+            "metric": "Digital marketing implementation rate ≤10% among SMEs with 100 or fewer employees (680 valid responses)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Japan's overseas anime market reached approximately ¥2.17 trillion in 2024 (nearly double the ¥1.46 trillion of 2022), and METI's FY2026 budget support for the anime industry jumped to ¥58.9 billion (from under ¥20 billion in FY2024), including a new IP360 initiative offering grants up to ¥10 million for indie creators.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "METI targets expanding overseas anime exports to ¥6 trillion by 2033 (anime representing about 90% of Japan's broader ¥20 trillion content-export target by 2033), with streaming platforms already contributing nearly half of overseas revenue across roughly 200 markets, though the government also flags persistent workforce strain and production budget constraints as constraints on scaling.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Workforce strain and production budget constraints limiting large-scale content output",
+      "Gaps in licensing and secondary markets identified by government review"
+    ],
+    "opportunities": [
+      "METI target of ¥6 trillion overseas anime exports and ¥20 trillion total content exports by 2033",
+      "FY2026 anime industry budget tripled to ¥58.9 billion",
+      "New IP360 grant program for indie content creators"
+    ],
+    "sources": [
+      {
+        "title": "Japan Targets ¥6 Trillion Anime Export Market by 2033",
+        "publisher": "Outlook India (Respawn)",
+        "url": "https://respawn.outlookindia.com/pop-culture/pop-culture-news/japan-targets-6-trillion-anime-export-market-by-2033",
+        "date": "2026",
+        "scope": "country",
+        "metric": "METI anime export target ¥6T by 2033; FY2026 budget ¥58.9bn; current market ¥2.17T (2024)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Business-management and income-stability tools for freelance anime animators",
+        "description": "Freelance anime animators, who hold 47-70% of production jobs, lack business-management and income-stability tools, with entry-level inbetween animators earning only ¥2.63 million annually.",
+        "sources": [
+          {
+            "title": "Labor Challenges in Japan's Anime Industry: In Search of Equity and Sustainability",
+            "publisher": "Nippon.com",
+            "url": "https://www.nippon.com/en/in-depth/d01174/",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "50-70% freelance rate in animation jobs vs 7.6% national self-employment rate; ¥2.63M avg inbetween animator income (2023)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "JNTO data show inbound visitor arrivals continuing at record or near-record levels through mid-2026 (e.g. 3.69 million in April 2026, 3.56 million in May 2026), with TravelAndTourWorld reporting record spending, though some reports note a plateau and a reported 3% year-on-year dip in certain months amid regional arrival declines.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The Japanese government, under a national tourism strategy finalized in 2025-2026, has set a formal target of 60 million foreign visitors annually by 2030 (up from record 2024-2025 arrivals), with the plan explicitly emphasizing regional dispersion and overtourism mitigation as the mechanism to sustain growth long-term.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regional arrival declines reported by CGTN",
+      "Signs of a plateau after years of record growth",
+      "New tourist taxes and infrastructure strain",
+      "Overtourism management challenges as arrivals scale toward the 60 million target"
+    ],
+    "opportunities": [
+      "Weak yen continuing to support record inbound visitor spending",
+      "Government's formal 2030 target of 60 million visitors with regional-dispersion policy support"
+    ],
+    "sources": [
+      {
+        "title": "Number of visitor arrivals to Japan 3,692,200 in April 2026",
+        "publisher": "Japan National Tourism Organization (JNTO)",
+        "url": "https://www.jnto.go.jp/en/news/20260520.pdf",
+        "date": "2026-05",
+        "scope": "country",
+        "metric": "April 2026 inbound visitor arrivals: 3,692,200"
+      },
+      {
+        "title": "Number of visitor arrivals to Japan 3,559,900 in May 2026",
+        "publisher": "Japan National Tourism Organization (JNTO)",
+        "url": "https://www.jnto.go.jp/en/news/20260617.pdf",
+        "date": "2026-06",
+        "scope": "country",
+        "metric": "May 2026 inbound visitor arrivals: 3,559,900"
+      },
+      {
+        "title": "Japan's tourism sector faces headwinds as regional arrivals decline",
+        "publisher": "CGTN",
+        "url": "https://news.cgtn.com/news/2026-02-03/Japan-s-tourism-sector-faces-headwinds-as-regional-arrivals-decline-1Ksxusd9gkw/p.html",
+        "date": "2026-02",
+        "scope": "country",
+        "metric": "Regional inbound arrival declines"
+      },
+      {
+        "title": "PM Ishiba orders finalisation of national tourism plan; 60 million visitors to Japan targeted for 2030",
+        "publisher": "Asia News Network",
+        "url": "https://asianews.network/pm-ishiba-orders-finalisation-of-national-tourism-plan-60-million-visitors-to-japan-targeted-for-2030/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "National tourism strategy target: 60 million visitors by 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Staffing and training infrastructure for regional/rural inns (ryokan)",
+        "description": "Regional and rural ryokan lack staffing and training infrastructure to address labor shortages far worse than those at urban hotels, with only 4.6% reporting no staff shortage.",
+        "sources": [
+          {
+            "title": "令和6年度「宿泊業の人材確保・育成の状況に関する実態調査事業」報告書",
+            "publisher": "Japan Tourism Agency (観光庁) / MLIT",
+            "url": "https://www.mlit.go.jp/kankocho/content/001891438.pdf",
+            "date": "2025-03-21",
+            "scope": "Japan",
+            "metric": "4.6% of regional accommodation businesses report no staff shortage vs 10.3% in metro areas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "improving",
+      "summary": "Japan Foodservice Association's FY2025 annual results show industry-wide sales at 107.3% of the prior year, driven mainly by price increases (spend/visit +4.3%) with modest customer-count growth (+2.9%); cafes (+9.8%), fast food (+7.5%) and family restaurants (+7.2%) led gains, aided by the Osaka-Kansai Expo and record inbound tourism, even as association commentary notes intensifying consumer cost-consciousness.",
+      "evidenceDate": "2026-01"
+    },
+    "longTerm": {
+      "outlook": "mixed",
+      "summary": "Fuji Keizai's 2030 foodservice market forecast projects diverging trajectories by format: casual dining/izakaya sales are projected to stay well below pre-COVID 2019 levels even by 2030 due to structural declines in group drinking and late-night demand, while fast food is projected to keep expanding to roughly 135% of 2019 levels by 2030 on cost-conscious dining-out substitution (e.g., ramen and beef-bowl chains).",
+      "evidenceDate": "2023-12"
+    },
+    "risks": [
+      "Structural decline in group/late-night drinking demand weighing on casual dining and izakaya formats through 2030",
+      "Intensifying consumer cost-consciousness limiting visits to higher-priced restaurant categories"
+    ],
+    "opportunities": [
+      "Fast-food and value-dining formats projected to keep expanding to ~2030 on cost-conscious substitution for full-service dining",
+      "Record inbound tourism and major events (e.g., Osaka-Kansai Expo) boosting foodservice demand"
+    ],
+    "sources": [
+      {
+        "title": "外食産業市場動向調査 令和7年（2025年）年間結果報告 (Foodservice Industry Market Trend Survey - 2025 Annual Results)",
+        "publisher": "Japan Foodservice Association (JF)",
+        "url": "https://www.jfnet.or.jp/wp/wp-content/uploads/2026/01/nenkandata-2025.pdf",
+        "date": "2026-01",
+        "scope": "country",
+        "metric": "FY2025 industry sales at 107.3% of prior year"
+      },
+      {
+        "title": "2030年 外食市場将来予測と業態ビジネス変化 (2030 Foodservice Market Forecast and Format Business Change)",
+        "publisher": "Fuji Keizai Group",
+        "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23139&la=ja&la=en",
+        "date": "2023-12",
+        "scope": "country",
+        "metric": "2030 market size forecasts by foodservice category"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Cost-pass-through / pricing and procurement tools for small independent restaurants",
+        "description": "Small independent restaurants lack pricing and procurement tools to pass rising costs to customers, with a pass-through rate of just 32.3% contributing to a record 900 bankruptcies in 2025.",
+        "sources": [
+          {
+            "title": "「飲食店」の倒産動向（2025年）",
+            "publisher": "帝国データバンク (Teikoku Databank)",
+            "url": "https://www.tdb.co.jp/report/industry/20260113-insyokuten2025/",
+            "date": "2026-01-13",
+            "scope": "Japan",
+            "metric": "900 restaurant bankruptcies in 2025 (record high); 77.3% were small-scale"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "no_data",
+      "summary": "",
+      "evidenceDate": ""
+    },
+    "longTerm": {
+      "outlook": "no_data",
+      "summary": "",
+      "evidenceDate": ""
+    },
+    "risks": [],
+    "opportunities": [],
+    "sources": [],
+    "gaps": [
+      {
+        "subSector": "Everyday life-support services for single-elderly households",
+        "description": "Single-person elderly households, projected to reach roughly 20% of all Japanese households by 2050, have limited dedicated non-medical life-support service coverage.",
+        "sources": [
+          {
+            "title": "Single Elderly to Be 20% of Japanese Households by 2050",
+            "publisher": "Nippon.com",
+            "url": "https://www.nippon.com/en/japan-data/h02201/",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "Single-elderly households projected to reach ~20% of all households by 2050"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "improving",
+      "summary": "Development Bank of Japan's Sports Satellite Account estimates put Japan's sports industry GDP at 10.26 trillion yen in 2022 (1.83% of national GDP, a record share), surpassing 10 trillion yen for the first time and exceeding the pre-pandemic 2019 level of 9.5 trillion yen, with 7.15% year-on-year growth in 2022 after a 7% pandemic-driven contraction in 2020.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "improving",
+      "summary": "Japan's Sports Agency and METI have set a policy target of growing the sports industry to 15 trillion yen (from a 2011 base of 7.27 trillion yen), and the joint Sports Agency-METI 'Council for the Future Development of Sports' (2025) continues to position sports as a strategic growth industry, though the 10.26 trillion yen 2022 actual result implies the 15 trillion yen goal will likely be reached later than the original 2025 target date.",
+      "evidenceDate": "2025-04"
+    },
+    "risks": [
+      "Actual 2022 sports-industry GDP (10.26 trillion yen) tracking well below the government's 15 trillion yen policy target, suggesting the original target timeline will slip"
+    ],
+    "opportunities": [
+      "Sports industry GDP share of national GDP at a record 1.83% in 2022 and recovering above pre-pandemic levels",
+      "Continued government backing (Sports Agency/METI 'Sports Future Development Council') positioning sports as a strategic growth sector"
+    ],
+    "sources": [
+      {
+        "title": "わが国スポーツ産業の経済規模推計：日本版スポーツサテライトアカウント2011～2022年推計 (Estimating the Economic Scale of Japan's Sports Industry: Japan Sports Satellite Account 2011-2022)",
+        "publisher": "Development Bank of Japan (DBJ), Industrial Research Department",
+        "url": "https://www.dbj.jp/upload/investigate/docs/2c615bf8e6e4b3b5bfbc8a96daca6619_1.pdf",
+        "date": "2026-03",
+        "scope": "country",
+        "metric": "Sports industry GDP: 10.26 trillion yen in 2022 (1.83% of GDP)"
+      },
+      {
+        "title": "スポーツ未来開拓会議 ～今後のスポーツの成長産業化を見据えた、当面の取組等についてのとりまとめ～ (Council for the Future Development of Sports - Summary of Near-Term Initiatives)",
+        "publisher": "Japan Sports Agency / METI",
+        "url": "https://www.meti.go.jp/shingikai/mono_info_service/sports_future/pdf/20250430_2.pdf",
+        "date": "2025-04",
+        "scope": "country",
+        "metric": "Policy target: grow sports industry to 15 trillion yen"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Searches returned general market-size and tourism reports for Japan's sports sector but no specific, sourced underserved-segment gap with a checkable metric.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Bain & Co. data (via cpp-luxury) values Japan's luxury market at roughly €31 billion in 2025 with 2-3% further growth expected in 2026, driven substantially by inbound tourist spending (foreign visitor numbers rose 47.1% in 2024 on favorable exchange rates) alongside Tokyo's continued dominance and Osaka's emergence as a secondary luxury retail hub.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Bain's analysis notes Japanese luxury consumers increasingly prioritize product quality and durability over brand prestige (89% cite fit, 68% design/durability vs. only 8% brand name), with younger under-35 consumers favoring authenticity-driven 'self-reward' purchases over status signaling — a structural shift likely to keep growth moderate rather than explosive as tourism-driven demand normalizes.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Growth increasingly dependent on inbound tourist spending rather than domestic demand",
+      "Shift in consumer preference away from brand-prestige purchasing"
+    ],
+    "opportunities": [
+      "Continued inbound tourism spending boost to luxury retail",
+      "Growing high-end secondhand/vintage luxury market",
+      "Osaka emerging as a secondary luxury shopping destination"
+    ],
+    "sources": [
+      {
+        "title": "Japan's luxury market continues to grow in 2026",
+        "publisher": "CPP-Luxury (citing Bain & Co.)",
+        "url": "https://cpp-luxury.com/japans-luxury-market-continues-to-grow-in-2026/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Japan luxury market ~€31bn (2025), 2-3% growth forecast for 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Plus-size women's fashion retail",
+        "description": "Japan's plus-size women's clothing market is forecast to grow steadily, yet domestic mainstream retailers offer very limited plus-size ranges, forcing reliance on a small number of specialist brands.",
+        "sources": [
+          {
+            "title": "Japan Plus-Size Women's Clothing Market to Reach USD 23.0 Bn by 2034",
+            "publisher": "Dimension Market Research",
+            "url": "https://dimensionmarketresearch.com/report/japan-plus-size-women-clothing-market/",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "Market projected to reach ~USD 23.0B by 2034"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Renewable Energy Institute's 2026 commentary and reporting on a ~$1.34B clean power investment initiative show continued but incremental climate-economy investment, while Climate Action Tracker's 2026 ranking rates Japan's overall climate policy as insufficient relative to Paris Agreement goals.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "improving",
+      "summary": "METI's GX2040 Vision (revised decarbonization growth-strategy roadmap, approved by Cabinet February 2025) commits to mobilizing 150 trillion yen of public-private investment over 10 years to simultaneously pursue stable energy supply, economic growth, and decarbonization, using a growth-oriented carbon-pricing mechanism as the central policy tool through 2040.",
+      "evidenceDate": "2025-02"
+    },
+    "risks": [
+      "Climate Action Tracker rates Japan's climate policy ambition as 'insufficient'"
+    ],
+    "opportunities": [
+      "New clean power investment commitments (~$1.34B reported initiative)",
+      "GX2040 Vision targets 150 trillion yen in public-private decarbonization investment over the coming decade"
+    ],
+    "sources": [
+      {
+        "title": "Japan to Invest US$1.34B on Clean Power to Spur Energy Transition",
+        "publisher": "Carbon Credits",
+        "url": "https://carboncredits.com/japan-to-invest-us1-34b-on-clean-power-to-spur-energy-transition/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "New clean power investment commitment"
+      },
+      {
+        "title": "Japan – Climate Performance Ranking 2026",
+        "publisher": "Climate Change Performance Index (CCPI)",
+        "url": "https://ccpi.org/country/jpn/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Overall climate performance ranking"
+      },
+      {
+        "title": "「GX2040ビジョン 脱炭素成長型経済構造移行推進戦略 改訂」が閣議決定されました (GX2040 Vision - Revised Strategy for Transition to a Decarbonized Growth-Oriented Economic Structure - Cabinet Approved)",
+        "publisher": "Ministry of Economy, Trade and Industry (METI)",
+        "url": "https://www.meti.go.jp/press/2024/02/20250218004/20250218004.html",
+        "date": "2025-02",
+        "scope": "country",
+        "metric": "150 trillion yen public-private GX investment target over 10 years"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Carbon-accounting/measurement tools for micro and small enterprises stuck at awareness-only stage",
+        "description": "63.7% of Japanese small enterprises understand the importance of decarbonization but have not progressed to measuring or reducing their own CO2 emissions.",
+        "sources": [
+          {
+            "title": "2023年版「小規模企業白書」第2節 中小企業・小規模事業者のカーボンニュートラル",
+            "publisher": "中小企業庁 (SME Agency, METI)",
+            "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/shokibo/b1_2_2.html",
+            "date": "2023",
+            "scope": "Japan",
+            "metric": "63.7% of enterprises at 'Stage 1' (awareness only, no measurement/reduction action) on decarbonization"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "A 2026 infrastructure analysis finds 25.3% of Japan's 746,000km water pipe network (roughly 188,000km) already past its 40-year statutory service life, with only a 0.61% annual replacement rate (about 4,500km in FY2023) against over 20,000 leak/rupture incidents annually, while seismic compliance for main pipes sits at just 42.3%.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "The same analysis projects pipe aging reaching ~40% by 2032 and ~69% by 2042 at the current replacement pace (which would take 130+ years to fully renew aging pipe), with 96% of 1,243 water utilities studied needing average rate increases of 48% by FY2046 as utility staffing has already fallen roughly 30% from peak levels — a structural crisis creating sustained long-term demand for renewal financing, leak-detection, and municipal water-technology solutions.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "25%+ of water pipe network already past statutory service life with replacement pace half of what's needed",
+      "96% of utilities projected to need major rate hikes (avg. 48%) by FY2046",
+      "Only 42.3% seismic compliance for main pipes; just 9% of municipalities have both water and sewerage earthquake-proofed",
+      "~30% decline in water utility workforce from peak"
+    ],
+    "opportunities": [
+      "Growing municipal demand for leak-detection and pipe-renewal technology (e.g. Tenchijin's KnoWaterLeak, 50+ municipal contracts)",
+      "WEF-documented water infrastructure renewal programs"
+    ],
+    "sources": [
+      {
+        "title": "20% of Japan's Water Pipes Are Past Their Service Life — Data on an Invisible Infrastructure Crisis",
+        "publisher": "ISVD (Institute for Sustainable Vision & Development)",
+        "url": "https://isvd.or.jp/en/columns/water-infrastructure-aging-crisis",
+        "date": "2026",
+        "scope": "country",
+        "metric": "25.3% of pipe network past 40-year life; 0.61% annual replacement rate; utility rate-hike projections to FY2046"
+      },
+      {
+        "title": "Japan's water infrastructure is being renewed. Here's how",
+        "publisher": "World Economic Forum",
+        "url": "https://www.weforum.org/stories/2025/07/japan-water-infrastructure-resilience-and-sustainability/",
+        "date": "2025-07",
+        "scope": "country",
+        "metric": "Water infrastructure renewal approaches"
+      },
+      {
+        "title": "Tenchijin's KnoWaterLeak Achieves Cumulative Milestone of 50 Municipal Contracts in Japan",
+        "publisher": "Malay Mail / MediaOutReach",
+        "url": "https://www.malaymail.com/news/money/mediaoutreach/2025/09/18/tenchijins-knowaterleak-achieves-cumulative-milestone-of-50-municipal-contracts-in-japan/410622",
+        "date": "2025-09",
+        "scope": "country",
+        "metric": "Municipal water leak-detection technology adoption: 50+ contracts"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Pipe-condition monitoring and staged-replacement planning for small municipal utilities",
+        "description": "Small municipal water utilities lack pipe-condition monitoring and staged-replacement planning tools, despite roughly 7,000km of pipes exceeding their statutory service life over the next 20 years.",
+        "sources": [
+          {
+            "title": "インフラ老朽化とは 耐用年数を超過、水道管は2割に",
+            "publisher": "日本経済新聞 (Nikkei), citing MHLW/MLIT data",
+            "url": "https://www.nikkei.com/article/DGXZQOUC301K30Q5A830C2000000/",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "~20% of water pipes past service life; ~7,000km of pipe replacement needed over next 20 years"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Aviation Week reports Tokyo has committed a roughly ¥1 trillion fund to push into the future of aerospace, and JAXA continues an active 2026 program of launches and initiatives, alongside a growing commercial space and satellite sector.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The Society of Japanese Aerospace Companies' (SJAC) 2026 industry report and coverage of Japan's commercial space expansion (satellite networks, new space economy) point to sustained multi-year growth supported by government funding.",
+      "evidenceDate": "2026-04"
+    },
+    "risks": [],
+    "opportunities": [
+      "~¥1 trillion government aerospace fund",
+      "Expanding commercial space and satellite data economy"
+    ],
+    "sources": [
+      {
+        "title": "Tokyo Boldly Pushes Into Future Of Aerospace With ¥1 Trillion Fund",
+        "publisher": "Aviation Week",
+        "url": "https://aviationweek.com/aerospace/aircraft-propulsion/tokyo-boldly-pushes-future-aerospace-y1-trillion-fund",
+        "date": "2026",
+        "scope": "country",
+        "metric": "~¥1 trillion government aerospace investment fund"
+      },
+      {
+        "title": "Japanese Aerospace Industry 2026",
+        "publisher": "Society of Japanese Aerospace Companies (SJAC)",
+        "url": "https://www.sjac.or.jp/wp-content/uploads/2026/04/habataku2026E_spread.pdf",
+        "date": "2026-04",
+        "scope": "country",
+        "metric": "Annual Japanese aerospace industry data report"
+      }
+    ],
+    "noGapReason": {
+      "code": "underdeveloped",
+      "note": "Japan's private space sector is growing on new government funding but is still an early-stage ecosystem of a handful of startups, too nascent for a specific underserved-segment gap to have clearly emerged.",
+      "sources": [
+        {
+          "title": "Overview of the Space Strategy Fund (SSF)",
+          "publisher": "JAXA",
+          "url": "https://fund.jaxa.jp/content/uploads/Overview_of_The_SpaceStrategy_Fund.pdf",
+          "date": "2025",
+          "scope": "Japan",
+          "metric": "New national fund created to grow an early-stage private space industry"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Japan's Cabinet approved a record defense budget for fiscal 2026, with defense spending set to reach 1.9% of GDP, according to Defense News, Naval News, and Japan Today reporting on the December 2025 Cabinet decision.",
+      "evidenceDate": "2025-12"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Bloomberg reports Japan is eyeing continued record defense spending increases toward its GDP-linked target (\"stretch 2%\" goal), reflecting a sustained multi-year buildup aimed at deterring China.",
+      "evidenceDate": "2025-12"
+    },
+    "risks": [],
+    "opportunities": [
+      "Record FY2026 defense budget reaching 1.9% of GDP",
+      "Multi-year buildup toward a 2%-of-GDP defense spending target"
+    ],
+    "sources": [
+      {
+        "title": "Japan's Cabinet OKs record defense budget that aims to deter China",
+        "publisher": "Defense News",
+        "url": "https://www.defensenews.com/global/asia-pacific/2025/12/26/japans-cabinet-oks-record-defense-budget-that-aims-to-deter-china/",
+        "date": "2025-12",
+        "scope": "country",
+        "metric": "Record FY2026 defense budget approval"
+      },
+      {
+        "title": "Japan's defense budget to reach 1.9% of GDP in fiscal 2026",
+        "publisher": "Japan Today",
+        "url": "https://japantoday.com/category/politics/japan's-defense-budget-to-reach-1.9-of-gdp-in-fiscal-2026",
+        "date": "2025-12",
+        "scope": "country",
+        "metric": "FY2026 defense budget at 1.9% of GDP"
+      },
+      {
+        "title": "Japan eyes record defense spending as GDP-yen stretch-2 goal",
+        "publisher": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-26/japan-eyes-record-defense-spending-as-gdp-yen-stretch-2-goal",
+        "date": "2025-12",
+        "scope": "country",
+        "metric": "Multi-year defense spending trajectory toward 2% of GDP"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Business-transition and diversification support for small defense subcontractors",
+        "description": "Small defense subcontractors with 10-50 employees lack business-transition and diversification support, driving a rising trend of exits from the defense supply chain.",
+        "sources": [
+          {
+            "title": "防衛関連産業4395社の実態調査",
+            "publisher": "Teikoku Databank (帝国データバンク)",
+            "url": "https://www.tdb.co.jp/report/industry/o7g54tg34vbq/",
+            "date": "2025",
+            "scope": "Japan",
+            "metric": "4,395 defense-related companies identified; SMEs (~40% of sector) showing rising withdrawal trend"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Japan's Digital Agency reports My Number Card adoption grew from 47.61 million in 2021 to approximately 104.18 million by July 2026, now functioning as the primary identity-verification tool across public and private services, with a new corporate base registry launched in March 2026 letting businesses skip attaching commercial registration certificates to applications.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Five years after its 2021 founding, the Digital Agency continues standardizing local-government information systems and building shared 'base registries' for inter-agency data coordination, alongside a generative-AI platform ('GENAI') for government officials and a Japan Dashboard for evidence-based policy, under a stated long-term philosophy of 'human-friendly digitalisation: No one left behind.'",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Risk of digital-service gaps for populations not adopting My Number Card / digital tools"
+    ],
+    "opportunities": [
+      "My Number Card near-universal adoption (104M+ cards) enabling broader digital public-service integration",
+      "Local government IT system standardization and shared base-registry infrastructure",
+      "Government generative-AI ('GENAI') platform adoption"
+    ],
+    "sources": [
+      {
+        "title": "5 Years After the Founding of Digital Agency: Digitally Changing Individual Lifestyles",
+        "publisher": "Digital Agency (Japan)",
+        "url": "https://www.digital.go.jp/en/policies/report-2026",
+        "date": "2026",
+        "scope": "country",
+        "metric": "My Number Card adoption ~104.18M (July 2026); corporate base registry launch (Mar 2026)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Shared/outsourced digital transformation support for smaller municipalities",
+        "description": "Smaller municipalities among Japan's roughly 1,700 total lack in-house digital and IT staff, leaving them without shared or outsourced digital-transformation support.",
+        "sources": [
+          {
+            "title": "自治体デジタル・トランスフォーメーション（DX）推進計画【第4.0版】",
+            "publisher": "総務省 (MIC)",
+            "url": "https://www.soumu.go.jp/main_content/001001126.pdf",
+            "date": "2025-03-28",
+            "scope": "Japan",
+            "metric": "National plan revised to its 4th version to address persistent municipal digital-staffing gaps"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Japan's Cabinet Office NPO statistics show the number of certified NPO corporations (NPO-hojin) has fallen for multiple consecutive years, from about 49,478 to 49,070 in 2024-2025 and to roughly 48,813 by mid-2026, down from a peak of about 51,866 in 2017, even as the number of tax-advantaged 'certified'/'ninteil' NPOs (recognized for enhanced donation tax benefits) has grown steadily to over 1,300.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "mixed",
+      "summary": "The steady multi-year decline in overall NPO-corporation registrations since the 2017 peak, against continued growth in the smaller tax-preferred 'ninteil' NPO category since 2012 legal reforms, points to a longer-term consolidation of Japan's nonprofit sector toward fewer but more institutionally robust, donation-eligible organizations rather than outright sector contraction.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Total certified NPO corporations in continuous decline since a 2017 peak of ~51,866, falling to ~48,813 by mid-2026"
+    ],
+    "opportunities": [
+      "Tax-advantaged 'ninteil' (certified) NPO corporations have grown steadily to over 1,300 since 2012 legal reforms, indicating institutional strengthening of the sector's donation-eligible segment"
+    ],
+    "sources": [
+      {
+        "title": "認証・認定数の遷移 (Trends in Certification/Approval Numbers of NPO Corporations)",
+        "publisher": "Cabinet Office of Japan - NPO Homepage (内閣府NPOホームページ)",
+        "url": "https://www.npo-homepage.go.jp/about/toukei-info/ninshou-seni",
+        "date": "2026-07",
+        "scope": "country",
+        "metric": "NPO corporation count: ~48,813 (mid-2026), down from 2017 peak of ~51,866"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Back-office accounting/financial-management software for non-certified (regular) NPOs",
+        "description": "Only 45.1% of Japan's non-certified NPO corporations use accounting software or apps, versus 82.1% of certified/specially-certified NPOs.",
+        "sources": [
+          {
+            "title": "令和２年度 特定非営利活動法人に関する実態調査 報告書",
+            "publisher": "内閣府 (Cabinet Office, Government of Japan)",
+            "url": "https://www.npo-homepage.go.jp/uploads/R2_houjin_report.pdf",
+            "date": "August 2021",
+            "scope": "Japan",
+            "metric": "45.1% of certified/regular NPOs use accounting software vs 82.1% of certified/specially-certified NPOs; 14.0% of regular NPOs use no digital tools at all"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Japan's government allocated roughly ¥130 billion ($855M) for quantum research in its FY2025 supplementary budget (part of a ~¥400 billion / $2.6bn package spanning quantum, AI and nuclear fusion — a 50%+ increase over the prior year), including ¥100.4 billion for new R&D bases at AIST, while parallel fusion-energy efforts advanced with Kyoto Fusioneering's completed conceptual design for Japan's first private-sector-led fusion demonstration project (FAST) in late 2025.",
+      "evidenceDate": "2025-11"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Under PM Takaichi, Japan is positioning quantum computing to transition 'from experimental devices toward early commercial use,' backed by a US-Japan tech alliance spanning AI, quantum and fusion investment, while Japan's Cabinet Office is establishing a specialized team to revise national fusion strategy — pointing to sustained, escalating state investment in frontier technology through the decade.",
+      "evidenceDate": "2025-12"
+    },
+    "risks": [
+      "Fragmentation across university and national-lab quantum research hubs requiring coordination investment"
+    ],
+    "opportunities": [
+      "~¥400bn government package for quantum/AI/fusion, up 50%+ YoY",
+      "Private-sector fusion demonstration project (Kyoto Fusioneering's FAST) advancing toward commercialization",
+      "US-Japan bilateral tech alliance on AI, quantum and fusion"
+    ],
+    "sources": [
+      {
+        "title": "Japan Channels Almost $900 Million (U.S.) Into Quantum Push",
+        "publisher": "The Quantum Insider",
+        "url": "https://thequantuminsider.com/2025/11/28/japan-channels-almost-900-million-u-s-into-quantum-push/",
+        "date": "2025-11",
+        "scope": "country",
+        "metric": "~¥130bn ($855M) FY2025 supplementary quantum budget; ~¥400bn combined quantum/AI/fusion package"
+      },
+      {
+        "title": "Completion of Conceptual Design for the Fusion Energy Demonstration Project 'FAST'",
+        "publisher": "Kyoto Fusioneering",
+        "url": "https://kyotofusioneering.com/en/news/2025/11/27/3586",
+        "date": "2025-11",
+        "scope": "country",
+        "metric": "First private-sector-led fusion demonstration conceptual design report in Japan"
+      },
+      {
+        "title": "National fusion strategy revision plan revealed: Cabinet Office to establish specialized team",
+        "publisher": "Science Japan (JST)",
+        "url": "https://sj.jst.go.jp/news/202506/n0616-01k.html",
+        "date": "2025-06",
+        "scope": "country",
+        "metric": "Government fusion strategy revision"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Quantum computing commercialization / industry-ready quantum talent",
+        "description": "Japan has committed roughly $135B to AI-and-quantum infrastructure, but industry-ready quantum talent and commercial application development lag the scale of public investment.",
+        "sources": [
+          {
+            "title": "Japan needs to take the quantum-technology leap",
+            "publisher": "Institute of Geoeconomics (IOG)",
+            "url": "https://instituteofgeoeconomics.org/en/research/20250709021/",
+            "date": "2025-07-09",
+            "scope": "Japan",
+            "metric": "Gap between quantum investment scale and commercialization/talent readiness"
+          }
+        ]
+      }
+    ]
+  }
+]

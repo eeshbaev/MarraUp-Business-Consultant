@@ -1,0 +1,81 @@
+{
+  "dimension": "Traction",
+  "dimension_weight": 12,
+  "questions": [
+    {
+      "question_id": "TRC-01",
+      "dimension": "Traction",
+      "weight": 3,
+      "fallback_order": 1,
+      "text": "Over the most recent period meaningful for your business, has your commercial base — customers, users, orders, or contracted work — been growing, holding, or declining?",
+      "levels": {
+        "A": { "text": "Declining, or no commercial base is forming", "points": 0 },
+        "B": { "text": "Flat, or the direction is not known because progress is not tracked", "points": 0.75 },
+        "C": { "text": "Holding steady with understood drivers, or growing but inconsistently", "points": 1.5 },
+        "D": { "text": "Growing across more than one consecutive period", "points": 2.25 },
+        "E": { "text": "Growing across more than one consecutive period, and the business can identify which specific drivers are producing it", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "TRC-02",
+      "dimension": "Traction",
+      "weight": 2,
+      "fallback_order": 2,
+      "text": "How does the business track its commercial progress?",
+      "levels": {
+        "A": { "text": "No defined measures; progress is judged by impression", "points": 0 },
+        "B": { "text": "Some figures are looked at, but not consistently and not against any expectation", "points": 0.5 },
+        "C": { "text": "A small set of defined measures is tracked on a regular cycle", "points": 1 },
+        "D": { "text": "As C, and those measures are the ones that genuinely reflect this business's progress, rather than generic ones adopted because they are conventional", "points": 1.5 },
+        "E": { "text": "As D, and the measures are reviewed against expectations, with divergence investigated", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "TRC-03",
+      "dimension": "Traction",
+      "weight": 3,
+      "fallback_order": 3,
+      "text": "When the business wins new business, what happens to its terms and to its existing customer base?",
+      "levels": {
+        "A": { "text": "Not known — the business does not examine what its growth costs it", "points": 0 },
+        "B": { "text": "New business is increasingly won on worse terms — deeper discounts, costlier acquisition, more onerous conditions — or gains are offset by losses elsewhere", "points": 0.75 },
+        "C": { "text": "Terms and the existing base are broadly holding as the business grows", "points": 1.5 },
+        "D": { "text": "The business grows while maintaining its terms and retaining its existing base, and can evidence both", "points": 2.25 },
+        "E": { "text": "As D, and growth is accompanied by improving economics or strengthening retention rather than merely stable ones", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "TRC-04",
+      "dimension": "Traction",
+      "weight": 2,
+      "fallback_order": 4,
+      "text": "Does the business set objectives and achieve them?",
+      "levels": {
+        "A": { "text": "No objectives are set", "points": 0 },
+        "B": { "text": "Objectives are set loosely or informally, and whether they were met is not assessed", "points": 0.5 },
+        "C": { "text": "Specific objectives are set for a defined period, and the business assesses whether they were met", "points": 1 },
+        "D": { "text": "As C, with a record of meeting most of them, or of understanding clearly why not", "points": 1.5 },
+        "E": { "text": "As D, and that assessment feeds into how the next period's objectives are set", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "TRC-05",
+      "dimension": "Traction",
+      "weight": 2,
+      "fallback_order": 5,
+      "text": "Is the business's recent progress produced by something repeatable, or by one-off events?",
+      "levels": {
+        "A": { "text": "Progress, where it exists, has come from one-off events — a single large order, a single introduction, a favourable moment — with no repeatable mechanism", "points": 0 },
+        "B": { "text": "Some repeatable activity exists, but most progress still depends on one-off events", "points": 0.5 },
+        "C": { "text": "Most progress comes from activity the business can and does repeat", "points": 1 },
+        "D": { "text": "As C, and the business has repeated it deliberately, with comparable results more than once", "points": 1.5 },
+        "E": { "text": "As D, from more than one repeatable source, so progress does not depend on a single mechanism continuing to work", "points": 2 }
+      },
+      "stage_variant": false
+    }
+  ]
+}

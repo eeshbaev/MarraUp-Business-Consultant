@@ -1,0 +1,1962 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "TurkStat Q2 2026 data shows agriculture, forestry and fishing was the strongest-growing GDP sector at +13.3% y/y, well above the 2.3% economy-wide growth rate, though the sector remains exposed to drought and input-cost volatility.",
+      "evidenceDate": "2026-Q2"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Turkiye remains a top-10 global agricultural producer with structural government support (subsidies, irrigation projects), but climate change and water scarcity are recognized long-term risks to yields.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Drought and water scarcity affecting yields",
+      "High input costs (fertilizer, fuel) and currency depreciation squeezing margins"
+    ],
+    "opportunities": [
+      "Export growth to EU/MENA markets",
+      "Government irrigation and modernization investment"
+    ],
+    "sources": [
+      {
+        "title": "Türkiye's economy expands 2.3% in Q2",
+        "publisher": "Daily Sabah (citing TurkStat)",
+        "url": "https://www.dailysabah.com/business/economy/turkiyes-economy-expands-23-in-q2",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Sector-by-sector GDP growth, Q2 2026"
+      },
+      {
+        "title": "Türkiye's economy logs 3.6% growth in 2025",
+        "publisher": "Daily Sabah",
+        "url": "https://www.dailysabah.com/business/economy/turkiyes-economy-logs-36-growth-in-2025",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Annual GDP growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Cold-chain / post-harvest handling services for small and mid-size fresh produce growers",
+        "description": "Small and mid-size Turkish fruit and vegetable growers lack affordable cold display, cold-chain transport, and proper packaging services to prevent post-harvest spoilage.",
+        "sources": [
+          {
+            "title": "'15 milyarlık meyve ve sebzeyi çöpe gitmekten kurtaracağız'",
+            "publisher": "Dünya Gazetesi (citing Metro Turkey / TÜBİTAK joint study)",
+            "url": "https://www.dunya.com/ekonomi/15-milyarlik-meyve-ve-sebzeyi-cope-gitmekten-kurtaracagiz-haberi-351264",
+            "date": "2017-02-24",
+            "scope": "Turkey",
+            "metric": "25-40% of annual fruit/vegetable production lost; 13% of loss from lack of cold display, 9.5% from inadequate cold-chain transport"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Turkey's mining exports are on track to top $10 billion in 2026 (up from $5.1bn in the first 10 months of 2025), with the Turkish Miners Association citing stronger investment appetite and rising critical-minerals demand; the sector is shifting from raw-ore exports toward higher-value semi-processed chromium, copper and aluminum products.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Turkiye holds an estimated $3.5 trillion in mineral wealth (70 of 90 globally traded minerals, 60 in active production), with mining GDP contribution having grown more than fourfold since 2002; the Beylikova rare-earths project (694 million tons, world's 2nd-largest deposit) targets 570,000 tons/year processing capacity, and gold output is targeted to reach 50-60 tons/year after 2026 versus 30-32 tons currently.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Dependence on global commodity prices and rate-cut expectations for investment appetite",
+      "Environmental/permitting friction despite 2024 reform streamlining approvals"
+    ],
+    "opportunities": [
+      "Shift to value-added semi-processed exports (chromium, copper, aluminum)",
+      "World-leading boron position (73% of global reserves, $1.3bn 2024 revenue) and emerging rare-earths capacity"
+    ],
+    "sources": [
+      {
+        "title": "Türkiye's mining exports expected to top $10 billion in 2026",
+        "publisher": "Daily Sabah",
+        "url": "https://www.dailysabah.com/business/economy/turkiyes-mining-exports-expected-to-top-10-billion-in-2026",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Mining export value and target"
+      },
+      {
+        "title": "Türkiye's mining sector push strengthens global position with $3.5 trillion resource potential",
+        "publisher": "Anadolu Agency (AA)",
+        "url": "https://www.aa.com.tr/en/energy/general/turkiyes-mining-sector-push-strengthens-global-position-with-35-trillion-resource-potential/53291",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Mineral resource potential, GDP contribution, boron/gold/rare-earths figures"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Domestic metallic-ore processing/refining for small-mid mining SMEs",
+        "description": "Small and mid-size Turkish metallic-mineral mining firms lack access to domestic processing/refining capacity, exporting raw ore while Turkey imports most of its aluminum and gold in refined form.",
+        "sources": [
+          {
+            "title": "Maden Politikaları Özel İhtisas Komisyonu Raporu (Twelfth Development Plan)",
+            "publisher": "T.C. Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı (SBB)",
+            "url": "https://www.sbb.gov.tr/wp-content/uploads/2025/08/Maden-Politikalari-OIK-Raporu_01082025.pdf",
+            "date": "2025-08-01",
+            "scope": "Turkey",
+            "metric": "Aluminum 95% import-dependent, gold 85% import-dependent, zinc 98% import-dependent for processed/refined metal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Türkiye's energy minister has targeted record renewable capacity additions in 2026, with wind investment plans of $2.5B for 2.5GW of new capacity, and BloombergNEF's 2026 Transition Factbook describes continued clean power growth.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "BloombergNEF's Turkey Transition Factbook 2026 positions the country for the 'next phase' of its energy transition, driven by renewables expansion, though domestic hydrocarbon development and geopolitics remain factors shaping the outlook.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Currency and financing costs for capital-intensive projects",
+      "Grid integration constraints for intermittent renewables"
+    ],
+    "opportunities": [
+      "Record wind/solar capacity additions targeted by government",
+      "Planned carbon market launch"
+    ],
+    "sources": [
+      {
+        "title": "Türkiye targets record renewable capacity growth in 2026, energy minister says",
+        "publisher": "Anadolu Agency (AA)",
+        "url": "https://www.aa.com.tr/en/energy/renewable/turkiye-targets-record-renewable-capacity-growth-in-2026-energy-minister-says/53677",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Renewable capacity growth target"
+      },
+      {
+        "title": "BloombergNEF Turkey Transition Factbook 2026",
+        "publisher": "BloombergNEF",
+        "url": "https://about.bnef.com/insights/clean-energy/bloombergnef-turkey-transition-factbook-2026-clean-power-growth-positions-turkey-for-the-next-phase-of-its-energy-transition/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Energy transition outlook"
+      },
+      {
+        "title": "Türkiye targets $2.5B wind energy investment, 2.5 GW capacity in 2026",
+        "publisher": "Türkiye Today",
+        "url": "https://www.turkiyetoday.com/business/turkiye-targets-25b-wind-energy-investment-25-gw-capacity-in-2026-3219206",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Wind investment target"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Grid-scale & long-duration battery energy storage",
+        "description": "Turkey's utility-scale renewable operators lack long-duration battery storage systems, with the pipeline averaging only 1.1 hours of capacity versus a 2.5-hour global benchmark.",
+        "sources": [
+          {
+            "title": "Türkiye'nin Uzun Süreli Enerji Depolama Açığı",
+            "publisher": "Yeşil Haber",
+            "url": "https://yesilhaber.net/turkiye-uzun-sureli-enerji-depolama-acigi/",
+            "date": "2026-07-27",
+            "scope": "Turkey",
+            "metric": "33 GW licensed/pre-licensed battery storage = 37 GWh capacity = 1.1 hour average duration vs 2.5-hour global 2025 benchmark"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "IBISWorld sizes Turkey's electric utilities industry at €109.7 billion in 2026 but projects -3.7% annual revenue growth for the year, following a reported 23.0% revenue CAGR over 2020-2025 alongside 6,785 businesses now operating in the sector (2025), a 5.9% CAGR in business count.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "IBISWorld's five-year outlook describes the Turkish electric utilities industry as expected to decline overall, even as the broader energy/power generation sector (renewables-led) grows -- indicating a bifurcation between legacy utility revenue and new generation capacity investment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Utility revenue contraction even as underlying business count grows",
+      "Currency and regulated-tariff mismatches pressuring utility margins"
+    ],
+    "opportunities": [
+      "Grid modernization and renewable integration investment",
+      "Rising business formation in the utilities sector despite revenue headwinds"
+    ],
+    "sources": [
+      {
+        "title": "Electric Utilities in Turkey - Industry Market Research Report",
+        "publisher": "IBISWorld",
+        "url": "https://www.ibisworld.com/turkey/industry/electric-utilities/200204/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size, revenue growth, business count"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural/small-municipality wastewater treatment",
+        "description": "Only about 88% of Turkey's population is connected to wastewater treatment plants, leaving smaller municipalities and rural settlements with untreated or under-treated discharge.",
+        "sources": [
+          {
+            "title": "Municipal Wastewater Statistics, 2022",
+            "publisher": "Turkish Statistical Institute (TUIK)",
+            "url": "https://www.tuik.gov.tr",
+            "date": "2023",
+            "scope": "Turkey",
+            "metric": "~88% population served by wastewater treatment plants, 2022"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Turkish manufacturing PMI began 2026 with its 22nd consecutive month of contraction according to bne IntelliNews, and later reports describe manufacturing contracting slightly (July) and facing its sharpest downturn in months, though TurkStat's Q2 2026 GDP data shows the broader 'industry' category still grew +2.4% y/y.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Despite the prolonged PMI contraction streak, manufacturing remains a core pillar of the economy (autos, textiles, machinery) with periodic signs of stabilisation reported by S&P Global/Istanbul Chamber of Industry PMI series.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Sustained PMI contraction (22+ months) signaling weak new orders",
+      "High interest rates and input costs weighing on output"
+    ],
+    "opportunities": [
+      "Signs of near-stabilisation in PMI readings",
+      "Export-oriented sectors (automotive) benefiting from EU proximity"
+    ],
+    "sources": [
+      {
+        "title": "Turkish manufacturing starts 2026 with 22nd decline straight, PMI shows",
+        "publisher": "bne IntelliNews",
+        "url": "https://www.intellinews.com/turkish-manufacturing-starts-2026-with-22nd-decline-straight-pmi-shows-423649/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Manufacturing PMI"
+      },
+      {
+        "title": "Türkiye PMI Manufacturing Index",
+        "publisher": "S&P Global / Istanbul Chamber of Industry",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/f5325658d57847bfb146ac9454eb1eae",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Manufacturing PMI"
+      },
+      {
+        "title": "Türkiye's economy expands 2.3% in Q2",
+        "publisher": "Daily Sabah (citing TurkStat)",
+        "url": "https://www.dailysabah.com/business/economy/turkiyes-economy-expands-23-in-q2",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Industry sector GDP growth, Q2 2026"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "Turkey's manufacturing base is large, diversified and export-oriented with dense competition across most sub-segments, and no single narrow underserved niche stood out as checkable.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "TurkStat Q2 2026 GDP data shows construction was the only major sector to contract, at -1.9% y/y, amid high borrowing costs, even as broader real estate/construction market analyses describe moderating but still-positive activity.",
+      "evidenceDate": "2026-Q2"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Construction remains structurally important given urbanization and post-earthquake rebuilding needs (TL653 billion earmarked in the 2026 draft budget for earthquake reconstruction), though financing costs are a persistent near-term constraint.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High borrowing costs limiting new project starts",
+      "Currency volatility affecting input/material costs"
+    ],
+    "opportunities": [
+      "Earthquake-zone reconstruction demand (TL653bn budget allocation)",
+      "Urban transformation projects"
+    ],
+    "sources": [
+      {
+        "title": "Türkiye's economy expands 2.3% in Q2",
+        "publisher": "Daily Sabah (citing TurkStat)",
+        "url": "https://www.dailysabah.com/business/economy/turkiyes-economy-expands-23-in-q2",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Construction sector GDP growth, Q2 2026 (-1.9%)"
+      },
+      {
+        "title": "Türkiye presents 2026 draft budget, reaffirms disinflation goal",
+        "publisher": "Daily Sabah",
+        "url": "https://www.dailysabah.com/business/economy/turkiye-presents-2026-draft-budget-reaffirms-disinflation-goal",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Earthquake reconstruction budget allocation"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Skilled-tradesperson sourcing and training pipelines for contractors/SMEs",
+        "description": "Construction contractors and SMEs lack sourcing and training pipelines for skilled tradespeople as local youth abandon blue-collar trades, driving sharp wage inflation.",
+        "sources": [
+          {
+            "title": "Türkiye faces skilled labor shortage amid rising wages",
+            "publisher": "Türkiye Today",
+            "url": "https://www.turkiyetoday.com/business/turkiye-faces-skilled-labor-shortage-amid-rising-wages-74902",
+            "date": "2025",
+            "scope": "Turkey",
+            "metric": "Skilled construction labor wages up 114% since early 2023 vs 77% for materials"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "TurkStat Q2 2026 data shows real estate activities grew +2.1% y/y, roughly in line with overall GDP, while multiple 2026 forecasts (Property Turkey, Homes of Turkey) point to moderating price growth amid high interest rates.",
+      "evidenceDate": "2026-Q2"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Long-run demand is supported by urbanization and foreign investment interest, though affordability and interest-rate normalization remain key swing factors per multiple industry forecasts.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Affordability pressure from high interest rates",
+      "Reduced foreign buyer activity in some segments"
+    ],
+    "opportunities": [
+      "Istanbul/coastal city investment demand",
+      "Citizenship-by-investment property purchases"
+    ],
+    "sources": [
+      {
+        "title": "Turkish Real Estate Market Forecast for 2026 Investments",
+        "publisher": "Antalya Homes",
+        "url": "https://antalyahomes.com/blog/market-analysis/turkish-real-estate-market-forecast-for-2026-investments",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market forecast"
+      },
+      {
+        "title": "Türkiye's economy expands 2.3% in Q2",
+        "publisher": "Daily Sabah (citing TurkStat)",
+        "url": "https://www.dailysabah.com/business/economy/turkiyes-economy-expands-23-in-q2",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Real estate sector GDP growth, Q2 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Office-to-residential conversion services for vacant Class A office stock in Istanbul",
+        "description": "Istanbul property owners with vacant Class A office buildings lack dedicated conversion developers, technical advisory firms, and financing products to turn that space into housing.",
+        "sources": [
+          {
+            "title": "Boş kalan 800 bin metrekare ofis, 'ev'e dönüşebilecek",
+            "publisher": "Dünya Gazetesi",
+            "url": "https://www.dunya.com/ekonomi/bos-kalan-800-bin-metrekare-ofis-eve-donusebilecek-haberi-831540",
+            "date": "2026-07-09",
+            "scope": "Turkey",
+            "metric": "750,000-800,000 sq m of vacant Class A office space in Istanbul (~10% vacancy of 7.5-8 million sq m stock), convertible to an estimated 7,500-8,000 housing units"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Turkey's auto sector sold 1,043,796 units in Jan-Oct 2025 (+10.2% y/y per Daily Sabah), but 2026 pricing and access are under pressure -- limited consumer financing (loans cover only ~20% of vehicle cost) and rising EV share (15-16%) are reshaping the market, with an industry expert calling 2026 'an uncertain year'.",
+      "evidenceDate": "2025-2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Turkey's EV fleet is projected to grow from 183,776 vehicles (end-2024, 1.1% of the 16.2M-vehicle fleet) to 800,000-1.6 million by 2029 and 3.5-4 million (20%+ of fleet) by 2034 per Climate Scorecard/EMRA scenarios, with charging infrastructure projected to expand from 26,046 sockets (2024) to ~142,824 by 2030 and BYD building a $1bn, 150,000-unit domestic plant opening late 2026.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Limited consumer auto financing access",
+      "Currency/tax pressure keeping vehicle prices rising faster than incomes"
+    ],
+    "opportunities": [
+      "Rising EV adoption (15-16% market share) toward 20%+ of fleet by 2034",
+      "Charging infrastructure and domestic EV manufacturing (TOGG, BYD) expansion"
+    ],
+    "sources": [
+      {
+        "title": "What to expect from Turkish car market in 2026?",
+        "publisher": "Daily Sabah",
+        "url": "https://www.dailysabah.com/business/automotive/what-to-expect-from-turkish-car-market-in-2026",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Auto sales growth, EV share, pricing outlook"
+      },
+      {
+        "title": "EV Adoption in Turkey is Expected to Reach 20% or More of the Total Vehicle Fleet by 2034",
+        "publisher": "Climate Scorecard",
+        "url": "https://www.climatescorecard.org/2025/03/ev-adoption-in-turkey-is-expected-to-reach-20-or-more-of-the-total-vehicle-fleet-by-2034/",
+        "date": "2025",
+        "scope": "Turkiye",
+        "metric": "EV fleet growth projections to 2029/2034, charging infrastructure"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "EV charging infrastructure / networked charge-point operators outside major metro corridors",
+        "description": "EV drivers outside Turkey's major metro corridors lack networked public charging infrastructure, with sockets growing far slower than the EV fleet.",
+        "sources": [
+          {
+            "title": "Electric vehicle growth outpaces charging infrastructure in Türkiye",
+            "publisher": "Hürriyet Daily News (citing EPDK data)",
+            "url": "https://www.hurriyetdailynews.com/electric-vehicle-growth-outpaces-charging-infrastructure-in-turkiye-226254",
+            "date": "2026-08-31",
+            "scope": "Turkey",
+            "metric": "EVs grew 1,318% vs. public charging sockets growing only 454%, July 2023-July 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Technavio's Turkey Freight and Logistics Market report projects the market growing by $13.41 billion at an 8.1% CAGR through the 2025-2029 window, driven by trade and e-commerce growth.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Research and Markets and Mordor Intelligence forecast continued freight/logistics market expansion in Turkey through 2030, underpinned by Turkiye's role as a regional logistics hub between Europe and Asia.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Fuel cost and currency volatility",
+      "Regional geopolitical disruption to trade corridors"
+    ],
+    "opportunities": [
+      "Turkiye's position as an East-West logistics hub",
+      "E-commerce-driven last-mile demand growth"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Freight And Logistics Market 2025-2029 | $13.41 billion Growth, 8.1% CAGR",
+        "publisher": "Technavio",
+        "url": "https://newsroom.technavio.org/turkey-freight-and-logistics-market-analysis",
+        "date": "2025",
+        "scope": "Turkiye",
+        "metric": "Market size growth and CAGR"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Cold chain logistics for fresh produce exports",
+        "description": "Turkey's cold chain logistics market remains fragmented with insufficient certified cold storage capacity relative to fresh fruit and vegetable export volumes, especially outside major hubs.",
+        "sources": [
+          {
+            "title": "Turkey Cold Chain Logistics Market Size & Share Analysis",
+            "publisher": "Mordor Intelligence",
+            "url": "https://www.mordorintelligence.com/industry-reports/turkey-cold-chain-logistics-market",
+            "date": "2024",
+            "scope": "Turkey",
+            "metric": "Cold chain infrastructure gap outside major hub cities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IBISWorld sizes Turkey's third-party wholesaling industry at €14.2 billion in 2026 with 10.0% annual revenue growth projected for the year, following a reported CAGR of -25.1% for the 2020-2025 period even as the number of businesses (25,288 in 2025) grew at a 6.2% CAGR.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBISWorld's five-year outlook describes the industry as 'expected to grow' over the coming five years, consistent with rising business formation in wholesale distribution despite a volatile prior five-year revenue history.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High historical revenue volatility (-25.1% CAGR 2020-2025) despite rising business count",
+      "Currency and input-cost pressure on distribution margins"
+    ],
+    "opportunities": [
+      "Strong 2026 projected revenue growth (10.0%)",
+      "Rising number of wholesale businesses (6.2% CAGR 2020-2025)"
+    ],
+    "sources": [
+      {
+        "title": "Third-Party Wholesaling in Turkey - Industry Market Research Report",
+        "publisher": "IBISWorld",
+        "url": "https://www.ibisworld.com/turkey/industry/third-party-wholesaling/200225",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size, revenue growth, business count"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "General retail/wholesale distribution reports describe fragmentation broadly, but no specific sourced sub-segment gap with a checkable metric could be located.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Turkey's e-commerce market reached 4.57 trillion TL according to a 2026 statistics report, reflecting continued strong nominal growth in online retail, though this is partly inflation-driven given Turkiye's high inflation environment.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "E-commerce and retail growth is expected to continue per fulfillment/market data trackers, but real (inflation-adjusted) growth and consumer purchasing power remain uncertain amid persistent inflation.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High inflation eroding real consumer purchasing power",
+      "Currency depreciation raising import costs for retailers"
+    ],
+    "opportunities": [
+      "Continued e-commerce penetration growth",
+      "Cross-border e-commerce expansion"
+    ],
+    "sources": [
+      {
+        "title": "Turkey E-commerce Statistics 2026: The 4.57 Trillion TL Year, in 9 Charts and 7 Patterns",
+        "publisher": "TechnologyChecker.io",
+        "url": "https://technologychecker.io/blog/ecommerce-turkey-statistics",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "E-commerce market size (TL)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Cross-border e-export enablement for domestically-active online SMEs",
+        "description": "Turkish SMEs already selling on domestic marketplaces lack the infrastructure and technical know-how to enable cross-border e-export sales.",
+        "sources": [
+          {
+            "title": "Türkiye'deki KOBİ'lerin E-Ticaret Görünümü",
+            "publisher": "PwC Türkiye (with Amazon Türkiye)",
+            "url": "https://www.pwc.com.tr/turkiyedeki-kobilerin-e-ticaret-gorunumu",
+            "date": "2024",
+            "scope": "Turkey",
+            "metric": "25.3% of SMEs do e-commerce; only 4.1% e-export; 55% lack marketplace platform knowledge/infrastructure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "TurkStat Q2 2026 data shows financial and insurance activities grew +2.1% y/y, and fintech continues to expand alongside traditional banks per 2026 legal/industry trend reports (Paksoy, Fintech Times), with the ecosystem previously targeting $475M in investment.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group projects continued growth in Turkey's fintech market through 2033, supported by digital payments adoption and regulatory developments described in Chambers and Partners' 2026 Fintech guide.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regulatory uncertainty and currency volatility affecting investment",
+      "High interest rate environment affecting lending fintechs"
+    ],
+    "opportunities": [
+      "Digital payments and banking-as-a-service growth",
+      "Fintech-bank partnerships expanding distribution"
+    ],
+    "sources": [
+      {
+        "title": "Fintech in Türkiye 2026 - trends and developments",
+        "publisher": "Paksoy Attorneys at Law",
+        "url": "https://paksoy.av.tr/en/2026/04/fintech-in-turkiye-2026-trends-and-developments/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Fintech sector trends"
+      },
+      {
+        "title": "Turkey Fintech Market Size, Share and Report 2033",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/turkey-fintech-market",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size forecast"
+      },
+      {
+        "title": "Türkiye's economy expands 2.3% in Q2",
+        "publisher": "Daily Sabah (citing TurkStat)",
+        "url": "https://www.dailysabah.com/business/economy/turkiyes-economy-expands-23-in-q2",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Financial/insurance sector GDP growth, Q2 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Women entrepreneurs and unbanked women outside major cities facing collateral barriers to business credit",
+        "description": "Women entrepreneurs outside Turkey's major cities lack accessible business credit products, facing stricter collateral requirements and lower bank-account access than men.",
+        "sources": [
+          {
+            "title": "Women at the Heart of Change: Shaping Entrepreneurship and Green Innovation in Türkiye",
+            "publisher": "World Bank",
+            "url": "https://www.worldbank.org/en/results/2025/02/20/women-at-the-heart-of-change-shaping-entrepreneurship-and-green-innovation-in-turkiye",
+            "date": "2025-02-20",
+            "scope": "Turkey",
+            "metric": "Bank account ownership rate by gender; collateral requirements for female-led SMEs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Turkey's insurance sector generated total premiums of TRY744bn ($15.8bn) in the first half of 2026, a 29% increase versus the same period in 2025, with life insurance premiums growing faster than non-life, per Arab Reinsurance Company reporting.",
+      "evidenceDate": "2026-H1"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Mapfre's economic research forecasts the insurance sector will continue growing in 2026 and 2027, supported by the macroeconomic environment, though specific Turkiye long-horizon figures were not located beyond this general regional assessment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High inflation inflating nominal premium growth while real growth is smaller",
+      "Currency volatility affecting reinsurance costs"
+    ],
+    "opportunities": [
+      "Life insurance premiums outpacing non-life growth",
+      "Rising demand for motor and health coverage"
+    ],
+    "sources": [
+      {
+        "title": "Turkey: Life insurance premiums grow faster than non-life in 1H2026",
+        "publisher": "Arab Reinsurance Company",
+        "url": "https://arabre.com/turkey-life-insurance-premiums-grow-faster-than-non-life-in-1h2026/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Total premium growth (TRY744bn, +29%)"
+      },
+      {
+        "title": "The insurance sector will grow in 2026 and 2027, supported by the macroeconomic environment",
+        "publisher": "Mapfre Economics",
+        "url": "https://www.mapfre.com/en/insights/economy/insurance-sector-macroeconomic-environment/",
+        "date": "2026",
+        "scope": "Regional (includes Turkiye)",
+        "metric": "Insurance sector growth outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Homeowners in low-seismicity-perception regions without mandatory earthquake insurance (DASK)",
+        "description": "Homeowners in Turkey's lower-perceived-risk regions, especially the Black Sea and Central Anatolia, lack mandatory DASK earthquake insurance coverage despite the legal mandate.",
+        "sources": [
+          {
+            "title": "Türkiye'nin DASK haritası ortaya çıktı",
+            "publisher": "Habertürk / DASK (Doğal Afet Sigortaları Kurumu)",
+            "url": "https://www.haberturk.com/ekonomi/turkiye-nin-dask-haritasi-ortaya-cikti-10-konuttan-4-unde-zorunlu-deprem-sigortasi-yok-3906096",
+            "date": "2026-08-17",
+            "scope": "Turkey",
+            "metric": "Share of housing stock covered by mandatory earthquake insurance, by region"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Türkiye's tech market reached US$58 billion amid a multi-billion-dollar AI investment surge (2026 reporting), and TurkStat Q2 2026 GDP data shows information and communication grew +8.6% y/y, the second-fastest-growing sector after agriculture.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "MarkWide Research forecasts continued Turkey ICT market growth through 2036, and the trade.gov ICT country guide describes an expanding software development sector supported by a young, tech-skilled workforce.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Talent emigration ('brain drain') of skilled IT workers",
+      "Currency volatility affecting dollar-denominated tech investment"
+    ],
+    "opportunities": [
+      "AI investment surge boosting the broader tech market",
+      "Growing software outsourcing/nearshoring demand from EU"
+    ],
+    "sources": [
+      {
+        "title": "Türkiye's US$58 billion tech market lands on the world stage amid multi-billion-dollar AI investment surge",
+        "publisher": "Intelligent CIO Europe",
+        "url": "https://www.intelligentcio.com/eu/2026/08/17/turkiyes-us58-billion-tech-market-lands-on-the-world-stage-amid-multi-billion-dollar-ai-investment-surge/",
+        "date": "2026-08",
+        "scope": "Turkiye",
+        "metric": "Tech market size"
+      },
+      {
+        "title": "Türkiye's economy expands 2.3% in Q2",
+        "publisher": "Daily Sabah (citing TurkStat)",
+        "url": "https://www.dailysabah.com/business/economy/turkiyes-economy-expands-23-in-q2",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Information and communication sector GDP growth, Q2 2026 (+8.6%)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable, guided IT infrastructure for digital transformation of SMEs",
+        "description": "Turkish SMEs lack affordable, guided IT infrastructure products needed to carry out digital transformation.",
+        "sources": [
+          {
+            "title": "KOBİ'lerin %28'i dijital dönüşüm için altyapı eksiklerinin giderilmesine ihtiyaç duyuyor",
+            "publisher": "TEPAV (with Mastercard)",
+            "url": "https://tepav.org.tr/tr/haberler/s/10474",
+            "date": "2024",
+            "scope": "Turkey",
+            "metric": "28% of surveyed SMEs (2,600 firms across 12 cities) lack digital-transformation infrastructure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Reporting on Türkiye's $58 billion tech market in 2026 explicitly cites a 'multi-billion-dollar AI investment surge' as a key driver; IMARC Group separately sizes Turkey's generative AI market at USD 410.0 million in 2025, reflecting active near-term investment growth.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group forecasts Turkey's generative AI market reaching USD 1,634.1 million by 2034 (16.11% CAGR, 2026-2034), while Data Bridge Market Research projects the broader Turkey AI market reaching USD 2,197.11 million by 2029 (13.1% CAGR, 2022-2029), both pointing to sustained multi-year AI market expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Dependence on imported compute/hardware and global chip supply",
+      "Regulatory framework for AI still developing"
+    ],
+    "opportunities": [
+      "Government and private AI investment surge",
+      "Growing local AI talent pool"
+    ],
+    "sources": [
+      {
+        "title": "Türkiye's US$58 billion tech market lands on the world stage amid multi-billion-dollar AI investment surge",
+        "publisher": "Intelligent CIO Europe",
+        "url": "https://www.intelligentcio.com/eu/2026/08/17/turkiyes-us58-billion-tech-market-lands-on-the-world-stage-amid-multi-billion-dollar-ai-investment-surge/",
+        "date": "2026-08",
+        "scope": "Turkiye",
+        "metric": "AI investment activity"
+      },
+      {
+        "title": "Turkey Generative AI Market Size, Share and Outlook 2034",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/turkey-generative-ai-market",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Generative AI market size and CAGR forecast"
+      },
+      {
+        "title": "Turkey Artificial Intelligence Market Report – Industry Trends and Forecast to 2029",
+        "publisher": "Data Bridge Market Research",
+        "url": "https://www.databridgemarketresearch.com/reports/turkey-artificial-intelligence-market",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "AI market size and CAGR forecast to 2029"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable AI adoption tools/consulting for small manufacturing SMEs (10-49 employees)",
+        "description": "Small Turkish manufacturers with 10-49 employees lack low-cost, simplified AI adoption tools and advisory services such as pre-packaged predictive maintenance and quality-control vision systems.",
+        "sources": [
+          {
+            "title": "AI adoption surges in Türkiye's manufacturing sector as SMEs modernize production (citing TÜİK 2025 data)",
+            "publisher": "Azernews / TÜİK",
+            "url": "https://www.azernews.az/region/261421.html",
+            "date": "2026-07-24",
+            "scope": "Turkey",
+            "metric": "AI adoption rate: large enterprises 24.1% vs. SMEs with 10-49 employees only 6.6% (overall manufacturing firms 10+ employees rose from 2.7% in 2021 to 7.5% in 2025)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Turkiye has launched a major national data-infrastructure push: government and industry reporting describes a combined roughly $13 billion commitment (about $10 billion sought from private investors plus $3 billion in public funding) toward data center and AI-infrastructure capacity, alongside the HIT-30 program's tax incentives, energy subsidies and employment support for investors, and large hyperscale projects such as Turkcell's $3 billion cloud-region partnership with Google Cloud.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Turkiye has set a target of reaching 1 gigawatt of installed data-center capacity by 2030 and directing at least 2% of public investment programs toward AI-related infrastructure, positioning the country's data and analytics ecosystem to expand structurally through the rest of the decade as hyperscale and cloud providers (Turkcell/Google Cloud, Vodafone/DAMAC, Türk Telekom) build out capacity.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Execution risk on large multi-year data-center and AI-infrastructure investment targets",
+      "Energy supply and grid capacity constraints for gigawatt-scale data center growth",
+      "Dependence on continued government incentive programs (HIT-30) to sustain investor appetite"
+    ],
+    "opportunities": [
+      "National target of 1 GW data center capacity by 2030 driving sustained infrastructure investment",
+      "Hyperscale cloud partnerships (Turkcell/Google Cloud) expanding domestic analytics infrastructure",
+      "Government incentives (HIT-30) and public investment mandates channeling capital into the sector"
+    ],
+    "sources": [
+      {
+        "title": "Turkey's $13 Billion AI Data Center Investment Plan for 2026",
+        "publisher": "RestProperty",
+        "url": "https://restproperty.com/news-en/turkey-ai-data-centers-investment-2026/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "data center / AI infrastructure investment and capacity targets"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Local hyperscale-grade colocation and cloud compute capacity",
+        "description": "Turkish enterprises lack local hyperscale-grade colocation and cloud compute capacity, trailing Gulf competitors and awaiting a domestic hyperscale region until 2028-2029.",
+        "sources": [
+          {
+            "title": "Veri Merkezi Jeopolitiğinde Türkiye",
+            "publisher": "STRASAM (Stratejik Araştırmalar Merkezi)",
+            "url": "https://strasam.org/strateji/teknoloji/veri-merkezi-jeopolitiginde-turkiye-stratejik-potansiyel-yapisal-kisitlar-ve-politika-onerileri-4200",
+            "date": "2025",
+            "scope": "Turkey",
+            "metric": "~32 colocation data centers nationally vs UAE's 376+ MW and Saudi Arabia's 1.9 GW target by 2030"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Mordor Intelligence sizes Turkey's cybersecurity market at USD 37.54 million in 2025 rising to USD 42.13 million in 2026, driven by Turkiye's March 2025 Cybersecurity Law establishing mandatory compliance for public entities and regulated sectors.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Mordor Intelligence forecasts the market reaching USD 75.08 million by 2031, a 12.24% CAGR over 2026-2031, driven by digital sovereignty policy pressure and persistent attacks on critical infrastructure.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Persistent attacks on critical infrastructure",
+      "Compliance costs from new regulatory regime"
+    ],
+    "opportunities": [
+      "March 2025 Cybersecurity Law driving mandatory public-sector demand",
+      "Growing adoption of cloud-based protective tools"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Cybersecurity Market Size & Share Outlook to 2031",
+        "publisher": "Mordor Intelligence",
+        "url": "https://www.mordorintelligence.com/industry-reports/turkey-cybersecurity-market",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size and CAGR forecast (2026-2031)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small and mid-sized enterprises (100-499 employees) lacking dedicated IT security staff, backup/password policy, and employee security training",
+        "description": "Mid-sized Turkish enterprises with 100-499 employees lack dedicated IT security staff, backup and password policies, and employee security-awareness training.",
+        "sources": [
+          {
+            "title": "Türkiye'deki KOBİ'lerin yüzde 58'inin siber saldırıya maruz kaldığı açıklandı",
+            "publisher": "CHIP Online",
+            "url": "https://www.chip.com.tr/haber/turkiyedeki-kobilerin-yuzde-58inin-siber-saldiriya-maruz-kaldigi-aciklandi_183319.html",
+            "date": "2026-09-01",
+            "scope": "Turkey",
+            "metric": "Share of SMEs breached in past year; share citing specific security gaps"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Multiple 2026 market research reports (IMARC, IBISWorld, Research and Markets, Mordor Intelligence) track Turkey's telecom market with continued growth forecasts through 2030-2034, driven by mobile data and broadband expansion.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group's Turkey Telecom Market report forecasts continued expansion through 2034, supported by rising smartphone/data penetration.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Currency volatility affecting equipment import costs",
+      "Intense price competition among operators"
+    ],
+    "opportunities": [
+      "5G rollout and infrastructure investment",
+      "Rising mobile data consumption"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Telecom Market Size, Share, Growth, Trends, 2034",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/turkey-telecom-market",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Regional colocation/data center services for secondary Anatolian cities",
+        "description": "Businesses and public institutions in secondary Anatolian cities like Konya, Kayseri, and Samsun lack local colocation and edge-hosting data center services, relying on distant Istanbul facilities.",
+        "sources": [
+          {
+            "title": "Türkiye veri merkezlerinde 'bölgesel üs' olacak, dijital ekonominin kalbi Anadolu'da atacak",
+            "publisher": "Anadolu Ajansı (AA)",
+            "url": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-veri-merkezlerinde-bolgesel-us-olacak-dijital-ekonominin-kalbi-anadoluda-atacak/3976280",
+            "date": "2026",
+            "scope": "Turkey",
+            "metric": "Turkey has 81 data centers total: 33 in Istanbul, 13 in Ankara, 10 in Izmir, 8 in Bursa, but only 1 each in Trabzon, Isparta, Antalya, Adana, Kayseri, Konya and Samsun"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Turkish firm Fly BVLOS Technology began a domestic chip manufacturing initiative in Ankara (announced Jan 2025), with Phase 1 (2025) targeting 144,000 annual SMT/assembly units and Phase 2 (2026) adding domestic PCB and motherboard production with doubled capacity.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The chip manufacturing roadmap targets Phase 3 (2027) introduction of 3-nanometer technology and 5,000 chips/month capacity, aimed at powering domestic defense/UAV mission computers, per Defensehere reporting.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Dependence on foreign technology transfer (Taiwan)",
+      "Capital intensity and execution risk of scaling advanced fabrication"
+    ],
+    "opportunities": [
+      "Domestic chip production reducing import dependency for defense electronics",
+      "Government-backed push for semiconductor self-sufficiency"
+    ],
+    "sources": [
+      {
+        "title": "Technological milestone for Türkiye: Domestic chip manufacturing set to begin in Ankara",
+        "publisher": "Defensehere",
+        "url": "https://defensehere.com/en/technological-milestone-for-turkiye-domestic-chip-manufacturing-set-to-begin-in-ankara/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Domestic chip manufacturing capacity and roadmap"
+      }
+    ],
+    "noGapReason": {
+      "code": "not_present",
+      "note": "Turkey has no domestic semiconductor wafer fabrication capacity; industry reporting describes it as an emerging assembly/test and design player rather than a fab location.",
+      "sources": [
+        {
+          "title": "Turkey: Europe's semiconductor market hotspot",
+          "publisher": "Maersk",
+          "url": "https://www.maersk.com/insights/growth/2023/11/08/turkey-semiconductor-industry",
+          "date": "2023",
+          "scope": "Turkey",
+          "metric": "No domestic wafer fabrication facilities"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "6Wresearch's Turkey Industrial Robotics Market Outlook projects the market growing at a 10% CAGR over the 2025-2031 forecast period (base year 2024), with the automotive sector expected to see the highest growth, reflecting Turkiye's manufacturing automation push.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The 10% CAGR forecast through 2031 from 6Wresearch, alongside multiple other vendor trackers (Ken Research, Mordor Intelligence, Mobility Foresights) confirming an actively growing Turkish industrial robotics/automation market, points to sustained double-digit growth continuing through the early 2030s.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High upfront automation capital costs for SMEs",
+      "Import dependence on foreign robotics components and technology"
+    ],
+    "opportunities": [
+      "Automotive sector leading robotics adoption growth",
+      "Manufacturing automation driven by PLI-style industrial policy"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Industrial Robotics Market Outlook 2025-2031",
+        "publisher": "6Wresearch",
+        "url": "https://www.6wresearch.com/industry-report/turkey-industrial-robotics-market-outlook",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Industrial robotics market CAGR forecast (10%, 2025-2031)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Industrial robot adoption among SME manufacturers",
+        "description": "Turkey's industrial robot density lags well behind European peers, leaving small and mid-sized manufacturers without affordable automation integration providers.",
+        "sources": [
+          {
+            "title": "World Robotics - Industrial Robots",
+            "publisher": "International Federation of Robotics (IFR)",
+            "url": "https://ifr.org/wr-industrial-robots/",
+            "date": "2024",
+            "scope": "Turkey",
+            "metric": "Robot density well below the global average of 162 per 10,000 employees"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Turkiye's Invest Office 'Life Sciences' overview and multiple 2026 pharmaceutical market reports describe steady healthcare-sector activity, though specific hospital/medical-services market sizing was not directly located.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Turkiye continues to be positioned by government investment promotion (invest.gov.tr) as a life-sciences/healthcare hub, including medical tourism, supporting a growing long-term outlook.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Currency volatility raising imported medical equipment costs",
+      "Healthcare workforce migration abroad"
+    ],
+    "opportunities": [
+      "Medical tourism growth",
+      "Government life-sciences investment incentives"
+    ],
+    "sources": [
+      {
+        "title": "Life Sciences - Invest in Türkiye",
+        "publisher": "Presidency of the Republic of Türkiye Investment Office",
+        "url": "https://www.invest.gov.tr/en/sectors/pages/life-sciences.aspx",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Sector investment overview"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Elderly (65+) in major cities seeking nursing-home placement, facing long waiting lists at ministry-run facilities",
+        "description": "Elderly residents of major Turkish cities seeking nursing-home placement lack sufficient bed capacity, facing long waiting lists at ministry-run facilities.",
+        "sources": [
+          {
+            "title": "Türkiye's ageing population puts pressure on nursing homes",
+            "publisher": "Hürriyet Daily News",
+            "url": "https://www.hurriyetdailynews.com/turkiyes-ageing-population-puts-pressure-on-nursing-homes-226036",
+            "date": "2026-08",
+            "scope": "Turkey",
+            "metric": "Elderly population share; nursing home bed capacity vs. planned expansion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "TechSci Research projects Turkey's pharmaceutical market growing at an 8.96% CAGR through 2030, and OpenPR/market reports cite growth from USD 22.3 billion toward USD 32.6 billion driven by rising healthcare needs.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group and Expert Market Research both forecast continued Turkey pharmaceutical market expansion through 2034-2035, driven by high-value segments and digital transformation per GlobeNewswire's 2025 report.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Price controls and reimbursement policy affecting margins",
+      "Import dependency for active pharmaceutical ingredients"
+    ],
+    "opportunities": [
+      "Rising domestic demand and aging population",
+      "Government push for local API/drug manufacturing"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Pharmaceuticals Market to Grow with a CAGR of 8.96% through 2030",
+        "publisher": "TechSci Research",
+        "url": "https://www.techsciresearch.com/news/8834-turkey-pharmaceutical-market.html",
+        "date": "2025",
+        "scope": "Turkiye",
+        "metric": "Market CAGR forecast"
+      },
+      {
+        "title": "Turkey Pharmaceutical Market to Grow from USD 22.3 Billion to USD 32.6 Billion",
+        "publisher": "OpenPR",
+        "url": "https://www.openpr.com/news/4607677/turkey-pharmaceutical-market-to-grow-from-usd-22-3-billion-to-usd",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Domestic active pharmaceutical ingredient (API) and biologics manufacturing",
+        "description": "Turkish pharmaceutical manufacturers lack domestic active pharmaceutical ingredient and biologics production capacity, importing the large majority of API value.",
+        "sources": [
+          {
+            "title": "İlaç Endüstrisinde Yerlileşme Vizyonu ve Stratejik İhtiyaç Analizi",
+            "publisher": "TÜSEB",
+            "url": "https://files.tuseb.gov.tr/tuseb/files/yayinlar/2025-11-27-18-49-05.pdf",
+            "date": "2025",
+            "scope": "Turkey",
+            "metric": "Top 100 imported APIs = 86.46% of import value vs 57.78% of import volume; biotech products = 65.95% of top-100 import spend but only 7.05% of volume"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research projects Turkey's digital health market reaching USD 3.05 billion by 2030 at a 15.8% CAGR (2024-2030), driven by rising demand for personalized medicine, remote patient monitoring, and wearable health technologies.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The 15.8% CAGR through 2030 and multiple market-tracker reports (IMARC, Statista) covering digital health and medical devices through 2034 point to sustained multi-year expansion in Turkiye's medtech/digital-health segment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Import dependency for advanced medical devices amid currency volatility",
+      "Regulatory/reimbursement complexity for new digital health tools"
+    ],
+    "opportunities": [
+      "Rising adoption of remote patient monitoring and wearables",
+      "Growing demand for personalized medicine"
+    ],
+    "sources": [
+      {
+        "title": "Turkey digital health market to reach $3.04-3.05 billion by 2030",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/press-release/turkey-digital-health-market-analysis",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size and CAGR forecast (2024-2030)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural telehealth / chronic disease remote monitoring",
+        "description": "Turkey's digital health market is still nascent and concentrated in urban hospital systems, indicating limited telehealth penetration for rural and chronic-disease populations.",
+        "sources": [
+          {
+            "title": "Turkey digital health market to reach $3.04 billion by 2030",
+            "publisher": "Grand View Research",
+            "url": "https://www.grandviewresearch.com/press-release/turkey-digital-health-market-analysis",
+            "date": "2024",
+            "scope": "Turkey",
+            "metric": "Market projected at $3.04B by 2030, still nascent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group sizes Turkey's EdTech market at USD 3.6 billion in 2025, and Ken Research's 2026-2032 report on Turkey's EdTech & Corporate Learning Platforms market confirms active near-term growth driven by rising digital learning adoption.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group projects Turkey's EdTech market reaching USD 9.5 billion by 2034, a 10.90% CAGR over 2026-2034, driven by expanding demand for online education, government digital-transformation support, and deepening internet penetration.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Household spending constraints amid high inflation",
+      "Digital divide between urban/rural access"
+    ],
+    "opportunities": [
+      "Growing corporate/online learning adoption",
+      "Large young population driving education demand"
+    ],
+    "sources": [
+      {
+        "title": "Turkey EdTech & Corporate Learning Platforms Market Share, Companies & Trends Report 2026-2032",
+        "publisher": "Ken Research",
+        "url": "https://www.kenresearch.com/industry-reports/turkey-edtech-and-corporate-learning-platforms-market",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market report"
+      },
+      {
+        "title": "Turkey EdTech Market Size, Share and Report 2034",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/turkey-edtech-market",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "EdTech market size and CAGR forecast (2026-2034)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Job-linked reskilling programs for disengaged young adults (especially NEET women)",
+        "description": "Disengaged young adults in Turkey, especially NEET women, lack job-linked vocational reskilling programs as formal vocational education enrollment declines.",
+        "sources": [
+          {
+            "title": "Turkey tops OECD in youth disengagement, ranks last in Europe for graduate employment",
+            "publisher": "Turkish Minute",
+            "url": "https://www.turkishminute.com/2025/10/15/turkey-tops-oecd-in-youth-disengagement-ranks-last-in-europe-for-graduate-employment/",
+            "date": "2025-10-15",
+            "scope": "Turkey",
+            "metric": "31.3% youth NEET rate vs 14.1% OECD average; vocational participation down from 45% to 35% (2013-2023)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IBISWorld sizes Turkey's management consultants industry at €4.7 billion in revenue (2025), with a reported 25.7% revenue CAGR and 10.9% business-count CAGR over 2020-2025, and 95,576 employees across 26,507 businesses -- ranking the sector 19th in Europe by revenue.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBISWorld's forward view for the sector (2025-2030, with detailed forecast figures paywalled) confirms continued expansion is expected, consistent with the strong 2020-2025 growth trajectory in both revenue and business/employee counts for Turkish management consulting.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Fee and margin pressure from AI-enabled service delivery",
+      "Talent retention competition among large global consulting/professional-services firms"
+    ],
+    "opportunities": [
+      "Rising demand for management, legal and accounting consulting amid regulatory complexity",
+      "Strong recent employment growth (11.3% CAGR 2020-2025) signaling capacity expansion"
+    ],
+    "sources": [
+      {
+        "title": "Management Consultants in Turkey - Industry Market Research Report",
+        "publisher": "IBISWorld",
+        "url": "https://www.ibisworld.com/turkey/industry/management-consultants/200286/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size, revenue/business/employment growth"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "Legal, accounting and consulting services in Turkey's major cities are dominated by established domestic and international firms with no clearly sourced underserved niche identified.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IBISWorld sizes Turkey's Business Support Activities n.e.c. industry at €2.7 billion in 2026 with 3.8% annual revenue growth, and Research and Markets' Turkey BPO Services report found the BPO segment specifically at $1.21 billion in revenue (2022) growing at a 5.3% CAGR (2017-2022), with forecasts extending to 2027.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBISWorld's five-year outlook for Business Support Activities projects continued expansion following a 2020-2025 period in which business count fell only slightly (-0.6% CAGR) despite a steep revenue decline, while the BPO sub-segment's 2017-2022 growth trajectory and 2027 forecast horizon point to sustained longer-term demand for outsourced business services.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "AI-driven automation disrupting traditional BPO/business-services delivery models",
+      "Historically volatile revenue performance (steep 2020-2025 decline before 2026 rebound)"
+    ],
+    "opportunities": [
+      "Growing outsourced/vertical-specific BPO demand",
+      "3.8% projected 2026 revenue growth in business support activities"
+    ],
+    "sources": [
+      {
+        "title": "Business Support Activities n.e.c. in Turkey - Industry Market Research Report",
+        "publisher": "IBISWorld",
+        "url": "https://www.ibisworld.com/turkey/industry/business-support-activities-nec/200315/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size, revenue growth, business count"
+      },
+      {
+        "title": "Turkey BPO Services Market Summary, Competitive Analysis and Forecast to 2027",
+        "publisher": "Research and Markets",
+        "url": "https://www.researchandmarkets.com/reports/5741336/turkey-bpo-services-market-summary-competitive",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "BPO market revenue and CAGR (2017-2022), forecast to 2027"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No specific, checkable sourced gap in outsourced business services for Turkey could be located.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "A 2026 business report projects Turkey's digital ad spend to grow by 10.3% to reach $3.26 billion, indicating continued strong nominal growth in digital marketing/advertising.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The same report forecasts market size and spend value across 100+ KPIs through 2029, suggesting a sustained multi-year growth trajectory for digital advertising in Turkiye.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High inflation inflating nominal figures while real ad budgets may lag",
+      "Currency volatility affecting international ad platform costs"
+    ],
+    "opportunities": [
+      "Rising digital/social media ad adoption among Turkish brands",
+      "Growing e-commerce driving performance-marketing spend"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Digital Ad Spend Business Report 2026: Market to Grow by 10.3% to Reach $3.26 Billion",
+        "publisher": "Yahoo Finance (Business Report)",
+        "url": "https://uk.finance.yahoo.com/news/turkey-digital-ad-spend-business-152300687.html",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Digital ad spend growth"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "Istanbul hosts a mature, competitive advertising and marketing agency ecosystem serving both domestic conglomerates and multinational brands, with no specific underserved segment surfaced.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IBISWorld sizes Turkey's film, video and TV programme activities industry at €879.1 million in revenue (2024), ranking 12th in Europe by revenue and 8th by employee count (5,465 workers, 1,165 businesses) among 37 tracked nations; the industry is described as expected to keep growing over the next five years.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Turkey's TV series export business (reported at $600 million in a recent year) and continuing streaming/digital-media growth alongside IBISWorld's five-year growth outlook for film/TV activities point to a structurally expanding media and creative-industries sector, though specific post-2026 forecast figures are not disclosed.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Content piracy and monetization leakage",
+      "Currency volatility affecting international content licensing and production costs"
+    ],
+    "opportunities": [
+      "TV series export growth (a major Turkish soft-power/revenue driver)",
+      "Streaming and digital media adoption growth"
+    ],
+    "sources": [
+      {
+        "title": "Film, Video & Television Programme Activities in Turkey - Industry Market Research Report",
+        "publisher": "IBISWorld",
+        "url": "https://www.ibisworld.com/turkey/industry/film-video-television-programme-activities/200260/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size, employment, business count, European ranking"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Turkey has a large TV/film export and gaming sector, but no specific sourced narrow gap could be checked.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Türkiye recorded 9.2 million international visitors and $9.9 billion in tourism revenue in Q1 2026, a record according to multiple outlets, and the government's 2026 draft budget targets $68 billion in tourism revenue for the year.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Türkiye's 2026 culture and tourism budget signals continued record-tourism ambitions, and annualized tourism revenue has reached approximately $65.6 billion per Property Turkey reporting, underscoring sustained sector expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regional geopolitical instability affecting visitor confidence",
+      "Currency swings affecting cost competitiveness"
+    ],
+    "opportunities": [
+      "Record visitor arrivals and revenue growth",
+      "Government investment in tourism infrastructure/culture budget"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Tourism Report Q1 2026: Record 9.2 Million Visitors and $9.9 Billion Revenue",
+        "publisher": "Nomad Lawyer",
+        "url": "https://www.nomadlawyer.org/turkey-tourism-report-q1-2026-record-visitors-revenue",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Visitor arrivals and tourism revenue"
+      },
+      {
+        "title": "Türkiye presents 2026 draft budget, reaffirms disinflation goal",
+        "publisher": "Daily Sabah",
+        "url": "https://www.dailysabah.com/business/economy/turkiye-presents-2026-draft-budget-reaffirms-disinflation-goal",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "2026 tourism revenue target ($68bn)"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Structured workforce-sourcing and training-to-hire platforms for hospitality employers",
+        "description": "Turkish hospitality employers lack structured workforce-sourcing and training-to-hire platforms as youth increasingly avoid blue-collar tourism roles.",
+        "sources": [
+          {
+            "title": "Türkiye faces skilled labor shortage amid rising wages",
+            "publisher": "Türkiye Today",
+            "url": "https://www.turkiyetoday.com/business/turkiye-faces-skilled-labor-shortage-amid-rising-wages-74902",
+            "date": "2025",
+            "scope": "Turkey",
+            "metric": "~100,000 additional tourism workers projected needed to meet visitor targets"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group sizes Turkey's foodservice market at USD 43.9 billion in 2025, driven by shifting consumer preferences toward convenient dining, urbanization, middle-class growth, and rising tourism.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group forecasts the foodservice market reaching USD 97.7 billion by 2034, a 9.31% CAGR over 2026-2034.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High food-cost inflation squeezing restaurant margins",
+      "Consumer spending sensitivity to real income erosion"
+    ],
+    "opportunities": [
+      "Rising tourism boosting food-service demand",
+      "Growing middle class and urbanization driving convenient dining"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Foodservice Market Size, Share, Trends and Report 2034",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/turkey-foodservice-market",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size and CAGR forecast (2026-2034)"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "Turkey's food service sector is large and highly competitive across cuisines and price points in major cities, with no distinct underserved niche identified.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Turkish beauty and personal-care retail/services posted strong 2025 revenue growth across categories — perfume up 41%, hair care up 37%, perfumeries up 38%, cosmetics up 35% and skincare up 32% — with online penetration rising sharply (beauty e-commerce growth of 51%, personal-care online share reaching 23% of total sales versus a 9% FMCG average), indicating a fast-growing consumer-services-adjacent segment despite broader cost-of-living pressure.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Beauty and personal care is described as the fastest-growing FMCG category globally (3.9% growth versus 3.3% for FMCG overall), and Turkiye's segment is tracking above that global pace on the 2025 figures reported, suggesting continued above-average structural growth in personal-care-adjacent consumer services as e-commerce penetration and premiumization continue.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "High inflation and currency volatility eroding real consumer purchasing power",
+      "Import-cost pressure on internationally sourced beauty/personal-care products",
+      "Intensifying competition from e-commerce-native and international entrants"
+    ],
+    "opportunities": [
+      "Above-average revenue growth across personal-care categories in 2025",
+      "Rapid e-commerce penetration growth creating new distribution and service channels",
+      "Category outperforming broader FMCG growth globally and domestically"
+    ],
+    "sources": [
+      {
+        "title": "Güzellik Ve Kişisel Bakım Türkiye'de Güçlü Büyümesini Sürdürüyor",
+        "publisher": "Turkchem",
+        "url": "https://turkchem.net/guzellik-ve-kisisel-bakim-turkiyede-guclu-buyumesini-surduruyor",
+        "date": "2025",
+        "scope": "Turkiye",
+        "metric": "beauty and personal care category revenue growth and e-commerce penetration"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Structured home-care services for solo-living seniors",
+        "description": "Solo-living Turkish seniors, especially women aged 75 and older, lack structured home-care services despite a large and growing share needing daily support.",
+        "sources": [
+          {
+            "title": "İstatistiklerle Yaşlılar, 2024",
+            "publisher": "TÜİK, via 65+ Yaşlı Hakları Derneği",
+            "url": "https://yaslihaklaridernegi.org/tr/kirkambar/arastirma-rapor-ve-makaleler/istatistiklerle-yaslilar-tuik-2024-raporu/",
+            "date": "2024",
+            "scope": "Turkey",
+            "metric": "65+ population 9.112M (10.6% of population); 1.75M elderly living alone; 16.4% of 65+ need home-care support, 26.9% among 75+"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Travel And Tour World reports Turkiye is 'quietly dominating' the billion-dollar global sports tourism market in 2026, indicating rising sports-related tourism activity, though granular domestic sports-industry sizing was not located.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Turkiye's decade-long planning framework — the Twelfth Development Plan (2024-2028) and a Turkey Tourism Strategy 2026-2036 — combined with co-hosting UEFA Euro 2032, is expected to drive a sustained wave of stadium, venue and transportation upgrades, positioning the country as a multi-sport event destination through the 2030s, though specific long-range market-size figures were not found in accessible sources.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Dependence on broader tourism-sector conditions",
+      "Currency/cost competitiveness for event hosting",
+      "Long-term forecasts remain largely qualitative (event-hosting ambition) rather than quantified market projections"
+    ],
+    "opportunities": [
+      "Growing sports-tourism visitor volume",
+      "Major event hosting driving related infrastructure investment"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Is Quietly Dominating The Billion-Dollar Global Sports Tourism Market In 2026",
+        "publisher": "Travel And Tour World",
+        "url": "https://www.travelandtourworld.com/news/article/turkey-is-quietly-dominating-the-billion-dollar-global-sports-tourism-market-in-2026-what-you-need-to-know/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Sports tourism market position"
+      },
+      {
+        "title": "Turkey Is Quietly Dominating The Billion-Dollar Global Sports Tourism Market In 2026: What You Need To Know",
+        "publisher": "Travel And Tour World",
+        "url": "https://www.travelandtourworld.com/news/article/turkey-is-quietly-dominating-the-billion-dollar-global-sports-tourism-market-in-2026-what-you-need-to-know/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "long-term sports-tourism/event-hosting strategic outlook"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "No specific, sourced underserved segment in Turkish sports/recreation facilities or services could be verified.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group sizes Turkey's fashion and apparel market at USD 16.1 billion in 2025, supported by rising disposable incomes, a young fashion-conscious population, and growing e-commerce penetration.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group projects the market reaching USD 21.9 billion by 2034, a 3.41% CAGR over 2026-2034, supported by strong domestic textile production and increased international brand presence.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Slower CAGR (3.41%) relative to inflation implies real-terms growth pressure",
+      "Import competition from international brands"
+    ],
+    "opportunities": [
+      "Strong domestic textile manufacturing base",
+      "Growing e-commerce and international brand presence"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Fashion and Apparel Market Size, Share and Report 2034",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/turkey-fashion-apparel-market",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Market size and CAGR forecast (2026-2034)"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "Turkey has a large, mature textile/apparel export and domestic fashion retail base with strong competition and no clear underserved niche identified.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Türkiye adopted its first Climate Law (in force July 2025), creating a Carbon Market Board and national emissions trading system (ETS) with a pilot phase launching in 2026 featuring 80% penalty reductions to ease the transition, positioning Türkiye as an emerging carbon-market player.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "All ETS secondary regulations and national allocation plans must be completed by end-2027, with allowance-sale and fine revenue directed toward green transformation and just-transition initiatives, indicating a structurally growing climate-economy policy framework through the later 2020s.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Compliance costs for covered industrial installations",
+      "Simplified CBAM compliance requirements adding cost pressure on exporters"
+    ],
+    "opportunities": [
+      "New national carbon market and allowance trading via Istanbul exchange (EXIST)",
+      "Green-transformation funding from allowance sales/fines"
+    ],
+    "sources": [
+      {
+        "title": "Türkiye adopts landmark climate law, paving the way for national ETS",
+        "publisher": "International Carbon Action Partnership (ICAP)",
+        "url": "https://icapcarbonaction.com/en/news/turkiye-adopts-landmark-climate-law-paving-way-national-ets",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Climate law and ETS adoption/timeline"
+      },
+      {
+        "title": "Navigating The 2026 Carbon Frontier: Preparing Turkish Industry For Simplified CBAM Compliance",
+        "publisher": "Mondaq / Herguner",
+        "url": "https://www.mondaq.com/turkey/economic-analysis/1771518/navigating-the-2026-carbon-frontier-preparing-turkish-industry-for-simplified-cbam-compliance",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "CBAM compliance requirements"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Industrial waste recycling / circular economy infrastructure",
+        "description": "Turkey recycles only a fraction of its municipal and industrial waste, with recovery rates well below EU averages, pointing to a gap in industrial-scale recycling infrastructure.",
+        "sources": [
+          {
+            "title": "Municipal Waste Statistics, 2022",
+            "publisher": "Turkish Statistical Institute (TUIK)",
+            "url": "https://www.tuik.gov.tr",
+            "date": "2023",
+            "scope": "Turkey",
+            "metric": "Municipal waste recycling/recovery rate well below EU average"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "A Turkey water treatment market report sizes the market at USD 180 million in 2025, with growth continuing into the 2026 forecast window.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The same market report projects Turkey's water treatment market reaching USD 246 million by 2032, a 5.7% CAGR over 2026-2032, indicating steady multi-year growth in water treatment technology demand.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Water scarcity and drought stress increasing treatment/infrastructure costs",
+      "Currency volatility affecting imported treatment equipment costs"
+    ],
+    "opportunities": [
+      "Rising municipal and industrial water treatment investment amid scarcity pressure",
+      "Growing adoption of advanced treatment technologies (reverse osmosis, ion exchange)"
+    ],
+    "sources": [
+      {
+        "title": "Turkey Water Treatment Market Size & Outlook, 2026-2032",
+        "publisher": "Renub Research",
+        "url": "https://www.renub.com/water-and-wastewater-treatment-market-p.php",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Water treatment market size and CAGR forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Regional monitoring and leak-detection technology for small/mid-size municipal water utilities",
+        "description": "Small and mid-size Turkish municipal water utilities outside metropolitan areas lack monitoring and leak-detection technology needed to meet mandated water-loss reduction targets.",
+        "sources": [
+          {
+            "title": "TMMOB Çevre Mühendisleri Odası İzmir Şubesi Report",
+            "publisher": "TMMOB Çevre Mühendisleri Odası (İzmir Şubesi)",
+            "url": "https://www.cmo.org.tr/uploads/contents/2024-22-3-12-25-06-460822.pdf",
+            "date": "2024",
+            "scope": "Turkey",
+            "metric": "Water loss/leakage targets: ≤35% (2023), ≤30% (2028) for smaller municipalities; non-metro districts still >30% as of 2021"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Turkish Aerospace's expansion into Spain in partnership with Airbus (2026) and continued growth in the broader defense-and-aerospace export figures indicate an actively expanding sector.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Defence Turkey's 2025/2026 industry assessment describes ongoing targets for growth in the Turkish defense and aerospace industry, supported by rising export volumes.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Dependence on export licensing/geopolitical relations",
+      "High R&D capital requirements"
+    ],
+    "opportunities": [
+      "International partnerships (e.g., Airbus in Spain)",
+      "Rising global demand for Turkish-made platforms"
+    ],
+    "sources": [
+      {
+        "title": "Turkey's aerospace giant arrives in Spain in partnership with Airbus",
+        "publisher": "Atalayar",
+        "url": "https://www.atalayar.com/en/articulo/new-technologies-innovation/turkey-s-aerospace-giant-arrives-in-spain-in-partnership-with-airbus/20260504150000225363.html",
+        "date": "2026-05",
+        "scope": "Turkiye",
+        "metric": "Industry partnership/expansion"
+      }
+    ],
+    "noGapReason": {
+      "code": "underdeveloped",
+      "note": "Turkey's space sector is still emerging under the Turkish Space Agency and dominated by state/defense programs, too nascent overall for a specific commercial sub-segment gap to have surfaced yet.",
+      "sources": [
+        {
+          "title": "Türkiye's space future: An ambitious path ahead",
+          "publisher": "SpaceNews",
+          "url": "https://spacenews.com/turkiyes-space-future-an-ambitious-path-ahead/",
+          "date": "2024",
+          "scope": "Turkey",
+          "metric": "National space program still in early institutional buildout"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Turkey's defense exports reached a record $5.79 billion in the first 7 months of 2026 (Al-Monitor) and $6.3 billion through August, up 16.2% year-on-year (Defensehere), following a 12% jump to $2 billion in Q1 2026 (AGBI).",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Defence Turkey's assessment of the 2025 industry and 2026 targets, along with the consistent multi-quarter export records, points to a sustained long-term growth trajectory for Turkiye's defense and aerospace sector.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Geopolitical/export-control constraints",
+      "Currency volatility affecting domestic production costs"
+    ],
+    "opportunities": [
+      "Record and rising export revenues",
+      "Expanding international defense partnerships"
+    ],
+    "sources": [
+      {
+        "title": "Turkey's defense exports reach record $5.79B in first 7 months of 2026",
+        "publisher": "Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2026/08/turkeys-defense-exports-reach-record-579b-first-7-months-2026",
+        "date": "2026-08",
+        "scope": "Turkiye",
+        "metric": "Defense export revenue"
+      },
+      {
+        "title": "Turkish defense exports rise 16.2 percent to reach $6.3 billion through August",
+        "publisher": "Defensehere",
+        "url": "https://defensehere.com/en/turkish-defense-exports-rise-16-2-percent-to-reach-6-3-billion-through-august/",
+        "date": "2026-08",
+        "scope": "Turkiye",
+        "metric": "Defense export growth rate"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Skilled CNC-machinist recruitment/training pipeline for defense subcontractor SMEs",
+        "description": "Defense-sector subcontractor SMEs in Ankara's OSTİM industrial zone face a 23% vacancy rate for five-axis CNC machinists, with primes poaching scarce operators at wage premiums.",
+        "sources": [
+          {
+            "title": "Ankara's Defence Boom Is Starving Its Own Supply Chain: The Talent Crisis Behind the Numbers",
+            "publisher": "KiTalent",
+            "url": "https://kitalent.com/articles/ankara-industrial-machinery-talent",
+            "date": "2026-05",
+            "scope": "Turkey (Ankara/OSTİM defense cluster)",
+            "metric": "23% vacancy rate for five-axis CNC machinists; 35-45% wage premium for SME specialists poached by primes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Türkiye's 2026 draft budget projects TL18.93 trillion ($452.4bn) in expenditures against a 3.5% GDP deficit ratio (2.7% ex-earthquake spending), with education (15.3% of spending) and health the largest allocations, and TurkStat Q2 2026 data shows public administration/education/health/social work grew +4.0% y/y.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The government targets disinflation to 16% by end-2026, 3.8% GDP growth, and 8.4% unemployment, reflecting a fiscal policy oriented toward macroeconomic stabilization rather than aggressive public-sector expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Earthquake reconstruction costs pressuring the fiscal deficit",
+      "Disinflation targets dependent on tight monetary policy continuing"
+    ],
+    "opportunities": [
+      "Large education and health budget allocations",
+      "TL653bn earmarked for earthquake reconstruction and disaster resilience"
+    ],
+    "sources": [
+      {
+        "title": "Türkiye presents 2026 draft budget, reaffirms disinflation goal",
+        "publisher": "Daily Sabah",
+        "url": "https://www.dailysabah.com/business/economy/turkiye-presents-2026-draft-budget-reaffirms-disinflation-goal",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "2026 budget size, deficit ratio, sector allocations"
+      },
+      {
+        "title": "Türkiye's economy expands 2.3% in Q2",
+        "publisher": "Daily Sabah (citing TurkStat)",
+        "url": "https://www.dailysabah.com/business/economy/turkiyes-economy-expands-23-in-q2",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Public administration/education/health GDP growth, Q2 2026"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Turkey has extensive e-government digitalization already covering most citizen services, and no specific sourced narrow gap in public-service delivery could be verified.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "ICNL's Türkiye Civic Freedom Monitor reports 102,577 active associations and 6,849 foundations as of June 2026, but association membership has fallen from 11.2 million (2017) to 8.7 million (June 2026); only 0.36% of associations and 5.4% of foundations hold public-benefit/tax-exempt status, and only 51 CSOs hold fundraising-regulation exemptions, reflecting a constrained near-term operating environment.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "ICNL reports pending 2025-2026 legislation (mandatory age-verification, expedited content removal, identity-verification mandates for social platforms) and tightened foundation asset/income thresholds for tax-exempt status, signaling continued long-term regulatory tightening pressure on Turkiye's civil-society/nonprofit sector rather than expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Declining association membership (11.2M in 2017 to 8.7M by mid-2026)",
+      "Pending regulatory restrictions on digital platforms and foundation tax-exempt status"
+    ],
+    "opportunities": [
+      "Large registered base (100k+ associations, ~6,850 foundations) as a foundation for sector growth if regulatory environment eases",
+      "International funding calls and capacity-building programs (e.g. Civil Society Development Fund)"
+    ],
+    "sources": [
+      {
+        "title": "Türkiye Civic Freedom Monitor",
+        "publisher": "International Center for Not-for-Profit Law (ICNL)",
+        "url": "https://www.icnl.org/resources/civic-freedom-monitor/turkiye",
+        "date": "2026-06",
+        "scope": "Turkiye",
+        "metric": "Association/foundation counts, membership trends, regulatory developments"
+      }
+    ],
+    "noGapReason": {
+      "code": "underdeveloped",
+      "note": "Turkey's civil society sector remains constrained by a restrictive regulatory and funding environment that has kept the sector too nascent overall for a specific sourced sub-gap to emerge.",
+      "sources": [
+        {
+          "title": "Third Sector Foundation of Turkey (TÜSEV)",
+          "publisher": "TÜSEV",
+          "url": "https://en.wikipedia.org/wiki/Third_Sector_Foundation_of_Turkey",
+          "date": "2023",
+          "scope": "Turkey",
+          "metric": "Civil society sector constrained by regulatory/funding environment"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Türkiye's US$58 billion tech market and its 'multi-billion-dollar AI investment surge' (2026 reporting) reflect momentum in emerging technology investment broadly, reinforced by a domestic chip-manufacturing initiative in Ankara targeting 3nm technology by 2027 and the June 2026 launch of Türkiye's National Quantum Technology Roadmap (OTAĞ) by the Presidency of Defense Industries, identifying 85 priority quantum technologies across computing, sensing and communication.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The OTAĞ roadmap (developed Dec 2024-Dec 2025 with ~305 experts from 123 institutions) sets 34 near-term and 51 long-term quantum technology priorities, backed by a Strategic Competency Development Protocol with 11 universities and NATO Transatlantic Quantum Community participation -- structurally positioning Türkiye's frontier-tech ecosystem (quantum, AI, chips) for sustained build-out through the early 2030s, alongside the chip-manufacturing roadmap's 3nm/2027 target.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "Talent and capital concentration risk in a narrow set of firms",
+      "Dependence on imported hardware/compute",
+      "Long commercialization timelines for quantum technology relative to global public funding (~$45bn cumulative) Türkiye is competing against"
+    ],
+    "opportunities": [
+      "AI investment surge spilling into adjacent emerging-tech fields",
+      "Domestic chip manufacturing initiative advancing toward 3nm by 2027",
+      "National Quantum Technology Roadmap (OTAĞ) mobilizing 123 institutions across 85 priority technologies"
+    ],
+    "sources": [
+      {
+        "title": "Türkiye's US$58 billion tech market lands on the world stage amid multi-billion-dollar AI investment surge",
+        "publisher": "Intelligent CIO Europe",
+        "url": "https://www.intelligentcio.com/eu/2026/08/17/turkiyes-us58-billion-tech-market-lands-on-the-world-stage-amid-multi-billion-dollar-ai-investment-surge/",
+        "date": "2026-08",
+        "scope": "Turkiye",
+        "metric": "Tech/AI investment activity"
+      },
+      {
+        "title": "Technological milestone for Türkiye: Domestic chip manufacturing set to begin in Ankara",
+        "publisher": "Defensehere",
+        "url": "https://defensehere.com/en/technological-milestone-for-turkiye-domestic-chip-manufacturing-set-to-begin-in-ankara/",
+        "date": "2026",
+        "scope": "Turkiye",
+        "metric": "Domestic chip manufacturing roadmap"
+      },
+      {
+        "title": "Türkiye Lays Out a National Quantum Roadmap, Naming 85 Priority Technologies Across Computing, Sensing and Communication",
+        "publisher": "The Quantum Insider",
+        "url": "https://thequantuminsider.com/2026/06/27/turkiye-lays-out-a-national-quantum-roadmap-naming-85-priority-technologies-across-computing-sensing-and-communication/",
+        "date": "2026-06",
+        "scope": "Turkiye",
+        "metric": "National quantum roadmap scope, institutions, priorities"
+      }
+    ],
+    "noGapReason": {
+      "code": "underdeveloped",
+      "note": "Turkey's frontier-tech activity remains at an early, government-initiative stage without enough maturity for a specific narrower commercial gap to have emerged and been documented.",
+      "sources": []
+    }
+  }
+]

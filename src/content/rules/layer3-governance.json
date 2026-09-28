@@ -1,0 +1,290 @@
+[
+  {
+    "rule_id": "L3-GOV-01-AB",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-01",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Identify the legal and regulatory requirements that actually apply to the business",
+      "finding": "The legal and regulatory requirements that apply to the business aren't known.",
+      "consequence": "The business currently can't say with confidence whether it's operating legally — that's not a paperwork gap, it's an unquantified risk that could surface as a fine, a forced shutdown, or a disqualifying finding at exactly the moment the business can least afford it, such as during a sale or a funding round.",
+      "action": "Identify the specific legal and regulatory requirements that apply to this business — registration, tax, licensing, employment, data, sector-specific rules — starting with the basics: registration and tax.",
+      "avoid": "Assuming that because the business hasn't had a problem yet, it must be compliant. Absence of enforcement so far is not evidence of compliance.",
+      "action_evidence": "Basic requirements — registration and tax — are being met, even though other applicable requirements haven't yet been identified.",
+      "assessment_evidence": "Re-asked: are basic requirements such as registration and tax met, with other applicable requirements not yet identified? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-01-BC",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-01",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Identify and meet every requirement that applies, not only the basics",
+      "finding": "Basic requirements such as registration and tax are met, but other applicable requirements — licensing, sector-specific rules, employment or data obligations — haven't been identified.",
+      "consequence": "Meeting the obvious requirements while leaving others unidentified means the business's actual compliance position is unknown beyond the basics — a real, applicable requirement can sit undiscovered until an inspection, a complaint, or a customer's due-diligence process surfaces it.",
+      "action": "Identify every requirement that applies to the specific activity, sector and location the business operates in, beyond registration and tax, and get each one met.",
+      "avoid": "Relying on a generic checklist for \"small businesses\" instead of the requirements specific to this business's actual activity and sector. Generic compliance lists miss the sector-specific obligations that matter most.",
+      "action_evidence": "The requirements that apply to the business have been identified, and all of them are being met.",
+      "assessment_evidence": "Re-asked: have the requirements that apply been identified and are they being met? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-01-CD",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-01",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Assign responsibility for tracking compliance so deadlines and changes aren't missed",
+      "finding": "The requirements that apply are identified and being met, but no one is specifically responsible for maintaining that — obligations aren't tracked, so a deadline or a regulatory change could be missed.",
+      "consequence": "Compliance that's correct today but untracked tends to drift — a renewal deadline passes unnoticed, a rule changes and the business keeps operating under the old one — and the business finds out only when the consequence has already landed.",
+      "action": "Assign responsibility for maintaining compliance to a specific person, and track obligations — deadlines, renewals, regulatory changes — so nothing is missed by default.",
+      "avoid": "Assigning responsibility without giving that person an actual way to track deadlines and changes. A named owner with no tracking system will miss the same things an unnamed one would.",
+      "action_evidence": "Responsibility for maintaining compliance is assigned to a specific person, with obligations tracked so deadlines and changes aren't missed.",
+      "assessment_evidence": "Re-asked: is responsibility for compliance assigned, with obligations tracked? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-01",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-02-AB",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-02",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Establish clarity over who owns the business and who can commit it",
+      "finding": "Ownership, or the authority to commit the business, is unclear or disputed.",
+      "consequence": "Unresolved ownership or authority doesn't get easier to fix with time — it gets harder, and it actively blocks things the business will eventually need: raising investment, bringing on a partner, selling, or even resolving a disagreement between the people involved.",
+      "action": "Establish clarity over who owns the business and who has authority to commit it on the business's behalf, even before it's formally documented.",
+      "avoid": "Leaving ownership ambiguity in place because the people involved currently get along. Goodwill isn't a substitute for clarity, and it's precisely what erodes first when a disagreement or a transition happens.",
+      "action_evidence": "Ownership and the authority to commit the business is clear, even though it isn't yet documented.",
+      "assessment_evidence": "Re-asked: is ownership clear, even without being documented, with no one outside the decision-maker examining significant decisions? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-02-BC",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-02",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Document ownership and authority to commit the business",
+      "finding": "Ownership is clear, but undocumented — and no one outside the decision-maker examines significant decisions.",
+      "consequence": "Clarity that exists only in people's understanding isn't durable — it doesn't survive a dispute, a new investor's due diligence, or a succession event, all of which require a documented answer, not a shared understanding.",
+      "action": "Document ownership and the authority to commit the business, in whatever form is appropriate to its size and structure.",
+      "avoid": "Treating documentation as a formality to defer indefinitely. It only protects the business once it actually exists in writing, not once it's been discussed.",
+      "action_evidence": "Ownership and the authority to commit the business are documented.",
+      "assessment_evidence": "Re-asked: are ownership and the authority to commit the business documented? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-02-CD",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-02",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Get significant decisions challenged by someone with real standing",
+      "finding": "Ownership and authority are documented, but significant decisions receive no challenge from anyone with standing to give it.",
+      "consequence": "A decision-maker operating without challenge is more likely to miss their own blind spots — not because of poor judgment, but because no decision-maker sees everything, and there's currently no one positioned to catch what they miss before it becomes a problem.",
+      "action": "Get significant decisions challenged by someone with standing to give it — a co-owner, adviser, or investor — proportionate to the business's size and complexity. A sole owner can satisfy this through a standing adviser or mentor relationship with an agreed remit.",
+      "avoid": "Seeking input only from people who are unlikely to disagree. The value of challenge comes specifically from someone willing and positioned to push back.",
+      "action_evidence": "Significant decisions receive challenge from someone with standing to give it, proportionate to the business's size and complexity.",
+      "assessment_evidence": "Re-asked: do significant decisions receive challenge from someone with standing, proportionate to size? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-02",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-03-AB",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-03",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Concentrate financial oversight explicitly with one accountable person",
+      "finding": "There are no controls over who can spend or commit the business's money — anyone with access can commit or spend without review.",
+      "consequence": "Without any defined limits, the business has no way to catch an error, an overcommitment, or misuse of funds before it happens — it would only be discovered after the money is already gone.",
+      "action": "At minimum, make sure one specific, accountable person holds oversight of spending and commitments, even without formal limits yet defined.",
+      "avoid": "Assuming that because the business is small, informal oversight by \"whoever's around\" is sufficient. Diffuse, undefined oversight is functionally the same as no oversight.",
+      "action_evidence": "Control over spending and commitment now rests explicitly with one accountable person, even without defined limits yet.",
+      "assessment_evidence": "Re-asked: does control rest entirely on one person's oversight, even with no defined limits or checks? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-03-BC",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-03",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Define who can approve what, and up to what level",
+      "finding": "Control rests entirely on one person's oversight, with no defined limits on who can approve what or up to what level.",
+      "consequence": "Oversight that depends entirely on one person, without defined limits, doesn't scale and doesn't protect against that person's own errors — there's no structural line saying what does or doesn't require a closer look.",
+      "action": "Define specific authority limits — who can approve what kinds of spending or commitments, and up to what level, even if that person is still the same one person for now.",
+      "avoid": "Setting authority limits so high that they never actually constrain anything. The limits need to be real enough to matter.",
+      "action_evidence": "Authority limits are defined — who can approve what, and up to what level.",
+      "assessment_evidence": "Re-asked: are authority limits defined — who can approve what, and up to what level? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-03-CD",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-03",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Get transactions checked by someone other than who initiated them",
+      "finding": "Authority limits are defined, but transactions aren't checked by anyone other than the person who initiated them.",
+      "consequence": "A limit that the same person both sets and checks against isn't an independent control — it relies entirely on that one person catching their own mistakes, which is exactly the condition under which errors and oversights go unnoticed.",
+      "action": "Get transactions checked by someone other than the person who initiated them — an external bookkeeper, accountant, or co-owner is enough for a small business; this doesn't require employees.",
+      "avoid": "Treating \"I review my own transactions carefully\" as equivalent to independent checking. The value of the control comes specifically from a second, independent perspective.",
+      "action_evidence": "Transactions are checked by someone other than the person who initiated them, including via an external bookkeeper or accountant where the business is small.",
+      "assessment_evidence": "Re-asked: are transactions checked by someone other than who initiated them? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-03",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-04-AB",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-04",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 4,
+    "content": {
+      "title": "Start documenting the business's most important arrangements",
+      "finding": "Important arrangements — with customers, suppliers, employees, or partners — rest on verbal understanding.",
+      "consequence": "A verbal arrangement gives the business nothing to point to if a customer, supplier, employee, or partner later disputes what was agreed — the business's actual position in that dispute depends entirely on whose memory of the conversation is accepted.",
+      "action": "Start documenting the business's most important arrangements in writing, even if inconsistently at first.",
+      "avoid": "Waiting for a dispute to happen before documenting an arrangement. By the time there's a disagreement about what was agreed, it's too late to write it down neutrally.",
+      "action_evidence": "Some important arrangements are now documented, even though inconsistently.",
+      "assessment_evidence": "Re-asked: are some arrangements documented, even inconsistently? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-04-BC",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-04",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 4,
+    "content": {
+      "title": "Document every important arrangement in writing",
+      "finding": "Some arrangements are documented, but inconsistently — important arrangements still rest on verbal understanding in places.",
+      "consequence": "Inconsistent documentation means the business is protected in some relationships and exposed in others, without a clear picture of which is which — the exposure sits exactly where it hasn't been noticed yet.",
+      "action": "Document every important arrangement — with customers, suppliers, employees, and partners — in writing, not just the ones that happened to get written down so far.",
+      "avoid": "Documenting only the arrangements that feel high-risk while leaving routine ones verbal. Disputes often arise in the relationships that seemed too ordinary to bother documenting.",
+      "action_evidence": "The important arrangements are documented in writing.",
+      "assessment_evidence": "Re-asked: are the important arrangements documented in writing? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-GOV-04-CD",
+    "layer": 3,
+    "dimension": "Governance",
+    "source_field": "GOV-04",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 4,
+    "content": {
+      "title": "Make documented arrangements accessible with key terms and dates known",
+      "finding": "The important arrangements are documented, but the documents aren't held accessibly, and key terms and dates aren't known to whoever needs them.",
+      "consequence": "A document that exists but can't easily be found, or whose key terms no one currently remembers, provides little more protection than no document at all when a question about it actually comes up.",
+      "action": "Hold documented arrangements accessibly, and make sure key terms and dates are known to whoever needs them — not filed away and forgotten.",
+      "avoid": "Treating \"it's saved somewhere\" as equivalent to accessible. If finding it and knowing its terms takes a search, it isn't yet doing its job.",
+      "action_evidence": "Documents are held accessibly, with key terms and dates known to whoever needs them.",
+      "assessment_evidence": "Re-asked: are documents held accessibly, with key terms and dates known to whoever needs them? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "GOV-04",
+      "minimum_level": "D"
+    }
+  }
+]

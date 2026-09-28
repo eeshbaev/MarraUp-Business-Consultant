@@ -1,0 +1,362 @@
+[
+  {
+    "rule_id": "L3-OPS-01-AB",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-01",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 1,
+    "content": {
+      "title": "Start writing down how the most important recurring activities are done",
+      "finding": "Recurring operating activities are performed differently depending on who does them — nothing is defined.",
+      "consequence": "The way work gets done right now depends entirely on who happens to be doing it — that means quality and outcomes vary by person, mistakes repeat because there's nothing to learn from, and no one can step in and do the work the same way someone else would.",
+      "action": "Start writing down, even informally, how the most important recurring activities are done — order handling, procurement, onboarding, invoicing, support, or whatever the business's own recurring work actually is.",
+      "avoid": "Trying to document everything at once. Start with the activities that are most repeated or most consequential when done inconsistently, not the easiest ones to write down.",
+      "action_evidence": "Some recurring activities now have an informal written description, even if scattered across notes rather than a single place.",
+      "assessment_evidence": "Re-asked: are some activities defined informally — in people's heads or scattered notes? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-01-BC",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-01",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 1,
+    "content": {
+      "title": "Formally document the most important recurring activities",
+      "finding": "Some activities are defined informally — in people's heads or scattered notes — but the most important recurring activities aren't yet written down in a usable form.",
+      "consequence": "Informal, scattered documentation is fragile — it lives in the wrong place, goes out of date without anyone noticing, or simply isn't found by the person who needs it, which means the business is still effectively relying on memory for its most important recurring work.",
+      "action": "Formally document the most important recurring activities in a single, findable place, not just informal notes.",
+      "avoid": "Documenting activities in a format only the person who wrote it can follow. The test is whether someone else could actually use it, not whether it exists.",
+      "action_evidence": "The most important recurring activities are written down in a single, accessible place.",
+      "assessment_evidence": "Re-asked: are the most important recurring activities defined and written down? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-01-CD",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-01",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 1,
+    "content": {
+      "title": "Make sure documented processes are actually being followed",
+      "finding": "The most important recurring activities are documented, but it isn't established that they're actually followed in practice rather than just written down.",
+      "consequence": "A written process that isn't followed provides the appearance of consistency without the substance of it — the business can be surprised later to discover that what's documented and what actually happens have quietly diverged.",
+      "action": "Check that documented processes are being followed in practice, and correct any drift between what's written and what's actually done.",
+      "avoid": "Treating a documented process as finished work once it's written. Documentation only earns its value once it's actually the way work gets done.",
+      "action_evidence": "Documented processes are followed in practice, confirmed by checking actual activity against what's written.",
+      "assessment_evidence": "Re-asked: are the defined activities followed in practice rather than only documented? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-01",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-02-AB",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-02",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Get current capacity roughly matched to current commitments",
+      "finding": "Capacity is regularly insufficient — commitments are being missed, or met only through unsustainable effort.",
+      "consequence": "The business is currently either failing to deliver what it has promised, or delivering it in a way that can't continue — both erode customer trust and burn out whoever is absorbing the shortfall, and neither is a sustainable way to run the business.",
+      "action": "Get capacity roughly matched to current commitments, even without a formal forward plan yet — enough that delivery stops depending on unsustainable effort.",
+      "avoid": "Solving the immediate shortfall by taking on less work rather than addressing the underlying capacity gap. That relieves the symptom without fixing the constraint.",
+      "action_evidence": "Capacity now roughly matches current commitments, even though it isn't yet actively planned or monitored forward.",
+      "assessment_evidence": "Re-asked: does capacity roughly match commitments, even if not yet planned? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-02-BC",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-02",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Start monitoring capacity so pressure is visible before it's acute",
+      "finding": "Capacity roughly matches commitments, but isn't planned — pressure is discovered only when it arrives.",
+      "consequence": "The business is currently one unexpected surge away from the same missed-commitment problem it doesn't currently have — without monitoring, there's no warning before capacity pressure becomes an actual failure to deliver.",
+      "action": "Start monitoring capacity against commitments on a regular basis, so pressure becomes visible before it's acute rather than being discovered when it hits.",
+      "avoid": "Monitoring capacity only after a near-miss. The point of monitoring is to see pressure coming, not to explain it after the fact.",
+      "action_evidence": "Capacity is now monitored against commitments on a regular basis, with pressure visible before it becomes acute.",
+      "assessment_evidence": "Re-asked: does capacity meet current commitments and get monitored, so pressure is visible early? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-02-CD",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-02",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Plan capacity forward against expected demand",
+      "finding": "Capacity meets current commitments and is monitored, but isn't planned forward against expected demand — the lead time to add capacity isn't understood.",
+      "consequence": "Monitoring shows pressure as it builds, but without a forward plan the business still finds out too late whether it can actually respond in time — the gap between noticing pressure and being able to add capacity is exactly where commitments start slipping.",
+      "action": "Plan capacity forward against expected demand, and understand how much lead time is needed to add capacity when it's required.",
+      "avoid": "Planning capacity against optimistic demand assumptions rather than a realistic range. The plan is only useful if the lead-time math holds under the demand that actually shows up.",
+      "action_evidence": "Capacity is planned forward against expected demand, with the lead time to add it understood and documented.",
+      "assessment_evidence": "Re-asked: is capacity planned forward against expected demand, with lead time to add it understood? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-02",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-03-AB",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-03",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Identify what the business depends on to operate",
+      "finding": "Dependencies on suppliers, providers, platforms or inputs aren't identified — disruption to one of them would be discovered only when it happened.",
+      "consequence": "The business doesn't currently know where its own operational failure points are — a disruption to any one of these, small or large, would arrive as a surprise rather than something the business saw coming and could respond to.",
+      "action": "Identify what the business genuinely depends on to operate — suppliers, providers, software, platforms, subcontractors, licences, or infrastructure — even informally at first.",
+      "avoid": "Limiting this to physical suppliers. A critical software platform or a single subcontractor is exactly the same kind of dependency and is often the one that gets missed.",
+      "action_evidence": "Dependencies are now identified, even informally, without alternatives yet in place.",
+      "assessment_evidence": "Re-asked: are dependencies known informally, even without identified alternatives? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-03-BC",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-03",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Understand the terms and reliability of critical dependencies",
+      "finding": "Dependencies are known informally, but no alternatives have been identified for the critical ones.",
+      "consequence": "Knowing a dependency exists without understanding its terms or reliability leaves the business unable to judge how exposed it actually is — it can't tell whether a given supplier or platform is a minor inconvenience or a real single point of failure.",
+      "action": "For the critical dependencies specifically, understand their terms and reliability — contract terms, notice periods, historical reliability, what happens if they fail.",
+      "avoid": "Spreading effort evenly across every dependency identified. Concentrate on the critical ones — the ones whose failure would actually stop the business, not every vendor relationship it has.",
+      "action_evidence": "Critical dependencies are identified specifically, with their terms and reliability understood.",
+      "assessment_evidence": "Re-asked: are critical dependencies identified, with terms and reliability understood? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-03-CD",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-03",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 3,
+    "content": {
+      "title": "Identify alternatives or secure the relationship for critical dependencies",
+      "finding": "Critical dependencies are identified and understood, but no alternatives have been identified for them, and the relationships aren't secured.",
+      "consequence": "Understanding a dependency's terms doesn't reduce exposure to it by itself — without an alternative or a secured relationship, a single failure at that supplier or platform still stops the business, now with full knowledge that it was coming.",
+      "action": "For each critical dependency, either identify a specific alternative or secure the relationship — a contract, agreed terms, held stock, or the practical equivalent for that kind of dependency.",
+      "avoid": "Treating \"we're aware of the risk\" as equivalent to having addressed it. Awareness without an alternative or a secured relationship leaves the exposure exactly where it was.",
+      "action_evidence": "Alternatives are identified for critical dependencies, or the relationship is secured through a contract, agreed terms, held stock, or an equivalent arrangement.",
+      "assessment_evidence": "Re-asked: are alternatives identified for critical dependencies, or is the relationship secured? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-03",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-04-AB",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-04",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Stop missed commitments from being the normal outcome",
+      "finding": "Missed commitments are a normal occurrence rather than an exception.",
+      "consequence": "Customers currently can't reliably predict whether the business will deliver what it promised, when it promised it — that unpredictability is corrosive to trust in a way that's hard to recover from once customers start expecting it.",
+      "action": "Get missed commitments down to the exception rather than the norm, even if that currently takes individual effort and rework to hold the line.",
+      "avoid": "Solving this by quietly lowering what gets promised rather than improving what gets delivered. The construct is about meeting commitments, not shrinking them to whatever is easy to hit.",
+      "action_evidence": "Commitments are now usually met, even though it currently depends on individual effort and rework rather than a reliable process.",
+      "assessment_evidence": "Re-asked: are commitments usually met, even through individual effort rather than process? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-04-BC",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-04",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Make consistent delivery a property of the process, not individual effort",
+      "finding": "Commitments are usually met, but through individual effort and rework rather than a reliable process — consistency currently depends on people, not on how the work is structured.",
+      "consequence": "Relying on individual effort to hold commitments together is fragile — it works until the person carrying that effort is unavailable, overloaded, or leaves, at which point the missed-commitment problem returns.",
+      "action": "Build the process itself so that meeting commitments doesn't depend on specific people pushing extra hard — make consistency a property of how the work is structured.",
+      "avoid": "Mistaking a string of individually-heroic saves for a reliable process. If it still requires someone to notice and personally intervene, the process isn't there yet.",
+      "action_evidence": "Commitments are met consistently as a result of how the process is structured, not through individual effort and rework.",
+      "assessment_evidence": "Re-asked: are commitments met consistently, with failures the exception? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-04-CD",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-04",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Record failures and identify their causes",
+      "finding": "Commitments are met consistently and failures are the exception, but when failures do happen, they aren't recorded or their causes identified.",
+      "consequence": "Without a record of why the exceptions happened, the business has no way to tell whether the same cause is about to produce another failure — each exception is treated as a one-off rather than a signal worth learning from.",
+      "action": "Start recording failures when they happen and identifying their causes, even if nothing is yet done to prevent recurrence.",
+      "avoid": "Recording that a failure happened without digging into why. The cause is what makes the record useful; the fact alone isn't.",
+      "action_evidence": "Failures are recorded when they happen, with their causes identified.",
+      "assessment_evidence": "Re-asked: are failures recorded and their causes identified? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-04",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-05-AB",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-05",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 5,
+    "content": {
+      "title": "Identify what a significant disruption to the business would actually look like",
+      "finding": "No consideration has been given to what would happen if a significant disruption occurred — loss of a facility, a system, a key supplier, or access to a location.",
+      "consequence": "The business currently has no idea how exposed it is to a disruption it hasn't thought about — when one does happen, the first time it's dealt with will be in the middle of the disruption itself, under pressure, with no plan.",
+      "action": "Identify, even informally, the significant disruptions that could plausibly affect the business — and recognize the risk explicitly rather than leaving it unconsidered.",
+      "avoid": "Trying to list every conceivable disruption. Focus on the few that would actually be significant for this specific business, not a generic checklist.",
+      "action_evidence": "The risks of significant disruption are now recognized and named, even though nothing is yet prepared for them.",
+      "assessment_evidence": "Re-asked: are the risks recognized, even if nothing is prepared? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-05",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-05-BC",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-05",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 5,
+    "content": {
+      "title": "Put basic protections in place for the most significant disruptions",
+      "finding": "The risks of significant disruption are recognized, but nothing has been prepared for them.",
+      "consequence": "Recognizing a risk without preparing for it leaves the business exactly as exposed as before it was named — the gap between knowing and being ready is where the actual damage from a disruption happens.",
+      "action": "Put basic protections in place for the most significant disruptions identified — backups, insurance, or alternative arrangements, whichever fits the specific risk.",
+      "avoid": "Preparing generic protections that don't match the specific disruptions identified. A backup that doesn't cover the actual failure mode isn't protection.",
+      "action_evidence": "Basic protections — backups, insurance, or alternative arrangements — are in place for the most significant identified disruptions.",
+      "assessment_evidence": "Re-asked: have the most significant disruptions been identified with basic protections in place? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-05",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-OPS-05-CD",
+    "layer": 3,
+    "dimension": "Operations",
+    "source_field": "OPS-05",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 1,
+    "fallback_order": 5,
+    "content": {
+      "title": "Put a defined plan in place for continuing or recovering operations",
+      "finding": "Basic protections exist for the most significant disruptions, but there's no defined plan for actually continuing or recovering operations if one occurs.",
+      "consequence": "Backups and insurance reduce the damage from a disruption but don't by themselves tell anyone what to actually do when one happens — without a plan, the response gets improvised in the moment, which costs time exactly when time matters most.",
+      "action": "Put a defined plan in place for continuing or recovering operations through the disruptions already identified — who does what, in what order, using what protections.",
+      "avoid": "Writing a plan that exists only as a document no one involved has actually read or discussed. The plan needs to be known, not just written.",
+      "action_evidence": "A defined plan exists for continuing or recovering operations through the significant disruptions already identified.",
+      "assessment_evidence": "Re-asked: does a defined plan exist for continuing or recovering operations? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "OPS-05",
+      "minimum_level": "D"
+    }
+  }
+]

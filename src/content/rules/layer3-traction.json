@@ -1,0 +1,362 @@
+[
+  {
+    "rule_id": "L3-TRC-01-AB",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-01",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Stop the decline and understand the current position",
+      "finding": "The business's commercial base is declining, or no commercial base is forming at all.",
+      "consequence": "The fundamental direction of the business right now is backward or nowhere — before anything else about strategy or execution matters, the business needs to stop losing ground or start gaining any at all.",
+      "action": "Identify what's driving the decline (or the absence of any commercial base) and address it directly, with the immediate goal of reaching a flat, understood position rather than continued decline.",
+      "avoid": "Launching several unrelated new initiatives at once to \"try something\" rather than diagnosing what's actually driving the decline first.",
+      "action_evidence": "The commercial base is no longer declining — it's holding flat, even if growth hasn't started, and the drivers of the current position are understood.",
+      "assessment_evidence": "Re-asked: is the commercial base flat, or is the direction at least known even without tracking showing growth? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-01-BC",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-01",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Start tracking the commercial base and understand its drivers",
+      "finding": "The commercial base is flat, or its direction isn't known because progress isn't tracked.",
+      "consequence": "The business doesn't currently have forward momentum, or doesn't know if it does — either way, it can't currently say with confidence whether things are getting better.",
+      "action": "Start tracking the commercial base consistently, and understand what's driving its current position — whether that means stabilizing it with understood drivers, or working toward growth, even if inconsistent so far.",
+      "avoid": "Assuming growth is happening because the business feels busier, without actually tracking the commercial base itself.",
+      "action_evidence": "The commercial base is being tracked, and its position — holding steady with understood drivers, or growing inconsistently — is known.",
+      "assessment_evidence": "Re-asked: is the base holding steady with understood drivers, or growing even if inconsistently? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-01-CD",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-01",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Turn inconsistent progress into a sustained growth trend",
+      "finding": "The commercial base is holding steady with understood drivers, or growing inconsistently — real progress, but not yet a sustained growth trend.",
+      "consequence": "The business hasn't yet demonstrated a real growth trend — an inconsistent pattern could turn back into flat or declining just as easily as it could become sustained growth, and right now there's no way to tell which.",
+      "action": "Work toward consistent growth across more than one consecutive period, so the pattern becomes a demonstrated trend rather than an inconsistent one.",
+      "avoid": "Declaring a single strong period a growth trend. The construct specifically requires more than one consecutive period — a trend test, not a one-off.",
+      "action_evidence": "The commercial base has grown across more than one consecutive period.",
+      "assessment_evidence": "Re-asked: is the commercial base growing across more than one consecutive period? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-01",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-02-AB",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-02",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Start looking at some real figures",
+      "finding": "No defined measures exist for tracking commercial progress — it's judged by impression rather than anything specific.",
+      "consequence": "Whether the business believes it's doing well or poorly currently rests on a feeling rather than anything it could point to — impressions can be wrong in either direction, and there's no way to check them.",
+      "action": "Start looking at some figures related to commercial progress, even if not yet consistently or against any stated expectation.",
+      "avoid": "Looking at a figure once, drawing a conclusion, and not looking again for months. \"Some figures looked at\" still needs to happen with some regularity to count as progress.",
+      "action_evidence": "Some figures relevant to commercial progress are being looked at, even without full consistency or a stated expectation to compare against.",
+      "assessment_evidence": "Re-asked: are some figures looked at, even if not consistently or against an expectation? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-02-BC",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-02",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Define and regularly track a small set of measures",
+      "finding": "Some figures are looked at, but not consistently and not against any stated expectation.",
+      "consequence": "The business is glancing at numbers without a defined discipline behind it — without consistency or a benchmark, it's hard to tell if a given figure is good, bad, or unremarkable.",
+      "action": "Define a small set of measures that genuinely matter to this business's progress, and track them on a regular cycle.",
+      "avoid": "Adopting a long list of measures because they're commonly tracked elsewhere, rather than a small set that's actually meaningful to this specific business.",
+      "action_evidence": "A small, defined set of measures is tracked on a regular cycle.",
+      "assessment_evidence": "Re-asked: is a small set of defined measures tracked on a regular cycle? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-02-CD",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-02",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 2,
+    "content": {
+      "title": "Make sure the tracked measures actually reflect this business's progress",
+      "finding": "A small set of defined measures is tracked regularly, but they may be generic ones adopted because they're conventional, rather than the ones that genuinely reflect this business's own progress.",
+      "consequence": "Tracking the wrong measures consistently gives a false sense of rigor — the business could be watching numbers that move for reasons unrelated to whether it's actually succeeding.",
+      "action": "Review whether the tracked measures genuinely reflect this business's own progress, and replace any that don't with ones that do.",
+      "avoid": "Adding more measures on top of the generic ones instead of replacing them. The goal is relevance, not volume.",
+      "action_evidence": "The tracked measures are ones the business can specifically explain as reflecting its own progress, not generic industry defaults.",
+      "assessment_evidence": "Re-asked: are the measures ones that genuinely reflect this business's progress, rather than generic ones? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-02",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-03-AB",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-03",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Find out what growth is actually costing the business",
+      "finding": "It isn't known what the business's growth costs it — the business doesn't examine what happens to its terms or existing base as it wins new business.",
+      "consequence": "Growth could currently be happening at a real cost — worsening terms, or an eroding existing base — without the business having any visibility into whether that's the case.",
+      "action": "Start examining what happens to terms and the existing customer base when the business wins new business, even if what's found isn't yet favorable.",
+      "avoid": "Looking only at new business won while ignoring what's happening to the existing base at the same time. The construct is about both together.",
+      "action_evidence": "The business has looked specifically at what its recent growth has cost it in terms and existing-base retention, and knows the answer, even if unfavorable.",
+      "assessment_evidence": "Re-asked: is it known whether new business is being won on worse terms, or whether gains are offset by losses elsewhere? A \"yes\" answer (B, even if unfavorable) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-03-BC",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-03",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Stop growth from eroding terms or the existing base",
+      "finding": "New business is increasingly won on worse terms, or gains are being offset by losses elsewhere in the existing base.",
+      "consequence": "The business's apparent growth may be costing more than it appears — deteriorating terms or an eroding base can make top-line growth look healthier than the underlying position actually is.",
+      "action": "Address whatever is causing terms to worsen or the existing base to erode as the business grows, until terms and the existing base are broadly holding rather than deteriorating.",
+      "avoid": "Accepting worse terms as \"the cost of growth\" without testing whether growth is actually achievable without conceding them.",
+      "action_evidence": "Terms and the existing customer base are broadly holding steady as the business continues to grow.",
+      "assessment_evidence": "Re-asked: are terms and the existing base broadly holding as the business grows? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-03-CD",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-03",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Get evidence the business grows while holding terms and its base",
+      "finding": "Terms and the existing base are broadly holding as the business grows, but this hasn't yet been evidenced — it's an impression rather than something the business can demonstrate.",
+      "consequence": "Without evidence, the business can't confidently show that its growth is genuinely healthy rather than just currently appearing that way — a useful claim to be able to make to itself, and eventually to others.",
+      "action": "Put together evidence that the business grows while maintaining its terms and retaining its existing base — specific figures or examples that could be shown, not just a general sense.",
+      "avoid": "Relying on a single strong example as if it were evidence of a consistent pattern. The evidence needs to cover the growth and retention picture generally, not one anecdote.",
+      "action_evidence": "The business can point to specific evidence that it maintains terms and retains its existing base while growing.",
+      "assessment_evidence": "Re-asked: does the business grow while maintaining terms and retaining its existing base, with evidence for both? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-03",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-04-AB",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-04",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Set objectives, even informally",
+      "finding": "No objectives are set for the business.",
+      "consequence": "Without stated objectives, there's no defined target the business is working toward — activity happens, but it isn't organized around anything specific enough to later assess.",
+      "action": "Set objectives for the business, even loosely or informally, as a starting point — something specific enough to look back on later and ask whether it was met.",
+      "avoid": "Setting objectives so vague (\"grow the business,\" \"do better\") that they can't meaningfully be assessed as met or not later.",
+      "action_evidence": "Objectives, even loose or informal ones, have been set for the business.",
+      "assessment_evidence": "Re-asked: are objectives set loosely or informally, even if whether they're met isn't yet assessed? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-04-BC",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-04",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Set specific objectives and assess whether they're met",
+      "finding": "Objectives are set loosely or informally, but whether they were met is not assessed.",
+      "consequence": "The business is setting intentions without ever closing the loop on whether they were achieved — objectives that are never assessed don't build any real discipline or learning over time.",
+      "action": "Set specific objectives for a defined period, and assess at the end of that period whether they were met.",
+      "avoid": "Assessing objectives only when they're obviously met, and quietly letting the ones that weren't fade without an honest look.",
+      "action_evidence": "Specific objectives are set for a defined period, and the business has assessed whether they were met.",
+      "assessment_evidence": "Re-asked: are specific objectives set for a defined period, with an assessment of whether they were met? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-04-CD",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-04",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Build a track record of meeting objectives, or understanding why not",
+      "finding": "Specific objectives are set and assessed, but there isn't yet a track record of meeting most of them, or a clear understanding of why not when they're missed.",
+      "consequence": "The business is closing the loop on individual objectives, but hasn't yet built a pattern of reliably delivering on them, or a clear enough understanding of what causes the misses to correct course.",
+      "action": "Build a track record of meeting most set objectives, and where they're missed, develop a clear understanding of why — not just that they were missed.",
+      "avoid": "Attributing every missed objective to external circumstances without examining whether the objective itself, or the plan to reach it, was the real problem.",
+      "action_evidence": "The business has a record of meeting most of its recent objectives, or a clear, specific understanding of why the ones it missed weren't met.",
+      "assessment_evidence": "Re-asked: is there a record of meeting most objectives, or of clearly understanding why not? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-04",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-05-AB",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-05",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Start building a repeatable activity alongside one-off progress",
+      "finding": "Progress, where it exists, has come from one-off events — a single large order, a single introduction, a favourable moment — with no repeatable mechanism behind it.",
+      "consequence": "The business's progress so far can't be counted on to continue, because nothing about how it happened is repeatable — it depended on circumstances that may not occur again.",
+      "action": "Identify at least one activity behind recent progress that could plausibly be repeated, and begin repeating it, even if most progress still comes from one-off events for now.",
+      "avoid": "Waiting for another favourable one-off event rather than actively building a repeatable activity in parallel.",
+      "action_evidence": "At least one repeatable activity now exists and is contributing to progress, even if most progress still comes from one-off events.",
+      "assessment_evidence": "Re-asked: does some repeatable activity exist, even if most progress still depends on one-off events? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-05",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-05-BC",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-05",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Shift most progress onto the repeatable activity",
+      "finding": "Some repeatable activity exists, but most progress still depends on one-off events.",
+      "consequence": "The business has a repeatable mechanism in the mix, but it isn't yet doing the heavy lifting — most of what's driving progress is still things that happened once and may not happen again.",
+      "action": "Shift effort toward the repeatable activity until most progress comes from it, rather than from one-off events.",
+      "avoid": "Continuing to chase one-off opportunities as the primary strategy while treating the repeatable activity as a side project.",
+      "action_evidence": "Most recent progress traces back to activity the business can and does repeat, rather than one-off events.",
+      "assessment_evidence": "Re-asked: does most progress come from activity the business can and does repeat? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-05",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-TRC-05-CD",
+    "layer": 3,
+    "dimension": "Traction",
+    "source_field": "TRC-05",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Prove the repeatable activity works more than once",
+      "finding": "Most progress comes from repeatable activity, but it's only been done once in its current, effective form — it hasn't yet been repeated with comparable results.",
+      "consequence": "A repeatable activity that's only worked once could still have been a fortunate first attempt — until it's been deliberately repeated, the business doesn't yet know if the results were the method working or a lucky first try.",
+      "action": "Deliberately repeat the activity and confirm it produces comparable results more than once.",
+      "avoid": "Changing the activity significantly each time it's attempted and calling that repetition. The point is confirming the same mechanism works again, not iterating to a different one each time.",
+      "action_evidence": "The activity has been deliberately repeated, with comparable results, more than once.",
+      "assessment_evidence": "Re-asked: has the activity been repeated deliberately, with comparable results more than once? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "TRC-05",
+      "minimum_level": "D"
+    }
+  }
+]

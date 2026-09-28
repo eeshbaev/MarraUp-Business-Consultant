@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MarraUp — Money tree mark, 512×512 (Google Play high-res icon). -->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#F5F3EF"/>
+
+  <!-- Soft inset panel (readable on Play thumbnails) -->
+  <rect x="32" y="32" width="448" height="448" rx="96" fill="#FFFFFF" stroke="#E7E5E4" stroke-width="2"/>
+
+  <!-- Ground hint -->
+  <ellipse cx="256" cy="392" rx="120" ry="14" fill="#E7E5E4"/>
+
+  <!-- Trunk -->
+  <path
+    d="M236 392 V288 C236 268 246 256 256 256 C266 256 276 268 276 288 V392 Z"
+    fill="#57534E"
+  />
+  <path
+    d="M248 288 C248 276 252 268 256 268 C260 268 264 276 264 288"
+    fill="none"
+    stroke="#78716C"
+    stroke-width="2"
+    stroke-linecap="round"
+    opacity="0.5"
+  />
+
+  <!-- Branches -->
+  <path d="M256 268 L196 208" stroke="#1E40AF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M256 268 L256 168" stroke="#1E40AF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M256 268 L316 208" stroke="#1E40AF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M196 208 L168 188" stroke="#1D4ED8" stroke-width="7" stroke-linecap="round"/>
+  <path d="M316 208 L344 188" stroke="#1D4ED8" stroke-width="7" stroke-linecap="round"/>
+  <path d="M256 168 L228 148" stroke="#1D4ED8" stroke-width="7" stroke-linecap="round"/>
+  <path d="M256 168 L284 148" stroke="#1D4ED8" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Coin nodes (abstract, not clipart bills) -->
+  <g>
+    <circle cx="168" cy="188" r="34" fill="#1D4ED8"/>
+    <circle cx="168" cy="188" r="24" fill="#EFF6FF"/>
+    <circle cx="168" cy="188" r="34" fill="none" stroke="#1E40AF" stroke-width="3"/>
+    <text x="168" y="196" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1E40AF">$</text>
+  </g>
+  <g>
+    <circle cx="344" cy="188" r="34" fill="#1D4ED8"/>
+    <circle cx="344" cy="188" r="24" fill="#EFF6FF"/>
+    <circle cx="344" cy="188" r="34" fill="none" stroke="#1E40AF" stroke-width="3"/>
+    <text x="344" y="196" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1E40AF">$</text>
+  </g>
+  <g>
+    <circle cx="196" cy="208" r="28" fill="#1D4ED8"/>
+    <circle cx="196" cy="208" r="19" fill="#EFF6FF"/>
+    <circle cx="196" cy="208" r="28" fill="none" stroke="#1E40AF" stroke-width="2.5"/>
+    <text x="196" y="215" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1E40AF">$</text>
+  </g>
+  <g>
+    <circle cx="316" cy="208" r="28" fill="#1D4ED8"/>
+    <circle cx="316" cy="208" r="19" fill="#EFF6FF"/>
+    <circle cx="316" cy="208" r="28" fill="none" stroke="#1E40AF" stroke-width="2.5"/>
+    <text x="316" y="215" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1E40AF">$</text>
+  </g>
+  <g>
+    <circle cx="228" cy="148" r="26" fill="#1D4ED8"/>
+    <circle cx="228" cy="148" r="17" fill="#EFF6FF"/>
+    <circle cx="228" cy="148" r="26" fill="none" stroke="#1E40AF" stroke-width="2.5"/>
+    <text x="228" y="155" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E40AF">$</text>
+  </g>
+  <g>
+    <circle cx="284" cy="148" r="26" fill="#1D4ED8"/>
+    <circle cx="284" cy="148" r="17" fill="#EFF6FF"/>
+    <circle cx="284" cy="148" r="26" fill="none" stroke="#1E40AF" stroke-width="2.5"/>
+    <text x="284" y="155" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1E40AF">$</text>
+  </g>
+  <g>
+    <circle cx="256" cy="128" r="36" fill="#1E40AF"/>
+    <circle cx="256" cy="128" r="25" fill="#EFF6FF"/>
+    <circle cx="256" cy="128" r="36" fill="none" stroke="#1E40AF" stroke-width="3"/>
+    <text x="256" y="137" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1E40AF">$</text>
+  </g>
+
+  <!-- Foliage accents (slate leaves, not green jackpot) -->
+  <ellipse cx="256" cy="248" rx="88" ry="36" fill="#EFF6FF" opacity="0.85"/>
+  <ellipse cx="256" cy="248" rx="88" ry="36" fill="none" stroke="#BFDBFE" stroke-width="2"/>
+</svg>

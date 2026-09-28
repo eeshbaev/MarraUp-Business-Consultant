@@ -1,0 +1,2288 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Agriculture and allied sectors recorded 3.6% GVA growth in Q1 FY27 per MoSPI provisional data, continuing steady expansion supported by resilient monsoon performance and government minimum support price interventions. Growth is stable but modest relative to industry and services.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "MoSPI's FY2025-26 GDP advance/provisional estimates and government statements point to continued resilient long-term growth in agriculture, though at slower rates than non-farm sectors, as India pursues productivity gains, allied-activity diversification (dairy, fisheries) and export growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Monsoon and climate variability affecting yields",
+      "Fragmented land holdings limiting productivity gains",
+      "Price volatility for farmers despite MSP support"
+    ],
+    "opportunities": [
+      "Growth in allied activities such as dairy, poultry and fisheries",
+      "Rising agri-exports",
+      "Government push for agribusiness value addition"
+    ],
+    "sources": [
+      {
+        "title": "Agriculture, allied sectors clock 3.6% GVA growth in Q1FY27: MoSPI data",
+        "publisher": "Business Standard",
+        "url": "https://www.business-standard.com/industry/agriculture/agriculture-allied-sectors-clock-3-6-gva-growth-in-q1fy27-mospi-data-126083101161_1.html",
+        "date": "2026-08",
+        "scope": "India",
+        "metric": "Agriculture GVA growth"
+      },
+      {
+        "title": "Press Note on GDP Estimates for Q4 2025-26 and Provisional Estimates FY 2025-26",
+        "publisher": "MoSPI",
+        "url": "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1780655857536_5ac01869-ca4a-422d-b7a7-57b81da60932_Press_Note_on_GDP_Estimates_for_Q4_2025-26_and_PE_FY_2025-26_F.pdf",
+        "date": "2026",
+        "scope": "India",
+        "metric": "GDP/GVA sectoral estimates"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Cold-chain / post-harvest storage for horticulture growers outside UP, WB, Gujarat, Punjab",
+        "description": "Fruit and vegetable growers in southern, central, and northeast India lack cold-storage access, since ~60% of national capacity sits in just four states and most UP capacity is potato-only.",
+        "sources": [
+          {
+            "title": "Why 60% of India's Cold Storage Capacity is Concentrated in Just 4 States?",
+            "publisher": "Bharatnama (citing NABARD/industry cold-chain data)",
+            "url": "https://bharatnama.substack.com/p/why-90-of-indias-produce-still-moves",
+            "date": "2025",
+            "scope": "India",
+            "metric": "60% of national cold storage capacity in 4 states; national capacity 3.2 crore tonnes vs recommended 6 crore tonnes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "India's mineral production has shown continued cumulative growth per government data, with the metals and mining sector expanding on the back of infrastructure and manufacturing demand. Industry trackers report ongoing operational expansion in 2026.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBEF and industry reports describe the metals and mining sector as a growth 'powerhouse' with rising investment trends projected through the mid-2030s, driven by domestic demand for steel, cement and critical minerals for the energy transition.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regulatory and environmental clearance delays",
+      "Global commodity price volatility",
+      "Import dependence for critical minerals"
+    ],
+    "opportunities": [
+      "Critical mineral exploration and processing push",
+      "Rising domestic steel and infrastructure demand",
+      "Government mining sector reforms"
+    ],
+    "sources": [
+      {
+        "title": "Expanding Operations: Key trends driving mining sector growth",
+        "publisher": "Indian Infrastructure",
+        "url": "https://indianinfrastructure.com/2026/04/08/expanding-operations-key-trends-driving-mining-sector-growth/",
+        "date": "2026-04",
+        "scope": "India",
+        "metric": "Mining sector operational growth trends"
+      },
+      {
+        "title": "India Metals & Mining Sector Outlook 2035",
+        "publisher": "MNC Group",
+        "url": "https://www.mnclgroup.com/indias-metals-mining-sector-a-powerhouse-in-making",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Sector growth and investment outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Critical mineral recycling and battery material recovery infrastructure",
+        "description": "EV and battery manufacturers lack organized recycling infrastructure to recover lithium, cobalt, and nickel from used batteries and scrap in India.",
+        "sources": [
+          {
+            "title": "Recycling, Not Mining, Is India's Fastest Route To Critical Minerals: NITI Aayog",
+            "publisher": "NITI Aayog (via Ground Report)",
+            "url": "https://www.groundreport.in/latest/recycling-not-mining-is-indias-fastest-route-to-critical-minerals-niti-aayog/",
+            "date": "2025",
+            "scope": "India",
+            "metric": "Recycling identified as fastest route to critical mineral security vs. new mining"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The IEA's Electricity 2026 report and CEA data indicate India's electricity demand is surging, with the IEA forecasting around 6.4% annual demand growth, even as S&P Global notes some short-term demand stalling alongside continued capacity additions.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "CEA's 20th Electric Power Survey Midterm Review projects India's power capacity to roughly double to 1,121 GW by 2035-36, with solar leading the energy transition, and peak power demand projected to reach 459 GW by 2035-36.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Grid strain and reliability challenges amid rapid renewable integration",
+      "Demand volatility",
+      "Financial stress in state power distribution utilities"
+    ],
+    "opportunities": [
+      "Large-scale solar and renewable capacity expansion",
+      "Grid modernization investment",
+      "Rising industrial and data-center electricity demand"
+    ],
+    "sources": [
+      {
+        "title": "India's power capacity to double to 1,121 GW by 2035-36 as solar leads energy transition: CEA's 20th Electric Power Survey Midterm Review",
+        "publisher": "Down To Earth",
+        "url": "https://www.downtoearth.org.in/energy/indias-power-capacity-to-double-to-1121-gw-by-2035-36-as-solar-leads-energy-transition-ceas-20th-electric-power-survey-midterm-review",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Power capacity and demand projections"
+      },
+      {
+        "title": "CEA Projects India's Peak Power Demand to Reach 459 GW by 2035-36",
+        "publisher": "Mercom India",
+        "url": "https://www.mercomindia.com/cea-projects-indias-peak-power-demand-to-reach-459-gw-by-2035-36",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Peak power demand forecast"
+      },
+      {
+        "title": "Demand – Electricity 2026",
+        "publisher": "IEA",
+        "url": "https://www.iea.org/reports/electricity-2026/demand",
+        "date": "2026",
+        "scope": "global",
+        "metric": "Electricity demand growth forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rooftop solar financing for MSME commercial-industrial consumers",
+        "description": "MSME commercial and industrial power consumers lack financing options for rooftop solar, leaving an estimated 15 GW of MSME rooftop solar potential unrealized.",
+        "sources": [
+          {
+            "title": "The rooftop solar commercial & industrial market in India",
+            "publisher": "IEEFA",
+            "url": "https://ieefa.org/resources/rooftop-solar-commercial-industrial-market-india",
+            "date": "2025",
+            "scope": "India",
+            "metric": "MSME rooftop solar potential ~15 GW; MSMEs ~50% of industrial electricity consumption"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "MoSPI's Q1 FY2026-27 GDP estimates show 'Electricity, gas, water supply and other utility services' GVA expanded 8.9% year-on-year (April-June 2026), among the fastest-growing sectors in the quarter alongside continued installed power capacity growth to 542.36 GW as of May 2026 per IBEF.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBEF's power sector overview cites government projections of power requirement rising to 817 GW by 2030 and renewable energy's share of capacity rising from 18% to 44% by 2029-30, alongside a cited Rs 42,00,000 crore investment pipeline through 2030 for utility infrastructure build-out.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Grid strain and reliability challenges amid rapid renewable integration",
+      "Financial stress in state power distribution utilities",
+      "High capital intensity of utility infrastructure upgrades"
+    ],
+    "opportunities": [
+      "Large-scale power capacity expansion toward 817 GW by 2030",
+      "Renewable energy share of utilities rising toward 44% by 2029-30",
+      "Investment pipeline of roughly Rs 42 lakh crore for utility infrastructure"
+    ],
+    "sources": [
+      {
+        "title": "India's Q1 GDP surges 7.8% as strong services sector & double digit capex boost economic momentum",
+        "publisher": "Business Today",
+        "url": "https://www.businesstoday.in/india/story/indias-q1-gdp-surges-7-8-as-strong-services-sector-double-digit-capex-boost-economic-momentum-552302-2026-08-31",
+        "date": "2026-08",
+        "scope": "India",
+        "metric": "Electricity, gas, water supply and utility services GVA growth"
+      },
+      {
+        "title": "Power Sector in India: Trends in Electricity Generation",
+        "publisher": "IBEF",
+        "url": "https://www.ibef.org/industry/power-sector-india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Power capacity, demand and investment projections to 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Functional rural tap water delivery (as distinct from tap installation) in Bihar, UP, Sikkim, Nagaland",
+        "description": "Rural households in Bihar, UP, Sikkim, and Nagaland lack reliable functional tap water despite having piped connections installed under Jal Jeevan Mission.",
+        "sources": [
+          {
+            "title": "Jal Jeevan Mission - Coverage Versus Functionality in Water Supply",
+            "publisher": "Vajiram & Ravi (citing Jal Shakti Ministry / CAG data)",
+            "url": "https://vajiramandravi.com/current-affairs/jal-jeevan-mission-coverage/",
+            "date": "2025",
+            "scope": "India",
+            "metric": "98% rural tap connection vs ~75% reliable functional supply nationally; Bihar ~61% functional flow"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "India's Index of Industrial Production (IIP) growth accelerated to 6.7% in July 2026 led by manufacturing and electricity, though it had moderated to 4.8% in January 2026, indicating some month-to-month volatility.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "India-briefing's 2026 manufacturing tracker and related industry data point to continued expansion of manufacturing output, supported by production-linked incentive schemes and rising plant investment (e.g. 7.8% output growth reported in June 2026).",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "PMI volatility and periodic slowdowns",
+      "Global trade and tariff uncertainty",
+      "Input cost and supply chain pressures"
+    ],
+    "opportunities": [
+      "Production-linked incentive (PLI) scheme adoption",
+      "China+1 supply chain diversification",
+      "Rising domestic and export manufacturing investment"
+    ],
+    "sources": [
+      {
+        "title": "India's IIP Growth Accelerates to 6.7% in July 2026",
+        "publisher": "Indexbox",
+        "url": "https://www.indexbox.io/blog/indias-iip-growth-accelerates-to-67-in-july-2026/",
+        "date": "2026-07",
+        "scope": "India",
+        "metric": "Index of Industrial Production growth"
+      },
+      {
+        "title": "India's IIP Growth Moderates to 4.8% in January 2026",
+        "publisher": "Canara Bank",
+        "url": "https://www.canarabank.bank.in/documents/d/guest/iip-january-2026",
+        "date": "2026-01",
+        "scope": "India",
+        "metric": "IIP growth"
+      },
+      {
+        "title": "India Manufacturing Output Grows 7.8% in June 2026",
+        "publisher": "IMARC Engineering",
+        "url": "https://www.imarcengineering.com/news/india-manufacturing-output-growth-june-2026-plant-investment",
+        "date": "2026-06",
+        "scope": "India",
+        "metric": "Manufacturing output growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable/accredited product testing & certification for MSME manufacturers-exporters",
+        "description": "MSME manufacturers face certification costs of Rs 15-20 lakh upfront under India's Quality Control Orders, making compliance and imports commercially unviable for smaller firms.",
+        "sources": [
+          {
+            "title": "Govt Should Cap Charges Of Product Testing Under Quality Control Order: GTRI",
+            "publisher": "Global Trade Research Initiative (GTRI), via ETV Bharat",
+            "url": "https://www.etvbharat.com/en/business/government-should-cap-charges-of-product-testing-under-quality-control-order-gtri-enn26041403156",
+            "date": "2026-04-14",
+            "scope": "India",
+            "metric": "Certification expenses for smaller firms can reach Rs 15-20 lakh upfront under Quality Control Orders"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "India's FY2026-27 union budget allocated INR12.2 trillion for capital expenditure, boosting construction activity, and industry coverage describes the sector entering 'a phase of rapid execution' driven by record infrastructure capex and demand from semiconductors and GCC office space.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Market research forecasts (ResearchAndMarkets/BusinessWire) project average annual construction market growth of around 5.9% through 2027, supported by continued investment in transport, electricity, housing and industrial infrastructure.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Execution delays on large infrastructure projects",
+      "Financing and land acquisition bottlenecks",
+      "Cost inflation in materials"
+    ],
+    "opportunities": [
+      "Record government capex allocation",
+      "Semiconductor and GCC-driven commercial construction demand",
+      "Urban infrastructure and housing expansion"
+    ],
+    "sources": [
+      {
+        "title": "India Construction Market Analysis and Outlook to 2030 | FY2026-27 Budget Allocates INR12.2 Trillion for Capital Expenditure",
+        "publisher": "GlobalData via Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/articles/india-construction-market-analysis-outlook-153500638.html",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Capital expenditure and construction market outlook"
+      },
+      {
+        "title": "Building at Scale: Construction sector enters a phase of rapid execution",
+        "publisher": "Indian Infrastructure",
+        "url": "https://indianinfrastructure.com/2026/02/11/building-at-scale-construction-sector-enters-a-phase-of-rapid-execution/",
+        "date": "2026-02",
+        "scope": "India",
+        "metric": "Construction sector activity trends"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Structured, employer-linked skilling for site-level construction trades",
+        "description": "Construction site employers lack structured, employer-linked training programs to supply skilled masons, electricians, and equipment operators.",
+        "sources": [
+          {
+            "title": "By 2030, India's construction industry is expected to create over 10 crore employment, according to a report",
+            "publisher": "CareerIndia",
+            "url": "https://careerindia.com/news/by-2030-indias-construction-industry-is-expected-to-create-over-10-crore-employment-according-to-036517.html",
+            "date": "2025",
+            "scope": "India",
+            "metric": "10 crore (100M) new construction jobs projected by 2030"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "CBRE India's 2026 Real Estate Investment Market Outlook and Residential Market Outlook, along with Cushman & Wakefield's 2026 India Outlook, indicate continued growth in Indian real estate investment and residential demand into 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Market research firms project the India real estate market growing at a CAGR of roughly 8.7% through the early 2030s (Expert Market Research; Grand View Research), driven by urbanization, commercial office demand and residential housing growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Affordability pressures in residential housing",
+      "Interest rate sensitivity",
+      "Regulatory and approval delays"
+    ],
+    "opportunities": [
+      "Growing commercial office demand from GCCs",
+      "Warehousing and logistics real estate expansion",
+      "Rising residential demand in tier-2 cities"
+    ],
+    "sources": [
+      {
+        "title": "India Outlook 2026: A Comprehensive Real Estate Perspective",
+        "publisher": "Cushman & Wakefield",
+        "url": "https://www.cushmanwakefield.com/en/india/insights/india-outlook",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Real estate market outlook"
+      },
+      {
+        "title": "India Real Estate Investment Market Outlook 2026",
+        "publisher": "CBRE India",
+        "url": "https://www.cbre.co.in/insights/reports/india-real-estate-investment-market-outlook-2026",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Real estate investment outlook"
+      },
+      {
+        "title": "India Real Estate Market Size, Share & Growth Report, CAGR 8.70%",
+        "publisher": "Expert Market Research",
+        "url": "https://www.expertmarketresearch.com/reports/india-real-estate-market",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Real estate market CAGR forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Economically Weaker Section (EWS) and Low Income Group (LIG) urban affordable housing",
+        "description": "Economically weaker and low-income urban households lack access to affordable formal housing, facing a projected shortfall of 30 million homes by 2030.",
+        "sources": [
+          {
+            "title": "India Affordable Housing 2025",
+            "publisher": "Knight Frank",
+            "url": "https://content.knightfrank.com/research/3035/documents/en/india-affordable-housing-2025-12385.pdf",
+            "date": "2025",
+            "scope": "India",
+            "metric": "Projected 30 million unit affordable housing deficit by 2030"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "SME Futures' auto sector outlook for 2026 describes a demand recovery underway with EV maturity and premiumisation driving India's next automotive growth phase, following a soft prior year.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBEF's electric vehicle industry overview and Grand View Research's India EV market outlook to 2033 both describe sustained double-digit growth in EV adoption as policy incentives (FAME/PLI) and charging infrastructure expand.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "EV charging infrastructure gaps",
+      "Consumer affordability and financing constraints",
+      "Battery raw-material import dependence"
+    ],
+    "opportunities": [
+      "Electric vehicle adoption and premiumisation",
+      "Government FAME/PLI incentive schemes",
+      "Growing two-wheeler and commercial EV segments"
+    ],
+    "sources": [
+      {
+        "title": "Auto sector outlook 2026: Demand recovery, EV maturity and premiumisation to drive India's next growth phase",
+        "publisher": "SME Futures",
+        "url": "https://smefutures.com/auto-sector-outlook-2026-demand-recovery-ev-maturity-and-premiumisation-to-drive-indias-next-growth-phase/",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Automotive sector demand and EV growth outlook"
+      },
+      {
+        "title": "Electric Vehicle Industry in India: Growth, Trends & Policy",
+        "publisher": "IBEF",
+        "url": "https://www.ibef.org/industry/electric-vehicle",
+        "date": "2026",
+        "scope": "India",
+        "metric": "EV industry growth trends"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "EV fast-charging and battery-swapping infrastructure outside major metros",
+        "description": "Commercial fleet operators and intercity travelers outside major metros lack access to EV fast-charging and battery-swapping infrastructure, with only 52 public charging points per million people nationally.",
+        "sources": [
+          {
+            "title": "Road-dependence, poor EV charging infra key hurdles to India's net-zero transport push—NITI Aayog",
+            "publisher": "ThePrint",
+            "url": "https://theprint.in/economy/road-dependence-poor-ev-charging-infra-key-hurdles-to-indias-net-zero-transport-push-niti-aayog/2852013/",
+            "date": "2025",
+            "scope": "India",
+            "metric": "52 public charging points per million people vs 2,540 (China) and 580 (US)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "CBRE India's Logistics Market Outlook 2026 and Brickwork Ratings' March 2026 sector report point to continued warehousing and freight demand growth, supported by e-commerce expansion and manufacturing-led supply chain investment.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Market research firms (IMARC, Grand View Research) project the India logistics market to keep expanding through the early 2030s, driven by e-commerce, GST-enabled warehousing consolidation and infrastructure investment (e.g. dedicated freight corridors).",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Fragmented trucking and warehousing infrastructure",
+      "Fuel cost and freight rate volatility",
+      "Last-mile delivery cost pressures"
+    ],
+    "opportunities": [
+      "E-commerce and quick-commerce driven warehousing demand",
+      "Dedicated freight corridor and multimodal logistics investment",
+      "3PL and cold-chain expansion"
+    ],
+    "sources": [
+      {
+        "title": "India Logistics Market Outlook 2026",
+        "publisher": "CBRE India",
+        "url": "https://www.cbre.co.in/insights/reports/india-logistics-market-outlook-2026",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Logistics market outlook"
+      },
+      {
+        "title": "Logistics Sector in India",
+        "publisher": "Brickwork Ratings",
+        "url": "https://www.brickworkratings.com/Research/LogisticsSector_in_India_BWR_March-2026.pdf",
+        "date": "2026-03",
+        "scope": "India",
+        "metric": "Logistics sector performance and outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Organized, technology-enabled warehousing for tier-2/3 cities",
+        "description": "Businesses in tier-2 and tier-3 cities lack organized, technology-enabled warehousing capacity despite being India's fastest-growing logistics demand centers.",
+        "sources": [
+          {
+            "title": "Assessment of Logistics Cost in India",
+            "publisher": "Department for Promotion of Industry and Internal Trade (DPIIT), Government of India",
+            "url": "https://www.dpiit.gov.in/static/uploads/2025/07/b6c9db15ce083fd10caa9787bf8a281f.pdf",
+            "date": "2025",
+            "scope": "India",
+            "metric": "Logistics cost = 7.97% of GDP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "MoSPI's Q1 FY2026-27 GDP estimates show the 'Trade, Hotels, Transport, Communication and Services related to Broadcasting and Storage' category (which includes wholesale and distributive trade) advancing 8.5% year-on-year in constant-price GVA for April-June 2026, indicating strong near-term momentum in trade and distribution activity.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "6Wresearch's India Wholesale Market report projects the sector growing at a CAGR of approximately 6.5% over 2025-2031, driven by rapid urbanization, rising consumer demand and expanding e-commerce-linked wholesale distribution channels.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Fragmented, largely unorganized wholesale trade infrastructure",
+      "Margin pressure from e-commerce disintermediation of traditional distributors",
+      "Logistics and working-capital financing constraints for smaller wholesalers"
+    ],
+    "opportunities": [
+      "E-commerce platform integration with wholesale distribution",
+      "GST-driven formalization and consolidation of trade channels",
+      "Rising consumer demand and urbanization expanding distribution networks"
+    ],
+    "sources": [
+      {
+        "title": "India's Q1 GDP surges 7.8% as strong services sector & double digit capex boost economic momentum",
+        "publisher": "Business Today",
+        "url": "https://www.businesstoday.in/india/story/indias-q1-gdp-surges-7-8-as-strong-services-sector-double-digit-capex-boost-economic-momentum-552302-2026-08-31",
+        "date": "2026-08",
+        "scope": "India",
+        "metric": "Trade, hotels, transport and communication services GVA growth"
+      },
+      {
+        "title": "India Wholesale Market | Size, Share, Volume & Trends 2031",
+        "publisher": "6Wresearch",
+        "url": "https://www.6wresearch.com/industry-report/india-wholesale-market-2020-2026",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Wholesale market CAGR forecast 2025-2031"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Kirana / neighborhood store supply chain digitization",
+        "description": "India's ~13 million kirana stores lack digital point-of-sale and supply-chain tools, with only 3% tech-enabled and most run by a single person.",
+        "sources": [
+          {
+            "title": "Modernization of Kirana Stores in India",
+            "publisher": "Invest India",
+            "url": "https://www.investindia.gov.in/team-india-blogs/modernization-kirana-stores-india",
+            "date": "2021",
+            "scope": "India",
+            "metric": "3% of ~13M kirana stores tech-enabled (2018); 98% single-person operated"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "KPMG's Indian Retail Sector report for Q1 FY26 and multiple market trackers indicate continued expansion of India's retail sector in 2026, spanning organized retail, e-commerce and traditional trade formats.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Market research firms (Expert Market Research, IMARC) project the India retail market growing at a CAGR of around 11.4% into the 2030s, driven by rising incomes, urbanization and e-commerce penetration.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Margin pressure from e-commerce discounting",
+      "Fragmented unorganized retail competition",
+      "Consumer spending sensitivity to inflation"
+    ],
+    "opportunities": [
+      "E-commerce and quick-commerce growth",
+      "Rising organized retail penetration",
+      "Tier-2/3 city consumption growth"
+    ],
+    "sources": [
+      {
+        "title": "The Indian Retail Sector Q1FY26",
+        "publisher": "KPMG",
+        "url": "https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/10/the-indian-retail-sector-q1fy26.pdf",
+        "date": "2025-10",
+        "scope": "India",
+        "metric": "Retail sector performance"
+      },
+      {
+        "title": "India Retail Market Size, Share & Growth Report, CAGR 11.40%",
+        "publisher": "Expert Market Research",
+        "url": "https://www.expertmarketresearch.com/reports/india-retail-market",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Retail market growth forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "D2C brand logistics/fulfillment for tier 2-3 city consumers",
+        "description": "D2C consumers in tier-2 and tier-3 cities lack adequate logistics and fulfillment infrastructure to match rapidly growing order volumes in those markets.",
+        "sources": [
+          {
+            "title": "India's direct-to-consumer (D2C) growth is powered by Tier 2, 3 cities",
+            "publisher": "IBEF (citing Unicommerce report)",
+            "url": "https://www.ibef.org/news/india-s-direct-to-consumer-d2c-growth-is-powered-by-tier-2-3-cities-with-66-new-orders-in-fy26",
+            "date": "2026-04-21",
+            "scope": "India",
+            "metric": "66% of new D2C orders from Tier 2/3 cities in FY26; 33% order volume growth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IBEF's financial services industry overview and industry coverage (Entrepreneur India, Chambers Fintech 2026 guide) describe continued expansion of India's banking and fintech sector into 2026, with AI adoption and tightening RBI compliance scrutiny shaping growth alongside rising digital payments volumes.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBEF's banking-in-India overview describes a sustained multi-year growth trend for the sector, underpinned by credit growth, UPI-led digital payments expansion and continued fintech innovation, though regulatory scrutiny is increasing.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "RBI regulatory scrutiny and compliance tightening on fintechs",
+      "Funding drought/valuation pressure in fintech startups",
+      "Asset quality risk in retail lending"
+    ],
+    "opportunities": [
+      "UPI and digital payments volume growth",
+      "AI-driven financial services innovation",
+      "Credit penetration growth in underserved segments"
+    ],
+    "sources": [
+      {
+        "title": "Discover the Growth of India's Financial Services Industry",
+        "publisher": "IBEF",
+        "url": "https://www.ibef.org/industry/financial-services-india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Financial services sector growth"
+      },
+      {
+        "title": "Fintech 2026 - India",
+        "publisher": "Chambers and Partners",
+        "url": "https://practiceguides.chambers.com/practice-guides/fintech-2026/india/trends-and-developments",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Fintech regulatory and growth trends"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Women-owned MSMEs seeking formal working-capital credit",
+        "description": "Women-owned MSMEs seeking formal working-capital credit face a 35% credit gap, higher than male-owned enterprises, and are pushed toward informal lenders.",
+        "sources": [
+          {
+            "title": "SIDBI MSME Credit Gap Report",
+            "publisher": "Small Industries Development Bank of India (SIDBI)",
+            "url": "https://www.aninews.in/news/business/indias-msmes-face-credit-gap-of-rs-30-lakh-crore-women-owned-businesses-see-highest-shortfall-report20250519083324/",
+            "date": "2025-05",
+            "scope": "India",
+            "metric": "Addressable MSME credit gap by owner gender and enterprise type"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Swiss Re's India economic and insurance market outlook 2026-2030 (January 2026) forecasts India's insurance market growth to outpace other major insurance markets globally, with premium growth continuing to exceed GDP growth per Insurance Business coverage of the report.",
+      "evidenceDate": "2026-01"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Swiss Re Institute's 2026-2030 outlook and IBEF's insurance sector overview describe a sustained multi-year growth trajectory for Indian insurance, driven by rising insurance penetration, regulatory reform (IRDAI) and expanding life and non-life demand.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Low insurance penetration relative to potential",
+      "Regulatory reform transition costs",
+      "Distribution cost and profitability pressures"
+    ],
+    "opportunities": [
+      "Premium growth outpacing GDP growth",
+      "IRDAI regulatory reforms supporting market development",
+      "Health and life insurance penetration growth"
+    ],
+    "sources": [
+      {
+        "title": "India's insurance market set to shine as growth forecast outpaces other major insurance markets",
+        "publisher": "Swiss Re",
+        "url": "https://www.swissre.com/media/press-release/pr-20260119-india-insurance-market-growth-outlook.html",
+        "date": "2026-01",
+        "scope": "India",
+        "metric": "Insurance market growth forecast vs global peers"
+      },
+      {
+        "title": "India's insurance sector on track to outpace GDP growth - report",
+        "publisher": "Insurance Business",
+        "url": "https://www.insurancebusinessmag.com/asia/news/life-insurance/indias-insurance-sector-on-track-to-outpace-gdp-growth--report-578438.aspx",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Insurance premium growth vs GDP growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Simple, low-premium protection products for rural low-income households",
+        "description": "Low-income rural households lack access to simple, low-premium insurance protection products, with fewer than 20% of villages served by formal insurance channels.",
+        "sources": [
+          {
+            "title": "Insurance for All by 2047: What India needs to fix to meet the goal",
+            "publisher": "Business Standard",
+            "url": "https://www.business-standard.com/economy/analysis/insurance-for-all-2047-india-irda-roadmap-penetration-gap-126042800528_1.html",
+            "date": "2026-04-28",
+            "scope": "India",
+            "metric": "Insurance penetration fell to 3.7% in FY25 (vs 7.3% global average); <20% of villages have formal insurance access"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "NASSCOM's Technology Sector Strategic Review 2026 projects India's tech industry revenue to reach roughly $315 billion in FY26, up about 6.1% year-on-year, indicating continued moderate growth in the IT/software sector.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "NASSCOM and IBEF data show the Indian IT sector on a sustained long-term growth trajectory, having recently crossed $300 billion in revenue, with expansion driven by digital transformation, GCC growth and global technology services demand.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Global IT spending slowdown risk",
+      "Margin pressure from wage and competitive pressures",
+      "AI-driven disruption to traditional services models"
+    ],
+    "opportunities": [
+      "Global Capability Centre (GCC) expansion in India",
+      "AI and digital transformation services demand",
+      "Product and platform engineering growth"
+    ],
+    "sources": [
+      {
+        "title": "India tech industry revenue to touch $315B in FY26",
+        "publisher": "YourStory",
+        "url": "https://yourstory.com/enterprise-story/2026/02/india-tech-industry-revenue-to-touch-315-billion-in-fy26-nasscom",
+        "date": "2026-02",
+        "scope": "India",
+        "metric": "IT industry revenue forecast"
+      },
+      {
+        "title": "Technology Sector in India: Strategic Review - 2026",
+        "publisher": "NASSCOM",
+        "url": "https://nasscom.in/knowledge-center/publications/technology-sector-india-strategic-review-2026",
+        "date": "2026",
+        "scope": "India",
+        "metric": "IT sector revenue and growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Tech SMEs needing agentic/advanced AI development capability",
+        "description": "Tech SMEs seeking agentic and advanced AI development capability lack access to trained talent, with only 15-20% of digital tech SMEs holding these skills.",
+        "sources": [
+          {
+            "title": "Transforming India's Technology SMEs for a Digital Future",
+            "publisher": "NASSCOM",
+            "url": "https://nasscom.in/knowledge-center/publications/transforming-indias-technology-smes-digital-future-navigating-ai",
+            "date": "2025",
+            "scope": "India",
+            "metric": "15-20% of tech SMEs have advanced/agentic AI skills vs 50%+ with commodity cloud skills"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "NASSCOM-BCG reporting (via IndiaAI) projects India's AI market to touch USD 17 billion by 2027, and NASSCOM's AI Adoption Index shows notable growth in AI presence within Indian organizations, indicating rapid near-term expansion.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's India AI market outlook to 2033 and NASSCOM's Technology Sector Strategic Review 2026 both describe AI as a structural long-term growth driver embedded across India's broader technology sector.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "AI talent and skilling gaps",
+      "Data privacy and governance regulatory uncertainty",
+      "Compute/GPU infrastructure cost and availability constraints"
+    ],
+    "opportunities": [
+      "Rising enterprise AI adoption across Indian organizations",
+      "AI integrated into GCC and IT services offerings",
+      "Government AI mission and compute infrastructure investment"
+    ],
+    "sources": [
+      {
+        "title": "Nasscom-BCG report says India's AI market is expected to touch USD 17 billion by 2027",
+        "publisher": "IndiaAI (Government of India)",
+        "url": "https://indiaai.gov.in/news/nasscom-bcg-report-says-india-s-ai-market-is-expected-to-touch-17-billion-usd-by-2027",
+        "date": "2026",
+        "scope": "India",
+        "metric": "AI market size forecast"
+      },
+      {
+        "title": "The NASSCOM AI Adoption Index",
+        "publisher": "NASSCOM",
+        "url": "https://www.nasscom.in/knowledge-center/publications/nasscom-ai-adoption-index",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Enterprise AI adoption growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "AI/ML upskilling for mid-size tech employers outside large GCCs/IT majors",
+        "description": "Mid-size tech employers outside large GCCs and IT majors lack access to trained AI/ML professionals, as India's AI talent pool is projected to reach only 1.25 million by 2027.",
+        "sources": [
+          {
+            "title": "India's AI Talent Pool to Grow to 1.25 Million by 2027: NASSCOM-Deloitte India Report",
+            "publisher": "NASSCOM / Deloitte India",
+            "url": "https://indiaai.gov.in/article/india-s-ai-talent-pool-to-grow-to-1-25-million-by-2027-nasscom-deloitte-india-report",
+            "date": "2025",
+            "scope": "India",
+            "metric": "AI talent pool projected to reach only 1.25M by 2027"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Industry market trackers report India's data center market is undergoing a capex boom of roughly INR2.3 trillion through 2026-2030 driven by hyperscale and AI compute demand, per Eninrac coverage, alongside continued growth in enterprise data analytics adoption.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's India data analytics market outlook to 2033 and expert market research on data centers both project continued double-digit CAGR growth through the early 2030s, driven by digitalization, cloud adoption and AI workloads.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Power availability and energy cost constraints for data centers",
+      "Data localization and privacy compliance costs",
+      "Skilled data-science talent shortages"
+    ],
+    "opportunities": [
+      "Hyperscale and AI-driven data center capex expansion",
+      "Rising enterprise adoption of analytics and BI tools",
+      "Cloud migration driving analytics infrastructure demand"
+    ],
+    "sources": [
+      {
+        "title": "India Data Center Market 2026-2030 | ₹2.3 Trillion Boom & Hyperscale Outlook",
+        "publisher": "Eninrac",
+        "url": "https://eninrac.com/horizon/the-c-suite-intelligence/india-data-center-market-2026-2030-23-trillion-capex-boom-hyperscale-growth-investment-outlook/",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Data center capex and growth outlook"
+      },
+      {
+        "title": "India Data Analytics Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/data-analytics-market/india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Data analytics market CAGR forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "MSME big-data/analytics adoption tools",
+        "description": "Indian MSMEs face high perceived risk and low uptake of big-data analytics due to cost, skill and infrastructure barriers, leaving affordable analytics tooling unaddressed.",
+        "sources": [
+          {
+            "title": "Risks in Adoption and Implementation of Big Data Analytics: A Case of Indian Micro, Small, and Medium Enterprises (MSMEs)",
+            "publisher": "IGI Global / Journal of Risk and Contingency Management",
+            "url": "https://www.igi-global.com/article/risks-in-adoption-and-implementation-of-big-data-analytics/284440",
+            "date": "2021",
+            "scope": "India",
+            "metric": "Study identifies financial, technical and skill-related risk factors limiting adoption among Indian MSMEs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "MarketsandMarkets' India Cybersecurity Market report (2025-2030) and Grand View Research's India cyber security market outlook to 2033 both describe continued strong growth in cybersecurity spending as enterprises and government respond to rising digital threats.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Multiple industry market-research trackers (Mordor Intelligence, Coherent Market Insights, Grand View Research) project sustained double-digit CAGR growth for India's cybersecurity market through the early-to-mid 2030s, driven by regulatory mandates and digital infrastructure expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rising sophistication and frequency of cyberattacks",
+      "Shortage of skilled cybersecurity professionals",
+      "Compliance cost burden for smaller enterprises"
+    ],
+    "opportunities": [
+      "National Cyber Security Policy and regulatory mandates driving adoption",
+      "Growing enterprise and government security spending",
+      "Cloud and critical-infrastructure security demand"
+    ],
+    "sources": [
+      {
+        "title": "India Cybersecurity Market Report 2025-2030, by Solution, Security Type, Tech",
+        "publisher": "MarketsandMarkets",
+        "url": "https://www.marketsandmarkets.com/Market-Reports/india-cybersecurity-market-80805677.html",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Cybersecurity market size and growth forecast"
+      },
+      {
+        "title": "India Cyber Security Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/cyber-security-market/india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Cybersecurity market CAGR forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Micro and small enterprises among India's 60+ million MSMEs lacking basic cyber protections",
+        "description": "Micro and small enterprises among India's 60+ million MSMEs lack basic cybersecurity protections such as multi-factor authentication, staff, or training budgets.",
+        "sources": [
+          {
+            "title": "Securing the backbone: Why India's cyber resilience begins with its small businesses",
+            "publisher": "World Economic Forum",
+            "url": "https://www.weforum.org/stories/2025/11/securing-backbone-why-india-cyber-resilience-begins-with-small-businesses/",
+            "date": "2025-11",
+            "scope": "India",
+            "metric": "MSME count, employment, and CERT-In incident volume/growth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "TRAI data reported total telecom subscriber base rising to about 134 crore (1.34 billion) by May 2026, with Airtel leading subscriber growth, indicating continued sector expansion.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "TRAI's Quarterly Performance Indicator Reports and IBEF's telecom industry overview describe an ongoing multi-year growth trend in Indian telecom services driven by data consumption growth and 5G rollout.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "High capital intensity of 5G network rollout",
+      "Regulatory and spectrum cost pressures",
+      "Intense price competition among operators"
+    ],
+    "opportunities": [
+      "5G adoption and data consumption growth",
+      "Rural connectivity expansion",
+      "Enterprise and IoT connectivity services"
+    ],
+    "sources": [
+      {
+        "title": "Telecom Subscriber Base Rises to 134 Cr in May 2026; Airtel Leads Growth: Trai Data",
+        "publisher": "Outlook Business",
+        "url": "https://www.outlookbusiness.com/industry/telecom-subscriber-base-rises-to-134-cr-in-may-2026-airtel-leads-growth-trai-data",
+        "date": "2026-05",
+        "scope": "India",
+        "metric": "Telecom subscriber base growth"
+      },
+      {
+        "title": "The Indian Telecom Services Performance Indicator Report",
+        "publisher": "TRAI",
+        "url": "https://trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
+        "date": "2026-06",
+        "scope": "India",
+        "metric": "Telecom sector performance indicators"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Independent personal mobile internet access for women",
+        "description": "Women without independently owned mobile devices lack affordable personal internet access, with only 37% of Indian women using mobile internet versus 53% of men.",
+        "sources": [
+          {
+            "title": "Decoded: Women and the Future of Digital Work in India",
+            "publisher": "Gender x Digital (GxD) hub, LEAD at Krea University, with The/Nudge Institute",
+            "url": "https://yourstory.com/socialstory/2025/11/report-highlights-gender-gaps-in-indias-digital-workforce",
+            "date": "November 2025",
+            "scope": "India",
+            "metric": "37% of women vs 53% of men use mobile internet; ~1/5 of women rely on borrowed devices"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IBEF's coverage of rising FDI inflows into India's semiconductor industry and India Briefing's overview of new fabrication-plant investment indicate an accelerating near-term build-out of India's semiconductor manufacturing base in 2026, supported by government incentives.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Mordor Intelligence's India semiconductor market outlook (2025-2031) and Mitsui's 2026 report on India's semiconductor industry describe a sustained multi-year build-out of fabrication, assembly and design capacity as India targets a larger share of global chip production.",
+      "evidenceDate": "2026-01"
+    },
+    "risks": [
+      "High capital cost and long lead times for fab construction",
+      "Global semiconductor supply chain competition",
+      "Dependence on foreign technology partners"
+    ],
+    "opportunities": [
+      "Government semiconductor mission incentives attracting FDI",
+      "New fabrication and OSAT plant investments",
+      "Rising domestic electronics and computing demand"
+    ],
+    "sources": [
+      {
+        "title": "Rising FDI investments expediting the Semiconductor industry in India",
+        "publisher": "IBEF",
+        "url": "https://www.ibef.org/blogs/rising-fdi-investments-expediting-the-semiconductor-industry-in-india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "FDI investment growth in semiconductors"
+      },
+      {
+        "title": "Outlook for India's Semiconductor Industry",
+        "publisher": "Mitsui & Co. Global Strategic Studies Institute",
+        "url": "https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/afieldfile/2026/01/09/2511_h_giri_e.pdf",
+        "date": "2026-01",
+        "scope": "India",
+        "metric": "Semiconductor industry growth outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Specialized fab/ATMP-trained workforce pipelines",
+        "description": "Semiconductor fabrication and ATMP facilities lack a specialized, trained workforce pipeline amid a projected global shortage of one million semiconductor professionals by 2030.",
+        "sources": [
+          {
+            "title": "World Projected to Face Shortage of One Million Semiconductor Professionals by 2030",
+            "publisher": "All India Radio / News on Air (Government of India)",
+            "url": "https://www.newsonair.gov.in/world-projected-to-face-shortage-of-one-million-semiconductor-professionals-by-2030-ashwini-vaishnaw",
+            "date": "2025-08-29",
+            "scope": "India/Global",
+            "metric": "Global shortfall of 1 million semiconductor professionals projected by 2030"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Robotics Center of Silicon Valley's 'State of Robotics 2026 — India' report and industry coverage describe India as one of the fastest-growing robotics markets in Asia in 2026, driven by manufacturing automation adoption.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's India industrial robotics market outlook to 2033 projects continued strong CAGR growth, consistent with automate.org's industry analysis of India's expanding industrial automation footprint.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High upfront automation capital costs for SMEs",
+      "Skilled workforce gap for robotics deployment and maintenance",
+      "Import dependence on foreign robotics components"
+    ],
+    "opportunities": [
+      "Manufacturing automation adoption under PLI-driven industrial expansion",
+      "Growing warehouse and logistics automation demand",
+      "Rising domestic robotics component manufacturing"
+    ],
+    "sources": [
+      {
+        "title": "India Robotics Market 2026: Fastest Growing in Asia",
+        "publisher": "Robotics Center of Silicon Valley (SVRC)",
+        "url": "https://www.roboticscenter.ai/robotics-market-india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Robotics market growth ranking"
+      },
+      {
+        "title": "India Industrial Robotics Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/industrial-robotics-market/india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Industrial robotics market CAGR forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "SME/small-manufacturer robotics automation",
+        "description": "India's industrial robotics growth is concentrated in large automotive and electronics OEMs, while small and mid-size manufacturers lack accessible, low-cost automation suited to their scale.",
+        "sources": [
+          {
+            "title": "AI Robotics in Indian Manufacturing: PLI, Automation & Future",
+            "publisher": "Addweb Solution",
+            "url": "https://www.addwebsolution.com/blog/ai-robotics-indian-manufacturing-pli-automation",
+            "date": "2025",
+            "scope": "India",
+            "metric": "PLI-linked robotics/automation investment concentrated in automotive and electronics majors"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "EY-Parthenon's FY26 report on India's healthcare sector notes strong growth and expanding capacity, consistent with market research trackers describing continued expansion of hospital, diagnostics and healthcare services in 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBEF and market research reports describe a sustained multi-year growth trajectory for India's healthcare system, driven by rising healthcare spending, insurance penetration and capacity expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Shortage of healthcare infrastructure and workforce in rural areas",
+      "High out-of-pocket expenditure for patients",
+      "Regulatory and pricing pressures"
+    ],
+    "opportunities": [
+      "Health insurance penetration growth",
+      "Digital health and telemedicine adoption",
+      "Hospital capacity expansion in tier-2/3 cities"
+    ],
+    "sources": [
+      {
+        "title": "India Healthcare Sector FY26 Growth Report",
+        "publisher": "EY-Parthenon via Newkerala",
+        "url": "https://www.newkerala.com/news/a/india-healthcare-sector-registers-strong-fy26-growth-capacity-596.htm",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Healthcare sector growth and capacity"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural and semi-urban patients needing psychiatric/clinical psychology care",
+        "description": "Rural and semi-urban patients needing psychiatric or clinical psychology care lack access to providers, with only about 9,000 practicing psychiatrists against an estimated need of 36,000.",
+        "sources": [
+          {
+            "title": "India's mental health crisis: 197 million need care, few get it",
+            "publisher": "Business Standard",
+            "url": "https://www.business-standard.com/health/197-million-indians-need-mental-health-support-here-s-what-s-missing-125101000277_1.html",
+            "date": "2025-10",
+            "scope": "India",
+            "metric": "Psychiatrist/clinical psychologist workforce counts vs. population need"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Industry sources (ARC Advisory Group, IBEF) describe India's pharmaceutical industry as driving continued growth and global partnerships in 2026, with the country maintaining its position as a major global generics and vaccine supplier.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Market research firms (IMARC, Grand View Research, Mordor Intelligence) project continued growth of the India pharmaceutical market through the early 2030s, supported by generics manufacturing, exports and rising domestic healthcare demand.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "US/EU regulatory compliance and pricing pressure on generics exports",
+      "Raw material (API) import dependence on China",
+      "Price control regulation on domestic formulations"
+    ],
+    "opportunities": [
+      "Global generics and biosimilars export growth",
+      "PLI scheme-driven API manufacturing",
+      "Vaccine and biotech R&D expansion"
+    ],
+    "sources": [
+      {
+        "title": "India's Pharmaceutical Industry: Driving Global Growth and Partnerships",
+        "publisher": "ARC Advisory Group",
+        "url": "https://www.arcweb.com/blog/indias-pharmaceutical-industry-driving-global-growth-partnerships",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Pharmaceutical industry growth and partnerships"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Domestic complex-API manufacturing for generic drug producers",
+        "description": "Domestic generic drug manufacturers lack local complex-API production capacity, sourcing roughly 65% of pharmaceutical APIs and key starting materials from China.",
+        "sources": [
+          {
+            "title": "India Sources 65% of Pharma APIs from China: NITI Aayog",
+            "publisher": "NITI Aayog (via Journal of Supply Chain)",
+            "url": "https://journalofsupplychain.com/news/india-still-leans-on-china-for-65-of-pharma-ingredients-niti-aayog-warns",
+            "date": "2025",
+            "scope": "India",
+            "metric": "~65% of pharma API sourcing dependent on China"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Fortune Business Insights' digital health market report and Grand View Research's India digital health market analysis both indicate strong ongoing growth in telemedicine platforms and mHealth applications through 2026, aligned with rising smartphone-based healthcare adoption.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's India digital health market report (to 2033) and Custom Market Insights project sustained double-digit CAGR growth in digital health and medtech, driven by telemedicine adoption, AI diagnostics and government digital health infrastructure (ABDM).",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Data privacy and health-data regulatory uncertainty",
+      "Digital divide limiting rural telemedicine adoption",
+      "Reimbursement and monetization challenges for digital health startups"
+    ],
+    "opportunities": [
+      "Ayushman Bharat Digital Mission infrastructure expansion",
+      "Telemedicine and mHealth application growth",
+      "AI-enabled diagnostics adoption"
+    ],
+    "sources": [
+      {
+        "title": "Digital Health Market Size, Trends, Growth, Analysis, 2026-2034",
+        "publisher": "Fortune Business Insights",
+        "url": "https://www.fortunebusinessinsights.com/industry-reports/digital-health-market-100227",
+        "date": "2026",
+        "scope": "global with India segment",
+        "metric": "Digital health market growth forecast"
+      },
+      {
+        "title": "India Digital Health Market Size, Share | Industry Report 2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/industry-analysis/india-digital-health-market-report",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Digital health market CAGR forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable audiology/hearing-aid fitting services for elderly",
+        "description": "Elderly Indians with hearing impairment, especially outside major cities, lack access to affordable audiology and hearing-aid fitting services, with only about 5% of those with hearing difficulty using a hearing aid.",
+        "sources": [
+          {
+            "title": "Economic evaluation of hearing aid use and quality of life in older adults with hearing impairment in India",
+            "publisher": "Frontiers in Medical Technology (citing WHO estimates)",
+            "url": "https://www.frontiersin.org/journals/medical-technology/articles/10.3389/fmedt.2026.1800134/full",
+            "date": "2026",
+            "scope": "India",
+            "metric": "Only 5% of older adults with hearing difficulty use hearing aids; ~63 million Indians have significant hearing impairment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IBEF's coverage of India's edtech surge describes continued growth in online education and training adoption into 2026, alongside MarketsandMarkets' India EdTech market forecast to 2030 showing sustained near-term expansion.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBEF's education sector overview and industry market trackers describe long-term structural growth in India's education and edtech sector, driven by rising higher-education enrollment, skilling demand and digital learning adoption.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Edtech funding slowdown and investor caution after prior downturns",
+      "Digital access gaps limiting rural adoption",
+      "Regulatory scrutiny of edtech business practices"
+    ],
+    "opportunities": [
+      "Rising online education and skilling adoption",
+      "Higher education enrollment growth",
+      "Vocational and professional training demand"
+    ],
+    "sources": [
+      {
+        "title": "India's Edtech Surge: Growth in Online Education",
+        "publisher": "IBEF",
+        "url": "https://www.ibef.org/blogs/india-s-edtech-surge-opportunities-in-online-education-and-training",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Edtech and online education growth"
+      },
+      {
+        "title": "India EdTech Market Size, Share & Growth Forecast to 2030",
+        "publisher": "MarketsandMarkets",
+        "url": "https://www.marketsandmarkets.com/blog/ICT/India-EdTech-Market",
+        "date": "2026",
+        "scope": "India",
+        "metric": "EdTech market size forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Outcome-linked employability and placement-readiness programs for non-tier-1 graduates",
+        "description": "Graduates outside top-tier institutions lack structured skilling and placement-readiness programs, with only 54.81% of Indian graduates considered employable.",
+        "sources": [
+          {
+            "title": "Employability among Indian graduates improves to 54.81%: Wheebox report",
+            "publisher": "Business Standard / Wheebox (India Skills Report 2025)",
+            "url": "https://www.business-standard.com/india-news/employability-among-indian-graduates-improves-to-54-81-wheebox-report-124121001152_1.html",
+            "date": "2024-12-10",
+            "scope": "India",
+            "metric": "54.81% graduate employability rate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Industry market-research trackers (Mordor Intelligence, GII Research) covering India's management consulting services market indicate continued growth in demand for consulting, accounting and IT professional services through 2026-2031, though this is drawn primarily from market-sizing reports rather than a named macro data source.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Mordor Intelligence's India Management Consulting Services market report projects the market growing from USD 9.36 billion in 2026 to USD 17.01 billion by 2031, a 12.69% CAGR, driven by digital-transformation spend, ESG/BRSR compliance advisory demand and hybrid consulting engagements tied to India's growing base of global capability centers.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Fee and margin pressure from AI-enabled service delivery",
+      "Talent retention competition among large global consulting firms"
+    ],
+    "opportunities": [
+      "Rising demand for management and IT consulting from GCCs",
+      "Accounting and compliance services growth alongside regulatory complexity",
+      "ESG/BRSR compliance advisory demand"
+    ],
+    "sources": [
+      {
+        "title": "India Management Consulting Services Market Size & Trends",
+        "publisher": "Mordor Intelligence",
+        "url": "https://www.mordorintelligence.com/industry-reports/india-management-consulting-services-market",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Management consulting market size and CAGR forecast to 2031"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Export compliance & trade-finance advisory for MSME exporters",
+        "description": "Small manufacturers lack affordable export documentation, compliance, and trade-credit advisory services, with only 0.95% of registered MSMEs actually exporting.",
+        "sources": [
+          {
+            "title": "Boosting Exports from MSMEs",
+            "publisher": "NITI Aayog",
+            "url": "https://niti.gov.in/sites/default/files/2024-03/Boosting%20Exports%20from%20MSMEs_March%2020244_0.pdf",
+            "date": "March 2024",
+            "scope": "India",
+            "metric": "Only 0.95% of MSMEs engage in exporting; ECGC scheme uptake is only 10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Industry coverage indicates India's BPO/IT-BPO services sector continues to expand, with Technavio's India IT and BPO Services market growth analysis (2026-2030) and prior industry estimates describing India capturing a large and growing share of global outsourcing demand.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's India Business Process Outsourcing market outlook projects the market growing from USD 17,870.3 million in 2025 to USD 46,990.0 million by 2033, a 12.9% CAGR (2026-2033), with customer service identified as both the largest and fastest-growing service segment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "AI-driven automation disrupting traditional BPO delivery models",
+      "Wage inflation eroding cost-arbitrage advantage",
+      "Competition from other low-cost outsourcing destinations"
+    ],
+    "opportunities": [
+      "GCC and shared-services center expansion",
+      "AI-augmented business process services",
+      "Growing demand for finance, HR and customer-experience outsourcing"
+    ],
+    "sources": [
+      {
+        "title": "India IT And BPO Services Market Growth Analysis - Size and Forecast 2026-2030",
+        "publisher": "Technavio",
+        "url": "https://www.technavio.com/report/it-and-bpo-services-market-in-india-industry-analysis",
+        "date": "2026",
+        "scope": "India",
+        "metric": "IT and BPO services market growth forecast"
+      },
+      {
+        "title": "India Business Process Outsourcing Market Size & Outlook, 2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/business-process-outsourcing-market/india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "BPO market size and CAGR forecast to 2033"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Social security / benefits administration for platform-based gig workers",
+        "description": "Platform-based gig workers lack access to formal social security administration, with 77% excluded from ESI and PF coverage and protections fragmented by state.",
+        "sources": [
+          {
+            "title": "Why 77% of India's Gig Workers Still Have No Social Security?",
+            "publisher": "Bharatnama (citing NITI Aayog/PLFS data)",
+            "url": "https://bharatnama.substack.com/p/19-why-77-of-indias-gig-workers-still",
+            "date": "2025",
+            "scope": "India",
+            "metric": "77% of platform gig workers lack social security; workforce to reach 2.35 crore by 2029-30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "WPP Media's 'This Year, Next Year' India forecast predicts 9.7% ad spend growth in 2026, with retail media and CTV powering an estimated Rs 2 lakh crore ad market, even as Business Standard notes the industry may see more marginal, digital-led growth overall.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Dentsu's global ad spend forecast (with India as a key growth market) projects global ad spend surpassing $1 trillion for the first time in 2026, reflecting a broader multi-year digital-led advertising growth trend that includes India's expanding digital ad market.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Ad budget consolidation among a few large digital platforms (Google, Meta)",
+      "Economic slowdown risk to marginal ad spend growth",
+      "Traditional media revenue decline"
+    ],
+    "opportunities": [
+      "Retail media and connected TV (CTV) ad growth",
+      "Digital-led advertising expansion",
+      "Regional-language content ad targeting"
+    ],
+    "sources": [
+      {
+        "title": "WPP Media Releases TYNY India Forecast, Predicts Strong 9.7% Ad Growth in 2026",
+        "publisher": "WPP Media",
+        "url": "https://www.wppmedia.com/news/wpp-media-india-tyny-report",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Ad spend growth forecast"
+      },
+      {
+        "title": "India's advertising industry may see marginal, digital-led growth in 2026",
+        "publisher": "Business Standard",
+        "url": "https://www.business-standard.com/industry/news/marketing-india-advertising-industry-growth-outlook-2026-125112601070_1.html",
+        "date": "2025-11",
+        "scope": "India",
+        "metric": "Advertising industry growth outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Tier-2/Tier-3 local business digital marketing",
+        "description": "Local businesses in India's tier-2/tier-3 cities lack access to affordable, regional-language-capable digital marketing agencies compared to metro SMEs.",
+        "sources": [
+          {
+            "title": "Digital Marketing for Local Businesses in Tier 2 and Tier 3 Cities: Importance and Challenges",
+            "publisher": "Industry commentary",
+            "url": "https://www.linkedin.com/pulse/digital-marketing-local-businesses-tier-2-3-cities-importance-dubey",
+            "date": "2024",
+            "scope": "India",
+            "metric": "Documents scarcity of localized digital marketing expertise outside metro markets"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The FICCI-EY Media & Entertainment Industry Report 2026 found India's M&E sector grew 9% to INR2.78 trillion in 2025, driven by digital and live experiences, indicating solid near-term sector momentum.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "FICCI reporting projects India's M&E sector to grow further to INR3.3 trillion by 2028, reflecting a sustained multi-year growth trajectory led by digital media, streaming and live entertainment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Content piracy and monetization leakage",
+      "Advertising revenue volatility for traditional TV/print",
+      "Regulatory uncertainty around digital content"
+    ],
+    "opportunities": [
+      "Digital and streaming media growth",
+      "Live events and experiential entertainment expansion",
+      "Regional-language content demand"
+    ],
+    "sources": [
+      {
+        "title": "India's media and entertainment sector grew 9% to INR2.78 trillion in 2025, driven by digital and live experiences: FICCI-EY report",
+        "publisher": "EY India",
+        "url": "https://www.ey.com/en_in/newsroom/2026/03/india-s-media-and-entertainment-sector-grew-9-percent-to-inr-2-point-78-trillion-in-2025-driven-by-digital-and-live-experiences-ficci-ey-report",
+        "date": "2026-03",
+        "scope": "India",
+        "metric": "Media & entertainment sector revenue growth"
+      },
+      {
+        "title": "India's M&E sector likely to grow to INR 3.3 trillion by 2028",
+        "publisher": "FICCI",
+        "url": "https://ficci.in/press_release_details/5190",
+        "date": "2026",
+        "scope": "India",
+        "metric": "M&E sector revenue growth projection"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Non-metro regional-language content creator professional tooling",
+        "description": "Non-metro regional-language content creators lack professional monetization and production tooling, leaving only 2-2.5 million of India's creators monetized despite 80% originating from non-metro cities.",
+        "sources": [
+          {
+            "title": "2.5M+ Content Creators: How Tier 2 and Tier 3 Cities Are Powering the Content Creation Boom",
+            "publisher": "The Tribune",
+            "url": "https://www.tribuneindia.com/news/business/2-5m-content-creators-how-tier-2-and-tier-3-cities-are-powering-the-content-creation-boom/",
+            "date": "2025-11-20",
+            "scope": "India",
+            "metric": "~80% of ShareChat/Moj creators from non-metro cities; 2-2.5M monetized creators"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Travel And Tour World reported India's tourism sector experiencing seven percent growth in 2026, led by strong regional demand from Asia-Pacific, while hospitality sector coverage describes navigating growth alongside domestic demand and infrastructure challenges.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBEF's Tourism & Hospitality Industry in India overview describes sustained multi-year growth and IBEF's separate analysis presentation of the sector's contribution, supported by rising domestic and international travel demand and hotel capacity expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Infrastructure capacity constraints at key destinations",
+      "Seasonal and geopolitical demand volatility for inbound tourism",
+      "Rising input costs for hospitality operators"
+    ],
+    "opportunities": [
+      "Growing domestic leisure and religious tourism demand",
+      "Rising inbound travel from Asia-Pacific markets",
+      "Hotel and hospitality capacity expansion in tier-2 cities"
+    ],
+    "sources": [
+      {
+        "title": "India's Tourism Sector Experiences Seven Percent Growth in 2026, Led by Strong Regional Demand in Asia-Pacific",
+        "publisher": "Travel And Tour World",
+        "url": "https://www.travelandtourworld.com/news/article/indias-tourism-sector-experiences-seven-percent-growth-in-2026-led-by-strong-regional-demand-in-asia-pacific-all-you-need-to-know/",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Tourism sector growth rate"
+      },
+      {
+        "title": "Tourism & Hospitality Industry in India | Growth & Trends",
+        "publisher": "IBEF",
+        "url": "https://www.ibef.org/industry/tourism-hospitality-india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Tourism and hospitality industry growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Digitally-integrated, standardized homestay operations for rural/small hosts",
+        "description": "Rural and small homestay hosts lack standardized, digitally-integrated booking and registration systems amid fragmented state-by-state rules.",
+        "sources": [
+          {
+            "title": "NITI Aayog's 2025 Report on Homestays Urges Flexible Policies, Digital Integration, and Community Empowerment",
+            "publisher": "NITI Aayog (via Travel And Tour World)",
+            "url": "https://www.travelandtourworld.com/news/article/niti-aayogs-2025-report-on-homestays-urges-flexible-policies-digital-integration-and-community-empowerment-to-drive-tourism-in-india/",
+            "date": "2025",
+            "scope": "India",
+            "metric": "Fragmented state-level regulation; lack of digital integration for homestay hosts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Restroworks' 2026 QSR industry overview and IMARC's India Quick Service Restaurants market analysis (to 2034) both describe continued expansion of India's organized restaurant and QSR segment through 2026, driven by urbanization and rising discretionary food spending.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMARC Group's India Quick Service Restaurants market report projects the market growing from USD 9.3 billion in 2025 to USD 17.7 billion by 2034, a 7.00% CAGR (2026-2034), driven by urbanization, digital ordering adoption and changing consumer lifestyles.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rising commodity and rental cost pressures on margins",
+      "Intense competition among QSR chains and cloud kitchens",
+      "Consumer discretionary spending sensitivity"
+    ],
+    "opportunities": [
+      "Organized QSR chain expansion into tier-2/3 cities",
+      "Cloud kitchen and food-delivery platform growth",
+      "Rising discretionary dining spend among younger consumers"
+    ],
+    "sources": [
+      {
+        "title": "Quick Service Restaurant in India - QSR Industry, Brands, & Chains [2026]",
+        "publisher": "Restroworks",
+        "url": "https://www.restroworks.com/blog/quick-service-restaurant-in-india/",
+        "date": "2026",
+        "scope": "India",
+        "metric": "QSR industry growth and trends"
+      },
+      {
+        "title": "India Quick Service Restaurants Market Size | Analysis 2034",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/india-quick-service-restaurants-market",
+        "date": "2026",
+        "scope": "India",
+        "metric": "QSR market size and CAGR forecast to 2034"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Tier 2/3 restaurant operations staffing and training services",
+        "description": "Restaurant operators expanding into tier-2 and tier-3 cities lack access to trained kitchen and service staff, with close to 60% facing shortages.",
+        "sources": [
+          {
+            "title": "Course Beyond Metros",
+            "publisher": "Grant Thornton Bharat & NRAI",
+            "url": "https://www.grantthornton.in/press-room/restaurant-industry-tier-2-3-growth-report/",
+            "date": "2025-09",
+            "scope": "India",
+            "metric": "94% of operators plan Tier-II/III expansion; 60% face staff shortages"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Outlook Business coverage of the Cosmetica 2026 organisers and IMARC's India beauty and personal care market report describe continued significant growth in beauty and personal-care spending in 2026, reflecting broader consumer/personal services demand.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Expert Market Research's India beauty and personal care market outlook projects a roughly 10.8% CAGR through 2035, indicating sustained long-term growth in consumer personal-care and grooming services spending.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Intensifying competition from D2C and international beauty brands",
+      "Rising input and marketing costs",
+      "Urban-rural demand disparity"
+    ],
+    "opportunities": [
+      "Rising premiumization of beauty and personal care spending",
+      "D2C brand and e-commerce channel growth",
+      "Expansion into tier-2/3 city consumer markets"
+    ],
+    "sources": [
+      {
+        "title": "India's Beauty, Personal Care Industry Set For Significant Growth, Say Cosmetica 2026 Organisers",
+        "publisher": "Outlook Business",
+        "url": "https://www.outlookbusiness.com/amp/story/news/indias-beauty-personal-care-industry-set-for-significant-growth-say-cosmetica-2026-organisers",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Beauty and personal care industry growth"
+      },
+      {
+        "title": "India Beauty and Personal Care Market Size 2035 | CAGR 10.80%",
+        "publisher": "Expert Market Research",
+        "url": "https://www.expertmarketresearch.com/reports/india-beauty-and-personal-care-market",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Beauty and personal care market CAGR forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Childcare/creche services for informal-sector women workers",
+        "description": "Domestic, farm, street-vendor, and gig women workers lack access to childcare and creche services, excluded from the Maternity Benefit Act's employer-creche mandate.",
+        "sources": [
+          {
+            "title": "Childcare infrastructure needed to lift women's employment",
+            "publisher": "Policy Circle",
+            "url": "https://www.policycircle.org/policy/childcare-infrastructure-women-jobs/",
+            "date": "2025",
+            "scope": "India",
+            "metric": "2,820 of 17,000 targeted Palna creche centres operational (Jan 2026); female LFPR 35.3% (2025)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Deloitte and Google's joint analysis reports India's sports market is set to soar, projecting growth to $130 billion by 2030, reflecting strong near-term momentum from cricket, emerging leagues and sports infrastructure investment.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The Deloitte-Google report's 2030 sports-market projection, together with Grand View Research's India sports equipment and sports event market outlooks to 2033, indicate a sustained long-term growth trajectory for India's sports and recreation economy.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High dependence on cricket for commercial revenue",
+      "Sports infrastructure investment gaps outside major cities",
+      "Monetization challenges for emerging leagues"
+    ],
+    "opportunities": [
+      "Growth of emerging domestic sports leagues",
+      "Esports and digital sports engagement growth",
+      "Sports infrastructure investment ahead of major events"
+    ],
+    "sources": [
+      {
+        "title": "India's sports market set to soar to reach $130 Bn by 2030: Deloitte n Google",
+        "publisher": "Deloitte",
+        "url": "https://www.deloitte.com/in/en/about/press-room/indias-sports-market-set-to-soar-to-reach-130-bn-by-2030-deloitte-n-google.html",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Sports market size projection to 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Urban public open space / playground access",
+        "description": "Most Indian cities fall short of the national planning benchmark for open recreational space per person, leaving urban residents with inadequate public playgrounds.",
+        "sources": [
+          {
+            "title": "Missing sports infrastructure is a public health risk",
+            "publisher": "CUTS Centre for Consumer Action Research and Training (CART)",
+            "url": "https://cuts-cart.org/missing-sports-infrastructure-is-a-public-health-risk/",
+            "date": "2024",
+            "scope": "India",
+            "metric": "Most Indian cities do not meet the URDPFI guideline of 10-12 sq. m open space per person"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Deloitte's analysis of 'accessible premium' reshaping India's fashion market and IMARC's India luxury fashion/luxury goods market reports both describe continued growth in premium and luxury fashion spending among a new generation of Indian consumers in 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IMARC's India luxury fashion and luxury goods market size forecasts (to 2034) project sustained multi-year growth, driven by rising disposable incomes, premiumization trends and expanding organized luxury retail.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High reliance on a narrow affluent consumer base for true luxury spend",
+      "Import duty and taxation impact on luxury goods pricing",
+      "Counterfeit goods competition"
+    ],
+    "opportunities": [
+      "Rise of 'accessible premium' segment reshaping mass fashion",
+      "Growing organized luxury retail footprint in metro cities",
+      "Younger affluent consumer segment driving demand shifts"
+    ],
+    "sources": [
+      {
+        "title": "Accessible premium reshapes India's fashion market",
+        "publisher": "Deloitte",
+        "url": "https://www.deloitte.com/in/en/about/press-room/accessible-premium-reshapes-indias-fashion-market.html",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Fashion market premiumization trend"
+      },
+      {
+        "title": "India Luxury Fashion Market Size, Growth & Forecast 2034",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/india-luxury-fashion-market",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Luxury fashion market growth forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Luxury/designer ready-to-wear apparel for plus-size women",
+        "description": "Plus-size women lack access to luxury and designer ready-to-wear apparel, as legacy Indian luxury brands cap standard sizing at L/XL and push larger sizes into custom orders.",
+        "sources": [
+          {
+            "title": "Plus-Size Indian Fashion 2026: Market Size & Demographics Report",
+            "publisher": "First Resort by Ramola Bachchan (citing NFHS-5, Inkwood Research, Statista)",
+            "url": "https://www.firstresort.in/blogs/research/plus-size-indian-fashion-2026",
+            "date": "2026",
+            "scope": "India",
+            "metric": "~40% of adult Indian women overweight/obese (NFHS-5); ~30-40% demand leak from luxury plus-size ready-to-wear"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Karmactive reported India added a record 26 GW of solar capacity in H1 2026, surpassing the US installation rate, indicating strong near-term momentum in India's clean-energy/climate economy build-out.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Deloitte's press analysis states India needs to invest roughly USD 1.5 trillion by 2030 in its green/clean energy transition, reflecting a sustained long-term capital-investment growth trajectory for India's climate economy.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Large capital investment gap relative to the USD 1.5 trillion transition need",
+      "Grid integration challenges for rapidly scaling renewables",
+      "Policy and financing execution risk"
+    ],
+    "opportunities": [
+      "Record-pace solar capacity additions",
+      "Growing green finance and ESG-linked investment",
+      "Renewable manufacturing (solar/wind component) expansion"
+    ],
+    "sources": [
+      {
+        "title": "India Adds Record 26 GW Solar in H1 2026, Surpassing US Install Rate",
+        "publisher": "Karmactive",
+        "url": "https://www.karmactive.com/india-h1-2026-solar-wind-record-26-gw/",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Solar capacity additions"
+      },
+      {
+        "title": "India needs to invest USD 1.5 trillion by 2030",
+        "publisher": "Deloitte",
+        "url": "https://www.deloitte.com/in/en/about/press-room/india-needs-to-invest-usd-1-5-trillion-by-2030.html",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Green/climate transition investment need"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "MSME green/climate finance awareness and access",
+        "description": "MSMEs lack awareness of and access to green and climate financing, with 73.2% unaware such solutions exist despite citing capital as a barrier to sustainable practices.",
+        "sources": [
+          {
+            "title": "MSME Insights 2025",
+            "publisher": "Kinara Capital",
+            "url": "https://kinaracapital.com/msme-insights-2025-awareness-gap-not-intent-is-holding-back-green-financing/",
+            "date": "2025",
+            "scope": "India",
+            "metric": "73.2% of MSMEs unaware of green financing options"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "PRS Legislative Research's analysis of the Jal Shakti ministry's 2026-27 Demand for Grants shows Jal Jeevan Mission funding rising to Rs 67,670 crore (nearly four times the 2025-26 revised estimate) and Drinking Water and Sanitation allocation up 225% year-on-year, even as the ministry's overall budget dipped 5% to Rs 94,808 crore; about 81% of rural households had functional tap connections as of January 2026.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's India water and wastewater treatment equipment market outlook projects the market growing from USD 3,787.2 million in 2025 to USD 6,139.7 million by 2033, a 6.3% CAGR (2026-2033), driven by municipal and industrial treatment demand amid persistent water stress across roughly 75% of Indian districts.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Acute water stress affecting a majority of Indian districts",
+      "Delivery gaps and inconsistent funding continuity for rural water schemes",
+      "High capital cost of municipal and industrial treatment infrastructure"
+    ],
+    "opportunities": [
+      "Jal Jeevan Mission funding surge for rural tap-water connections",
+      "Growing municipal and industrial water/wastewater treatment equipment demand",
+      "Smart water management and irrigation infrastructure investment under the union budget"
+    ],
+    "sources": [
+      {
+        "title": "Demand for Grants 2026-27 Analysis: Jal Shakti",
+        "publisher": "PRS Legislative Research",
+        "url": "https://prsindia.org/budgets/parliament/demand-for-grants-2026-27-analysis-jal-shakti",
+        "date": "2026-02",
+        "scope": "India",
+        "metric": "Jal Shakti ministry budget allocation and rural tap-water coverage"
+      },
+      {
+        "title": "India Water And Wastewater Treatment Equipment Market Size & Outlook, 2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/water-and-wastewater-treatment-equipment-market/india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Water and wastewater treatment equipment market CAGR forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable rural groundwater testing and contamination remediation (arsenic/fluoride)",
+        "description": "Rural households in arsenic- and fluoride-affected areas lack affordable groundwater testing and contamination remediation services amid gaps in official quality mapping.",
+        "sources": [
+          {
+            "title": "Arsenic, fluoride-hit habitations decline; PAC flags gaps in groundwater quality mapping",
+            "publisher": "ThePrint",
+            "url": "https://theprint.in/india/arsenic-fluoride-hit-habitations-decline-pac-flags-gaps-in-groundwater-quality-mapping/2903076/",
+            "date": "2025",
+            "scope": "India",
+            "metric": "PAC-flagged gaps in groundwater quality mapping despite declining reported contamination"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Arab News reported India's space industry gearing up for human spaceflight tests and commercial expansion in 2026, and SatNews reported the Union Budget 2026-27 provided indirect growth triggers for the private space industry sector.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "New Space Economy reporting describes India's space sector as having grown to over 300 commercial organizations shaping a new industry in 2026, reflecting a sustained structural expansion of India's private space and aerospace ecosystem beyond ISRO.",
+      "evidenceDate": "2026-04"
+    },
+    "risks": [
+      "High capital intensity and long development cycles for space ventures",
+      "Regulatory and licensing framework still maturing for private space",
+      "Dependence on government (ISRO) contracts for near-term revenue"
+    ],
+    "opportunities": [
+      "Private space sector commercial expansion",
+      "Human spaceflight program progress (Gaganyaan)",
+      "Growing satellite launch and space-tech startup ecosystem"
+    ],
+    "sources": [
+      {
+        "title": "India's space industry gears up for human spaceflight tests, commercial expansion in 2026",
+        "publisher": "Arab News",
+        "url": "https://www.arabnews.com/node/2627929/amp",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Space industry growth and human spaceflight progress"
+      },
+      {
+        "title": "India's Space Sector: 300+ Commercial Organizations Shape a New Industry in 2026",
+        "publisher": "New Space Economy",
+        "url": "https://newspaceeconomy.ca/2026/04/20/indias-space-sector-300-commercial-organizations-shape-a-new-industry-in-2026/",
+        "date": "2026-04",
+        "scope": "India",
+        "metric": "Number of commercial space organizations"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Regulatory/compliance advisory for early-stage private space startups",
+        "description": "Early-stage private space startups lack dedicated regulatory and compliance advisory support to navigate IN-SPACe's authorization framework.",
+        "sources": [
+          {
+            "title": "Unlocking India's Space Economy — Regulatory Handbook",
+            "publisher": "Indian Space Association (ISpA)",
+            "url": "https://www.sia-india.com/wp-content/uploads/2025/01/Unlocking-Indias-Space-Economy-Regulatory-Handbook-January-2025.pdf",
+            "date": "2025-01",
+            "scope": "India",
+            "metric": "440+ private space startups; 113 space authorizations issued by IN-SPACe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "India's Ministry of Defence reported record defence exports of ₹38,424 crore in FY 2025-26, and Angel One's Indian Defence Industry Outlook 2026 describes continued growth amid global tensions and ongoing policy reforms.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "IBEF's Indian Defence Manufacturing Industry Analysis and PIB's 'The Defence Decade' coverage describe a sustained multi-year growth push in domestic defence manufacturing and exports, supported by 'Atmanirbhar Bharat' self-reliance policy and rising indigenous procurement.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Dependence on continued government procurement and policy support",
+      "Technology transfer and indigenous R&D capability gaps",
+      "Global geopolitical volatility affecting export demand"
+    ],
+    "opportunities": [
+      "Record and rising defence exports",
+      "Atmanirbhar Bharat indigenous defence manufacturing push",
+      "Growing private-sector participation in defence production"
+    ],
+    "sources": [
+      {
+        "title": "Ministry of Defence reports record defence exports of ₹38,424 crore in FY 2025-26",
+        "publisher": "News On Air (All India Radio)",
+        "url": "https://www.newsonair.gov.in/ministry-of-defence-reports-record-defence-exports-of-%E2%82%B938424-crore-in-fy-2025-26",
+        "date": "2026-04",
+        "scope": "India",
+        "metric": "Defence export value"
+      },
+      {
+        "title": "Indian Defence Industry Outlook 2026 Amid Global Tensions and Policy Reforms",
+        "publisher": "Angel One",
+        "url": "https://www.angelone.in/news/economy/indian-defence-industry-outlook-2026-amid-global-tensions-and-policy-reforms",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Defence industry growth outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "MSME qualification as component/sub-system suppliers to prime defence manufacturers",
+        "description": "MSMEs lack pathways to qualify as component and sub-system suppliers to prime defence manufacturers, limiting depth of the domestic defence supply chain.",
+        "sources": [
+          {
+            "title": "Atmanirbhar, Agrani, and Atulya Bharat 2047 — India's Defence Industrial Sector Vision",
+            "publisher": "KPMG India",
+            "url": "https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/05/indias-defence-industrial-sector-vision-2047.pdf",
+            "date": "2025-05",
+            "scope": "India",
+            "metric": "MSME supplier base identified as underdeveloped tier in defence supply chain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "MoSPI's Q1 FY2026-27 GDP estimates show 'Public Administration, Defence & Other Services' GVA rising 7.5% year-on-year in constant-price terms for April-June 2026, reflecting continued strong government spending and services activity alongside double-digit capex growth noted in the same release.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Market Research Future's India e-governance market outlook projects the market expanding from USD 1,688.1 million in 2025 to USD 5,500 million by 2035, a 12.54% CAGR, reflecting sustained long-term growth in digital public-service delivery and government technology modernization.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Fiscal consolidation pressure constraining discretionary public spending growth",
+      "Execution and last-mile delivery gaps in digital public-service rollout",
+      "Dependence on continued capex-led budget prioritization"
+    ],
+    "opportunities": [
+      "E-governance and digital public-service platform expansion",
+      "Sustained public administration GVA growth alongside capex-led budgets",
+      "Government technology modernization (cloud, digital identity, service delivery)"
+    ],
+    "sources": [
+      {
+        "title": "India's Q1 GDP surges 7.8% as strong services sector & double digit capex boost economic momentum",
+        "publisher": "Business Today",
+        "url": "https://www.businesstoday.in/india/story/indias-q1-gdp-surges-7-8-as-strong-services-sector-double-digit-capex-boost-economic-momentum-552302-2026-08-31",
+        "date": "2026-08",
+        "scope": "India",
+        "metric": "Public administration, defence and other services GVA growth"
+      },
+      {
+        "title": "India E-Governance Market Size, Share & Growth Report 2035",
+        "publisher": "Market Research Future",
+        "url": "https://www.marketresearchfuture.com/reports/india-e-governance-market-46288",
+        "date": "2026",
+        "scope": "India",
+        "metric": "E-governance market size and CAGR forecast to 2035"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "A persistent rural e-governance and digital-divide problem is well documented, but reporting stays at a general level without a specific, narrowly-defined missing product or service that could be checkably sourced.",
+      "sources": [
+        {
+          "title": "Bridging the Digital Divide through E-Governance: An Empirical Study of Rural Inclusion and Service Accessibility in Madhya Pradesh",
+          "publisher": "ResearchGate",
+          "url": "https://www.researchgate.net/publication/400445652_Bridging_the_Digital_Divide_through_E-Governance_An_Empirical_Study_of_Rural_Inclusion_and_Service_Accessibility_in_Madhya_Pradesh",
+          "date": "2024",
+          "scope": "India",
+          "metric": "Documents rural service-accessibility gaps in e-governance"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Dasra's India Nonprofit Report 2026 ('State of the Sector and Emerging Frontiers') and coverage of rising CSR spending in 2026 indicate continued growth in India's nonprofit and social-impact sector funding, with corporates increasingly using AI and social stock exchanges to channel CSR spend.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "A 2026 analysis by India Climate Collaborative and Mahindra Group projects India's CSR spending, which nearly tripled from FY2014-15 to reach Rs 34,909 crore in FY2023-24, to cross Rs 1.2 lakh crore (USD 14.5 billion) annually by FY2035, driven increasingly by climate-focused corporate giving.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Funding concentration risk among large donors and corporates",
+      "Regulatory compliance burden (FCRA, CSR rules) for nonprofits",
+      "Limited financial sustainability of smaller NGOs"
+    ],
+    "opportunities": [
+      "Growing CSR mandate-driven corporate funding",
+      "Social stock exchanges improving funding transparency",
+      "AI-enabled CSR and social-impact program delivery",
+      "Climate-focused CSR spending growth toward FY2035"
+    ],
+    "sources": [
+      {
+        "title": "India Nonprofit Report 2026: State of the Sector and Emerging Frontiers",
+        "publisher": "Dasra",
+        "url": "https://dasra.org/individual-resources/india-nonprofit-report-2026-state-of-the-sector-and-emerging-frontiers",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Nonprofit sector state and funding trends"
+      },
+      {
+        "title": "India's CSR Spending to hit $14.5B Annually by 2035 as Climate Focus Grows",
+        "publisher": "ESG Times",
+        "url": "https://www.esgtimes.in/esg/csr/indias-csr-spending-to-hit-14-5b-annually-by-2035-as-climate-focus-grows/",
+        "date": "2026",
+        "scope": "India",
+        "metric": "CSR spending growth forecast to FY2035"
+      },
+      {
+        "title": "CSR Spending in India 2026: Key Data & Emerging Trends",
+        "publisher": "Smile Foundation India",
+        "url": "https://www.smilefoundationindia.org/blog/csr-spending-in-india-2026/",
+        "date": "2026",
+        "scope": "India",
+        "metric": "CSR spending trends"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "NGO overhead/indirect-cost funding",
+        "description": "Indian NGOs are systematically underfunded on overhead and organizational-development costs, with most funders unwilling to support flexible administrative funding or reserve-building.",
+        "sources": [
+          {
+            "title": "Bridging the Gap on Funding the True Costs of NGOs in India",
+            "publisher": "The Bridgespan Group",
+            "url": "https://www.bridgespan.org/insights/bridging-the-gap-on-funding-the-true-costs-of-ngos-in-india",
+            "date": "2022-06-21",
+            "scope": "India",
+            "metric": "83% of NGOs struggle to secure flexible funding for admin costs; only ~9% of funders support reserve-building"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "IndiaAI (Government of India) reporting describes India making steady moves toward quantum computing capability, with Tracxn tracking 95 quantum computing startups in India as of August 2026, indicating an active and expanding early-stage frontier-tech ecosystem.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's India quantum computing market outlook projects the market growing from USD 82.6 million in 2025 to USD 465.1 million by 2033, a 24.6% CAGR (2026-2033), with India representing about 4.9% of global quantum computing revenue in 2025 and systems the dominant offering segment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Early-stage technology with long commercialization timelines",
+      "Talent and specialized hardware infrastructure shortages",
+      "Heavy dependence on government mission funding (National Quantum Mission)"
+    ],
+    "opportunities": [
+      "National Quantum Mission funding and R&D support",
+      "Growing quantum computing startup ecosystem",
+      "Emerging chip-level breakthroughs (e.g. 2026 quantum computing chip progress)"
+    ],
+    "sources": [
+      {
+        "title": "India's steady moves toward achieving quantum supremacy",
+        "publisher": "IndiaAI (Government of India)",
+        "url": "https://indiaai.gov.in/article/india-s-steady-moves-toward-achieving-quantum-supremacy",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Quantum computing capability progress"
+      },
+      {
+        "title": "India Quantum Computing Market Size & Outlook, 2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/quantum-computing-market/india",
+        "date": "2026",
+        "scope": "India",
+        "metric": "Quantum computing market size and CAGR forecast to 2033"
+      },
+      {
+        "title": "List of 95 Quantum Computing Startups in India & Market Trends (Aug 2026)",
+        "publisher": "Tracxn",
+        "url": "https://tracxn.com/d/explore/quantum-computing-startups-in-india/__rhoBWcnKeW3iFJ-j009WIncqNuWufbYTP3NLuVy_haA",
+        "date": "2026-08",
+        "scope": "India",
+        "metric": "Number of quantum computing startups"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "On-demand, affordably-priced GPU/compute access for early-stage deep-tech and AI startups",
+        "description": "Indian AI startups face GPU procurement lead times of 36-52 weeks, with some orders pushed into 2027, constraining early-stage deep-tech development.",
+        "sources": [
+          {
+            "title": "How India's GPU Market Is Being Rewired",
+            "publisher": "Inc42 Media",
+            "url": "https://inc42.com/features/why-indias-ai-boom-is-running-on-a-waiting-list/",
+            "date": "2026-07-06",
+            "scope": "India",
+            "metric": "Enterprise AI GPU procurement now ranges between 36 and 52 weeks, with some new orders pushed into 2027"
+          }
+        ]
+      }
+    ]
+  }
+]

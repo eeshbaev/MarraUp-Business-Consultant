@@ -1,0 +1,303 @@
+[
+  {
+    "cluster_id": "CLU-01",
+    "layer": 4,
+    "dimension": "Concentration Exposure",
+    "cluster_header": "CLU-01 — Managed concentration that management alone cannot fix (RES-01 D/E + CON-01 E)",
+    "required_fields": [ { "kind": "field", "field": "CON-01", "minimum_level": "C" } ],
+    "contributing_fields": ["RES-01"],
+    "claimed_fields": ["CON-01", "RES-01"],
+    "content": {
+      "title": "Diversify away from {largest customer} — the business has already done what active management can do here",
+      "finding": "The business actively manages its dependency on {largest customer} — concentration is identified, monitored, and either being deliberately reduced or knowingly accepted (RES-01 at D or E) — and yet that dependency is still severe enough that losing {largest customer} would leave the business unable to continue in its current form (CON-01 at E).",
+      "consequence": "This isn't a management gap — the business is already doing the things good concentration management looks like. The exposure is structural: management reduces how well a dependency is handled, but it cannot by itself make a business less dependent on a customer who still accounts for most of its revenue. Only actually reducing that dependence does.",
+      "action": "Treat this as a structural fix, not a process fix — identify and begin actively developing at least one additional customer or account large enough to matter, so the business's continuation no longer rests on {largest customer} alone. Don't look for a better way to manage the existing dependency; that work is already done.",
+      "avoid": "Concluding that because RES-01 already scores well, nothing further is needed here. Good management of a severe concentration is not the same as the concentration being resolved — it means the business is watching a real exposure closely, not that the exposure is gone.",
+      "action_evidence": "A second customer or account is generating recurring revenue, even if still smaller than {largest customer}.",
+      "assessment_evidence": "Re-asked: if {largest customer} stopped buying tomorrow, would the business still continue, even if it required a deliberate recovery effort? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CLUSTER_CLEARED",
+      "required_fields": [ { "kind": "field", "field": "CON-01", "minimum_level": "C" } ],
+      "contributing_fields": ["RES-01"],
+      "note": "shown for context — RES-01 does not need to move; it is already strong"
+    }
+  },
+  {
+    "cluster_id": "CLU-02",
+    "layer": 4,
+    "dimension": "Dependency Exposure",
+    "cluster_header": "CLU-02 — Key-person dependency that documentation alone cannot fix (MGT-03 D/E + DEP-01 E)",
+    "required_fields": [ { "kind": "field", "field": "DEP-01", "minimum_level": "C" } ],
+    "contributing_fields": ["MGT-03"],
+    "claimed_fields": ["DEP-01", "MGT-03"],
+    "content": {
+      "title": "Reduce the business's actual reliance on {key person} — documentation has already been done as far as it can go",
+      "finding": "The business has documented and shared critical knowledge and relationships well enough that it could continue operating through {key person}'s absence for most functions (MGT-03 at D or E) — and yet {key person}'s unavailability without warning would still leave the business unable to continue in its current form (DEP-01 at E).",
+      "consequence": "The business has already done the documentation and handover work that key-person management calls for, and a genuine irreplaceability remains — a specific piece of judgment, a relationship, or an authority that hasn't transferred and, by its nature, may not be fully transferable through documentation alone.",
+      "action": "Identify specifically what remains irreplaceable about {key person}'s role even after documentation and handover — and address that directly, whether by building a second person's standing in the same relationships, restructuring the decision so it doesn't require one individual's judgment, or reducing how much the business's continuation depends on that specific thing.",
+      "avoid": "Documenting further processes or knowledge that are already well covered. The gap here isn't documentation — it's the specific irreplaceable element documentation hasn't reached.",
+      "action_evidence": "A second person has demonstrably exercised the specific irreplaceable function — not just a documented process, but the actual relationship, judgment, or authority previously held only by {key person}.",
+      "assessment_evidence": "Re-asked: if {key person} became unavailable without warning, would the business still function, even if it required deliberate reallocation of work? A \"yes, with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CLUSTER_CLEARED",
+      "required_fields": [ { "kind": "field", "field": "DEP-01", "minimum_level": "C" } ],
+      "contributing_fields": ["MGT-03"],
+      "note": "shown for context — MGT-03 does not need to move; it is already strong"
+    }
+  },
+  {
+    "cluster_id": "CLU-03",
+    "layer": 4,
+    "dimension": "Financial Exposure",
+    "cluster_header": "CLU-03 — Obligation coverage that rests entirely on funding not yet secured (FIN-01 D/E + FIN-R-01 E)",
+    "required_fields": [ { "kind": "field", "field": "FIN-R-01", "minimum_level": "C" } ],
+    "contributing_fields": ["FIN-01"],
+    "claimed_fields": ["FIN-R-01", "FIN-01"],
+    "content": {
+      "title": "Secure the funding {the business} is currently counting on — today's comfortable position depends entirely on it",
+      "finding": "The business can comfortably meet its obligations over an extended forward period, with a buffer for a realistic adverse event, and monitors that position on a defined cycle (FIN-01 at D or E) — but that comfortable position is built on funding or owner contribution that hasn't actually been secured yet, and without it, the business could not continue in its current form (FIN-R-01 at E).",
+      "consequence": "The coverage the business sees today is real, but it's borrowed against a future event — a round, a loan, further owner contribution — that hasn't happened. If that funding doesn't materialize on the assumed timeline or terms, the comfortable position the business is currently planning around disappears, possibly with little warning.",
+      "action": "Take concrete steps to convert the assumed funding into something actually secured — closing the round, finalizing the facility, confirming the owner contribution — or, failing that, extend the runway the business already controls (reduced spend, a committed facility already in hand, revenue growth) so continuation no longer depends on something not yet real.",
+      "avoid": "Treating the comfortable coverage picture (FIN-01) as evidence the funding risk is lower than it is. The two measure different things — one is today's position, the other is what today's position depends on continuing to hold.",
+      "action_evidence": "The business can point to a specific, committed source — a closed round, a signed facility, a confirmed owner contribution, or a concrete reduced-spend plan — that extends how long it can operate without the previously-assumed funding.",
+      "assessment_evidence": "Re-asked: on funds already available or committed, could the business continue, even if it required deliberately reducing activity? A \"yes, with deliberate cuts\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CLUSTER_CLEARED",
+      "required_fields": [ { "kind": "field", "field": "FIN-R-01", "minimum_level": "C" } ],
+      "contributing_fields": ["FIN-01"],
+      "note": "shown for context — FIN-01 does not need to move; it is already strong"
+    }
+  },
+  {
+    "cluster_id": "CLU-04",
+    "layer": 4,
+    "dimension": "Legal Exposure",
+    "cluster_header": "CLU-04 — Well-managed compliance that doesn't reduce what a licence loss would cost (GOV-01 D/E + LEG-02 E)",
+    "required_fields": [ { "kind": "field", "field": "LEG-02", "minimum_level": "C" } ],
+    "contributing_fields": ["GOV-01"],
+    "claimed_fields": ["LEG-02", "GOV-01"],
+    "content": {
+      "title": "Reduce the business's dependence on {the licence/permit/approval} itself — good compliance management doesn't lower what losing it would cost",
+      "finding": "The business identifies and meets its legal and regulatory requirements, with responsibility assigned and compliance verified periodically (GOV-01 at D or E) — and yet the business cannot legally operate without {the licence/permit/approval}, and its withdrawal or non-renewal would mean the business could not continue in its current form (LEG-02 at E).",
+      "consequence": "Strong compliance management reduces how likely a problem is — it doesn't reduce what happens if the licence is lost anyway, for reasons outside the business's own compliance record: a policy change, an administrative decision, a sector-wide review. The business has done everything it can to avoid triggering the loss and is still fully exposed to what the loss itself would mean.",
+      "action": "Reduce single-point dependence on {the licence/permit/approval} specifically — confirm the renewal timeline well in advance, and where possible, identify what portion of the business could continue operating (under a different structure, scope, or jurisdiction) if this specific approval were lost, regardless of how well it's currently being complied with.",
+      "avoid": "Reading strong compliance as reduced exposure. Compliance quality and consequence severity are different measurements — this combination exists specifically because a business can be excellent at one and fully exposed on the other.",
+      "action_evidence": "Renewal is confirmed on schedule and/or a specific fallback exists for at least part of the business if the approval were lost.",
+      "assessment_evidence": "Re-asked: if this licence/permit/approval were withdrawn, would it suspend part of the business rather than ending it, until restored or replaced? A \"yes, partial suspension\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CLUSTER_CLEARED",
+      "required_fields": [ { "kind": "field", "field": "LEG-02", "minimum_level": "C" } ],
+      "contributing_fields": ["GOV-01"],
+      "note": "shown for context — GOV-01 does not need to move; it is already strong"
+    }
+  },
+  {
+    "cluster_id": "CLU-05",
+    "layer": 4,
+    "dimension": "Market Exposure",
+    "cluster_header": "CLU-05 — Market awareness that may not be enough on its own (MKT-04 D/E + MKT-R-01 D/E)",
+    "required_fields": [ { "kind": "field", "field": "MKT-R-01", "minimum_level": "C" } ],
+    "contributing_fields": ["MKT-04"],
+    "claimed_fields": ["MKT-R-01", "MKT-04"],
+    "content": {
+      "title": "Change the business's position relative to the declining market — awareness and strategy alone may not be enough at this severity",
+      "finding": "The business understands its market conditions with real rigor and is actively executing a deliberate strategy in response (MKT-04 at D or E) — and demand in that market is declining severely enough that, if the current direction continued, the business could not continue in its current form (MKT-R-01 at D or E).",
+      "consequence": "The business is doing the right things — reading the market accurately and responding to it — and the underlying decline may simply be severe enough that a good response inside the current market isn't sufficient on its own. Awareness and effort are necessary but not automatically sufficient at this level of severity.",
+      "action": "In addition to the current strategy, take a step that changes the business's exposure to this specific market's trajectory — entering a growing adjacent market, repositioning the offering toward where demand is moving, or building traction outside the declining segment — rather than only refining the response within it.",
+      "avoid": "Treating \"we have a strategy and we're executing it\" as sufficient reassurance on its own. A well-executed strategy against a severe decline can still leave the business exposed if the strategy doesn't change the business's relationship to that specific market.",
+      "action_evidence": "A specific step is underway that reduces the business's dependence on the declining market — a new market entered, a repositioned offering, or measurable traction outside the declining segment.",
+      "assessment_evidence": "Re-asked: if the current demand direction continued, would it require a deliberate response to hold position, rather than ending the business? A \"yes, respondable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "CLUSTER_CLEARED",
+      "required_fields": [ { "kind": "field", "field": "MKT-R-01", "minimum_level": "C" } ],
+      "contributing_fields": ["MKT-04"],
+      "note": "shown for context — MKT-04 does not need to move; it is already strong"
+    }
+  },
+  {
+    "cluster_id": "CLU-06",
+    "layer": 4,
+    "dimension": "Dependency Exposure",
+    "cluster_header": "CLU-06 — Unmanaged supplier dependence that genuinely improves through management (OPS-03 A/B + DEP-03 E)",
+    "required_fields": [
+      { "kind": "field", "field": "OPS-03", "minimum_level": "C" },
+      { "kind": "field", "field": "DEP-03", "minimum_level": "C" }
+    ],
+    "contributing_fields": [],
+    "claimed_fields": ["OPS-03", "DEP-03"],
+    "content": {
+      "title": "Manage the dependency on {critical supplier} — unlike a structural exposure, this one responds directly to the work",
+      "finding": "The business hasn't identified or secured alternatives for the suppliers and inputs it depends on (OPS-03 at A or B), and {critical supplier} has no adequate alternative — if they stopped supplying, the business could not continue in its current form (DEP-03 at E).",
+      "consequence": "This is the case where the fix is exactly the management work that hasn't happened yet — unlike a dependency the business already manages well and remains exposed to regardless, this exposure exists specifically because the management work (identifying alternatives, securing terms, testing a fallback) hasn't been done. Doing that work is expected to move both measurements together.",
+      "action": "Identify what the business genuinely depends on from {critical supplier}, understand the terms and reliability of the relationship, and identify or secure at least one specific alternative — a qualified second supplier, a held-stock buffer, or a secured contract — so the dependency stops being a single point of failure.",
+      "avoid": "Treating this the same way as a structural exposure that management can't touch (see CLU-01, CLU-02, CLU-03, CLU-04). This one is different specifically because it's expected to respond to the work — don't accept it as a fixed cost of the business.",
+      "action_evidence": "A specific alternative supplier or provider has been identified and qualified — or the relationship with {critical supplier} is secured through a contract, agreed terms, or held stock — and this is reflected in how the business manages its dependencies generally.",
+      "assessment_evidence": "Re-asked, on both fields: does the business identify and manage its critical dependencies, with alternatives identified or the relationship secured (OPS-03 at C or above)? And separately: if {critical supplier} stopped supplying, would delivery continue while an alternative was found, rather than stopping (DEP-03 at C)? Both \"yes\" answers resolve this item."
+    },
+    "resolution_rule": {
+      "type": "CLUSTER_CLEARED",
+      "required_fields": [
+        { "kind": "field", "field": "OPS-03", "minimum_level": "C" },
+        { "kind": "field", "field": "DEP-03", "minimum_level": "C" }
+      ],
+      "contributing_fields": [],
+      "note": "both fields must move — this is the one cluster in this batch where the Health-side field is not already strong and genuinely needs to change"
+    }
+  },
+  {
+    "cluster_id": "CLU-07",
+    "layer": 4,
+    "dimension": "Product Exposure",
+    "cluster_header": "CLU-07 — An untracked reliability problem that could spread before it's caught (PROD-02 A/B + PRD-R-01 D/E)",
+    "required_fields": [
+      { "kind": "field", "field": "PROD-02", "minimum_level": "C" },
+      { "kind": "field", "field": "PRD-R-01", "minimum_level": "C" }
+    ],
+    "contributing_fields": [],
+    "claimed_fields": ["PROD-02", "PRD-R-01"],
+    "content": {
+      "title": "Fix or contain the known problem in {what the business delivers}, and start tracking reliability so the next one is caught early",
+      "finding": "The business doesn't track defects, failures, or errors with any consistency (PROD-02 at A or B), and a known, unresolved problem exists in what the business delivers — severe enough that if it affected customers at scale, the business could not continue in its current form (PRD-R-01 at D or E).",
+      "consequence": "These two facts compound each other in a specific way — a known problem that's already live, combined with no systematic way of detecting how far a problem has spread, means the business may not find out this one is scaling until the damage is already done. Fixing the known problem without also building the tracking leaves the business exposed to the next one the same way.",
+      "action": "Fix or contain the known problem first — a rollback, a workaround, or active monitoring for early signs of scale — and, at the same time, start tracking defects, failures, and errors systematically, so the business would catch the next issue before it reaches this severity rather than after.",
+      "avoid": "Fixing only the specific known problem without building any tracking discipline. That resolves today's exposure and leaves the business exactly as unable to detect the next one early.",
+      "action_evidence": "The known problem is fixed or contained, and defects and failures are now tracked with enough consistency that most instances are caught and resolved.",
+      "assessment_evidence": "Re-asked, on both fields: is quality tracked with some consistency, catching most instances (PROD-02 at C or above)? And separately: if this problem affected customers at scale, would it require deliberate remediation rather than ending the business (PRD-R-01 at C)? Both \"yes\" answers resolve this item."
+    },
+    "resolution_rule": {
+      "type": "CLUSTER_CLEARED",
+      "required_fields": [
+        { "kind": "field", "field": "PROD-02", "minimum_level": "C" },
+        { "kind": "field", "field": "PRD-R-01", "minimum_level": "C" }
+      ],
+      "contributing_fields": [],
+      "note": "both fields must move together — detection and remediation are inseparable here"
+    }
+  },
+  {
+    "cluster_id": "CLU-08",
+    "layer": 4,
+    "dimension": "Cross-category (portfolio-level) — Critical Exposures",
+    "cluster_header": "CLU-08 — A well-run business with multiple independent routes to failure (Health high + 3 or more Critical Exposures)",
+    "required_fields": "dynamic — the business's own currently active Critical Exposures (Risk fields at E) at the time this cluster fires; which specific fields are Critical varies by business",
+    "contributing_fields": [],
+    "claimed_fields": "dynamic — the business's own currently active Critical Exposures at the time this cluster fires",
+    "content": {
+      "title": "Address the business's Critical Exposures as a set — operating quality is not what's limiting durability here",
+      "finding": "The business scores strongly on Business Health, and simultaneously carries three or more Critical Exposures (Risk fields at E) — meaning at least three separate, independent things, any one of which alone, could end the business as it stands.",
+      "consequence": "How well the business is run is not the constraint on how long it survives — a business can be excellent at what it does and still fail because any one of several unrelated dependencies gives way. Investors, partners, and the owner's own planning should weight this combination specifically: strong operating metrics do not offset a high count of independent single points of failure, because operating quality and structural fragility are different measurements that this combination shows diverging sharply.",
+      "action": "Work through the individual Critical Exposures using their own standalone action items (Layer 1, Batch 1) — each already has its own specific fix — but track them together as a set here, because the point this combination makes is about the count and independence of the exposures, not any single one of them.",
+      "avoid": "Treating strong Health as a reason to deprioritize the individual Critical Exposures. A high Health score with three or more Criticals is precisely the profile where that instinct is most likely to be wrong.",
+      "action_evidence": "The count of active Critical Exposures has measurably declined from where it was flagged (through progress on the individual standalone items each Critical Exposure already has).",
+      "assessment_evidence": "At the next reassessment, the number of fields still scoring E is recounted. Fewer than three remaining resolves this item."
+    },
+    "resolution_rule": {
+      "type": "COUNT_THRESHOLD",
+      "counted_fields": "dynamic — all registered Critical Exposures across the business",
+      "count_threshold": 3,
+      "resolution_condition": "resolved when fewer than 3 of the dynamically-listed fields remain at E, not when every one of them individually clears",
+      "implementation_note": "Part L states this combination in count terms (\"3 or more\"), not as two named fields, so it cannot use a fixed required_fields list the way CLU-01 through CLU-07 do — which specific fields are Critical varies by business. contributing_fields: none — every field involved is required by definition of the count, and the count itself (not any individual field's movement) is what the resolution checks. Flagged in Part K as an open item: Part H's CLUSTER_CLEARED resolve() pseudocode currently checks \"ALL required_fields satisfy their own minimum_level\" — this cluster needs a threshold-count variant (\"fewer than N of the dynamically-listed fields remain above the trigger condition\") that the engine does not yet explicitly support. Resolved in Part K item 2a: a new COUNT_THRESHOLD resolution_rule type was added (Part H) — no new confirmation UI, resolves only at the periodic full reassessment."
+    }
+  },
+  {
+    "cluster_id": "CLU-09",
+    "layer": 4,
+    "dimension": "Cross-category (portfolio-level) — Risk Exposure",
+    "cluster_header": "CLU-09 — Broad exposure that a single blended score understates (Risk moderate + 2 or more saturated categories)",
+    "required_fields": "dynamic — the business's own currently saturated Risk categories (each at or above its own 75%-of-maximum threshold, Risk Exposure Methodology Part H) at the time this cluster fires",
+    "contributing_fields": [],
+    "claimed_fields": "dynamic — the business's own currently saturated Risk categories at the time this cluster fires",
+    "content": {
+      "title": "Address the business's saturated exposure categories as a set — the aggregate Risk number is hiding how spread out this is",
+      "finding": "The business's overall Risk Exposure reads as moderate, and simultaneously two or more of its six Risk categories are individually saturated (each at or above its own 75%-of-maximum threshold, Risk Exposure Methodology Part H) — meaning several domains are each severely exposed at once, even though no single exposure alone would end the business.",
+      "consequence": "A moderate blended score can make this business look less exposed than a business with one Critical Exposure and an otherwise clean profile — but this business is severely exposed across multiple domains simultaneously, which the single number doesn't distinguish from being mildly exposed across many domains. The aggregate understates the position specifically because saturation is a category-level fact the overall number averages away.",
+      "action": "Work through each saturated category's own Category Saturation item (Layer 1, Batch 1, Part 3) — each already names its own specific fields to address — but track them together here, because the point of this combination is that the business is dealing with more than one domain at severe exposure at the same time, which changes how much slack it has to absorb a new problem in any one of them.",
+      "avoid": "Reading the moderate overall score as reassurance and deprioritizing the saturated categories individually. The categories being saturated at all, even under a moderate total, is what this combination exists to surface.",
+      "action_evidence": "The number of saturated categories has measurably declined from where it was flagged (through progress on the individual category's own fields).",
+      "assessment_evidence": "At the business's next full reassessment (categories, like Category Saturation itself, only resolve there — Part F), the number of categories still at or above their saturation threshold is recomputed. Fewer than two remaining resolves this item."
+    },
+    "resolution_rule": {
+      "type": "COUNT_THRESHOLD",
+      "counted_fields": "dynamic — all registered saturated Risk categories across the business",
+      "count_threshold": 2,
+      "resolution_condition": "resolved when fewer than 2 remain saturated at the next full reassessment",
+      "implementation_note": "Part L states this in count terms (\"2 or more saturated categories\"), not as fixed fields. required_fields: dynamic — the business's own currently saturated categories; resolved when fewer than 2 remain saturated at the next full reassessment. contributing_fields: none. Same open item as CLU-08 — a threshold-count resolution variant, not yet in Part H's CLUSTER_CLEARED pseudocode. Resolved in Part K item 2a: a new COUNT_THRESHOLD resolution_rule type was added (Part H) — no new confirmation UI, resolves only at the periodic full reassessment (the same way CATEGORY_THRESHOLD already does, for the same reason — no single field to re-ask on demand)."
+    }
+  },
+  {
+    "cluster_id": "CLU-10-OMITTED",
+    "layer": 4,
+    "note": "Deliberately not authored as a separate entry — this combination (Owner Exposure 4/5, at any Risk profile) duplicates Owner Exposure's own standalone Layer 1 item (OE-OWN-01-L4 / OE-OWN-01-L5) exactly, since the Risk-profile qualifier adds no gating logic. See Action Plan Engine Part K item 2b."
+  },
+  {
+    "cluster_id": "CLU-11",
+    "layer": 4,
+    "dimension": "Dynamic — depends on which of the five eligible same-entity pairs is confirmed (Concentration, Financial, or Dependency Exposure)",
+    "cluster_header": "CLU-11 — A single point of failure the business depends on in more than one way (deduplicated same-entity exposure at E)",
+    "required_fields": [ { "kind": "field", "field": "<the higher-weighted field of the confirmed pair>", "minimum_level": "C" } ],
+    "contributing_fields": ["<the lower-weighted field of the confirmed pair>"],
+    "claimed_fields": ["CON-01", "FIN-R-02", "CON-02", "DEP-02", "DEP-03", "DEP-04", "CON-03"],
+    "content": {
+      "title": "Fix {the shared entity} once — it's carrying two separate dependencies for this business, not one",
+      "finding": "Two Risk fields that could plausibly name the same real-world thing (per Risk Exposure Methodology Part C's eligible pairs: largest customer and largest expected inflow source; main route to customers and critical system, critical supplier, or main premises; largest offering and critical supplier) have been confirmed by the business to describe the same entity, and the deduplicated value is E — meaning that one thing failing would trigger both consequences at once, and the business could not continue in its current form without it.",
+      "consequence": "The business may not have seen this as a single point of failure, because it showed up in the assessment as two separate questions with two separate answers. In reality, there's exactly one thing to fix, and fixing it addresses both dependencies simultaneously — which also means the fix is more valuable per unit of effort than either dependency looks on its own, since one action resolves two measured exposures at once.",
+      "action": "Address the shared entity directly, using whichever of the two fields' own standalone next actions fits what the entity actually is — build a second customer relationship if it's a customer doing double duty as a funding source, build a second channel if it's a route to customers doing double duty as a critical system or supplier relationship, and so on. The specific action is the higher-weighted of the two fields' own authored actions (Layer 1, Batch 1); this entry's value is naming that it's one fix, not prescribing a different one.",
+      "avoid": "Working the two fields as if they were separate problems. Progress on one without recognizing the other is the same entity means the business may believe it has made more progress reducing its exposure than it actually has.",
+      "action_evidence": "The shared entity's dependency has been reduced through the higher-weighted field's own standalone action evidence — a second relationship, channel, system, or supplier now exists alongside it.",
+      "assessment_evidence": "Re-asked, on the higher-weighted of the two confirmed fields: has it moved to at least C? A \"yes\" answer resolves this item for both fields at once, since they were confirmed to be the same underlying exposure."
+    },
+    "resolution_rule": {
+      "type": "CLUSTER_CLEARED",
+      "required_fields": [ { "kind": "field", "field": "<the higher-weighted field of the confirmed pair>", "minimum_level": "C" } ],
+      "contributing_fields": ["<the lower-weighted field of the confirmed pair>"],
+      "note": "contributing field shown for context — its own score moves in lockstep with the required field once the engine re-applies the same-exposure deduplication at reassessment, per Risk Exposure Methodology Part C",
+      "eligible_pairs": [
+        "CON-01↔FIN-R-02",
+        "CON-02↔DEP-02",
+        "CON-02↔DEP-03",
+        "CON-02↔DEP-04",
+        "CON-03↔DEP-03"
+      ],
+      "implementation_note": "field identity is resolved per-business at confirmation time from the five eligible pairs, not fixed at authoring time, since which pair applies depends on which entity the business actually confirmed as shared"
+    }
+  },
+  {
+    "cluster_id": "CLU-12",
+    "layer": 4,
+    "dimension": "Concentration Exposure",
+    "cluster_header": "CLU-12 — The whole Concentration category is unmeasured, not measured and safe (all four Concentration constructs Undemonstrated)",
+    "required_fields": [
+      { "kind": "construct", "construct": "CON-01" },
+      { "kind": "construct", "construct": "CON-02" },
+      { "kind": "construct", "construct": "CON-03" },
+      { "kind": "construct", "construct": "CON-04" }
+    ],
+    "contributing_fields": [],
+    "claimed_fields": ["CON-01", "CON-02", "CON-03", "CON-04"],
+    "content": {
+      "title": "Prove the business's basic commercial model works — this is the single most important open question for a pre-revenue business, not a favorable-looking gap",
+      "finding": "All four Concentration Exposure constructs — customer demand (CON-01), a route to customers (CON-02), a sellable offering (CON-03), and a target market (CON-04) — are simultaneously UNPROVEN, meaning the business has not yet demonstrated that it can win a customer, reach one repeatably, sell something to them, or do so inside its intended market.",
+      "consequence": "This is not four small gaps — it's the entire commercial model of the business being untested at once. A reader skimming a Concentration category that shows no filled-in exposure could mistake the absence of data for evidence of diversification; it is the opposite: total, simultaneous absence of proof that the business's basic mechanism works at all. This is exactly the finding that should be presented to an investor as the central open question about the business, not folded into a generally favorable-looking risk profile.",
+      "action": "Prioritize proving the whole chain, not just one construct in isolation — a single real, arm's-length paying customer, reached through a specific channel, buying a specific defined offering, inside the intended target market, would move all four constructs from UNPROVEN to a real (even if low) A–E answer in one motion. That one sale is worth more to this combination than incremental progress on any single construct alone.",
+      "avoid": "Treating partial proof — a pilot in the wrong market, a sale to a friend, engagement without payment — as resolving any of the four individually (each standalone entry, Batch 1 Part 4, already states what does and doesn't count). Combination-level, the same caution applies at the portfolio level: don't report progress on this cluster until at least one construct has moved on genuine evidence.",
+      "action_evidence": "At least one of the four constructs has moved from UNPROVEN to a real A–E answer, backed by the genuine evidence its own standalone entry requires (an arm's-length sale, a channel that's produced more than one customer, and so on).",
+      "assessment_evidence": "At the next check, all four constructs are re-asked. The cluster is fully resolved once none of the four remain UNPROVEN; partial resolution (some constructs proven, others not) is shown as such rather than as either fully open or fully closed."
+    },
+    "resolution_rule": {
+      "type": "CLUSTER_CLEARED",
+      "required_fields": [
+        { "kind": "construct", "construct": "CON-01", "condition": "CONSTRUCT_DEMONSTRATED (status != UNPROVEN)" },
+        { "kind": "construct", "construct": "CON-02", "condition": "CONSTRUCT_DEMONSTRATED (status != UNPROVEN)" },
+        { "kind": "construct", "construct": "CON-03", "condition": "CONSTRUCT_DEMONSTRATED (status != UNPROVEN)" },
+        { "kind": "construct", "construct": "CON-04", "condition": "CONSTRUCT_DEMONSTRATED (status != UNPROVEN)" }
+      ],
+      "contributing_fields": [],
+      "implementation_note": "The four constituent fields resolve via CONSTRUCT_DEMONSTRATED individually (status != UNPROVEN), not via a minimum_level on the A–E ladder — Part H's CLUSTER_CLEARED resolve() pseudocode as written checks minimum_level satisfaction, which doesn't apply to a field with no ladder position. contributing_fields: none. Flagged in Part K as an open item: CLUSTER_CLEARED's schema needs to accept either a minimum_level or a construct_demonstrated condition per required field, since this is the one cluster built entirely from Layer 2 constructs rather than Layer 1/3 field levels."
+    }
+  }
+]

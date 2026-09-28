@@ -1,0 +1,290 @@
+[
+  {
+    "rule_id": "L3-RES-01-AB",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-01",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Recognize the business's heaviest single dependency explicitly",
+      "finding": "The business depends heavily on a single customer, channel, supplier, or source of revenue, and this hasn't been recognized or addressed.",
+      "consequence": "An unrecognized heavy dependency means the business's continued operation currently rests on one relationship or one source holding — if it doesn't, the business isn't just weakened, it's structurally exposed in a way no one has planned for.",
+      "action": "Recognize the specific dependency explicitly — name which single customer, channel, supplier, or revenue source the business is heavily reliant on.",
+      "avoid": "Recognizing that concentration exists in general terms without naming the specific dependency that matters most. Vague awareness doesn't create the basis for a plan.",
+      "action_evidence": "The business's heaviest concentration is now explicitly recognized and named, even though nothing has been done about it yet.",
+      "assessment_evidence": "Re-asked: is the heavy dependency recognized, even if nothing is being done about it? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-RES-01-BC",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-01",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Start identifying and monitoring the business's dependencies",
+      "finding": "A heavy dependency is recognized, but nothing is being done about it.",
+      "consequence": "Recognition without action leaves the exposure exactly where it was — the business now knows what would hurt it most, but that knowledge isn't yet doing anything to reduce the chance or the impact of it happening.",
+      "action": "Identify and monitor the business's dependencies more broadly, and either start actively reducing the most significant one or deliberately decide to accept it for a stated reason.",
+      "avoid": "Accepting a heavy dependency by default rather than by deliberate decision. An accepted risk should be a choice made for a stated reason, not just a risk left unaddressed.",
+      "action_evidence": "Dependencies are identified and monitored, with the most significant one either being actively reduced or deliberately accepted for a stated reason.",
+      "assessment_evidence": "Re-asked: are dependencies identified and monitored, with the most significant one being reduced or deliberately accepted? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-RES-01-CD",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-01",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Reduce or secure the business's most significant dependency so it can no longer threaten the business alone",
+      "finding": "The most significant dependency is monitored and either being reduced or deliberately accepted, but no single dependency has yet been brought below the level where its loss would threaten the business.",
+      "consequence": "A dependency that's being watched but hasn't yet been reduced or secured is still capable of doing the same damage it always could — monitoring reveals the risk earlier, it doesn't remove it.",
+      "action": "Reduce or secure the business's most significant dependency specifically, so that no single customer, channel, supplier, or revenue source would be severe enough to threaten the business if lost.",
+      "avoid": "Spreading reduction effort evenly across every dependency instead of concentrating on the one severe enough to actually threaten the business. The goal is removing the single point of failure, not incremental improvement everywhere.",
+      "action_evidence": "No single dependency is severe enough to threaten the business — or where one exists, it's secured and mitigated.",
+      "assessment_evidence": "Re-asked: is no single dependency severe enough to threaten the business, or is it secured and mitigated? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-01",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-RES-02-AB",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-02",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Respond, even reactively, when conditions change",
+      "finding": "Conditions have changed — a market shift, a lost customer, a cost increase, a regulatory change, a competitor move — and the business hasn't adjusted.",
+      "consequence": "A business that doesn't adjust when its conditions change doesn't stay where it was — it falls behind a market and competitors that keep moving, and the gap compounds the longer it goes unaddressed.",
+      "action": "Respond to the most significant recent change, even if that response is reactive rather than early or deliberate.",
+      "avoid": "Waiting for a \"big enough\" change to justify responding. Smaller, earlier changes are exactly the ones a business can afford to get wrong while it builds the habit of responding at all.",
+      "action_evidence": "The business has now made a reactive adjustment in response to a recent changed condition.",
+      "assessment_evidence": "Re-asked: does the business adjust, even if only reactively, once impact is already being felt? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-RES-02-BC",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-02",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Make deliberate changes in response to changed conditions, and be able to point to them",
+      "finding": "The business adjusts, but only reactively, once the impact is already being felt.",
+      "consequence": "Reactive adjustment means the business absorbs the full impact of a change before it responds — the cost, the lost customer, or the missed opportunity has already happened by the time anything changes.",
+      "action": "Make deliberate changes in response to changed conditions, and be able to point to specific examples of doing so, rather than adjusting only once impact has already landed.",
+      "avoid": "Making a change and not being able to explain afterward what specifically prompted it. A deliberate response needs a traceable reason, not just an outcome that happened to shift.",
+      "action_evidence": "The business has made deliberate changes in response to changed conditions, with specific examples it can point to.",
+      "assessment_evidence": "Re-asked: has the business made deliberate changes in response to changed conditions, with specific examples? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-RES-02-CD",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-02",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Notice and act on changes early, before they cause impact",
+      "finding": "The business makes deliberate changes in response to changed conditions, but only after the impact is already being felt, rather than early enough to limit it.",
+      "consequence": "Deliberate but late responses still absorb most of the cost of a change — the business is doing the right thing, just after the point where it could have limited the damage rather than just recovering from it.",
+      "action": "Build the habit of noticing changes early — before their impact is fully felt — and acting on what's noticed rather than what's already happened.",
+      "avoid": "Confusing \"we responded quickly once we noticed\" with \"we noticed early.\" Speed of response after noticing and earliness of noticing are two different things — this is about the latter.",
+      "action_evidence": "Changes are made early enough to limit impact, prompted by something the business noticed rather than something it suffered.",
+      "assessment_evidence": "Re-asked: were changes made early enough to limit impact, prompted by something noticed rather than suffered? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-02",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-RES-03-AB",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-03",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Start considering what an alternative route might look like",
+      "finding": "The business has one path and no alternative has been considered.",
+      "consequence": "A business with exactly one viable route has no fallback if that route stops working — a change in the market, a lost channel, or a shift the business can't control would leave it with nowhere else to go.",
+      "action": "Start considering, even in general terms, what an alternative route might look like — a different customer group, offering, or channel the business could plausibly serve or use.",
+      "avoid": "Treating \"we could probably figure something out\" as having considered an alternative. The construct asks for a specific route under consideration, not confidence that one would appear if needed.",
+      "action_evidence": "Alternatives are now discussed in general terms, even though nothing is established yet about whether they'd actually work.",
+      "assessment_evidence": "Re-asked: are alternatives discussed in general terms, even without anything established about whether they'd work? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-RES-03-BC",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-03",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Identify a specific alternative route with a stated basis for believing it's viable",
+      "finding": "Alternatives are discussed in general terms, but nothing is established about whether they would actually work.",
+      "consequence": "A general sense that alternatives probably exist somewhere isn't the same as having one identified and ready to pursue — if the current path became less viable, the business would still be starting from nothing.",
+      "action": "Identify at least one specific alternative route — a specific different customer group, offering, or channel — with a stated basis for believing it would actually be viable.",
+      "avoid": "Picking an alternative because it sounds plausible rather than because there's a genuine basis for believing it would work. The stated basis is what turns a guess into a real option.",
+      "action_evidence": "At least one specific alternative route is identified, with a stated basis for believing it's viable.",
+      "assessment_evidence": "Re-asked: has at least one specific alternative route been identified, with a stated basis for viability? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-RES-03-CD",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-03",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Test a second alternative route enough to know it's genuinely available",
+      "finding": "One specific alternative route is identified with a stated basis, but only one, and it hasn't been tested enough to know it's genuinely available.",
+      "consequence": "A single untested alternative is still a guess about what would happen, not a known option — relying on it if the current path failed would mean discovering whether it actually works under real pressure, at the worst possible time to find out.",
+      "action": "Identify a second specific alternative, and test at least one of them enough to know it's genuinely available — early conversations, a trial, or an existing capability that transfers.",
+      "avoid": "Treating a plausible-sounding second alternative as sufficient without testing either one. The construct specifically requires at least one to be tested, not just identified.",
+      "action_evidence": "More than one specific alternative is identified, and at least one has been tested enough to know it's genuinely available.",
+      "assessment_evidence": "Re-asked: is more than one specific alternative identified, with at least one tested enough to know it's genuinely available? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-03",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-RES-04-AB",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-04",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Respond to individual prompts to improve or extend the offering",
+      "finding": "The offering hasn't changed, and there's no process for changing it.",
+      "consequence": "An offering that never changes falls behind what customers need and what competitors offer — value that was competitive when the offering was built doesn't stay competitive on its own.",
+      "action": "Start responding to individual prompts — a specific customer request or a problem that's surfaced — with a real change to the offering, even without a formal process yet.",
+      "avoid": "Waiting for a comprehensive plan before making any change at all. A single genuine response to a real prompt is a legitimate first step, not something to defer until a full process exists.",
+      "action_evidence": "Changes to the offering now happen occasionally, prompted by an individual customer request or a problem.",
+      "assessment_evidence": "Re-asked: do changes happen occasionally, prompted by an individual request or problem? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-RES-04-BC",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-04",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Deliberately improve or extend the offering using what's learned from customers and the market",
+      "finding": "Changes to the offering happen occasionally, prompted by an individual customer request or a problem, but there's no deliberate process drawing on what's learned more broadly.",
+      "consequence": "Reacting only to individual prompts means the offering improves in whatever direction the loudest or most recent request happens to point, rather than in the direction that would actually strengthen the business's position.",
+      "action": "Deliberately improve or extend the offering, drawing on what the business learns from customers and the market more broadly, not just individual requests as they arrive.",
+      "avoid": "Confusing \"we make changes when asked\" with \"we deliberately improve the offering.\" The former is reactive; the construct asks for a deliberate practice informed by broader learning.",
+      "action_evidence": "The offering is deliberately improved or extended, drawing on what the business learns from customers and the market.",
+      "assessment_evidence": "Re-asked: does the business deliberately improve or extend its offering, drawing on customer and market learning? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-RES-04-CD",
+    "layer": 3,
+    "dimension": "Resilience & Growth Capacity",
+    "source_field": "RES-04",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Make offering renewal a recurring practice with time, people, or budget allocated to it",
+      "finding": "The business deliberately improves or extends its offering, but this doesn't happen on a recurring basis — nothing is deliberately allocated to it.",
+      "consequence": "Deliberate renewal that happens only occasionally, without dedicated time, people, or budget, tends to lose out to whatever is more urgent in the moment — it stays real but sporadic, rather than becoming a reliable source of ongoing strength.",
+      "action": "Make offering renewal a recurring practice, with time, people, or budget deliberately allocated to it on an ongoing basis.",
+      "avoid": "Allocating resource to renewal only when things are going well and cutting it first when they aren't. A recurring practice needs to survive pressure, not just exist when there's slack.",
+      "action_evidence": "Offering renewal happens on a recurring basis, with time, people, or budget deliberately allocated to it.",
+      "assessment_evidence": "Re-asked: does renewal happen on a recurring basis, with time, people, or budget allocated to it? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "RES-04",
+      "minimum_level": "D"
+    }
+  }
+]

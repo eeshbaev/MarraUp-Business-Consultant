@@ -1,0 +1,434 @@
+[
+  {
+    "rule_id": "L3-FIN-01-AB",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-01",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Stabilize near-term obligations so they're being met",
+      "finding": "Near-term obligations cannot reliably be met — payments are currently being delayed or deferred out of necessity.",
+      "consequence": "The business is currently unable to meet its commitments as they come due — this is not a future risk, it's a present condition, and continuing to defer payments erodes trust with whoever is waiting to be paid.",
+      "action": "Stabilize near-term obligations so they're being met, even without any buffer yet — prioritize whichever payments, if missed, would cause the most damage.",
+      "avoid": "Meeting obligations by taking on new short-term debt at unfavorable terms without addressing why the shortfall exists in the first place.",
+      "action_evidence": "Near-term obligations are currently being met, even though there's no buffer for an unexpected cost or delay.",
+      "assessment_evidence": "Re-asked: are obligations being met, even without a buffer for the unexpected? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-01-BC",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-01",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Build a modest buffer for ordinary variation",
+      "finding": "Obligations are being met, but with no buffer — an unexpected cost or a delayed receipt would create a shortfall.",
+      "consequence": "The business's ability to meet its commitments currently depends on nothing going wrong — a single unexpected cost or a late payment from a customer would be enough to tip it into a shortfall.",
+      "action": "Build a modest buffer for ordinary variation, and define the forward period over which obligations can be met — so coverage rests on more than everything going exactly as planned.",
+      "avoid": "Treating \"we've always managed so far\" as evidence of a buffer. Having avoided a shortfall isn't the same as having room to absorb one.",
+      "action_evidence": "Obligations can be met over a defined forward period, with a modest buffer for ordinary variation.",
+      "assessment_evidence": "Re-asked: can obligations be met over a defined forward period, with a modest buffer for ordinary variation? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-01-CD",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-01",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 1,
+    "content": {
+      "title": "Size the buffer against a specific, realistic adverse event",
+      "finding": "Obligations can be met over a defined forward period with a modest buffer, but that buffer isn't sized to withstand a realistic adverse event — a lost major customer, a delayed payment, or a cost increase could still create a shortfall.",
+      "consequence": "The business's current buffer covers ordinary variation but not a genuinely bad month — the kind of setback that isn't exotic, just uncomfortable, and that most businesses eventually face at some point.",
+      "action": "Size the buffer to withstand a specific, realistic adverse event the business could plausibly face — name the scenario (a lost major customer, a delayed payment, a cost increase) and confirm the buffer would cover it, and extend the forward coverage period accordingly.",
+      "avoid": "Sizing the buffer against a vague sense of \"enough cushion\" rather than a specific, named adverse scenario. A buffer sized against nothing in particular is hard to know is actually sufficient.",
+      "action_evidence": "The buffer is sized against a specific, named adverse scenario and covers an extended forward period.",
+      "assessment_evidence": "Re-asked: can obligations be met over an extended forward period, with a buffer sized to withstand a realistic adverse event? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-01",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-02-AB",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-02",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Track total costs, not just direct delivery costs",
+      "finding": "Whether the business generates a surplus after all its costs isn't known — total costs aren't tracked well enough to say.",
+      "consequence": "Without knowing total costs, the business can't tell whether it's actually sustainable or slowly running down — a fundamental question about the business's own viability currently has no answer.",
+      "action": "Start tracking all costs of running the business — not just the direct costs of delivery — so it becomes clear whether the business operates at a surplus or a deficit.",
+      "avoid": "Tracking only the costs that are easiest to categorize (direct delivery costs) while leaving overhead, admin, and other running costs untracked. \"All the costs of running the business\" means all of them.",
+      "action_evidence": "Total costs are tracked, and the business knows whether it currently operates at a surplus or a deficit.",
+      "assessment_evidence": "Re-asked: are costs known, even if the business currently operates at a deficit with no defined path to surplus? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-02-BC",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-02",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Define a specific, evidenced path to surplus",
+      "finding": "Costs are known and the business operates at a deficit, with no defined path to surplus.",
+      "consequence": "The business currently knows it's losing money but doesn't have a specific, evidenced plan for how or when that changes — without one, the deficit is just being observed rather than being worked toward a resolution.",
+      "action": "Define a specific, evidenced path to surplus — which costs will change, which volumes are needed, by when — rather than continuing to operate at a deficit without a stated plan.",
+      "avoid": "Writing a path to surplus based on hoped-for growth rather than specific, evidenced assumptions the business can actually defend.",
+      "action_evidence": "A defined path to surplus exists, with specific evidenced assumptions about costs, volumes, and timing.",
+      "assessment_evidence": "Re-asked: does a path to surplus exist, with specific evidenced assumptions, even while still at a deficit? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-02-CD",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-02",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 2,
+    "content": {
+      "title": "Execute the path and actually reach surplus",
+      "finding": "A defined, evidenced path to surplus exists, but the business hasn't yet reached the point of actually generating one.",
+      "consequence": "The plan for reaching surplus is only as good as its execution — until the business actually generates a surplus, the plan remains a forecast rather than a demonstrated outcome.",
+      "action": "Execute the defined path to surplus and reach the point where the business generates a surplus under normal operating conditions. This level requires an actually realized surplus — a genuine evidence ceiling, not a stage penalty (Questionnaire Specification, Part E): if the business is still pre-revenue or early-stage, this action is downstream of progress on revenue (Market dimension) and margin (Business Model, BM-02) — the path to surplus needs those in place before surplus itself is reachable.",
+      "avoid": "Declaring the business \"on track\" to surplus indefinitely without a specific milestone or date that would actually test the plan against reality.",
+      "action_evidence": "The business generates a surplus, or has reached the point where it does so under normal operating conditions.",
+      "assessment_evidence": "Re-asked: does the business generate a surplus, or has it reached that point under normal conditions? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-02",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-03-AB",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-03",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Start tracking cash timing, even informally",
+      "finding": "The timing of money coming in and going out isn't managed — shortfalls are discovered when they occur.",
+      "consequence": "The business currently finds out about cash timing problems only after they've already happened, which is the most expensive and stressful way to discover them — there's no lead time to respond.",
+      "action": "Start tracking the timing of expected receipts and payments informally, so at least occasional shortfalls can be handled as they arise rather than discovered as a surprise.",
+      "avoid": "Checking the bank balance as the only form of timing management. That shows where things stand today, not what's coming.",
+      "action_evidence": "Timing is tracked informally, and shortfalls are being handled reactively as they arise, rather than only discovered after the fact.",
+      "assessment_evidence": "Re-asked: is timing tracked informally, with shortfalls handled reactively as they arise? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-03-BC",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-03",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Track receipts and payments forward so shortfalls can be anticipated",
+      "finding": "Timing is tracked informally, and shortfalls are handled reactively as they arise, rather than anticipated in advance.",
+      "consequence": "The business is still finding out about timing problems close to when they happen rather than seeing them coming — reactive handling works until the reaction time isn't fast enough.",
+      "action": "Track expected receipts and payments forward over a defined horizon, so shortfalls can be anticipated rather than discovered.",
+      "avoid": "Tracking only the largest, most obvious payments and receipts while leaving smaller recurring ones out of the forward view. Shortfalls are often the sum of several smaller misses, not one big one.",
+      "action_evidence": "Expected receipts and payments are tracked forward over a defined horizon, and shortfalls are being anticipated before they occur.",
+      "assessment_evidence": "Re-asked: are expected receipts and payments tracked forward over a defined horizon, so shortfalls can be anticipated? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-03-CD",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-03",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 3,
+    "fallback_order": 3,
+    "content": {
+      "title": "Actively manage the drivers of cash timing, not just observe them",
+      "finding": "Receipts and payments are tracked forward and shortfalls can be anticipated, but the business only observes the drivers behind them — collection terms, payment terms, stock or work in progress — rather than actively managing those drivers.",
+      "consequence": "Anticipating a shortfall is only half the value — without actively managing what causes it, the business can see problems coming without necessarily being able to prevent them.",
+      "action": "Start actively managing the drivers behind cash timing — negotiate or enforce collection terms, manage payment terms with suppliers, or reduce money tied up in stock or work in progress — rather than only observing them.",
+      "avoid": "Managing one driver (say, chasing collections harder) while leaving the others (payment terms, stock levels) completely passive. All three levers matter to this construct.",
+      "action_evidence": "The business actively manages at least one of the specific drivers — collection terms, payment terms, or stock/work in progress — rather than only tracking them.",
+      "assessment_evidence": "Re-asked: does the business actively manage the drivers of cash timing, rather than only observing them? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-03",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-04-AB",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-04",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Get records current enough to know the business's position",
+      "finding": "Financial records are incomplete or so out of date that the current position is unknown.",
+      "consequence": "Decisions are currently being made without knowing where the business actually stands financially — a serious blind spot for anyone trying to run it responsibly.",
+      "action": "Bring records up to date, even if only compiled infrequently or primarily for tax and compliance purposes, so a current position can at least occasionally be known.",
+      "avoid": "Catching up records once and letting them fall behind again immediately. The goal is a sustainable baseline, not a one-time cleanup.",
+      "action_evidence": "Financial records exist and are current enough that the business's position can be determined, even if compiled infrequently.",
+      "assessment_evidence": "Re-asked: do records exist, even if compiled infrequently or mainly for tax and compliance? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-04-BC",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-04",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Put records on a regular cycle",
+      "finding": "Records exist but are compiled infrequently, or only for tax and compliance, so decisions are made without current figures.",
+      "consequence": "Whoever makes decisions in this business is currently working from stale or incomplete numbers — decisions made on old figures can quietly diverge from the business's actual current position.",
+      "action": "Put records on a regular cycle so they give a reliable, current picture of the business's position, not just what's needed for tax filings.",
+      "avoid": "Improving the accuracy of records without improving how often they're updated. A precise but stale number isn't more useful than an imprecise current one.",
+      "action_evidence": "Records are maintained on a regular cycle and give a reliable picture of the current financial position.",
+      "assessment_evidence": "Re-asked: are records maintained on a regular cycle, giving a reliable picture of the current position? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-04-CD",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-04",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 4,
+    "content": {
+      "title": "Break records down by where money is earned and spent",
+      "finding": "Records are maintained on a regular cycle and give a reliable current picture, but they aren't broken down enough to show where money is actually earned and spent.",
+      "consequence": "The business knows its overall financial position but not which parts of it are working — without a breakdown, strong and weak areas are hidden inside one aggregate number.",
+      "action": "Break records down by offering, customer type, activity, or location — whichever breakdown is meaningful for this business — so it's clear where money is earned and spent, not just the total.",
+      "avoid": "Breaking records down into categories so granular they're not actually meaningful to decisions (an arbitrary account code list rather than offering, customer type, activity, or location).",
+      "action_evidence": "Records are broken down in a way that shows where money is earned and spent — by offering, customer type, activity, or location.",
+      "assessment_evidence": "Re-asked: is the information broken down enough to show where money is earned and spent? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-04",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-05-AB",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-05",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Put together rough forward expectations",
+      "finding": "No forward financial plan exists.",
+      "consequence": "The business currently has no stated expectation of where its finances are heading — without a plan, there's nothing to compare actual results against, and no way to notice drift early.",
+      "action": "Put together rough forward expectations, even informally — a sense of what revenue, costs, and cash position are expected to look like ahead — as a starting point toward a real plan.",
+      "avoid": "Keeping the plan entirely in someone's head rather than writing it down, even roughly. An unwritten plan can't be compared against later.",
+      "action_evidence": "Rough forward expectations exist, even if not yet written down or fully worked through.",
+      "assessment_evidence": "Re-asked: do rough expectations exist, even if not written down or worked through? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-05",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-05-BC",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-05",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Write down a forward plan built on stated assumptions",
+      "finding": "Rough financial expectations exist, but they aren't written down or worked through.",
+      "consequence": "Without a written plan built on stated assumptions, the business's forward expectations can't really be tested, shared, or checked later against what actually happens.",
+      "action": "Write down a forward plan built on stated assumptions, covering a defined period, so there's something specific to work from and compare against.",
+      "avoid": "Writing a plan with no stated assumptions behind the numbers. A plan that's just numbers, without the reasoning behind them, can't be meaningfully reviewed later.",
+      "action_evidence": "A forward plan exists in writing, built on stated assumptions, covering a defined period.",
+      "assessment_evidence": "Re-asked: does a forward plan exist, built on stated assumptions, covering a defined period? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-05",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-05-CD",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-05",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 5,
+    "content": {
+      "title": "Compare actual results against the plan and understand the variances",
+      "finding": "A forward plan exists with stated assumptions, but actual results aren't compared against it — the plan isn't being checked against what actually happens.",
+      "consequence": "Without comparing actual results to the plan, the business doesn't know if its assumptions were right, and any drift between plan and reality is going unnoticed.",
+      "action": "Start comparing actual results against the plan on a regular basis, and understand the variances — not just note that they exist, but why they happened.",
+      "avoid": "Comparing results to the plan but only noting whether targets were hit or missed, without digging into why. The value is in understanding the variance, not just recording it.",
+      "action_evidence": "Actual results are compared against the plan regularly, with variances understood and explainable.",
+      "assessment_evidence": "Re-asked: are actual results compared against the plan, with variances understood rather than just noted? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-05",
+      "minimum_level": "D"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-06-AB",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-06",
+    "transition": "A->B",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 6,
+    "content": {
+      "title": "Get a full, accurate picture of fixed commitments",
+      "finding": "The business's fixed financial commitments aren't fully known, or are at a level the business is struggling to service.",
+      "consequence": "The business either doesn't have a clear picture of what it owes and when, or it's already straining to keep up with what it owes — either way, this is close to the most basic financial information a business needs to have under control.",
+      "action": "Get a full, accurate picture of all fixed commitments — loans, leases, and other ongoing obligations — and if the business is struggling to service them, address that as the immediate priority.",
+      "avoid": "Listing only the largest or most obvious commitments while leaving smaller recurring ones (subscriptions, minor leases) out of the picture. \"Fully known\" means all of them.",
+      "action_evidence": "All fixed commitments are known and are being serviced, even if they currently consume a large share of what the business generates.",
+      "assessment_evidence": "Re-asked: are commitments known and being serviced, even if they consume enough that little remains for anything else? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-06",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-06-BC",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-06",
+    "transition": "B->C",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 6,
+    "content": {
+      "title": "Reduce the weight of fixed commitments to a comfortable level",
+      "finding": "Commitments are known and being serviced, but they consume enough of what the business generates that little remains for anything else.",
+      "consequence": "The business's fixed obligations currently leave it little room to invest, absorb a setback, or build any reserve — most of what comes in is already spoken for before it arrives.",
+      "action": "Reduce the weight of fixed commitments relative to what the business generates — renegotiating terms, paying down what can be paid down, or avoiding new fixed obligations — until they're comfortably serviced with understood terms.",
+      "avoid": "Taking on a new obligation to refinance an old one without actually reducing the total weight of fixed commitments relative to what the business generates.",
+      "action_evidence": "Commitments are comfortably serviced, with terms understood, and leave meaningful room beyond what's owed.",
+      "assessment_evidence": "Re-asked: are commitments comfortably serviced (or deliberately none), with terms understood? A \"yes\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-06",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "L3-FIN-06-CD",
+    "layer": 3,
+    "dimension": "Financial Health",
+    "source_field": "FIN-06",
+    "transition": "C->D",
+    "stage_variant": null,
+    "weight": 2,
+    "fallback_order": 6,
+    "content": {
+      "title": "Deliberately choose and structure commitments, rather than accumulate them",
+      "finding": "Commitments are comfortably serviced and their terms are understood, but they were accumulated as circumstances required rather than deliberately chosen and structured.",
+      "consequence": "The business's current commitments happen to be manageable, but they weren't necessarily chosen with their terms, timing, or security deliberately considered — that's a matter of favorable circumstance so far, not design.",
+      "action": "Review existing commitments and, going forward, deliberately choose and structure commitments as to terms, timing, and security, rather than accepting whatever was available when the need arose.",
+      "avoid": "Deliberately restructuring only new commitments while leaving existing ones exactly as accumulated, without reviewing whether they could be improved too.",
+      "action_evidence": "Commitments are deliberately chosen and structured as to terms, timing, and security, evidenced by at least one commitment restructured or newly entered on that basis.",
+      "assessment_evidence": "Re-asked: are commitments deliberately chosen and structured, rather than accumulated as circumstances required? A \"yes\" answer (D) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-06",
+      "minimum_level": "D"
+    }
+  }
+]

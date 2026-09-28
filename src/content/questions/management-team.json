@@ -1,0 +1,81 @@
+{
+  "dimension": "Management & Team",
+  "dimension_weight": 10,
+  "questions": [
+    {
+      "question_id": "MGT-01",
+      "dimension": "Management & Team",
+      "weight": 3,
+      "fallback_order": 1,
+      "text": "Are the capabilities this business needs in order to run — commercial, delivery or technical, and financial — covered by someone with the competence to do them?",
+      "levels": {
+        "A": { "text": "Significant capabilities the business needs are not covered by anyone", "points": 0 },
+        "B": { "text": "Capabilities are covered by whoever is available, regardless of whether they are competent in them", "points": 0.75 },
+        "C": { "text": "The business has identified the capabilities it needs, and most are covered by someone competent — whether an owner, employee, contractor, adviser, or outsourced provider", "points": 1.5 },
+        "D": { "text": "All identified critical capabilities are covered by someone demonstrably competent, and remaining gaps are recognised and being addressed", "points": 2.25 },
+        "E": { "text": "As D, and coverage is reviewed as the business changes, so newly critical capabilities are identified before they become gaps", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "MGT-02",
+      "dimension": "Management & Team",
+      "weight": 2,
+      "fallback_order": 2,
+      "text": "Is it clear who is responsible for what, and who is accountable for outcomes?",
+      "levels": {
+        "A": { "text": "Responsibilities are unclear or overlap in ways that cause things to be missed", "points": 0 },
+        "B": { "text": "Responsibilities are understood informally but not defined; accountability is ambiguous when something goes wrong", "points": 0.5 },
+        "C": { "text": "Responsibilities are defined and understood by those involved", "points": 1 },
+        "D": { "text": "As C, and named individuals are accountable for defined outcomes, not only for activities", "points": 1.5 },
+        "E": { "text": "As D, and accountability is exercised in practice — outcomes are reviewed with the accountable person on a defined cycle", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "MGT-03",
+      "dimension": "Management & Team",
+      "weight": 2,
+      "fallback_order": 3,
+      "text": "If a person central to the business became unavailable, how well could the business continue?",
+      "levels": {
+        "A": { "text": "Critical knowledge and relationships sit with one person, undocumented and untransferable; the business would substantially stop", "points": 0 },
+        "B": { "text": "The dependency is recognised, but nothing has been done about it", "points": 0.5 },
+        "C": { "text": "Some critical knowledge and relationships are documented or shared, so parts of the business could continue", "points": 1 },
+        "D": { "text": "Critical knowledge, relationships and access are documented or shared such that the business could continue operating through an absence", "points": 1.5 },
+        "E": { "text": "As D, and this has been tested rather than assumed — through a planned absence, a handover, or another person demonstrably picking up a critical function", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "MGT-04",
+      "dimension": "Management & Team",
+      "weight": 2,
+      "fallback_order": 4,
+      "text": "How are significant decisions made in the business?",
+      "levels": {
+        "A": { "text": "Decisions are made reactively, without information gathered for the purpose", "points": 0 },
+        "B": { "text": "Decisions are made by whoever is available at the time, on judgement alone", "points": 0.5 },
+        "C": { "text": "Significant decisions are made by identified people, using relevant information gathered beforehand", "points": 1 },
+        "D": { "text": "As C, and significant decisions are recorded with their reasoning, so they can be revisited", "points": 1.5 },
+        "E": { "text": "As D, and the business reviews how past significant decisions turned out and adjusts how it makes them", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "MGT-05",
+      "dimension": "Management & Team",
+      "weight": 1,
+      "fallback_order": 5,
+      "text": "Do the people the business depends on stay, and does their capability keep pace with what the business needs?",
+      "levels": {
+        "A": { "text": "People central to the business leave unexpectedly, or capability gaps persist without being addressed", "points": 0 },
+        "B": { "text": "People generally stay, but capability development is not considered", "points": 0.25 },
+        "C": { "text": "The people the business depends on are stable, and capability needs are recognised when they arise", "points": 0.5 },
+        "D": { "text": "As C, and capability is deliberately developed — training, mentoring, structured experience, or bringing in expertise", "points": 0.75 },
+        "E": { "text": "As D, and development is planned against where the business is going, not only what it needs today", "points": 1 }
+      },
+      "stage_variant": false
+    }
+  ]
+}

@@ -1,0 +1,882 @@
+[
+  {
+    "rule_id": "SC-CON-01-C",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 8,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Start reducing dependence on {largest customer}, before it becomes existential",
+      "finding": "{Largest customer} is large enough that losing them would interrupt revenue and require a deliberate effort to replace — the business would recover, but not without disruption.",
+      "consequence": "A single lost customer currently costs more than inconvenience — it costs deliberate, resource-diverting recovery effort. That's manageable today, but it's real exposure the business carries every day this relationship stays in its current shape.",
+      "action": "Continue building a second customer or account alongside {largest customer}, at a pace that would make losing {largest customer} merely noticeable rather than disruptive.",
+      "avoid": "Concentrating sales effort further on {largest customer} because they're the easiest source of near-term revenue growth. That moves the business the wrong direction on this item.",
+      "action_evidence": "A second customer or account has grown enough that losing {largest customer} would clearly be absorbable within normal operations.",
+      "assessment_evidence": "Re-asked: if {largest customer} stopped buying tomorrow, would it be noticeable but the business would continue as planned? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-CON-01-D",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 8,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Reduce dependence on {largest customer} before it forces a change in plans",
+      "finding": "{Largest customer} is large enough that losing them would materially impair the business for an extended period — plans, capacity, or commitments would have to change.",
+      "consequence": "The business isn't just dependent on {largest customer} — losing them would force a real change in direction, not just a hard quarter.",
+      "action": "Begin actively developing a second customer or account — even a modest one — so that losing {largest customer} becomes a serious but recoverable event, rather than one that forces the business to change its plans.",
+      "avoid": "Treating a verbal assurance of loyalty from {largest customer} as a substitute for an actual second revenue source. Reassurance doesn't change what happens if they leave anyway.",
+      "action_evidence": "A second customer or account exists and is generating real, recurring revenue, even if still modest.",
+      "assessment_evidence": "Re-asked: if {largest customer} stopped buying tomorrow, would it interrupt revenue and require deliberate effort to replace, but the business would recover, rather than forcing plans to change? A \"yes, recoverable with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-CON-02-C",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 6,
+    "fallback_order": 2,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Strengthen routes to customers beyond {main route}",
+      "finding": "Losing {main route} would interrupt new business and require deliberate effort to rebuild reach — the business would recover, but not without a real gap.",
+      "consequence": "New business currently depends more on one channel than the business would want if that channel had a bad month, let alone disappeared — the deliberate-rebuild cost is real, even if not yet severe.",
+      "action": "Keep growing whatever secondary channel exists until losing {main route} would be noticeable but absorbed by the others, not a rebuilding project.",
+      "avoid": "Optimizing {main route} harder (more spend, better placement) instead of growing the alternative. That improves this quarter's numbers while leaving the underlying exposure untouched.",
+      "action_evidence": "A second channel is bringing in new business at a scale that would clearly cushion the loss of {main route}.",
+      "assessment_evidence": "Re-asked: if {main route} became unavailable, would it be noticeable but the others would carry the business? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-CON-02-D",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 6,
+    "fallback_order": 2,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Build a real second route to customers before {main route}'s loss forces a change in plans",
+      "finding": "Losing {main route} would materially reduce the flow of new business for an extended period — plans would have to change.",
+      "consequence": "The business's growth, not just its comfort, currently rests on one channel staying available and effective — a real disruption there wouldn't just slow things down, it would force a change in direction.",
+      "action": "Open and actively use a second channel now, even at modest volume, so that losing {main route} becomes a rebuilding effort rather than a forced change in plans.",
+      "avoid": "Waiting for {main route}'s performance to visibly decline before starting a second channel. By the time the gap is visible, the rebuilding effort has already gotten harder.",
+      "action_evidence": "A second channel exists and is producing new business independent of {main route}, even if smaller.",
+      "assessment_evidence": "Re-asked: if {main route} became unavailable, would it interrupt new business and require deliberate effort to rebuild reach, rather than forcing plans to change? A \"yes, recoverable with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-CON-03-C",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 4,
+    "fallback_order": 3,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Grow revenue beyond {largest offering}",
+      "finding": "Losing demand for {largest offering} would remove a significant share of revenue and require deliberate effort to replace it.",
+      "consequence": "A meaningful share of the business's revenue rests on one offering's continued appeal — not yet existential, but already more than a rounding error if demand shifted.",
+      "action": "Keep growing whatever second offering exists until the loss of {largest offering} would be noticeable but the business would remain viable without a deliberate replacement effort.",
+      "avoid": "Bundling or repackaging {largest offering} to boost its numbers further, mistaking that for diversification.",
+      "action_evidence": "A second offering's revenue has grown enough that losing {largest offering} would clearly leave a viable business.",
+      "assessment_evidence": "Re-asked: would the loss of {largest offering} matter, but leave a viable business without a deliberate replacement effort? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-CON-03-D",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 4,
+    "fallback_order": 3,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Reduce reliance on {largest offering} before it forces a change in plans",
+      "finding": "Losing demand for {largest offering} would materially impair the business for an extended period.",
+      "consequence": "The business's core, not just a revenue line, currently rests on one offering — a real shift in demand would force a change in direction, not just a difficult quarter.",
+      "action": "Get a second offering to genuine, independent paying demand this cycle, even at modest scale, so the loss of {largest offering} becomes recoverable rather than plan-changing.",
+      "avoid": "Adding features to {largest offering} instead of developing something genuinely separate. A stronger version of the same dependency is still the same dependency.",
+      "action_evidence": "A second offering has paying customers and real, independent revenue.",
+      "assessment_evidence": "Re-asked: would losing {largest offering} remove a significant share of revenue requiring deliberate effort to replace, rather than forcing plans to change? A \"yes, recoverable with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-CON-04-C",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 4,
+    "fallback_order": 4,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Reduce reliance on {main market}",
+      "finding": "Losing access to {main market} would interrupt revenue and require deliberate redirection.",
+      "consequence": "The business currently depends on one market's continued accessibility more than it would want — a disruption there would cost real redirection effort, even if not (yet) the business itself.",
+      "action": "Keep growing activity in a second market or segment until losing access to {main market} would be noticeable but absorbable.",
+      "avoid": "Deepening the business's footprint in {main market} alone while treating the second market as an occasional experiment rather than a real priority.",
+      "action_evidence": "The second market or segment is generating revenue at a scale that would clearly cushion losing access to {main market}.",
+      "assessment_evidence": "Re-asked: would losing access to {main market} be noticeable but absorbable? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-CON-04-D",
+    "layer": 1,
+    "dimension": "Concentration Exposure",
+    "weight": 4,
+    "fallback_order": 4,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Establish real activity outside {main market} before its loss forces a change in plans",
+      "finding": "Losing access to {main market} would materially impair the business for an extended period.",
+      "consequence": "The business's plans, not just its convenience, currently depend on one market staying accessible — a real disruption there would force a change in direction.",
+      "action": "Begin real, revenue-generating activity in a second market this cycle, even modestly, so losing {main market} becomes a redirection effort rather than a forced change in plans.",
+      "avoid": "Treating exploratory conversations or unsigned pilots in a second market as equivalent to actual activity there. They don't reduce this exposure until they produce something real.",
+      "action_evidence": "The business has active, revenue-generating activity in a second market or segment.",
+      "assessment_evidence": "Re-asked: would losing access to {main market} interrupt revenue and require deliberate redirection, rather than forcing plans to change? A \"yes, recoverable with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "CON-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-DEP-01-C",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 8,
+    "fallback_order": 1,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Keep spreading the key person's critical knowledge",
+      "finding": "This person's absence would interrupt work and require deliberate reallocation — the business would function, but not smoothly.",
+      "consequence": "The business currently pays a real coordination cost any time this person is unavailable, even briefly — a cost that would only grow if the absence were longer or unplanned.",
+      "action": "Continue transferring responsibility to the second person already covering part of this role, until their absence is inconvenient rather than disruptive.",
+      "avoid": "Letting the \"second person\" arrangement stay informal or undocumented. If it hasn't been exercised without the key person's involvement, it isn't yet real coverage.",
+      "action_evidence": "The designated second person has independently handled this person's responsibilities at least once, without the key person's involvement.",
+      "assessment_evidence": "Re-asked: would this person's absence be inconvenient but coverable within normal operations? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-DEP-01-D",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 8,
+    "fallback_order": 1,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Document and delegate before this person's absence forces a change in commitments",
+      "finding": "This person's absence would materially impair the business for an extended period — commitments would have to change.",
+      "consequence": "The business's ability to keep its commitments currently rests on one person staying available — an unplanned absence wouldn't just be disruptive, it would force the business to change what it's promised.",
+      "action": "Document this person's most critical responsibilities and assign a specific second person to each, prioritizing whichever responsibility would hurt commitments fastest if uncovered.",
+      "avoid": "Assigning coverage on paper without giving the second person real authority or access to act. Documentation without capability doesn't reduce this exposure.",
+      "action_evidence": "A second person has documented responsibility for at least one critical function and has exercised it.",
+      "assessment_evidence": "Re-asked: would this person's absence interrupt work and require deliberate reallocation, with the business still functioning, rather than forcing commitments to change? A \"yes, functions with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-DEP-02-C",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Finish the fallback for {critical system}",
+      "finding": "Losing {critical system} would interrupt operations while a replacement was put in place.",
+      "consequence": "Operations currently stop, briefly, if this system fails — manageable, but a real interruption every time it happens.",
+      "action": "Get the fallback or replacement for {critical system} to a state where it's already in place, not something assembled after the fact.",
+      "avoid": "Relying on a documented plan for a fallback that has never actually been tested or activated.",
+      "action_evidence": "A tested, ready fallback for {critical system} exists and could be activated without delay.",
+      "assessment_evidence": "Re-asked: would losing {critical system} be inconvenient, with a replacement already in place or immediately available? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-DEP-02-D",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Establish a fallback for {critical system} before its loss materially impairs operations",
+      "finding": "Losing {critical system} would materially impair operations for an extended period — there is no ready replacement.",
+      "consequence": "Operations currently have no real fallback for this system — a failure wouldn't just interrupt work, it would leave the business without a way to operate until something new was built.",
+      "action": "Identify and begin testing a specific replacement or workaround for {critical system} this cycle, even if it isn't yet as capable as the original.",
+      "avoid": "Treating \"we could probably find something\" as equivalent to having identified a specific fallback. A vague sense of options is not a plan that survives an actual outage.",
+      "action_evidence": "A specific fallback for {critical system} has been identified and tested, even if not yet as robust as the primary system.",
+      "assessment_evidence": "Re-asked: would losing {critical system} interrupt operations while a replacement was put in place, rather than materially impairing operations for an extended period? A \"yes, replaceable with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-DEP-03-C",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 4,
+    "fallback_order": 3,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Bring the alternative to {critical supplier} up to standard",
+      "finding": "Losing {critical supplier} would interrupt delivery while an alternative was found and brought up to standard.",
+      "consequence": "Delivery currently has a real gap if this supplier stops — not a stoppage, but a scramble, every time it happens.",
+      "action": "Finish qualifying the alternative supplier already identified so it could be activated immediately, not sourced from scratch, if {critical supplier} stopped supplying.",
+      "avoid": "Leaving the alternative at \"identified\" for multiple cycles without actually testing or qualifying it. An unqualified alternative doesn't reduce delivery risk.",
+      "action_evidence": "The alternative supplier has been qualified to the point of a completed test order or equivalent, and could be activated immediately.",
+      "assessment_evidence": "Re-asked: would losing {critical supplier} be absorbed by switching to an existing, ready alternative? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-DEP-03-D",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 4,
+    "fallback_order": 3,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Identify an alternative to {critical supplier} before its loss materially impairs delivery",
+      "finding": "Losing {critical supplier} would materially impair delivery for an extended period — alternatives are costly, slow, or lower quality.",
+      "consequence": "Delivery currently has no workable near-term alternative to this supplier — a disruption wouldn't just be a scramble, it would set delivery back for a real stretch of time.",
+      "action": "Identify and begin qualifying at least one alternative supplier this cycle, even if it isn't yet as good or as cheap as {critical supplier}.",
+      "avoid": "Ruling out every alternative supplier considered so far purely on price, without weighing what an actual disruption would cost.",
+      "action_evidence": "An alternative supplier has been identified and initial qualification (a sample order, a trial run) is underway.",
+      "assessment_evidence": "Re-asked: would losing {critical supplier} interrupt delivery while an alternative was found and brought up to standard, rather than materially impairing delivery for an extended period? A \"yes, recoverable with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-DEP-04-C",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 4,
+    "fallback_order": 4,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Prepare the alternative to {main premises}",
+      "finding": "Losing access to {main premises} would interrupt operations while alternative space was arranged.",
+      "consequence": "Operations currently have no ready alternative location — a loss of access wouldn't stop the business, but it would interrupt it while something was arranged.",
+      "action": "Identify a specific alternative space and confirm, in advance, roughly how quickly it could be occupied if needed.",
+      "avoid": "Treating \"we'd figure something out\" as a plan. A specific, pre-identified alternative is what actually shortens the interruption.",
+      "action_evidence": "A specific alternative location has been identified and its approximate availability confirmed.",
+      "assessment_evidence": "Re-asked: would loss of {main premises} be absorbed, with work continuing elsewhere with minor disruption? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-DEP-04-D",
+    "layer": 1,
+    "dimension": "Dependency Exposure",
+    "weight": 4,
+    "fallback_order": 4,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Identify an alternative to {main premises} before its loss materially impairs operations",
+      "finding": "Losing access to {main premises} would materially impair operations for an extended period — suitable alternatives are scarce or costly.",
+      "consequence": "Operations currently have no realistic near-term alternative location — losing this site wouldn't just interrupt the business, it would set it back for a real stretch of time.",
+      "action": "Begin identifying what it would take to operate from an alternative location, even if the options are imperfect or costly, so there's a specific plan rather than none.",
+      "avoid": "Investing further in {main premises}-specific fixtures or fit-out while leaving the alternative-location question entirely unaddressed.",
+      "action_evidence": "A specific, even if imperfect, alternative location or way of operating has been identified as workable.",
+      "assessment_evidence": "Re-asked: would loss of {main premises} interrupt operations while alternative space was arranged, rather than materially impairing operations for an extended period? A \"yes, recoverable with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "DEP-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-FIN-R-01-C",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 8,
+    "fallback_order": 1,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Reduce reliance on cuts to sustain the business through its current funding",
+      "finding": "On funds already available or committed, the business would have to reduce activity deliberately — slowing spending, deferring plans — but would continue.",
+      "consequence": "The business's current plans already assume a level of ongoing funding beyond what would be needed if forced to operate leaner — that gap is a real, if manageable, exposure.",
+      "action": "Extend the runway further — through additional committed funding, reduced planned spend, or revenue growth — so continuing wouldn't require deliberate cuts at all.",
+      "avoid": "Counting informal or in-principle interest from a future investor as if it were committed funding.",
+      "action_evidence": "The business could continue on its current committed funds with only minor adjustment, not deliberate cuts.",
+      "assessment_evidence": "Re-asked: could the business continue on funds already available with only minor adjustment? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-FIN-R-01-D",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 8,
+    "fallback_order": 1,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Extend runway before it forces material cuts to capacity or commitments",
+      "finding": "On funds already available or committed, the business would have to make material cuts to capacity, commitments, or plans.",
+      "consequence": "The business's current commitments already exceed what its secured funding can sustain — not a hypothetical future problem, but a gap that exists today.",
+      "action": "Take concrete steps this cycle to close the gap — securing additional committed funding, or reducing planned spend enough that continuing wouldn't require material cuts to capacity or commitments.",
+      "avoid": "Deferring the funding conversation until the runway is nearly exhausted. The later this is addressed, the fewer options remain.",
+      "action_evidence": "The business can point to a specific, committed change (new funding, or a revised spend plan) that would let it continue with deliberate but non-material cuts.",
+      "assessment_evidence": "Re-asked: on funds already available or committed, would the business have to reduce activity deliberately but continue, rather than making material cuts to capacity or commitments? A \"yes, continues with deliberate cuts\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-FIN-R-02-C",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 8,
+    "fallback_order": 2,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Strengthen the buffer against delay in {largest expected inflow}",
+      "finding": "A delay in {largest expected inflow} would require deliberate action — deferring payments, drawing on facilities, chasing collection — but obligations would be met.",
+      "consequence": "The business currently has to actively manage around a delay in this payment rather than simply absorbing it — workable, but it consumes attention and sometimes goodwill with other counterparties.",
+      "action": "Grow the cash buffer or facility further, so a delay in {largest expected inflow} would be absorbed within normal operations rather than requiring active management.",
+      "avoid": "Relying on the same facility (an overdraft, a credit line) that's already being drawn on for other purposes. A buffer only reduces this exposure if it's actually available when needed.",
+      "action_evidence": "The buffer or facility is large enough that a month's delay in {largest expected inflow} would be absorbed without deferring other payments.",
+      "assessment_evidence": "Re-asked: would a delay in {largest expected inflow} be absorbed within normal operations? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-FIN-R-02-D",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 8,
+    "fallback_order": 2,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Build a buffer before a delay in {largest expected inflow} puts obligations at risk",
+      "finding": "A delay in {largest expected inflow} would put obligations to staff, suppliers, or lenders at risk — commitments would have to change.",
+      "consequence": "The business currently has no real buffer against this specific delay — if it happened, the consequence would land directly on people and counterparties the business has made commitments to.",
+      "action": "Establish a cash buffer or facility this cycle sized to cover at least the largest plausible delay, even if it isn't yet a full month's coverage.",
+      "avoid": "Treating the historical reliability of this payment source as a substitute for an actual buffer. Reliability doesn't help in the month it fails.",
+      "action_evidence": "A specific buffer or facility now exists that would meet obligations through deliberate action if {largest expected inflow} were delayed.",
+      "assessment_evidence": "Re-asked: would a delay in {largest expected inflow} require deliberate action but still meet obligations, rather than putting them at risk? A \"yes, manageable with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-FIN-R-03-C",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 3,
+    "fallback_order": 3,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Reduce sensitivity to a rise in {the dependent cost}",
+      "finding": "A sharp rise in {the dependent cost} would require deliberate action — repricing, renegotiation, cost reduction — to protect viability.",
+      "consequence": "Margin currently has less cushion against this cost than the business would want — manageable with active response, but response would be required, not optional.",
+      "action": "Extend whatever protection already exists (a partial hedge, a partial pass-through clause) further, so a sharp rise would reduce margin noticeably but not require deliberate defensive action.",
+      "avoid": "Assuming a recent, smaller cost increase that was absorbed comfortably is a reliable guide to what a sharp rise would do.",
+      "action_evidence": "A stronger hedge, pass-through mechanism, or reduced reliance is in place, measurably reducing sensitivity to this cost.",
+      "assessment_evidence": "Re-asked: would a sharp rise reduce margin noticeably but be absorbed, without requiring deliberate defensive action? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-FIN-R-03-D",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 3,
+    "fallback_order": 4,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Protect profitability before a cost shock materially impairs it",
+      "finding": "A sharp rise in {the dependent cost} would materially impair profitability for an extended period — plans and capacity would have to change.",
+      "consequence": "Profitability currently has little room to absorb a shock to this cost — a rise wouldn't just squeeze margin, it would force the business to change its plans.",
+      "action": "Put a specific protection in place this cycle — a hedge, a longer-term agreement, or a pass-through clause in customer contracts — even a partial one, so a sharp rise becomes something to manage rather than something to restructure around.",
+      "avoid": "Absorbing rising costs through informal price increases alone, without addressing the underlying exposure to the input itself.",
+      "action_evidence": "A specific protection now exists and measurably reduces exposure to a sharp rise in this cost.",
+      "assessment_evidence": "Re-asked: would a sharp rise require deliberate action to protect viability, rather than forcing plans and capacity to change? A \"yes, protectable with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-FIN-R-04-C",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 3,
+    "fallback_order": 4,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Prepare an alternative to {financing counterparty}",
+      "finding": "Withdrawal by {financing counterparty} would require deliberate effort to replace, with some disruption.",
+      "consequence": "The business currently has no ready alternative to this relationship — replaceable with effort, but not without a real gap while that effort happens.",
+      "action": "Develop the alternative relationship already identified further, so it could be activated with minimal disruption rather than starting from scratch.",
+      "avoid": "Treating a single preliminary conversation with an alternative counterparty as equivalent to a developed, activatable relationship.",
+      "action_evidence": "An alternative counterparty relationship is developed enough that it could be activated quickly if {financing counterparty} withdrew.",
+      "assessment_evidence": "Re-asked: would withdrawal by {financing counterparty} be absorbed, with readily available alternatives? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-FIN-R-04-D",
+    "layer": 1,
+    "dimension": "Financial Exposure",
+    "weight": 3,
+    "fallback_order": 4,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Identify an alternative to {financing counterparty} before withdrawal materially impairs the business",
+      "finding": "Withdrawal by {financing counterparty} would materially impair the business for an extended period — alternatives are scarce or much costlier.",
+      "consequence": "The business currently has no realistic near-term alternative to this arrangement — a withdrawal wouldn't just be disruptive, it would set the business back for a real stretch of time.",
+      "action": "Begin identifying and approaching at least one alternative counterparty this cycle, even if terms would be less favorable than the current arrangement.",
+      "avoid": "Delaying this because the current relationship shows no signs of trouble. The exposure is about what happens if it changes, not how likely that seems today.",
+      "action_evidence": "At least one alternative counterparty has been identified and an initial conversation has taken place.",
+      "assessment_evidence": "Re-asked: would withdrawal require deliberate effort to replace, with some disruption, rather than materially impairing the business for an extended period? A \"yes, replaceable with effort\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "FIN-R-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-LEG-01-C",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 6,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Continue reducing exposure from the current dispute, claim, or finding",
+      "finding": "An unfavourable outcome to the current dispute, claim, or finding would require a deliberate financial or operational response.",
+      "consequence": "The business currently has real, if manageable, money or effort riding on how this matter resolves.",
+      "action": "Continue the mitigating steps already underway (settlement discussion, reserve, insurance) until an unfavourable outcome would be absorbed rather than requiring a deliberate response.",
+      "avoid": "Considering the matter \"handled\" once initial mitigating steps are underway, without following through to an outcome that would actually be absorbable.",
+      "action_evidence": "The specific mitigating step (settlement, reserve, insurance) has progressed to the point that an unfavourable outcome would be absorbed within normal operations.",
+      "assessment_evidence": "Re-asked: would an unfavourable outcome be absorbed, without a deliberate response? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-LEG-01-D",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 6,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Reduce exposure from the current dispute before an unfavourable outcome materially impairs the business",
+      "finding": "An unfavourable outcome to the current dispute, claim, or finding would materially impair the business for an extended period.",
+      "consequence": "This matter currently carries enough at stake that losing it wouldn't just cost money or require a response — it would set the business back for a real stretch of time.",
+      "action": "Work with appropriate legal counsel this cycle on a specific step — settlement discussion, a reserve, insurance, or restructuring what's at stake — to bring the potential downside down to something the business could deliberately respond to and absorb.",
+      "avoid": "Waiting for a court date or determination without taking any interim step to limit exposure.",
+      "action_evidence": "A specific step has measurably reduced what's at stake in an unfavourable outcome, even if the matter itself isn't resolved.",
+      "assessment_evidence": "Re-asked: would an unfavourable outcome require a deliberate financial or operational response, rather than materially impairing the business for an extended period? A \"yes, manageable with response\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-LEG-02-C",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Reduce the impact if {the licence/permit/approval} were lost",
+      "finding": "Loss of {the licence/permit/approval} would suspend part of the business until it was restored or replaced.",
+      "consequence": "Part of the business currently has no way to keep operating if this approval lapsed — a real, if partial, stoppage.",
+      "action": "Identify what would let that part of the business keep operating even temporarily without the approval — an alternative structure, scope, or interim arrangement — and put it in place.",
+      "avoid": "Assuming the suspended activity is small enough not to matter. If it's material enough to generate this finding, it's material enough to plan around.",
+      "action_evidence": "A specific interim arrangement exists that would let the affected part of the business continue operating, even in reduced form, if the approval were lost.",
+      "assessment_evidence": "Re-asked: would loss of the approval restrict some activity, with the business continuing? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-LEG-02-D",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Reduce dependence on {the licence/permit/approval} before its loss materially impairs the business",
+      "finding": "Loss of {the licence/permit/approval} would materially impair the business for an extended period.",
+      "consequence": "The business currently has no real fallback if this specific approval were withdrawn or not renewed — not a partial suspension, but a real setback.",
+      "action": "Confirm the renewal timeline and every compliance requirement well in advance this cycle, and address anything that could put renewal at risk.",
+      "avoid": "Assuming renewal is routine because it always has been. The exposure is about what happens if it isn't renewed, not how likely that seems.",
+      "action_evidence": "Renewal is confirmed on schedule, with all compliance requirements verifiably met.",
+      "assessment_evidence": "Re-asked: would loss of the approval suspend part of the business until restored or replaced, rather than materially impairing the business for an extended period? A \"yes, partial suspension\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-LEG-03-C",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 4,
+    "fallback_order": 3,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Continue reducing dependence on the current rules, subsidy, or policy",
+      "finding": "A material change to the current rule, subsidy, tariff, or policy would require deliberate adjustment to pricing, sourcing, or operations.",
+      "consequence": "The business currently has to actively adapt, not just absorb, if this rule changed — manageable, but not free.",
+      "action": "Continue the adjustment already underway (to pricing, sourcing, or operations) until a material change would be absorbed rather than requiring active adjustment.",
+      "avoid": "Treating a partial adjustment as sufficient once the immediate pressure eases, without following through to genuine independence from the rule.",
+      "action_evidence": "The business's pricing, sourcing, or operations no longer depend on the current rule to the degree they once did, measurably.",
+      "assessment_evidence": "Re-asked: would a material change be absorbed, without requiring deliberate adjustment? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-03",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-LEG-03-D",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 4,
+    "fallback_order": 3,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Reduce dependence on the current rule before a material change materially impairs the business",
+      "finding": "A material change to the current rule, subsidy, tariff, or policy would materially impair the business for an extended period.",
+      "consequence": "The business's viability currently rests more on this rule staying in place than it should — a change wouldn't just require adjustment, it would set the business back.",
+      "action": "Model what a material change would mean for the business this cycle, and take a concrete first step toward reducing dependence — in pricing, sourcing, or the underlying model.",
+      "avoid": "Relying solely on advocacy or lobbying to keep the rule in place, without reducing the business's own exposure if it changes anyway.",
+      "action_evidence": "A specific, measurable adjustment to pricing, sourcing, or operations is underway that reduces dependence on the current rule.",
+      "assessment_evidence": "Re-asked: would a material change require deliberate adjustment, rather than materially impairing the business for an extended period? A \"yes, adjustable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-03",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-LEG-04-C",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 2,
+    "fallback_order": 4,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Finish resolving the title question over {the key asset/brand/IP}",
+      "finding": "A challenge to ownership of {the key asset, brand, or IP} would require a deliberate legal or commercial response.",
+      "consequence": "The business currently has to actively defend this ownership if challenged, rather than being able to rely on clear, resolvable title.",
+      "action": "Complete whatever step is already underway to formalize title — the transfer, assignment, or licence — so a challenge would be resolvable without material effect.",
+      "avoid": "Treating a signed intent-to-transfer or a verbal agreement as equivalent to completed, documented title.",
+      "action_evidence": "Title to the asset, brand, or IP is fully documented and held by (or licensed to) the business, with no remaining open step.",
+      "assessment_evidence": "Re-asked: would a challenge be resolvable without material effect? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-04",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-LEG-04-D",
+    "layer": 1,
+    "dimension": "Legal & Regulatory Exposure",
+    "weight": 2,
+    "fallback_order": 4,
+    "epistemic_status": "STRUCTURAL",
+    "content": {
+      "title": "Resolve the title question over {the key asset/brand/IP} before a successful challenge materially impairs the business",
+      "finding": "A successful challenge to ownership of {the key asset, brand, or IP} would materially impair the business for an extended period.",
+      "consequence": "The business currently relies on something it doesn't clearly, defensibly own — a successful challenge wouldn't just require a response, it would set the business back materially.",
+      "action": "Work with legal counsel this cycle to begin formally securing title — transferring the asset, brand, or IP into the business's name, or establishing an enforceable licence.",
+      "avoid": "Continuing to rely on informal or assumed ownership on the reasoning that no one has challenged it yet.",
+      "action_evidence": "A specific legal step toward securing title (a transfer agreement drafted, a licence negotiated) is underway.",
+      "assessment_evidence": "Re-asked: would a challenge require a deliberate legal or commercial response, rather than materially impairing the business for an extended period? A \"yes, defensible with response\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "LEG-04",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-MKT-R-01-C",
+    "layer": 1,
+    "dimension": "Market Exposure",
+    "weight": 6,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Respond to softening demand in {the business's market}",
+      "finding": "Demand in the business's market is softening — continuation of the current direction would require a deliberate response to hold position.",
+      "consequence": "The business currently has to actively work to hold its position, rather than simply benefiting from stable or growing demand.",
+      "action": "Continue whatever repositioning or diversification is underway — a new market, an adjusted offering — until the current trend, if it continued, would require no change at all.",
+      "avoid": "Treating a single strong month as evidence the softening has reversed, without a sustained trend to support that.",
+      "action_evidence": "The business has measurable traction (revenue, customers) outside the softening segment of its market.",
+      "assessment_evidence": "Re-asked: would the current demand direction, if it continued, require no change? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-R-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-MKT-R-01-D",
+    "layer": 1,
+    "dimension": "Market Exposure",
+    "weight": 6,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Respond to declining demand before it forces material changes to plans",
+      "finding": "Demand in the business's market is declining enough that continuation of the current direction would force material changes to plans, capacity, or commitments.",
+      "consequence": "The business's current trajectory is already being set by a market it doesn't control — continuing as-is would force real changes, not just a response.",
+      "action": "Take a deliberate step this cycle to change the business's position relative to this trend — a new market, an adjusted offering — so the trend, if it continued, would require deliberate response rather than forced change.",
+      "avoid": "Cutting costs as the only response to declining demand, without addressing that the underlying market itself is moving away from the business.",
+      "action_evidence": "A specific repositioning step is underway and showing early, measurable traction.",
+      "assessment_evidence": "Re-asked: would the current demand direction, if it continued, require a deliberate response to hold position, rather than forcing material changes to plans? A \"yes, respondable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-R-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-MKT-R-02-C",
+    "layer": 1,
+    "dimension": "Market Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Continue strengthening defensibility against a well-resourced competitor",
+      "finding": "A well-resourced competitor targeting the business's main customers directly would need a deliberate response to hold them.",
+      "consequence": "The business's customer base is currently defensible with effort, but not automatically — a serious competitive push would require an active response, not just business as usual.",
+      "action": "Continue building the specific source of defensibility already underway (switching costs, differentiation, relationship depth) until a competitive push would face customers who wouldn't realistically move.",
+      "avoid": "Assuming customer loyalty is stronger than it's been tested to be, absent an actual competitive challenge.",
+      "action_evidence": "A measurable retention advantage or documented switching cost is now in place, beyond what existed before.",
+      "assessment_evidence": "Re-asked: would customers not realistically move if a well-resourced competitor targeted them? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-R-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-MKT-R-02-D",
+    "layer": 1,
+    "dimension": "Market Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Strengthen defensibility before a competitive push forces material changes",
+      "finding": "A well-resourced competitor targeting the business's main customers directly would force material changes to plans or capacity.",
+      "consequence": "The business currently has little to fall back on against a determined, well-funded competitor — a real push wouldn't just require a response, it would force real changes.",
+      "action": "Identify and build one specific source of defensibility this cycle — a switching cost, an integration, a distinctive part of the offering — that a competitor couldn't easily replicate.",
+      "avoid": "Planning to compete primarily on price if challenged. That's the easiest thing for a well-resourced competitor to match or beat.",
+      "action_evidence": "A specific, documented source of defensibility beyond price is now in place.",
+      "assessment_evidence": "Re-asked: would a competitive push need a deliberate response to hold customers, rather than forcing material changes to plans or capacity? A \"yes, respondable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "MKT-R-02",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-PRD-R-01-C",
+    "layer": 1,
+    "dimension": "Product & Delivery Exposure",
+    "weight": 6,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Finish resolving the known problem in {what the business delivers}",
+      "finding": "The known problem in what the business delivers, at scale, would require deliberate remediation and customer recovery effort.",
+      "consequence": "The business currently carries a defect that, if it surfaced broadly, would cost real, active remediation — manageable, but not free.",
+      "action": "Complete the fix or containment already underway, so that at scale, the problem would cause complaints handled within normal operations rather than requiring deliberate remediation.",
+      "avoid": "Declaring the problem \"mostly fixed\" based on a partial patch that hasn't been verified against the original failure mode.",
+      "action_evidence": "The fix or containment has been verified to resolve the specific failure mode originally identified.",
+      "assessment_evidence": "Re-asked: at scale, would the problem cause complaints handled within normal operations? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PRD-R-01",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-PRD-R-01-D",
+    "layer": 1,
+    "dimension": "Product & Delivery Exposure",
+    "weight": 6,
+    "fallback_order": 1,
+    "epistemic_status": "PRESENT",
+    "content": {
+      "title": "Resolve the known problem before it materially damages customer relationships at scale",
+      "finding": "The known problem in what the business delivers, at scale, would materially damage customer relationships or reputation for an extended period.",
+      "consequence": "The business currently carries a defect serious enough that, if it surfaced broadly, the damage would outlast the fix itself — this is a reputational exposure, not just an operational one.",
+      "action": "Fix the known problem, or contain its blast radius this cycle — a rollback, a workaround, active monitoring — so that at scale, it becomes a remediation effort rather than lasting reputational damage.",
+      "avoid": "Addressing individual customer complaints about this problem one at a time without fixing or containing the underlying cause.",
+      "action_evidence": "The known problem is fixed, or a specific containment/monitoring measure is verifiably in place.",
+      "assessment_evidence": "Re-asked: at scale, would the problem require deliberate remediation and customer recovery effort, rather than materially damaging relationships or reputation for an extended period? A \"yes, remediable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PRD-R-01",
+      "minimum_level": "C"
+    }
+  },
+  {
+    "rule_id": "SC-PRD-R-02-C",
+    "layer": 1,
+    "dimension": "Product & Delivery Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Continue reducing how easily {what the business offers} could be substituted",
+      "finding": "If a materially better or cheaper alternative to what the business offers became available, the business would need to respond deliberately — price, features, positioning — to retain customers.",
+      "consequence": "The business currently has to actively defend its customer base against a better alternative, rather than being able to rely on the offering's own defensibility.",
+      "action": "Continue building the specific differentiator already underway — depth of service, integration, proprietary elements — until some customers would switch to a better alternative but the business would continue as planned.",
+      "avoid": "Relying on price competitiveness alone as the differentiator. It's the easiest thing for a well-resourced alternative to match.",
+      "action_evidence": "A measurable retention advantage or documented differentiator is now in place, beyond what existed before.",
+      "assessment_evidence": "Re-asked: would some customers switch to a better alternative, with the business continuing as planned? A \"yes\" answer (B) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PRD-R-02",
+      "minimum_level": "B"
+    }
+  },
+  {
+    "rule_id": "SC-PRD-R-02-D",
+    "layer": 1,
+    "dimension": "Product & Delivery Exposure",
+    "weight": 4,
+    "fallback_order": 2,
+    "epistemic_status": "PLAUSIBLE",
+    "content": {
+      "title": "Reduce substitution risk before it forces material changes to plans or capacity",
+      "finding": "If a materially better or cheaper alternative to what the business offers became available, it would lose enough business to force material changes to plans or capacity.",
+      "consequence": "The business's core offering currently has little to protect it from a genuinely better or cheaper alternative — displacement wouldn't just require a response, it would force real changes.",
+      "action": "Build one specific, hard-to-replicate element into the offering this cycle — an integration, a switching cost, a depth of service — so a better alternative becomes a competitive threat to respond to, not an automatic loss of customers.",
+      "avoid": "Relying on being first to market or current customer inertia as the only protection. Neither survives a genuinely better or cheaper alternative for long.",
+      "action_evidence": "A specific, hard-to-replicate element of the offering is now measurably in place.",
+      "assessment_evidence": "Re-asked: would the business need to respond deliberately — price, features, positioning — to retain customers, rather than losing enough to force material changes? A \"yes, respondable\" answer (C) resolves this item."
+    },
+    "resolution_rule": {
+      "type": "FIELD_MOVEMENT",
+      "field": "PRD-R-02",
+      "minimum_level": "C"
+    }
+  }
+]

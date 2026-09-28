@@ -1,0 +1,66 @@
+{
+  "dimension": "Governance",
+  "dimension_weight": 8,
+  "questions": [
+    {
+      "question_id": "GOV-01",
+      "dimension": "Governance",
+      "weight": 3,
+      "fallback_order": 1,
+      "text": "Is the business meeting the legal and regulatory requirements that apply to it?",
+      "levels": {
+        "A": { "text": "The requirements that apply to the business are not known", "points": 0 },
+        "B": { "text": "Basic requirements such as registration and tax are met; other applicable requirements have not been identified", "points": 0.75 },
+        "C": { "text": "The requirements that apply have been identified and are being met", "points": 1.5 },
+        "D": { "text": "As C, and responsibility for maintaining compliance is assigned, with obligations tracked so deadlines and changes are not missed", "points": 2.25 },
+        "E": { "text": "As D, and compliance is verified periodically — through review, professional advice, or audit — rather than assumed", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "GOV-02",
+      "dimension": "Governance",
+      "weight": 2,
+      "fallback_order": 2,
+      "text": "Is it clear who owns the business, who can commit it, and who provides challenge to significant decisions?",
+      "levels": {
+        "A": { "text": "Ownership, or the authority to commit the business, is unclear or disputed", "points": 0 },
+        "B": { "text": "Ownership is clear but undocumented, and no one outside the decision-maker examines significant decisions", "points": 0.5 },
+        "C": { "text": "Ownership and the authority to commit the business are documented", "points": 1 },
+        "D": { "text": "As C, and significant decisions receive challenge from someone with standing to give it — a co-owner, board, adviser, or investor — proportionate to the business's size and complexity", "points": 1.5 },
+        "E": { "text": "As D, and that oversight operates on a defined cycle, with the matters reserved to it agreed in advance", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "GOV-03",
+      "dimension": "Governance",
+      "weight": 2,
+      "fallback_order": 3,
+      "text": "What controls exist over who can spend or commit the business's money, and how are transactions checked?",
+      "levels": {
+        "A": { "text": "No controls; anyone with access can commit or spend without review", "points": 0 },
+        "B": { "text": "Control rests entirely on one person's oversight, with no defined limits or checks", "points": 0.5 },
+        "C": { "text": "Authority limits are defined — who can approve what, and up to what level", "points": 1 },
+        "D": { "text": "As C, and transactions are checked by someone other than the person who initiated them — including an external bookkeeper, accountant, or co-owner where the business is small", "points": 1.5 },
+        "E": { "text": "As D, and access, authority and checks are reviewed periodically and adjusted as the business changes", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "GOV-04",
+      "dimension": "Governance",
+      "weight": 1,
+      "fallback_order": 4,
+      "text": "Are the business's important relationships and obligations documented?",
+      "levels": {
+        "A": { "text": "Important arrangements — with customers, suppliers, employees, or partners — rest on verbal understanding", "points": 0 },
+        "B": { "text": "Some arrangements are documented, inconsistently", "points": 0.25 },
+        "C": { "text": "The important arrangements are documented in writing", "points": 0.5 },
+        "D": { "text": "As C, and the documents are held accessibly, with key terms and dates known to whoever needs them", "points": 0.75 },
+        "E": { "text": "As D, and they are reviewed before renewal or expiry rather than being allowed to lapse or roll over unexamined", "points": 1 }
+      },
+      "stage_variant": false
+    }
+  ]
+}

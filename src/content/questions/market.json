@@ -1,0 +1,137 @@
+{
+  "dimension": "Market",
+  "dimension_weight": 12,
+  "questions": [
+    {
+      "question_id": "MKT-01",
+      "dimension": "Market",
+      "weight": 1.0,
+      "fallback_order": 1,
+      "text": "How is your target market defined and sized?",
+      "levels": {
+        "A": { "text": "No specific target segment defined; no sizing method used", "points": 0 },
+        "B": { "text": "Target segment loosely defined; sizing is a single estimate with no stated method", "points": 0.25 },
+        "C": { "text": "Segment clearly and specifically defined; one sizing method used (bottom-up or top-down) with assumptions stated", "points": 0.5 },
+        "D": { "text": "Clearly defined segment; sizing uses credible external sources with assumptions documented", "points": 0.75 },
+        "E": { "text": "Clearly defined segment; sizing triangulates independent methods that corroborate each other, assumptions documented and sourced, revisited periodically", "points": 1 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "MKT-02",
+      "dimension": "Market",
+      "weight": 3.0,
+      "fallback_order": 2,
+      "text": "What is your strongest evidence that customers will choose and pay for your specific solution?",
+      "levels": {
+        "A": { "text": "No direct contact with potential customers; belief rests on assumption", "points": 0 },
+        "B": { "text": "Informal conversations show interest, but the cost or urgency of the problem is unconfirmed", "points": 0.75 },
+        "C": { "text": "Documented conversations with customers representative of the target segment confirm the problem is real and worth solving; willingness to pay untested", "points": 1.5 },
+        "D": { "text": "Representative customers have expressed specific purchase intent (letter of intent, pilot agreement, deposit) but no revenue collected", "points": 2.25 },
+        "E": { "text": "Representative customers have actually paid, across more than one independent relationship", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "MKT-03",
+      "dimension": "Market",
+      "weight": 2.0,
+      "fallback_order": 3,
+      "text": "What makes customers choose this business over alternatives, and how hard would that be for a competitor to copy?",
+      "stage_variant": true,
+      "stage_variants": {
+        "EMERGING": {
+          "levels": {
+            "A": { "text": "No articulated reason for a customer to choose this business over alternatives, including doing nothing", "points": 0 },
+            "B": { "text": "A reason exists but is weak or easily matched, not supported by research or customer input", "points": 0.5 },
+            "C": { "text": "A meaningful difference exists — supported by customer/problem research or direct customer confirmation — but is realistically copyable", "points": 1 },
+            "D": { "text": "A meaningful difference is backed by a structural defensibility factor: switching cost, proprietary process or data, exclusive access, brand trust, network effect, or cost advantage", "points": 1.5 },
+            "E": { "text": "Multiple differentiators clearly articulated and supported by customer/problem research, protected through more than one structural mechanism", "points": 2 }
+          }
+        },
+        "ESTABLISHED": {
+          "levels": {
+            "A": { "text": "No articulated reason for a customer to choose this business over alternatives, including doing nothing", "points": 0 },
+            "B": { "text": "A reason exists but is weak or easily matched, not supported by research or customer input", "points": 0.5 },
+            "C": { "text": "A meaningful difference exists — supported by customer/problem research or direct customer confirmation — but is realistically copyable", "points": 1 },
+            "D": { "text": "A meaningful difference is backed by a structural defensibility factor: switching cost, proprietary process or data, exclusive access, brand trust, network effect, or cost advantage", "points": 1.5 },
+            "E": { "text": "Multiple customer-confirmed differentiators backed by structural defensibility from more than one independent mechanism", "points": 2 }
+          }
+        }
+      }
+    },
+    {
+      "question_id": "MKT-04",
+      "dimension": "Market",
+      "weight": 2.0,
+      "fallback_order": 4,
+      "text": "How well does the business understand its market conditions and respond to them?",
+      "levels": {
+        "A": { "text": "No awareness of market conditions and no deliberate response — purely reactive", "points": 0 },
+        "B": { "text": "A general impression exists, but no deliberate response is in motion", "points": 0.5 },
+        "C": { "text": "Conditions understood with some rigor (sourced, not impression); a response plan exists but is not fully executed", "points": 1 },
+        "D": { "text": "Conditions understood with rigor, and a deliberate strategy suited to them is actively being executed", "points": 1.5 },
+        "E": { "text": "As D, with evidence the strategy is working (a trending measure moving as intended), or — pre-revenue — the strategy is visibly reflected in core product and positioning decisions made because of this market read", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "MKT-05",
+      "dimension": "Market",
+      "weight": 2.0,
+      "fallback_order": 5,
+      "text": "Do you have an identified, repeatable way of reaching new customers?",
+      "stage_variant": true,
+      "stage_variants": {
+        "PRE_REVENUE": {
+          "levels": {
+            "A": { "text": "No identifiable method — customers arrive coincidentally or not at all", "points": 0 },
+            "B": { "text": "A method has been tried or planned but has not shown it can reliably reach the target segment", "points": 0.5 },
+            "C": { "text": "A specific channel reliably reaches and engages the target segment, even before converting to paying customers", "points": 1 },
+            "D": { "text": "A specific channel repeatedly converts reached prospects into active users or pilot participants, and the business can explain why it works", "points": 1.5 },
+            "E": { "text": "More than one channel has repeatedly demonstrated strong engagement from the target segment, reducing dependence on a single route", "points": 2 }
+          }
+        },
+        "REVENUE_GENERATING": {
+          "levels": {
+            "A": { "text": "No identifiable method — customers arrive coincidentally or not at all", "points": 0 },
+            "B": { "text": "A method has been tried or planned but has not shown it can reliably reach the target segment", "points": 0.5 },
+            "C": { "text": "A specific channel reliably reaches and engages the target segment, even before converting to paying customers", "points": 1 },
+            "D": { "text": "A specific channel repeatedly converts reached prospects into paying customers, and the business can explain why it works", "points": 1.5 },
+            "E": { "text": "More than one channel reliably converts prospects into paying customers, so no single channel is a point of failure", "points": 2 }
+          }
+        }
+      }
+    },
+    {
+      "question_id": "MKT-06",
+      "dimension": "Market",
+      "weight": 2.0,
+      "fallback_order": 6,
+      "text": "What evidence do you have that customers stay engaged, return, or advocate for your business over time?",
+      "stage_variant": true,
+      "stage_variants": {
+        "REVENUE_GENERATING": {
+          "text": "What evidence do you have that customers stay engaged, return, or advocate for your business over time?",
+          "levels": {
+            "A": { "text": "No evidence of continued relationship or advocacy", "points": 0 },
+            "B": { "text": "Isolated positive signals but no pattern across customers", "points": 0.5 },
+            "C": { "text": "A pattern of continued relationship exists across multiple customers — repeat purchase, renewal, extension, follow-on work, or unprompted positive feedback, whichever is natural to the business — but is not tracked", "points": 1 },
+            "D": { "text": "That pattern is consistently tracked across the customers relevant to the business's natural engagement cycle", "points": 1.5 },
+            "E": { "text": "The tracked pattern includes active advocacy — referrals, testimonials, references — that measurably contributes to new business", "points": 2 }
+          }
+        },
+        "PRE_REVENUE": {
+          "text": "What evidence do you have that people who have engaged with your concept remain engaged, or would vouch for it?",
+          "levels": {
+            "A": { "text": "No one has stayed engaged or been willing to vouch beyond an initial conversation", "points": 0 },
+            "B": { "text": "A few isolated people remain informally engaged; nothing sustained", "points": 0.5 },
+            "C": { "text": "A defined group — design partners, waitlist, pilot testers — has stayed engaged across multiple touchpoints", "points": 1 },
+            "D": { "text": "That group has proactively re-engaged: extended a pilot, referred someone, agreed to a reference call", "points": 1.5 },
+            "E": { "text": "Independent people or organisations have proactively advocated without being asked", "points": 2 }
+          }
+        }
+      }
+    }
+  ]
+}

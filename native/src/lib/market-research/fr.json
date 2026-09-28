@@ -1,0 +1,2416 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "INSEE's 2025 provisional agricultural accounts and Chambres d'agriculture France conjoncture note show mixed results by sub-sector for 2025-2026, with cereal harvest volumes recovering from 2024's poor year but farm income under pressure from input costs and price volatility. Agri-food export competitiveness is described as entering a phase of 'forte contrainte' (strong constraint) due to international competition.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "French agriculture faces structural headwinds (climate variability, farmer income squeeze, generational renewal) but the agri-food processing industry (IAA) remains a core export sector tracked yearly by the Ministry of Agriculture, with no clear multi-year growth or decline trend established in current data.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Harvest volatility from climate conditions",
+      "Rising international competition on agri-food exports",
+      "Farm input cost pressure squeezing margins"
+    ],
+    "opportunities": [
+      "Recovery in cereal harvest volumes after a poor 2024",
+      "Government/Chambres d'agriculture support programs tracked into 2026"
+    ],
+    "sources": [
+      {
+        "title": "Le compte prévisionnel de l'agriculture en 2025",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/8680632",
+        "date": "2025",
+        "scope": "France",
+        "metric": "Provisional national agricultural accounts"
+      },
+      {
+        "title": "Conjoncture économique : retour sur l'année 2025 et zoom sur 2026",
+        "publisher": "Chambres d'agriculture France",
+        "url": "https://chambres-agriculture.fr/actualites/actualite/conjoncture-economique-retour-sur-lannee-2025-et-zoom-sur-2026",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Sector economic conjoncture review"
+      },
+      {
+        "title": "Le commerce extérieur agroalimentaire français entre dans une phase de forte contrainte",
+        "publisher": "Agro Media",
+        "url": "https://www.agro-media.fr/analyse/le-commerce-exterieur-agroalimentaire-francais-entre-dans-une-phase-de-forte-contrainte-64759.html",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Agri-food trade balance analysis"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Farmers nearing retirement age with no identified buyer/successor for their exploitation",
+        "description": "Retiring French farm operators can't find qualified successors willing to take over their exploitations, leaving farmland transmission services structurally underserved.",
+        "sources": [
+          {
+            "title": "La transmission des exploitations agricoles",
+            "publisher": "Agreste, la statistique agricole (Ministère de l'Agriculture)",
+            "url": "https://www.agreste.agriculture.gouv.fr/agreste-web/disaron/Dos29/detail/",
+            "date": "2024-2025",
+            "scope": "France",
+            "metric": "farm succession/transmission rates vs. operator retirement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "French trade press (ConstructionBTP, citing sector economist Carole Deneuve) reports aggregates (granulats) production fell 1.5% in 2025 to roughly 300 million tonnes, the lowest level in over 40 years, with a further stagnation-to-decline expected in 2026 due to shrinking public-works spending and growing use of recycled materials.",
+      "evidenceDate": "2026-01"
+    },
+    "longTerm": {
+      "outlook": "no_data",
+      "summary": "No reliable multi-year French mining/quarrying trend data beyond the current 2025-2026 aggregates conjoncture reporting was found.",
+      "evidenceDate": ""
+    },
+    "risks": [
+      "Public-works budget consolidation cutting demand for aggregates",
+      "Circular economy/recycled materials substituting for primary extraction",
+      "Aggregates output at a 40+ year low"
+    ],
+    "opportunities": [
+      "Possible stabilization in ready-mix concrete volumes around 33 million m3"
+    ],
+    "sources": [
+      {
+        "title": "Un nouveau repli est attendu pour les granulats en 2026",
+        "publisher": "ConstructionBTP",
+        "url": "https://www.constructionbtp.com/terrassements-carrieres/article/2026/01/02/154600/nouveau-repli-est-attendu-pour-les-granulats-2026",
+        "date": "2026-01",
+        "scope": "France",
+        "metric": "Aggregates (granulats) production volumes and outlook"
+      },
+      {
+        "title": "Les sites d'extraction de matières minérales et énergétiques en France",
+        "publisher": "Ministère de la Transition écologique - SDES",
+        "url": "https://www.statistiques.developpement-durable.gouv.fr/les-sites-dextraction-de-matieres-minerales-et-energetiques-en-france-pres-de-3-000-carrieres-123",
+        "date": "2024",
+        "scope": "France",
+        "metric": "Count of quarries, mines and oil/gas deposits"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Battery-metals recycling and refining",
+        "description": "France lacks domestic refining and recycling capacity for critical battery metals like lithium and cobalt, forcing near-total import dependence.",
+        "sources": [
+          {
+            "title": "France 2030 : le Gouvernement dévoile les 5 premiers lauréats de l'appel à projets \"métaux critiques\"",
+            "publisher": "Ministère de la Transition écologique",
+            "url": "https://www.ecologie.gouv.fr/presse/france-2030-gouvernement-devoile-5-premiers-laureats-lappel-projets-metaux-critiques",
+            "date": "2025",
+            "scope": "France",
+            "metric": "Only 5 national winners named in the critical-metals project call"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "RTE's Bilan Prévisionnel and industry trackers describe a French energy transition proceeding but at a slower pace than targeted ('une transition qui piétine'), with electricity prices evolving through 2026 amid regulated tariff and network cost (TURPE) changes. Electrification plans for businesses are being phased in during 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France's electrification strategy and nuclear/renewable mix planning (RTE Bilan Prévisionnel) point to long-term growth in electricity demand and grid investment, though RTE flags execution risk in the pace of the transition.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Transition pace lagging behind targets per RTE",
+      "Electricity price volatility and regulatory cost pass-through (TURPE)"
+    ],
+    "opportunities": [
+      "Electrification of industry and transport",
+      "Grid modernization investment (RTE, Enedis)"
+    ],
+    "sources": [
+      {
+        "title": "Bilan Prévisionnel de RTE : l'alerte d'une transition qui piétine en France",
+        "publisher": "RTE / Bon Pote",
+        "url": "https://bonpote.com/bilan-previsionnel-de-rte-lalerte-dune-transition-qui-pietine-en-france/",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Electricity system prospective balance"
+      },
+      {
+        "title": "Plan d'électrification 2026 : ce qui change pour les entreprises",
+        "publisher": "Sirenergies",
+        "url": "https://www.sirenergies.com/article/plan-electrification-2026",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Business electrification policy"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "EV public charging networks in rural and island territories",
+        "description": "EV drivers in rural and island departments like Corsica lack public charging points, with roughly 1 charger per 22 vehicles versus 1 per 14-15 nationally.",
+        "sources": [
+          {
+            "title": "Zone rurale et voiture électrique : 1 borne pour 22 véhicules, est-ce assez ?",
+            "publisher": "Groupe Gueudet (Le Mag)",
+            "url": "https://lemag.gueudet.fr/actualites/zone-rurale-et-voiture-electrique-1-borne-pour-22-vehicules-assez-22420.html",
+            "date": "2025",
+            "scope": "France",
+            "metric": "~1 public charging point per 22 EVs in Corsica vs. ~1:14-15 national average"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "France's 2025 Programmation Pluriannuelle de l'Énergie (PPE3, covering 2026-2035) sets the near-term energy-infrastructure trajectory, while France Stratégie's January 2026 report on major infrastructure projects (transport, energy, water) flags execution and financing bottlenecks across essential-infrastructure programs rather than a clear growth trend for 2026 itself.",
+      "evidenceDate": "2026-01"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The PPE3 (2026-2035) commits France to a multi-year electrification and grid-investment trajectory, and France Stratégie's infrastructure-planning work (water, energy, transport) points to sustained, significant public investment needs through the 2030s and beyond to renew and expand essential infrastructure.",
+      "evidenceDate": "2026-01"
+    },
+    "risks": [
+      "France Stratégie flags financing and execution bottlenecks for major infrastructure projects",
+      "Water-infrastructure investment described as historically under-prioritized"
+    ],
+    "opportunities": [
+      "PPE3 sets a 10-year (2026-2035) energy infrastructure investment trajectory",
+      "Grid modernization and electrification investment needs create sustained utility capex demand"
+    ],
+    "sources": [
+      {
+        "title": "Programmation pluriannuelle de l'énergie (PPE3) 2026-2035",
+        "publisher": "Ministère de l'Économie et des Finances",
+        "url": "https://www.economie.gouv.fr/files/files/2026/ppe3.pdf?v=1770958215",
+        "date": "2026",
+        "scope": "France",
+        "metric": "National multi-year energy programming strategy"
+      },
+      {
+        "title": "Grands projets d'infrastructures",
+        "publisher": "France Stratégie / Haut-commissariat à la stratégie et au plan",
+        "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2026/2026-01-14%20Cadot%20-%20Grands%20projets%20d%E2%80%99infrastructures/HCSP-2026-RAPPORT-Cadot-14janvier14h-FINAL-COUV.pdf",
+        "date": "2026-01",
+        "scope": "France",
+        "metric": "Major infrastructure project financing and planning review"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Water infrastructure asset management for small municipal operators",
+        "description": "Small and rural French municipal water operators lack affordable monitoring tools to manage an aging, under-renewed 1-million-km pipe network.",
+        "sources": [
+          {
+            "title": "20% d'eau perdue",
+            "publisher": "OOPLA",
+            "url": "https://oopla.fr/fuites-deau-20-pourcent-reseaux-france-impact-enjeu/",
+            "date": "2025",
+            "scope": "France",
+            "metric": "~1,000,000 km of network, average pipe age ~40 years, <1% annual renewal rate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "INSEE monthly 'Informations rapides' releases through 2026 show French manufacturing production oscillating and weakening into mid-year: after a January rebound (+0.6%) and gains in March/April, output fell 1.0% in May and a further 1.1% in June 2026, which industry commentary described as confirming 'industrial fragility'.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Monthly INSEE data shows no sustained trend either way over 2026 (alternating gains and declines month to month), indicating an industrial sector that is stagnant-to-fragile rather than in clear structural growth or decline.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Repeated month-on-month production declines (May and June 2026)",
+      "Industrial fragility flagged by INSEE-based commentary"
+    ],
+    "opportunities": [
+      "Occasional rebounds (January, March, April 2026) suggest recovery potential"
+    ],
+    "sources": [
+      {
+        "title": "En juin 2026, la production manufacturière baisse de nouveau nettement (-1,1% après -1,0%)",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/9034179",
+        "date": "2026-06",
+        "scope": "France",
+        "metric": "Monthly manufacturing production index"
+      },
+      {
+        "title": "En mai 2026, la production manufacturière se replie de 1,0%",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/9019268",
+        "date": "2026-05",
+        "scope": "France",
+        "metric": "Monthly manufacturing production index"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "No-staff-required cyber governance tooling for owner-operated manufacturers",
+        "description": "Owner-operated French manufacturers with no dedicated IT staff lack cybersecurity governance tools sized for sub-€5,000 annual IT budgets.",
+        "sources": [
+          {
+            "title": "Cybermalveillance.gouv.fr dresse l'état des lieux cyber des TPE/PME en 2025",
+            "publisher": "Cybermalveillance.gouv.fr / IT Social",
+            "url": "https://itsocial.fr/cybersecurite/cybersecurite-articles/cybermalveillance-gouv-fr-dresse-letat-des-lieux-cyber-des-tpe-pme-en-2025/",
+            "date": "2025-10",
+            "scope": "France",
+            "metric": "78% have IT budgets under €5,000/year; 92% won't hire cyber staff; 65% lack incident-response procedures (n=588)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The FFB (Fédération Française du Bâtiment) end-of-2025/2026 outlook describes a 'fragile' and partial recovery in housing construction, explicitly stating no real recovery ('pas de vraie reprise') is expected in the building sector in 2026, with regional reports (e.g. Île-de-France) confirming a still-fragile early-2026 uptick.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Government Trésor conjoncture notes and FFB commentary describe construction investment as bottoming out rather than in structural decline or clear growth, with the sector's recovery described as gradual and uncertain.",
+      "evidenceDate": "2025-2026"
+    },
+    "risks": [
+      "FFB explicitly warns against expecting a genuine 2026 recovery",
+      "Weak public and corporate construction investment per Trésor",
+      "Public-works volumes expected to fall ~3% in 2026 per aggregates-sector reporting"
+    ],
+    "opportunities": [
+      "Early signs of housing construction stabilization/fragile uptick"
+    ],
+    "sources": [
+      {
+        "title": "Pas de vraie reprise attendue dans le bâtiment en 2026, selon la FFB",
+        "publisher": "Le Journal des Entreprises",
+        "url": "https://www.lejournaldesentreprises.com/article/pas-de-vraie-reprise-attendue-dans-le-batiment-en-2026-selon-la-ffb-2133283",
+        "date": "2026",
+        "scope": "France",
+        "metric": "FFB sector outlook"
+      },
+      {
+        "title": "Bâtiment en Île-de-France : une reprise encore fragile début 2026",
+        "publisher": "Batiweb",
+        "url": "http://www.batiweb.com/actualites/conjoncture/batiment-ile-de-france-reprise-fragile-ffb-t1-2026-48902",
+        "date": "2026",
+        "scope": "regional",
+        "metric": "Regional construction activity"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small independent renovation artisans needing RGE certification and training pathways",
+        "description": "Independent renovation artisans lack accessible RGE-certification training pathways, leaving only about 7% qualified to perform subsidized energy-renovation work.",
+        "sources": [
+          {
+            "title": "Rénovation énergétique des bâtiments : quels besoins de main-d'œuvre en 2030 ?",
+            "publisher": "DARES (Ministère du Travail) / France Stratégie",
+            "url": "https://dares.travail-emploi.gouv.fr/publication/renovation-energetique-des-batiments-quels-besoins-de-main-doeuvre-en-2030",
+            "date": "2024",
+            "scope": "France",
+            "metric": "170,000-250,000 additional jobs needed by 2030; only ~7% of construction firms hold RGE certification"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "INSEE's Q1 2026 existing-home price index rose 0.2% quarter-on-quarter and just 0.1% year-on-year, describing a market 'normalizing' after 2024's steep declines (down to -5.2% annually in Q1 2024); the rise is driven entirely by Île-de-France (apartments +0.6% annually) while provincial prices and houses (-0.2%) stayed flat or fell. Transaction volumes stabilized at ~952,000 over the trailing 12 months.",
+      "evidenceDate": "2026-Q1"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The Ministry's SDES study of housing needs to 2030/2040/2050 (June 2025) projects sustained structural demand: roughly 208,000 new primary residences needed per year through 2030 (falling to 139,000/year in the 2030s and 55,000/year in the 2040s), driven mainly by household fragmentation (3.4 million additional single-person households by 2050) and the need to address substandard housing, with demand concentrated in dynamic metros (Paris, Lyon, Toulouse, coastal areas).",
+      "evidenceDate": "2025-06"
+    },
+    "risks": [
+      "Provincial and house prices remain flat or declining even as the overall index rises",
+      "Market recovery concentrated narrowly in Île-de-France apartments"
+    ],
+    "opportunities": [
+      "Transaction volumes stabilized after a multi-year continuous decline since mid-2022",
+      "Price normalization after the 2024 correction"
+    ],
+    "sources": [
+      {
+        "title": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %)",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/8995299",
+        "date": "2026-Q1",
+        "scope": "France",
+        "metric": "Existing home price index"
+      },
+      {
+        "title": "Tendances et évolutions des prix de l'immobilier au 1er trimestre 2026",
+        "publisher": "Notaires de France",
+        "url": "https://www.notaires.fr/fr/article/tendances-et-evolutions-des-prix-de-limmobilier-au-1er-trimestre-2026",
+        "date": "2026-Q1",
+        "scope": "France",
+        "metric": "Housing price trends"
+      },
+      {
+        "title": "Besoins en logements à horizon 2030, 2040 et 2050",
+        "publisher": "Ministère de la Transition écologique - SDES",
+        "url": "https://www.statistiques.developpement-durable.gouv.fr/media/8479/download?inline=",
+        "date": "2025-06",
+        "scope": "France",
+        "metric": "Long-term housing needs projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Mid-market assisted-living housing for aging seniors",
+        "description": "Aging French seniors who need assisted living but can't afford premium résidences services lack mid-market assisted-living housing options.",
+        "sources": [
+          {
+            "title": "Résidences seniors en France : 108 000 logements, mais est-ce assez face au choc démographique de 2026 ?",
+            "publisher": "Logement-seniors.com (citing INSEE)",
+            "url": "https://www.logement-seniors.com/actualites/residences-seniors-france-108000-logements-choc-demographique-2026.html",
+            "date": "2025-2026",
+            "scope": "France",
+            "metric": "108,286 senior housing units vs. 75-85 population rising from 4.1M to 6M by 2030"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "SDES (Ministry of Ecological Transition) reporting titled 'L'activité de transport augmente au quatrième trimestre 2025' (published April 2026) indicates French transport activity rose in Q4 2025, tracked via the Ministry's regular 'Conjoncture des transports' quarterly series through Q1 2026, though other trade coverage of the same series has separately flagged a broader slowdown in specific freight sub-segments.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "France Stratégie / Haut-commissariat's 2040-2060 prospective on transport and mobility finds no scenario reaches carbon neutrality without major behavioral shifts (mobility reduction, modal shift) alongside technology; even a 'baseline' scenario falls well short of climate targets, implying a long structural transition rather than simple growth for the sector.",
+      "evidenceDate": "2022"
+    },
+    "risks": [
+      "Trade press (TRM24) reports a broader slowdown in freight transport activity even as the Q4 2025 headline figure rose",
+      "Baseline transport scenario falls short of decarbonization targets absent behavioral change"
+    ],
+    "opportunities": [
+      "SDES reports overall transport activity increased in Q4 2025",
+      "Modal shift and mobility-reduction pathways create demand for new mobility services and infrastructure"
+    ],
+    "sources": [
+      {
+        "title": "L'activité de transport augmente au quatrième trimestre 2025",
+        "publisher": "Ministère de la Transition écologique - SDES",
+        "url": "https://statistiques.developpement-durable.gouv.fr/media/9275/download?inline=",
+        "date": "2026-04",
+        "scope": "France",
+        "metric": "Quarterly transport activity index"
+      },
+      {
+        "title": "Conjoncture des transports au premier trimestre 2026",
+        "publisher": "Ministère de la Transition écologique - SDES",
+        "url": "https://www.statistiques.developpement-durable.gouv.fr/conjoncture-des-transports-au-premier-trimestre-2026",
+        "date": "2026-Q1",
+        "scope": "France",
+        "metric": "Transport sector conjoncture report"
+      },
+      {
+        "title": "Prospective 2040-2060 des transports et des mobilités - Rapport de synthèse",
+        "publisher": "France Stratégie / Haut-commissariat à la stratégie et au plan",
+        "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2022/0208%20Prospective%20mobilit%C3%A9/prospective_2040-2060_des_transports_et_des_mobilites_-_rapport_de_synthese_-_fevrier_2022.pdf",
+        "date": "2022-02",
+        "scope": "France",
+        "metric": "Long-range transport/mobility decarbonization scenarios 2040-2060"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Recruitment and retention tools targeting women HGV drivers",
+        "description": "Women HGV drivers, just 4% of the workforce, lack dedicated recruitment and retention tools despite roughly 100,000 unfilled driver positions.",
+        "sources": [
+          {
+            "title": "5 chiffres clés du recrutement dans le transport",
+            "publisher": "Beetween (citing FNTR/OPTL/INSEE)",
+            "url": "https://beetween.fr/blog/5-chiffres-cles-recrutement-transport/",
+            "date": "2022-2025",
+            "scope": "France",
+            "metric": "~100,000 unfilled HGV driver positions; 15% annual turnover; women at 4% of HGV drivers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Union TLF's Panorama 2026 and the Ministry's Baromètre des Transports de fret & de la Logistique track a French freight/logistics sector with roughly stable road transport pricing (Upply market insights show near-stable prices in early 2026), amid ongoing cost pressures.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The same France Stratégie 2040-2060 transport prospective stresses that freight/goods transport must pursue 'quasi-total' decarbonization via modal shift to rail/waterways and logistics efficiency gains, while the government's 2025-2026 national logistics and freight roadmap (renewing the 2022 national logistics strategy) sets only near-term qualitative priorities, with no long-range quantified targets published yet.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Cost pressure on road freight operators",
+      "No quantified long-range (post-2026) targets yet published for national logistics strategy"
+    ],
+    "opportunities": [
+      "Sector-specific tracking via Union TLF Panorama and government Baromètre",
+      "Modal shift to rail/waterway freight and logistics decarbonization investment"
+    ],
+    "sources": [
+      {
+        "title": "L'Union TLF publie son Panorama 2026 des transports de fret et de la logistique",
+        "publisher": "Union TLF",
+        "url": "https://e-tlf.com/nos-travaux-et-publications/lunion-tlf-publie-son-panorama-2026-des-transports-de-fret-et-de-la-logistique/",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Freight & logistics sector panorama"
+      },
+      {
+        "title": "France : quasi-stabilité des prix du transport routier en janvier",
+        "publisher": "Upply",
+        "url": "https://market-insights.upply.com/en/france-road-transport-prices-remained-almost-stable-in-january",
+        "date": "2026-01",
+        "scope": "France",
+        "metric": "Road transport pricing"
+      },
+      {
+        "title": "Prospective 2040-2060 des transports et des mobilités - Rapport de synthèse",
+        "publisher": "France Stratégie / Haut-commissariat à la stratégie et au plan",
+        "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2022/0208%20Prospective%20mobilit%C3%A9/prospective_2040-2060_des_transports_et_des_mobilites_-_rapport_de_synthese_-_fevrier_2022.pdf",
+        "date": "2022-02",
+        "scope": "France",
+        "metric": "Long-range transport/freight decarbonization scenarios 2040-2060"
+      },
+      {
+        "title": "Une feuille de route logistique et transport de marchandises 2025-2026 pour donner une nouvelle impulsion à la stratégie nationale logistique",
+        "publisher": "Direction générale des Entreprises (DGE)",
+        "url": "https://www.entreprises.gouv.fr/la-dge/actualites/une-feuille-de-route-logistique-et-transport-de-marchandises-2025-2026-pour",
+        "date": "2025",
+        "scope": "France",
+        "metric": "National logistics strategy roadmap"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Cold-chain last-mile distribution for fresh/perishable goods",
+        "description": "French cold-chain logistics providers cite last-mile distribution for fresh food as the sector's principal unresolved challenge, with capacity concentrated in a few hubs.",
+        "sources": [
+          {
+            "title": "La distribution du dernier kilomètre, principal défi pour le secteur logistique en 2026",
+            "publisher": "Powerload Blog",
+            "url": "https://blog.powerload.es/fr/2026/06/03/la-distribution-du-dernier-kilometre-principal-defi-pour-le-secteur-logistique-en-2026/",
+            "date": "2026-06-03",
+            "scope": "France",
+            "metric": "Identified as the top 2026 sector challenge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "INSEE's monthly wholesale-trade business climate indicator ('climat des affaires dans le commerce de gros') has fluctuated through 2026: it improved in January 2026, darkened in February, stayed 'maussade' (gloomy) in March, darkened further in April, and eased slightly in July 2026, indicating a wholesale sector oscillating around a depressed baseline rather than trending clearly up or down.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France Stratégie's 'Reindustrialising France by 2035' study estimates reindustrialization could create 580,000-740,000 jobs by 2035 depending on scenario (upstream vs. downstream/technology-focused), implying materially higher industrial throughput and demand for wholesale distribution and supply-chain intermediation, though the study is framed around manufacturing rather than wholesale trade specifically.",
+      "evidenceDate": "2024"
+    },
+    "risks": [
+      "Business climate repeatedly described as 'maussade' (gloomy) through much of 2026",
+      "Long-term wholesale outlook is inferred from industrial reshoring scenarios rather than a distribution-specific study"
+    ],
+    "opportunities": [
+      "Slight easing/improvement in the July 2026 reading",
+      "Reindustrialization scenarios (up to 740,000 new industrial jobs by 2035) implying higher domestic supply-chain and distribution volumes"
+    ],
+    "sources": [
+      {
+        "title": "En janvier 2026, le climat des affaires dans le commerce de gros retrouve des couleurs",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/8729794",
+        "date": "2026-01",
+        "scope": "France",
+        "metric": "Wholesale trade business climate index"
+      },
+      {
+        "title": "En juillet 2026, le climat des affaires dans le commerce de gros se replie légèrement",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/9031018",
+        "date": "2026-07",
+        "scope": "France",
+        "metric": "Wholesale trade business climate index"
+      },
+      {
+        "title": "Réindustrialisation de la France à horizon 2035 : besoins, contraintes et effets potentiels",
+        "publisher": "France Stratégie / Haut-commissariat à la stratégie et au plan",
+        "url": "https://www.strategie-plan.gouv.fr/en/publications/reindustrialising-france-2035-needs-constraints-and-potential-effects-0",
+        "date": "2024",
+        "scope": "France",
+        "metric": "Reindustrialization scenarios to 2035: GDP share, jobs, resource use"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "B2B e-commerce digitalization among small wholesalers",
+        "description": "French B2B wholesale SMEs remain significantly behind on e-commerce and marketplace digitalization compared to larger distributors.",
+        "sources": [
+          {
+            "title": "Accompagnement de la transition numérique des PME",
+            "publisher": "Sénat",
+            "url": "https://www.senat.fr/rap/r18-635/r18-6354.html",
+            "date": "2025",
+            "scope": "France",
+            "metric": "Structural SME digital-transition lag documented"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "INSEE's 'climat des affaires' surveys for retail and automotive trade show gradual improvement through mid-2026: business climate rebounded slightly in June 2026 (though still described as 'très dégradé'/very degraded) and improved more clearly in July 2026, indicating a slow recovery from a depressed base rather than robust growth.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Fevad's 'Commerce en 2035' prospective study (with ObSoCo, July 2025) outlines three scenarios for French retail shaped by AI integration across the value chain, platform concentration alongside new formats (social commerce, live shopping), reinvention of physical stores, and tightening environmental constraints on consumption patterns - pointing to structural transformation rather than simple linear growth.",
+      "evidenceDate": "2025-07"
+    },
+    "risks": [
+      "Business climate still 'très dégradé' as of June 2026 despite rebound",
+      "Consumer spending sensitivity to inflation/prices per INSEE consumer price notes",
+      "Platform concentration and environmental constraints reshaping consumption patterns by 2035"
+    ],
+    "opportunities": [
+      "Clear improvement in retail business climate in July 2026",
+      "AI integration across the retail value chain",
+      "Growth of social commerce and live shopping formats"
+    ],
+    "sources": [
+      {
+        "title": "En juillet 2026, le climat des affaires dans le commerce de détail et d'automobiles s'améliore nettement",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/9030853",
+        "date": "2026-07",
+        "scope": "France",
+        "metric": "Retail & automotive business climate index"
+      },
+      {
+        "title": "En juin 2026, le climat des affaires dans le commerce de détail et d'automobiles rebondit légèrement, mais reste très dégradé",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/9010826",
+        "date": "2026-06",
+        "scope": "France",
+        "metric": "Retail & automotive business climate index"
+      },
+      {
+        "title": "Le commerce en 2035 : les tendances clés selon la Fevad",
+        "publisher": "Fevad / ObSoCo",
+        "url": "https://www.fevad.com/etude-commerce-2035/",
+        "date": "2025-07",
+        "scope": "France",
+        "metric": "Retail/e-commerce prospective scenarios to 2035"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Independent food retailers in sparsely populated rural communes",
+        "description": "Retail density in rural bourgs fell from 4.0 to 3.8 points of sale per 1,000 residents between 2015 and 2022, driving a national rural-commerce rescue fund.",
+        "sources": [
+          {
+            "title": "Le commerce à la croisée des territoires (Thema n°41)",
+            "publisher": "Direction générale des Entreprises (DGE), Ministère de l'Économie",
+            "url": "https://www.entreprises.gouv.fr/files/files/Publications/2026/themas/thema-41-commerces-territoires.pdf",
+            "date": "2026",
+            "scope": "France",
+            "metric": "Rural bourg commerce density fell 4.0 to 3.8 outlets/1,000 residents, 2015-2022"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "BPCE's newsroom analysis of the 2026 Fintech100 ranking describes the French fintech segment as 'a growing sector despite the economic context': ranked fintechs generated EUR 3.5 billion in combined 2025 revenue (+36% year-on-year), with 57% achieving profitability and venture/angel investor participation rising sharply versus 2023, even as total fundraising amounts fell 22% year-on-year.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The Banque de France's National Payments Strategy 2025-2030 targets generalizing instant transfers across all use cases by 2030, continued growth of card/contactless and mobile payments (mobile payments up 137% in 2022), a >64% decline in cheque usage since 2012, and preparation for a potential retail digital euro post-2025, alongside cross-border payment cost/speed targets by end-2027.",
+      "evidenceDate": "2024-10"
+    },
+    "risks": [
+      "Total fintech fundraising amounts fell 22% year-on-year despite revenue growth",
+      "Only 14% of fintechs rely entirely on recurring revenue, down from 24% in 2024, signaling business-model churn",
+      "Fraud/social-engineering risk rising as payment methods digitize"
+    ],
+    "opportunities": [
+      "Combined Fintech100 revenue up 36% in 2025 to EUR 3.5 billion",
+      "57% of ranked fintechs profitable in 2025",
+      "73% of fintechs operating or planning international expansion, 67% targeting Europe",
+      "Generalization of instant transfers by 2030",
+      "Potential retail digital euro deployment"
+    ],
+    "sources": [
+      {
+        "title": "France - Secteur bancaire : que retenir du dernier Rapport annuel de l'ACPR",
+        "publisher": "Crédit Agricole - Etudes Economiques",
+        "url": "https://etudes-economiques.credit-agricole.com/s3-b-dj-prod-drupal-internet/s3fs-public/document/documents-2026-02/Persp-26-027-France-banques-20260202.pdf",
+        "date": "2026-02",
+        "scope": "France",
+        "metric": "Banking sector research note"
+      },
+      {
+        "title": "Fintech en France, un secteur en croissance malgré le contexte économique",
+        "publisher": "BPCE / Fintech100",
+        "url": "https://newsroom.groupebpce.fr/actualites/fintech-en-france-un-secteur-en-croissance-malgre-le-contexte-economique-e4338-7b707.html",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Fintech100 revenue, profitability and funding barometer"
+      },
+      {
+        "title": "Stratégie nationale des moyens de paiement 2025-2030",
+        "publisher": "Banque de France / Comité national des paiements",
+        "url": "https://www.banque-france.fr/system/files/2024-10/Strategie-nationale-des-moyens-de-paiement-2025-2030.pdf",
+        "date": "2024-10",
+        "scope": "France",
+        "metric": "National payments strategy targets 2025-2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Women entrepreneurs seeking external business financing from banks",
+        "description": "Women entrepreneurs seeking bank financing face an 8-point approval gap versus men, with only 32% obtaining external financing versus 40%.",
+        "sources": [
+          {
+            "title": "Baromètre de l'entrepreneuriat des femmes en France (3e édition)",
+            "publisher": "DGE & Bpifrance",
+            "url": "https://www.previssima.fr/actualite/entrepreneuriat-feminin-en-france-lambition-progresse-mais-se-heurte-encore-au-plafond-de-verre-bancaire.html",
+            "date": "2026",
+            "scope": "France",
+            "metric": "share of entrepreneurs obtaining external financing, by gender"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The ACPR's 'La situation des assureurs en France fin 2025' report (published June 2026) found 'favorable dynamics' with life insurance net inflows accelerating to EUR 19.9 billion in Q1 2026 (vs EUR 13.3bn in Q1 2025), non-life premium growth of 5.6% in direct business, and the solvency capital coverage ratio strengthening to 250% at end-2025 (from 238% at end-2024).",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Deloitte's 'Future of Insurance 2035' analysis projects the traditional risk-transfer model shifting toward prevention, resilience and continuous data-driven advisory services, with distribution, products, customer experience and operations all being reshaped by AI, demographic change and intensifying climate volatility - a structural rather than purely growth-driven long-term outlook.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Bond portfolio quality reported to be deteriorating after France's sovereign rating downgrade from AA to A in H2 2025",
+      "Maritime insurers exposed to elevated risk from global conflicts",
+      "Convergence of AI disruption, demographic shift and climate volatility increasing underwriting uncertainty"
+    ],
+    "opportunities": [
+      "Strong life insurance net inflows in Q1 2026",
+      "Non-life combined ratio improved to 95.3% (down 1.3 points) at end-2025",
+      "Solvency coverage ratio strengthened to 250%",
+      "Shift to outcome-oriented, prevention-based insurance products and continuous digital advisory"
+    ],
+    "sources": [
+      {
+        "title": "N°181 : La situation des assureurs en France fin 2025",
+        "publisher": "ACPR - Banque de France",
+        "url": "https://acpr.banque-france.fr/system/files/2026-06/20260630_AS181_assureurs_S2_2025.pdf",
+        "date": "2026-06",
+        "scope": "France",
+        "metric": "Insurer solvency, premiums and profitability"
+      },
+      {
+        "title": "The future of insurance 2035",
+        "publisher": "Deloitte France",
+        "url": "https://www.deloitte.com/fr/fr/Industries/financial-services/perspectives/future-of-insurance-2035.html",
+        "date": "2025",
+        "scope": "France/Europe",
+        "metric": "Long-term insurance sector transformation to 2035"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Right-sized commercial insurance for micro/small businesses (1-50 employees)",
+        "description": "Micro and small businesses with 1-50 employees lack right-sized commercial insurance products, leaving 74% inadequately, outdatedly, or entirely uninsured.",
+        "sources": [
+          {
+            "title": "Sous-assurance : 74% des TPE/PME françaises mal couvertes en 2026",
+            "publisher": "Hiscox (via Guide Assurance Pro)",
+            "url": "https://www.guide-assurance-pro.com/sous-assurance-tpe-pme-francaises-2026-pourquoi-comment-eviter/",
+            "date": "2025-11",
+            "scope": "France",
+            "metric": "74% of 1-50 employee firms inadequately/obsoletely insured (n=1,000)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Numeum (the French digital/IT industry federation) forecasts approximately 3% growth of the French digital/numérique market in 2026, described by trade press as a 'légère croissance' (slight growth) after the market exited a period of turbulence in late 2025, with AI cited as a disruptive factor for the sector's trajectory.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "A France Stratégie/Arcep-linked digital infrastructure employment study projects 33,000 net job creations in digital infrastructure between 2022-2030 (5% average annual growth, reaching ~103,000 professionals), with data center jobs nearly doubling (11,500 to 20,000+) and connected-equipment/IoT networks employment multiplying five-fold to ~40,000 by 2030, though recruitment is constrained by limited specialized training capacity.",
+      "evidenceDate": "2023"
+    },
+    "risks": [
+      "Growth described as only 'slight' relative to prior years",
+      "AI-driven disruption to traditional IT services demand",
+      "Client 'attentisme' (wait-and-see behavior) still slowing the recovery per Numeum",
+      "Recruitment bottleneck for specialized digital-infrastructure profiles given limited training capacity"
+    ],
+    "opportunities": [
+      "Numeum forecasts ~3% market growth for 2026",
+      "AI adoption as a growth driver within the digital sector",
+      "Data center employment near-doubling by 2030",
+      "IoT/connected equipment networks employment growing five-fold by 2030"
+    ],
+    "sources": [
+      {
+        "title": "Numeum prévoit 3% de croissance du marché numérique en 2026",
+        "publisher": "Le Monde Informatique",
+        "url": "https://www.lemondeinformatique.fr/actualites/lire-numeum-prevoit-3-de-croissance-du-marche-numerique-en-2026-100693.html",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Digital/IT market growth forecast"
+      },
+      {
+        "title": "Etude : Le marché du numérique français sort de la zone de turbulences, mais l'attentisme freine encore la reprise",
+        "publisher": "Numeum",
+        "url": "https://numeum.fr/etude-le-marche-du-numerique-francais-sort-de-la-zone-de-turbulences-mais-lattentisme-freine-encore-la-reprise/",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Digital market conjoncture study"
+      },
+      {
+        "title": "Infrastructures numériques : 33 000 créations d'emplois d'ici à 2030",
+        "publisher": "Le Monde Informatique",
+        "url": "https://www.lemondeinformatique.fr/actualites/lire-infrastructures-numeriques-33-000-creations-d-emplois-d-ici-a-2030-90331.html",
+        "date": "2023",
+        "scope": "France",
+        "metric": "Digital infrastructure employment projections to 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Micro/small businesses without online sales/payment capability",
+        "description": "Only 37% of French TPE/PME conduct sales transactions online, leaving the majority without e-commerce or digital payment infrastructure.",
+        "sources": [
+          {
+            "title": "Baromètre France Num 2025",
+            "publisher": "France Num / Bpifrance Le Lab (gov.fr)",
+            "url": "https://www.francenum.gouv.fr/files/2025-09/Barom%C3%A8tre%20France%20Num%202025%20-%20Rapport.pdf",
+            "date": "2025-09-17",
+            "scope": "France",
+            "metric": "37% of TPE/PME sell or transact online"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Hub France IA's 2026 ecosystem mapping identified 972 AI startups and solution providers in France (up 375 newly-registered companies), with over EUR 1 billion raised since 2024; healthcare and software remain the dominant application sectors and Île-de-France accounts for nearly 60% of mapped startups.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France's France 2030 national AI strategy has committed €2.5 billion to AI (with €1.5bn in a first 2018-2022 phase and €560m in a second 2022-2025 phase for research and training), targeting a 15% share of global embedded-AI capability, 400 SME AI adopters, and expanded doctoral/masters training; a third phase launched from 2025 shifts focus to infrastructure, talent attraction and trustworthy AI deployment.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Geographic concentration in Île-de-France (nearly 60% of startups)",
+      "Sectors like finance, accounting and supply chain remain 'peu outillées' (poorly equipped) with AI tools",
+      "Long-term AI targets (e.g. 15% global embedded-AI market share) set for 2025 with no confirmed replacement metric yet for the post-2025 phase"
+    ],
+    "opportunities": [
+      "972 AI startups mapped in 2026, +375 new entrants",
+      "Over EUR 1 billion raised by French AI startups since 2024",
+      "Government 'Osez l'IA' plan to foster national champions",
+      "€2.5bn France 2030 AI investment across research, talent and infrastructure",
+      "600+ AI-specialized startups (24% growth since 2021) building an AI ecosystem"
+    ],
+    "sources": [
+      {
+        "title": "Le Hub France IA dévoile une cartographie 2026 forte de 972 startups",
+        "publisher": "Alliancy",
+        "url": "https://alliancy.fr/le-hub-france-ia-devoile-une-cartographie-2026-forte-de-972-startups-92543b42-bb05-4bf8-bd09-3796faeddaa1",
+        "date": "2026",
+        "scope": "France",
+        "metric": "AI startup ecosystem mapping"
+      },
+      {
+        "title": "La stratégie nationale pour l'intelligence artificielle",
+        "publisher": "Ministère de l'Économie (economie.gouv.fr) / France 2030",
+        "url": "https://www.economie.gouv.fr/actualites/strategie-nationale-intelligence-artificielle",
+        "date": "2025",
+        "scope": "France",
+        "metric": "France 2030 national AI strategy investment and targets"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "AI tools designed for very small enterprises (10-49 employees)",
+        "description": "Very small enterprises with 10-49 employees lack AI tools built for their scale, with only 15% adopting AI versus 58% of firms with 250+ employees.",
+        "sources": [
+          {
+            "title": "L'IA très faiblement adoptée par les petites PME en France selon l'Insee",
+            "publisher": "INSEE (via La Revue du Digital)",
+            "url": "https://www.larevuedudigital.com/lia-tres-faiblement-adoptee-par-les-petites-pme-en-france-selon-linsee/",
+            "date": "2026-09",
+            "scope": "France",
+            "metric": "15% AI adoption (10-45 employees) vs. 31% (50-249) vs. 58% (250+)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "A Xerfi-based study reported by Archimag projects France's data center fleet growing 20% by 2026 to over 320 facilities, with colocation market leaders seeing roughly 15% annual revenue growth and regional hosting providers around 9%, driven by cloud migration, streaming and AI adoption.",
+      "evidenceDate": "2024"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France 2030's national cloud/data acceleration strategy continues to fund sovereign cloud and data-center capacity to support digital sovereignty and AI; separately, the digital-infrastructure employment projections show data-center jobs nearly doubling from 11,500 to over 20,000 by 2030 (70% technician-level roles), reflecting sustained long-term growth in data infrastructure demand.",
+      "evidenceDate": "2023"
+    },
+    "risks": [
+      "Rising interest rates, energy costs and land costs pressure new data-center project profitability",
+      "Local opposition and soil-artificialisation regulation constrain new facility development",
+      "Competition with logistics warehouses for available land",
+      "Data infrastructure growth dependent on continued France 2030 sovereign cloud funding rounds"
+    ],
+    "opportunities": [
+      "Data center fleet projected to grow 20% by 2026 to 320+ facilities",
+      "Colocation leaders seeing ~15% annual revenue growth",
+      "AI adoption and cloud migration driving sustained demand",
+      "Data center jobs nearly doubling to 20,000+ by 2030",
+      "France 2030 sovereign cloud/data acceleration strategy funding"
+    ],
+    "sources": [
+      {
+        "title": "Le marché des data centers toujours en pleine expansion malgré des défis à relever",
+        "publisher": "Archimag (citing Xerfi)",
+        "url": "https://www.archimag.com/demat-cloud/2024/05/02/marche-data-centers-toujours-expansion-malgre-defis-relever",
+        "date": "2024",
+        "scope": "France",
+        "metric": "Data center fleet growth and colocation/hosting revenue growth"
+      },
+      {
+        "title": "France 2030 : la stratégie nationale cloud s'enrichit d'un nouvel appel à projets pour renforcer l'offre française et européenne de services cloud",
+        "publisher": "info.gouv.fr / France 2030",
+        "url": "https://www.info.gouv.fr/actualite/france-2030-la-strategie-nationale-cloud-senrichit-dun-nouvel-appel-a-projets-pour-renforcer-loffre-francaise-et-europeenne-de-services-cloud-au-profit-de-la-souverainete-numerique-et-de-lia",
+        "date": "2025",
+        "scope": "France",
+        "metric": "National cloud/data sovereignty strategy"
+      },
+      {
+        "title": "Infrastructures numériques : 33 000 créations d'emplois d'ici à 2030",
+        "publisher": "Le Monde Informatique",
+        "url": "https://www.lemondeinformatique.fr/actualites/lire-infrastructures-numeriques-33-000-creations-d-emplois-d-ici-a-2030-90331.html",
+        "date": "2023",
+        "scope": "France",
+        "metric": "Data center employment projections to 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Predictive analytics tools for small businesses (TPE/PME)",
+        "description": "French TPE/PME lack predictive analytics tools, with only 53% even using customer/sales data and most decisions still relying on descriptive reporting.",
+        "sources": [
+          {
+            "title": "Baromètre France Num 2025",
+            "publisher": "France Num (Ministère de l'Économie)",
+            "url": "https://www.blogdumoderateur.com/barometre-numerique-tpe-pme-france-2025/",
+            "date": "2025",
+            "scope": "France",
+            "metric": "64% of TPE/PME use financial data, 53% use customer/sales data, for decision-making"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "ANSSI's Panorama de la cybermenace 2025 (CERT-FR, published March 2026) describes 2025 as a year of consolidation and sophistication of cyberattacks in France: blurred boundaries between state-sponsored and criminal actors, mass opportunistic exploitation of edge-device vulnerabilities, a decline in ransomware deployment offset by a rise in data-exfiltration-only attacks, and growing threat-actor adoption of AI tools — all sustaining demand for cybersecurity and digital-trust services.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France's National Cybersecurity Strategy 2026-2030 (SGDSN) sets long-term qualitative objectives: positioning France as Europe's largest cyber-talent reservoir, strengthening resilience of critical infrastructure and state digital systems, and reducing dependency in encryption, cloud and security-assessment technologies while building a competitive European market - though the published summary does not disclose quantified market, investment or job targets.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Mass opportunistic exploitation of edge devices and internet-exposed infrastructure",
+      "State-sponsored actors (linked to Russian and Chinese services) sustaining attacks on diplomatic/strategic networks",
+      "Rising data-exfiltration-only attacks even as ransomware deployment declines",
+      "Published 2026-2030 strategy summary lacks quantified investment/market targets, limiting measurability"
+    ],
+    "opportunities": [
+      "Sustained attacker sophistication and AI-tool adoption driving demand for cyber-defense and digital-trust services",
+      "National ambition to become Europe's top cyber-talent reservoir",
+      "Reduced dependency in encryption/cloud/security-assessment technologies"
+    ],
+    "sources": [
+      {
+        "title": "Panorama de la cybermenace 2025",
+        "publisher": "ANSSI / CERT-FR",
+        "url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2026-CTI-002.pdf",
+        "date": "2026-03",
+        "scope": "France",
+        "metric": "Annual cyberthreat landscape report"
+      },
+      {
+        "title": "Stratégie nationale de cybersécurité 2026-2030",
+        "publisher": "SGDSN (Secrétariat général de la défense et de la sécurité nationale)",
+        "url": "https://www.sgdsn.gouv.fr/publications/strategie-nationale-de-cybersecurite-2026-2030",
+        "date": "2025",
+        "scope": "France",
+        "metric": "National cybersecurity strategy 2026-2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "French SMEs (TPE/PME) operating below the ANSSI-recommended baseline cybersecurity level",
+        "description": "French SMEs below ANSSI's 'Essentiel' baseline security level, 74% of them, lack accessible tools to close the gap despite believing their protection is adequate.",
+        "sources": [
+          {
+            "title": "Cyberattaques: 74% des PME françaises sous le niveau de sécurité recommandé par l'ANSSI",
+            "publisher": "dpo-partage.fr citing Docaposte/Cyblex Consulting",
+            "url": "https://www.dpo-partage.fr/cyberattaques-pme-francaises-securite-anssi-nis2/",
+            "date": "2026-03-25",
+            "scope": "France",
+            "metric": "share of SMEs below ANSSI 'Essentiel' security level"
+          }
+        ]
+      },
+      {
+        "subSector": "SMEs lacking cyber-incident response/crisis-management capability",
+        "description": "69% of French TPE/PME have no cyberattack incident-response procedure and 65% cannot assess the operational impact of an attack.",
+        "sources": [
+          {
+            "title": "Étude de notoriété et d'impact de la cybermalveillance auprès des TPE/PME (OpinionWay)",
+            "publisher": "Cybermalveillance.gouv.fr (ANSSI/GIP ACYMA)",
+            "url": "https://www.cybermalveillance.gouv.fr/medias/2024/09/Slides_Etude_opinionWay_ImpactCyberoct24.pdf",
+            "date": "2024-10",
+            "scope": "France",
+            "metric": "69% have no incident-response procedure; 65% cannot evaluate attack impact"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Arcep's quarterly 'Observatoire des marchés des communications électroniques' (Q1 2026 data published) tracks fibre and 5G deployment and subscriber growth, indicating continued infrastructure rollout, though the regulator's own reporting does not claim strong overall market revenue growth (French telecom pricing has been under long-term competitive pressure).",
+      "evidenceDate": "2026-Q1"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Arcep's 'Ambition 2030' strategy (published January 2025, reaffirmed in the regulator's 2026 New Year address) commits to completing the transition to very-high-speed broadband for all through fibre generalization, phasing out legacy copper/2G/3G, and developing enterprise 5G in the 3.8-4.2 GHz band — a multi-year infrastructure-completion agenda rather than a market-expansion one, consistent with fibre already reaching roughly 90% of premises and 70% of internet subscriptions.",
+      "evidenceDate": "2025-01"
+    },
+    "risks": [
+      "Intense price competition among operators ('guerre de la 5G et de la fibre')",
+      "Ambition 2030 focuses on completing/consolidating existing networks rather than new market growth"
+    ],
+    "opportunities": [
+      "Continued fibre and 5G network expansion tracked by Arcep",
+      "Enterprise 5G development in the 3.8-4.2 GHz band under Ambition 2030"
+    ],
+    "sources": [
+      {
+        "title": "Marché des communications électroniques en France - Les chiffres au 1er trimestre 2026",
+        "publisher": "Arcep",
+        "url": "https://www.arcep.fr/cartes-et-donnees/nos-publications-chiffrees/observatoire-des-marches-des-communications-electroniques-en-france/marche-des-communications-electroniques-en-france-les-chiffres-au-1er-trimestre-2026.html",
+        "date": "2026-Q1",
+        "scope": "France",
+        "metric": "Telecom market observatory (fibre, 5G, subscribers)"
+      },
+      {
+        "title": "Ambition 2030 pour l'Arcep",
+        "publisher": "Arcep",
+        "url": "https://www.arcep.fr/uploads/tx_gspublication/plaquette_Arcep_Ambitions-2030_HD_janv2025.pdf",
+        "date": "2025-01",
+        "scope": "France",
+        "metric": "Regulator's long-term strategic infrastructure objectives"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural, older, owner-occupied households in fiber 'white zones' with no fiber connectivity option",
+        "description": "Rural, older, owner-occupied households in fiber 'white zones' have no fiber connectivity option, affecting 3% of metropolitan France and 21% of Brittany.",
+        "sources": [
+          {
+            "title": "Inégalités d'accès à la fibre optique",
+            "publisher": "INSEE",
+            "url": "https://www.insee.fr/fr/statistiques/8616807?sommaire=8616883",
+            "date": "2025-10-14",
+            "scope": "France",
+            "metric": "share of population in fiber-inaccessible ('white') zones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Industry trade press (VIPress) reports the French semiconductor market showing signs of a rebound/end of crisis ('fin de crise en vue') in 2026, while the Cour des Comptes (April 2026 report) found that France is investing heavily in the semiconductor sector under France 2030 but 'without a clear direction' (sans cap précis), raising questions about strategic effectiveness.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France's France 2030 program is scaling long-term semiconductor and quantum investment: roughly EUR 550 million dedicated to advanced semiconductors, over EUR 1 billion for a national quantum strategy (targeting fault-tolerant quantum computers with 1,024 logical qubits by 2032 via the PROQCIMA program), and a new 'Semi-conducteurs 2035' national strategy under development alongside European Chips Act coordination with Germany and the Netherlands — though the Cour des Comptes warns this investment currently lacks a clear strategic direction.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Cour des Comptes finds massive but strategically unclear public investment in semiconductors",
+      "Sector emerging from a multi-year cyclical downturn"
+    ],
+    "opportunities": [
+      "Signs of market rebound reported in 2026",
+      "France 2030 strategic electronics funding",
+      "New 'Semi-conducteurs 2035' national strategy in development",
+      "Quantum computing target of 1,024 logical qubits by 2032 (PROQCIMA)"
+    ],
+    "sources": [
+      {
+        "title": "Marché français des semi-conducteurs: fin de crise en vue ?",
+        "publisher": "VIPress.net",
+        "url": "https://vipress.net/marche-francais-des-semi-conducteurs-le-rebond-se-confirme/",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Semiconductor market cycle"
+      },
+      {
+        "title": "Le soutien à la filière des semi-conducteurs",
+        "publisher": "Cour des comptes",
+        "url": "https://program-evaluation.ccomptes.fr/sites/default/files/2026-04/20260421-Soutien-filiere-des-semi-conducteurs.pdf",
+        "date": "2026-04",
+        "scope": "France",
+        "metric": "Public investment evaluation"
+      },
+      {
+        "title": "La France accélère sa souveraineté dans le quantique et les semi-conducteurs",
+        "publisher": "Alliancy",
+        "url": "https://alliancy.fr/la-france-accelere-sa-souverainete-dans-le-quantique-et-les-semi-conducteurs-94dfce2b-807e-435d-bf8e-da7c4244150a",
+        "date": "2026",
+        "scope": "France",
+        "metric": "France 2030 quantum/semiconductor investment strategy"
+      }
+    ],
+    "noGapReason": {
+      "code": "underdeveloped",
+      "note": "France has limited fabrication/packaging/testing capacity concentrated around a few sites; the ecosystem is too thin and import-dependent for a specific underserved niche to have clearly emerged.",
+      "sources": [
+        {
+          "title": "France Semiconductor Manufacturing Equipment Market Size, Share by 2034",
+          "publisher": "Straits Research",
+          "url": "https://straitsresearch.com/report/semiconductor-manufacturing-equipment-market/france",
+          "date": "2025",
+          "scope": "France",
+          "metric": "Market still emergent relative to Asia/US hubs"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The French robotics market reached EUR 4.5 billion in 2024, up 12% year-on-year, rebounding after an 18.4% decline in 2023 driven by reduced industrial investment (notably automotive and metallurgy); 1,000-1,500 companies operate across manufacturing, integration, components and R&D, with regional clusters in Occitanie, Pays de la Loire, Île-de-France and Auvergne-Rhône-Alpes.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Growth is expected to continue on structural drivers — expanding service/collaborative robotics, rising SME adoption, and public reindustrialization support (France 2030 allocating roughly EUR 800 million) — with the global cobot market alone projected to grow from USD 0.3 billion (2017) to over USD 5 billion by 2025 at double-digit annual rates.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "2023 saw an 18.4% market decline tied to reduced industrial investment",
+      "Sector remains sensitive to automotive/metallurgy capex cycles"
+    ],
+    "opportunities": [
+      "2024 market rebound of +12% to EUR 4.5 billion",
+      "France 2030 allocating ~EUR 800 million to reindustrialization/robotics adoption",
+      "Rapid growth in collaborative robots (cobots) and service robotics"
+    ],
+    "sources": [
+      {
+        "title": "Le marché de la robotique en France : état des lieux et perspective",
+        "publisher": "Robot Magazine",
+        "url": "https://www.robot-magazine.fr/marche-robotique-france-croissance-2025/",
+        "date": "2025",
+        "scope": "France",
+        "metric": "Robotics market size, growth, company count"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Industrial robotics for manufacturing SMEs/ETIs",
+        "description": "Manufacturing SMEs and ETIs lack accessible industrial robotics, running just 195 robots per 10,000 employees versus 449 in Germany.",
+        "sources": [
+          {
+            "title": "Densité robotique en France 2024",
+            "publisher": "Robotics Valley (citing International Federation of Robotics data)",
+            "url": "https://www.robotics-valley.eu/densite-robotique-en-france/",
+            "date": "2024/2025",
+            "scope": "France",
+            "metric": "195 robots/10,000 employees (France) vs. 449 (Germany); 51% of French SME-ETIs with a formal automation plan vs. 66% (Germany), 76% (Italy)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The PLFSS 2026 (Social Security financing bill) introduces structuring measures on prevention, care and innovation per the Ministry of Health, but the ONDAM healthcare spending trajectory annex and commentary describe significant budget constraint and contested cost-control measures for the sector.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France Stratégie's analysis of the long-term determinants of health spending finds it grew from 2.6% to 8.9% of GDP between 1950-2015, and projects that population aging alone should add 0.3 to 1.1 percentage points to health spending's GDP share by 2060, with the exact trajectory highly sensitive to income-growth and medical-technology assumptions across competing European Commission, IMF and OECD/Treasury models.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Budget-constrained ONDAM spending trajectory in PLFSS 2026",
+      "Contested cost-control measures affecting care providers",
+      "Wide uncertainty in long-term projection models depending on income and technology assumptions"
+    ],
+    "opportunities": [
+      "PLFSS 2026 prevention and innovation measures",
+      "Structural, demographically-driven long-term growth in health spending share of GDP"
+    ],
+    "sources": [
+      {
+        "title": "PLFSS 2026 : des mesures structurantes pour renforcer la prévention, les soins et l'innovation",
+        "publisher": "Ministère de la Santé",
+        "url": "https://sante.gouv.fr/actualites-presse/actualites-du-ministere/article/plfss-2026-des-mesures-structurantes-pour-renforcer-la-prevention-les-soins-et",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Health spending policy"
+      },
+      {
+        "title": "ANNEXE 5 ONDAM et dépenses de santé",
+        "publisher": "Sécurité Sociale (PLFSS 2026)",
+        "url": "https://www.securite-sociale.fr/files/live/sites/SSFR/files/medias/PLFSS/2026/PLFSS2026-Annexe5-2025-10-14_avec%20couverture.pdf",
+        "date": "2025-10",
+        "scope": "France",
+        "metric": "ONDAM national health spending target"
+      },
+      {
+        "title": "Les déterminants de long terme des dépenses de santé en France",
+        "publisher": "France Stratégie / Haut-commissariat à la stratégie et au plan",
+        "url": "https://www.strategie-plan.gouv.fr/publications/determinants-de-long-terme-depenses-de-sante-france",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Long-term health spending projections to 2060"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural residents in general-practitioner-underserved territories (medical deserts)",
+        "description": "Rural residents in general-practitioner-underserved territories lack adequate primary care access, averaging 3.1 annual GP consultations versus a 3.7 regional average.",
+        "sources": [
+          {
+            "title": "Dans le rural, l'accès à un médecin généraliste est difficile pour un habitant sur trois",
+            "publisher": "INSEE Analyses Auvergne-Rhône-Alpes n°187",
+            "url": "https://www.insee.fr/fr/statistiques/8307592",
+            "date": "2022",
+            "scope": "France (Auvergne-Rhône-Alpes)",
+            "metric": "share of rural population in GP-underserved territories"
+          }
+        ]
+      },
+      {
+        "subSector": "Rural residents losing their last local pharmacy",
+        "description": "110 French communes have lost their only pharmacy since 2020, with a 10.1% national decline in pharmacy count over the past decade concentrated in rural departments.",
+        "sources": [
+          {
+            "title": "En dix ans, une pharmacie sur dix a fermé en France",
+            "publisher": "IQVIA Pharmastat",
+            "url": "https://pharmastat.iqvia.com/actualites/en-dix-ans-une-pharmacie-sur-dix-a-ferme-en-france",
+            "date": "2026-06-18",
+            "scope": "France",
+            "metric": "2,237 pharmacy closures (-10.1%) in 10 years; 110 communes lost their only pharmacy since 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Leem's (French pharmaceutical industry federation) 2026 attractiveness barometer and 'Data et prospective — Economie du médicament 2025' report describe French pharma attractiveness alongside structural fragilities, with trade press (Pharmaceutiques.com) characterizing the industry as caught between strategic ambitions and structural weaknesses.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France's Plan Innovation Santé 2030 commits €7.5 billion through 2030 to make France Europe's leading health-innovation nation, including €800m for biomedical development/production targeting at least 20 new biotherapies by 2030 (reducing reliance on imports, currently 95% of biotherapies used in France), plus €2.4bn for acceleration strategies and €2.1bn via Bpifrance for healthcare startups.",
+      "evidenceDate": "2021"
+    },
+    "risks": [
+      "Structural fragilities in French pharmaceutical manufacturing per Leem/trade press",
+      "95% of biotherapies used in France currently imported, a structural dependency the plan aims to reduce"
+    ],
+    "opportunities": [
+      "Leem's 2026 attractiveness barometer tracks improvement levers for the sector",
+      "€7.5bn Plan Innovation Santé 2030 investment",
+      "Target of 20+ new biomedical drugs developed domestically by 2030"
+    ],
+    "sources": [
+      {
+        "title": "Baromètre 2026 de l'attractivité de la France pour l'industrie pharmaceutique",
+        "publisher": "Leem",
+        "url": "https://www.leem.org/publication/barometre-2026-de-l-attractivite-de-la-france-pour-l-industrie-pharmaceutique",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Pharmaceutical industry attractiveness barometer"
+      },
+      {
+        "title": "L'industrie française, entre ambitions stratégiques et fragilités structurelles",
+        "publisher": "Pharmaceutiques.com",
+        "url": "https://pharmaceutiques.com/actualites/economie-et-ecosysteme/lindustrie-francaise-entre-ambitions-strategiques-et-fragilites-structurelles/",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Sector strategic analysis"
+      },
+      {
+        "title": "Plan Innovation santé 2030 : 7,5 milliards d'euros pour que la France redevienne le leader de la santé en Europe",
+        "publisher": "French Healthcare",
+        "url": "https://frenchhealthcare.fr/attractivite-france/plan-innovation-sante-2030-75-milliards-deuros-pour-que-la-france-redevienne-le-leader-de-la-sante-en-europe/",
+        "date": "2021",
+        "scope": "France",
+        "metric": "France 2030 health/biotech innovation plan investment and targets"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rare-disease clinical-trial access and drug development infrastructure",
+        "description": "France's rare-disease regulatory and clinical-trial ecosystem needs an overhaul to keep pace with need, despite having Europe's largest rare-disease patient population.",
+        "sources": [
+          {
+            "title": "Rare Disease Day: is a regulatory overhaul what the therapeutic field needs?",
+            "publisher": "Labiotech",
+            "url": "https://www.labiotech.eu/in-depth/rare-disease-drug-development-challenges/",
+            "date": "2025",
+            "scope": "France",
+            "metric": "~3 million people affected by rare diseases in France"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Trade press (Techniques de l'Ingénieur, citing Snitem) describes the French medical device market as 'entre croissance et fragilité' (between growth and fragility): the sector's ~90,000 employees across 1,502 companies (93% SMEs) invest 6% of revenue in R&D, file 3,750 patents annually, and export revenue grows 10% per year (outpacing the ~3-4% domestic market growth rate), with 51% of firms developing connected devices.",
+      "evidenceDate": "2024"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Snitem's industry panorama shows the medical device sector growing 2.5% annually on average over 2017-2023 (accelerating to 4.9% in 2021-2023) to EUR 32.5 billion in domestic revenue and EUR 10.6 billion in exports across 1,393 companies, even as company count fell 5.6% (2021-2023) amid consolidation; France 2030 channeled EUR 328 million via Bpifrance in 2023 (+50% vs 2022) targeting innovation and market access through 2028.",
+      "evidenceDate": "2024"
+    },
+    "risks": [
+      "90% of companies report rising certification/regulatory requirements",
+      "44% cite certification delays slowing market entry",
+      "70% of companies report difficulty recruiting qualified staff",
+      "Company count fell 5.6% in 2021-2023 (119 exits vs 36 entries) amid sector consolidation",
+      "85% of surveyed firms struggle to recruit, especially technical, regulatory and digital/IT profiles"
+    ],
+    "opportunities": [
+      "Export revenue growing ~10% annually, faster than the domestic market",
+      "51% of companies developing connected medical devices",
+      "6% of revenue reinvested in R&D, 3,750 patents filed annually",
+      "France 2030/Bpifrance funding of EUR 328 million in 2023 (+50% YoY) targeting innovation through 2028"
+    ],
+    "sources": [
+      {
+        "title": "Le marché français des dispositifs médicaux, un secteur entre croissance et fragilité",
+        "publisher": "Techniques de l'Ingénieur (citing Snitem)",
+        "url": "https://www.techniques-ingenieur.fr/actualite/articles/le-marche-francais-des-dispositifs-medicaux-un-secteur-entre-croissance-et-fragilite-74835/",
+        "date": "2024",
+        "scope": "France",
+        "metric": "Medical device sector revenue, employment, R&D and export figures"
+      },
+      {
+        "title": "Panorama de la filière industrielle des dispositifs médicaux",
+        "publisher": "Snitem",
+        "url": "https://www.snitem.fr/wp-content/uploads/2024/04/SI-233-Dossier.pdf",
+        "date": "2024",
+        "scope": "France",
+        "metric": "Medical device industry growth, employment and company-count trends 2017-2023"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Telemedicine/remote specialist access in rural medical deserts",
+        "description": "French municipalities are installing teleconsultation kiosks as an ad hoc response to medical deserts, showing no scaled remote-specialist-access solution yet covers underserved rural areas.",
+        "sources": [
+          {
+            "title": "Cabines de téléconsultation : la réponse des mairies face aux déserts médicaux",
+            "publisher": "Le Gâtinais Express",
+            "url": "https://www.legatineauexpress.com/services-de-proximite/cabines-teleconsultation-deserts-deserts-medicaux-mairies",
+            "date": "2025",
+            "scope": "France",
+            "metric": "Municipalities deploying standalone kiosks as a stopgap measure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The French EdTech sector generated an estimated EUR 1.8 billion in revenue in 2025, growing roughly 6% annually since 2023, across about 550 active companies employing ~16,000 people directly; the market is described as entering 'accelerated maturity' in 2026, with heavy AI adoption (92% of firms use AI internally, 71% embed it in offerings).",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The sector is consolidating rather than simply expanding: the top 20 EdTech firms' combined market share fell from 58% (2023) to 50% (2025) even as at least 12 major acquisitions occurred over 2023-2026, while regulatory tightening (reduced CPF co-financing, cuts to distance-learning apprenticeship subsidies) and slow public-procurement cycles are cited by 73% of entrepreneurs as the main growth obstacle.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regulatory tightening on CPF co-payments and distance-learning apprenticeship subsidies",
+      "73% of entrepreneurs cite slow/complex public procurement as the top obstacle",
+      "Intensifying consolidation pressure on smaller players"
+    ],
+    "opportunities": [
+      "Revenue growth of ~6% annually since 2023 to EUR 1.8 billion in 2025",
+      "Heavy generative-AI integration into evaluation, authoring and tutoring tools",
+      "Active M&A market creating scale opportunities for acquirers"
+    ],
+    "sources": [
+      {
+        "title": "L'EdTech française en 2026 : Entre maturité accrue, révolution de l'IA et défis de financement",
+        "publisher": "Aladom",
+        "url": "https://www.aladom.fr/actualites/secteur-service/11216/ledtech-francaise-en-2026-entre-maturite-accrue-revolution-de-lia-et-defis-de-financement/",
+        "date": "2026",
+        "scope": "France",
+        "metric": "EdTech sector revenue, employment, consolidation and AI adoption"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Children with 'dys' learning disorders (dyslexia, dyspraxia, dysphasia) needing diagnostic/support services",
+        "description": "Children with 'dys' learning disorders, an estimated 6-8% of French children, lack matched diagnostic and specialist support services.",
+        "sources": [
+          {
+            "title": "Chiffres sur les troubles dys",
+            "publisher": "Fédération Française des DYS (FFDYS)",
+            "url": "https://dys-tout.fr/chiffres/",
+            "date": "2025",
+            "scope": "France",
+            "metric": "prevalence of dys disorders among school-age children"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Trade press (Le Monde du Chiffre, citing Xerfi analyst Aurélien Vernet) describes the French accounting/audit profession facing 'vents contraires' (headwinds) in 2025-2026: revenue growth projected at a modest 2.5-3%, with the Pacte law's higher audit thresholds reducing statutory audit obligations even as e-invoicing mandates create offsetting demand, and severe recruitment difficulties (half of practitioners over age 50).",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France Stratégie / Dares's 'Métiers en 2030' national projection expects roughly 1 million net job creations and 1.8 million positions for higher-education graduates between 2019-2030, with about 40% of graduate-level job creation concentrated in three sectors including legal activities and accounting/management services; commercial and technical cadres are projected to grow around 17%.",
+      "evidenceDate": "2022"
+    },
+    "risks": [
+      "Pacte law raising audit thresholds and reducing statutory audit demand",
+      "Severe talent/succession shortage (half of accountants over 50)",
+      "Fee pressure from commoditized low-cost online competitors (e.g. Dougs, Qonto)",
+      "Projection concentrates most graduate-level growth in a narrow set of sub-sectors, implying uneven gains within professional services"
+    ],
+    "opportunities": [
+      "E-invoicing mandate creating new advisory demand",
+      "Diversification toward higher-value consulting services",
+      "Legal activities and accounting/management services among the top 3 sectors for graduate-level job creation to 2030"
+    ],
+    "sources": [
+      {
+        "title": "Audit et expertise comptable : les métiers du chiffre soumis à des vents contraires",
+        "publisher": "Le Monde du Chiffre (Xerfi)",
+        "url": "https://www.lemondeduchiffre.fr/interviews/75170-audit-expertise-comptable-metiers-chiffre-soumis-vents-contraires.html",
+        "date": "2025",
+        "scope": "France",
+        "metric": "Accounting/audit market growth and structural trends"
+      },
+      {
+        "title": "Recrutement : quels métiers en 2030 ? Une vue prospective entre création et remplacement d'emplois",
+        "publisher": "France Stratégie / Dares (via RH Matin)",
+        "url": "https://www.rhmatin.com/recrutement-talents/metiers-2030-prospective-emplois-france-strategie-dares.html",
+        "date": "2022",
+        "scope": "France",
+        "metric": "National occupational projections to 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural livestock farmers needing large-farm-animal veterinary care",
+        "description": "Rural livestock farmers lack accessible large-farm-animal veterinary care, with only 15.2% of vets treating farm animals and an estimated 800-1,000 vet shortfall.",
+        "sources": [
+          {
+            "title": "Pénurie de vétérinaires en milieu rural",
+            "publisher": "Sénat - Questions écrites",
+            "url": "https://www.senat.fr/questions/base/2024/qSEQ241001999.html",
+            "date": "2024",
+            "scope": "France",
+            "metric": "veterinarian shortfall count and specialization split"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "INSEE's monthly services business climate indicator has been broadly weak-but-uneven through 2026: stable in January, darkening notably in April, remaining 'morose' in June, then brightening slightly in July and again in August (reaching its long-term average of 100), with administrative/support services showing a particularly strong August improvement.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The same France Stratégie / Dares 'Métiers en 2030' projection identifies administrative and support services among the sectors concentrating the largest share (about 40% combined with legal and accounting) of graduate-level job creation through 2030, within an economy-wide projection of roughly 1 million net new jobs and 760,000 annual positions to fill (including replacements).",
+      "evidenceDate": "2022"
+    },
+    "risks": [
+      "Services business climate described as 'morose' for much of H1 2026",
+      "Broader sector-wide business prospects declined even as personal-activity optimism rose in August",
+      "Long-term business-services growth estimate is derived from an economy-wide occupational study rather than a sector-specific one"
+    ],
+    "opportunities": [
+      "August 2026 climate indicator rejoined its long-term average",
+      "Administrative and support services showed a notably strong improvement in August 2026",
+      "Administrative and support services among top sectors for graduate-level hiring growth to 2030"
+    ],
+    "sources": [
+      {
+        "title": "En août 2026, le climat des affaires dans les services s'éclaircit de nouveau légèrement",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/9037635",
+        "date": "2026-08",
+        "scope": "France",
+        "metric": "Services business climate index"
+      },
+      {
+        "title": "En juin 2026, le climat des affaires dans les services reste morose",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/9010904",
+        "date": "2026-06",
+        "scope": "France",
+        "metric": "Services business climate index"
+      },
+      {
+        "title": "Recrutement : quels métiers en 2030 ? Une vue prospective entre création et remplacement d'emplois",
+        "publisher": "France Stratégie / Dares (via RH Matin)",
+        "url": "https://www.rhmatin.com/recrutement-talents/metiers-2030-prospective-emplois-france-strategie-dares.html",
+        "date": "2022",
+        "scope": "France",
+        "metric": "National occupational projections to 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable cybersecurity services for SMEs/mid-caps",
+        "description": "French SMEs and mid-caps face a widening cybersecurity gap, prompting a dedicated national 'Cyber PME' aid scheme to fill the affordability and access gap.",
+        "sources": [
+          {
+            "title": "France 2030 - Cyber PME",
+            "publisher": "francenum.gouv.fr",
+            "url": "https://www.francenum.gouv.fr/aides-financieres/france-2030-cyber-pme",
+            "date": "2025",
+            "scope": "France",
+            "metric": "Dedicated national aid scheme created to close the SME cyber gap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Kantar Media / France Pub's BUMP (Baromètre Unifié du Marché Publicitaire) barometer reported the French advertising market grew 3.1% in Q1 2026, with trade press (La Réclame, Stratégies, CB News) describing the market as 'resisting' and maintaining growth momentum 'despite uncertainties'.",
+      "evidenceDate": "2026-Q1"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "A PMP Strategy study for the Ministry of Culture/Arcom projects the French advertising/communications market growing ~2.3% annually to reach EUR 18.3 billion by 2030, with digital actors' share rising from 52% to 65% (the four largest non-European platforms alone capturing 45%), while investment in news/creative content at legacy media falls from EUR 6.1 billion (2022) to EUR 5.3 billion (2030) as spend shifts toward digital and retail media.",
+      "evidenceDate": "2024"
+    },
+    "risks": [
+      "Growth described as persisting 'despite uncertainties' in the broader economic climate",
+      "Legacy media funding for news/creative content projected to fall EUR 0.8 billion by 2030 despite overall market growth",
+      "Four major non-European platforms projected to capture 45% of the market by 2030"
+    ],
+    "opportunities": [
+      "Advertising market grew 3.1% year-on-year in Q1 2026 per BUMP barometer",
+      "Overall market projected to reach EUR 18.3 billion by 2030 (+2.3%/year)",
+      "Digital and retail-media spend the main long-term growth driver"
+    ],
+    "sources": [
+      {
+        "title": "Bump 1T 2026 : +3,1% de croissance pour le marché publicitaire français, malgré tout",
+        "publisher": "La Réclame",
+        "url": "https://lareclame.fr/bump-1t-2026-335267",
+        "date": "2026-Q1",
+        "scope": "France",
+        "metric": "Advertising & communications market growth (BUMP barometer)"
+      },
+      {
+        "title": "Le marché de la publicité et de la communication - Bilan 1er trimestre 2026 et prévisions",
+        "publisher": "France Pub / Kantar Media",
+        "url": "https://francepub.fr/le-marche-de-la-publicite-et-de-la-communication-bilan-1er-trimestre-2026-et-previsions-annees-2026/",
+        "date": "2026-Q1",
+        "scope": "France",
+        "metric": "Advertising market barometer"
+      },
+      {
+        "title": "Perspectives d'évolution du marché publicitaire français à l'horizon 2030",
+        "publisher": "Ministère de la Culture / Arcom (étude PMP Strategy)",
+        "url": "https://www.culture.gouv.fr/Media/medias-creation-rapide/2024.01.30-Support-Etude-DGMIC-ARCOM-publicite-par-PMP-Strategy.pdf",
+        "date": "2024",
+        "scope": "France",
+        "metric": "Long-term advertising market projections to 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Affordable local digital advertising services for TPE/PME",
+        "description": "French micro and small businesses' online-presence progress has stalled, indicating persistent underservice of local digital advertising and marketing needs among the smallest firms.",
+        "sources": [
+          {
+            "title": "Présence en ligne des TPE PME : une progression qui marque légèrement le pas",
+            "publisher": "francenum.gouv.fr",
+            "url": "https://www.francenum.gouv.fr/magazine-du-numerique/presence-en-ligne-des-tpe-pme-une-progression-qui-marque-legerement-le-pas",
+            "date": "2025",
+            "scope": "France",
+            "metric": "Stalling growth in TPE/PME online presence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "CNC data shows French cinema attendance rebounding strongly in 2026: May 2026 ticket sales reached 14.97 million (+33.2% year-on-year), with January-May cumulative attendance up 20.6% to 77.1 million entries and French films holding a stable 44.4% market share against 45.0% for US productions.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "A PMP Strategy study for the Ministry of Culture/Arcom projects that even as the overall French advertising/communications market grows to EUR 18.3 billion by 2030, media investment specifically directed to news and creative content will fall from EUR 6.1 billion (2022) to EUR 5.3 billion (2030) — an EUR 0.8 billion decline — as ad spend shifts toward digital platforms and retail media, structurally pressuring media financing even as digital revenues at legacy players rise modestly (~EUR 0.4 billion over the period).",
+      "evidenceDate": "2024"
+    },
+    "risks": [
+      "Rolling annual cinema attendance still down 2.6%, indicating the 2026 rebound follows a period of prior weakness",
+      "Legacy media funding for news/creative content projected to fall EUR 0.8 billion by 2030",
+      "Ad-revenue growth increasingly captured by large non-European digital platforms rather than French media"
+    ],
+    "opportunities": [
+      "Sharp year-on-year cinema attendance growth across spring 2026 (April +35.4%, May +33.2%)",
+      "French films maintaining a stable, competitive domestic market share"
+    ],
+    "sources": [
+      {
+        "title": "Avec près de 15 millions d'entrées en mai 2026, la fréquentation des salles poursuit sa dynamique",
+        "publisher": "CNC (Centre National du Cinéma)",
+        "url": "https://www.cnc.fr/professionnels/actualites/avec-pres-de-15-millions-dentrees-en-mai-2026-la-frequentation-des-salles-poursuit-sa-dynamique_2601855",
+        "date": "2026-05",
+        "scope": "France",
+        "metric": "Cinema box office attendance"
+      },
+      {
+        "title": "Perspectives d'évolution du marché publicitaire français à l'horizon 2030",
+        "publisher": "Ministère de la Culture / Arcom (étude PMP Strategy)",
+        "url": "https://www.culture.gouv.fr/Media/medias-creation-rapide/2024.01.30-Support-Etude-DGMIC-ARCOM-publicite-par-PMP-Strategy.pdf",
+        "date": "2024",
+        "scope": "France",
+        "metric": "Long-term media financing-via-advertising projections to 2030"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Could not find checkable sourced evidence of a specific underserved segment; French dubbing/audiovisual production appears to be a mature, well-established capability.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "INSEE reports tourist accommodation attendance (excluding campsites) up 1.0% year-on-year in both Q1 and Q2 2026, with hotel frequentation specifically progressing, indicating a steady, if modest, growth trend through the first half of 2026.",
+      "evidenceDate": "2026-Q2"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Atout France's 2025 tourism review reports France reached a record 102 million international visitors in 2025 (up from 100 million in 2024) and record international tourism revenue of EUR 77.5 billion (+9% year-on-year, average spend per visitor +7% to EUR 760), with the government's Comité interministériel du tourisme setting explicit 2030 targets of EUR 100 billion in international tourism revenue and positioning France as the world's #1 sustainable-tourism destination.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Decline noted in residences de tourisme even as hotels grow",
+      "2024-2025 growth partly driven by one-off events (Paris Olympics, Notre-Dame reopening) that will not repeat"
+    ],
+    "opportunities": [
+      "Consistent +1.0% YoY growth in tourist accommodation attendance across Q1 and Q2 2026",
+      "Record 102 million international visitors and EUR 77.5 billion in tourism revenue in 2025",
+      "Government targets EUR 100 billion in international tourism revenue by 2030"
+    ],
+    "sources": [
+      {
+        "title": "Au deuxième trimestre 2026, la fréquentation des hébergements collectifs touristiques hors campings est en hausse de 1,0% sur un an",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/9036082",
+        "date": "2026-Q2",
+        "scope": "France",
+        "metric": "Tourist accommodation attendance"
+      },
+      {
+        "title": "Au premier trimestre 2026, la fréquentation des hébergements collectifs touristiques hors campings est en hausse de 1,0% sur un an",
+        "publisher": "INSEE",
+        "url": "https://www.insee.fr/fr/statistiques/8994308",
+        "date": "2026-Q1",
+        "scope": "France",
+        "metric": "Tourist accommodation attendance"
+      },
+      {
+        "title": "Bilan touristique de l'année 2025 : Avec 102 millions de visiteurs, la France, pays le plus visité du monde, enregistre une nouvelle hausse massive de ses recettes touristiques (+9%)",
+        "publisher": "Atout France",
+        "url": "https://www.atout-france.fr/fr/actualites/bilan-touristique-de-lannee-2025-avec-102-millions-de-visiteurs-la-france-pays-le-plus",
+        "date": "2025",
+        "scope": "France",
+        "metric": "International tourist arrivals and revenue, with 2030 strategic targets"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Travelers with disabilities seeking accommodations/attractions covering all four recognized disability types",
+        "description": "Travelers with disabilities seeking accommodations covering all four recognized disability types have few options, with only about 2,580 of 4,300 labeled establishments qualifying.",
+        "sources": [
+          {
+            "title": "Tourisme & Handicap : 4 300 structures labellisées en France",
+            "publisher": "L'Écho touristique",
+            "url": "https://www.lechotouristique.com/article/tourisme-handicap-4-300-structures-labellisees-en-france",
+            "date": "2024-03-12",
+            "scope": "France",
+            "metric": "count of Tourisme & Handicap-labeled establishments and disability-type coverage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The GIRA & RYDGE Baromètre Restauration 2026 (published May 2026) reports the average commercial table-service restaurant ticket rose 2.1% and frames 2026 as a pivotal year where 'adaptation becomes a determining factor of performance', following years of inflation, government-loan repayments, rising operating costs and recruitment difficulties; trade press separately notes widening performance gaps between winning and struggling operators.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Atout France's 'Horizons 2040' prospective study outlines four divergent scenarios for French tourism, restaurants and leisure ranging from a democratized 'globalized village' (120m international tourists) to a highly constrained 'archipelisation' scenario (30m international tourists), driven by climate stress (420m people facing extreme heat globally by 2050), an aging population (1 in 6 people 60+ by 2030) straining hospitality labor supply, and rising ingredient/sustainability compliance costs for restaurants.",
+      "evidenceDate": "2024-01"
+    },
+    "risks": [
+      "Rising operational costs and continued recruitment difficulties",
+      "Widening performance gap between successful and struggling operators per trade press",
+      "Legacy government-backed loan (PGE) repayments still weighing on smaller operators",
+      "Climate stress and heat exposure threatening coastal/mountain tourism destinations",
+      "Aging population and labor shortages raising hospitality sector costs"
+    ],
+    "opportunities": [
+      "Average ticket price up 2.1% in 2026, indicating some pricing power",
+      "Management/adaptation identified as a key differentiator, favoring well-run operators",
+      "Growth of experience-based/gastronomic tourism and regenerative tourism models",
+      "AI-driven productivity gains (~14%) across hospitality operations"
+    ],
+    "sources": [
+      {
+        "title": "Baromètre Restauration 2026",
+        "publisher": "GIRA Conseil / RYDGE",
+        "url": "https://www.rydge.fr/articles-analyses/barometre-restauration-2026",
+        "date": "2026-05",
+        "scope": "France",
+        "metric": "Restaurant sector barometer (pricing, indicators)"
+      },
+      {
+        "title": "Restauration : les écarts se creusent entre les gagnants et les perdants",
+        "publisher": "L'Officiel de la Franchise",
+        "url": "https://officieldelafranchise.fr/hausse-des-prix-baisse-des-clients-la-restauration-entre-dans-une-nouvelle-ere/",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Restaurant sector performance dispersion analysis"
+      },
+      {
+        "title": "Horizons 2040 - Construire ensemble les tourismes de demain (synthèse)",
+        "publisher": "Atout France",
+        "url": "https://www.atout-france.fr/sites/default/files/2024-01/Synthese_Horizons2040_AtoutFrance_.pdf",
+        "date": "2024-01",
+        "scope": "France",
+        "metric": "Long-range (2040) tourism/hospitality/leisure prospective scenarios"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Catering and multiservice commerce in rural municipalities",
+        "description": "Rural French catering and restaurant businesses face sustained strain, with new government aid schemes created specifically because private commerce offer is insufficient in rural zones.",
+        "sources": [
+          {
+            "title": "Restauration rurale en 2025 : une fin d'année sous tension",
+            "publisher": "lea-gatinest.org",
+            "url": "https://lea-gatinest.org/2026/04/22/restauration-rurale-en-2025-une-fin-dannee-sous-tension/",
+            "date": "2026-04-22",
+            "scope": "France",
+            "metric": "Sector described as under sustained tension through end of 2025"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Official government data (servicesalapersonne.gouv.fr) shows the French home/personal-services sector (services à la personne) generated EUR 22.8 billion in revenue in 2024 across 884 million hours worked, with the number of registered organizations surging 18% between 2024 and January 2025 to 82,776 entities (91% private enterprises), employing roughly 1.3 million workers as of 2021.",
+      "evidenceDate": "2025-01"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Demographic aging is projected to structurally expand demand: France's over-60 population, 18.6 million in 2023, is projected to reach 20.8 million by 2030, requiring an estimated 30,000+ additional home-care jobs by 2030 and 150,000-200,000 additional positions sector-wide by mid-century according to government-cited research.",
+      "evidenceDate": "2025-01"
+    },
+    "risks": [
+      "Sector heavily dependent on public subsidy/tax-credit mechanisms for household demand",
+      "Persistent recruitment and job-quality challenges typical of the home-services labor market"
+    ],
+    "opportunities": [
+      "18% growth in registered service organizations between 2024 and January 2025",
+      "Aging population projected to require 150,000-200,000 additional jobs by mid-century",
+      "Over-60 population growing from 18.6 million (2023) to 20.8 million (2030)"
+    ],
+    "sources": [
+      {
+        "title": "Études et données sur les services à la personne",
+        "publisher": "Ministère du Travail, de la Santé, des Solidarités et des Familles - servicesalapersonne.gouv.fr",
+        "url": "https://www.servicesalapersonne.gouv.fr/tout-savoir-sur-les-services-la-personne/etudes-et-donnees-sur-les-services-la-personne",
+        "date": "2025-01",
+        "scope": "France",
+        "metric": "Personal services sector revenue, employment, organization count and demographic outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Home care (aide à domicile) staffing for rural elderly",
+        "description": "French home-care providers report personnel shortage reaching a critical level, directly threatening continuity of care for elderly clients outside major urban centers.",
+        "sources": [
+          {
+            "title": "Aide et soins à domicile : la pénurie de personnel atteint un niveau critique",
+            "publisher": "Aladom",
+            "url": "https://www.aladom.fr/actualites/secteur-service/11236/aide-et-soins-a-domicile-la-penurie-de-personnel-atteint-un-niveau-critique/",
+            "date": "2025",
+            "scope": "France",
+            "metric": "Staffing shortage described as reaching a critical level"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "A Banque de France study for Active-FNEAPL found France's commercial sports/leisure sector expanded dramatically from 2020-2024: revenue up 149.9% (indoor) and 192.7% (outdoor), employment up 41.3% (indoor) and 58.7% (outdoor) to over 54,000 jobs, across nearly 5,900 companies generating EUR 8.8 billion in combined turnover — described as 'a scaling up' beyond pandemic-recovery effects.",
+      "evidenceDate": "2024"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The government's Filière Sport strategic committee, building on a 2025 baseline of €73 billion in sector revenue (2.6% of GDP), 450,000 jobs and 144,000 identified companies, has set five strategic priorities to 2030 -leveraging the Paris 2024 Olympic legacy, sustainable sports practices, 'Made in France' sports goods, sportech innovation, and international expansion (e.g. new French sports initiatives in Saudi Arabia, the US and Australia) - though specific quantified 2030 targets have not yet been published.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Sector noted as vulnerable to health crises, climate disruptions, and regulatory changes",
+      "No quantified 2030 revenue/employment targets published yet despite strategic priorities being set"
+    ],
+    "opportunities": [
+      "Outdoor activity value added up 267% and indoor up 165.6% (2020-2024)",
+      "Over 54,000 jobs created in commercial sports/leisure by 2024",
+      "National 'Filière Sport' plan structuring the sector's economy to 2030",
+      "Paris 2024 Olympic legacy leveraged for sportech innovation and 'Made in France' sports goods",
+      "International expansion of French sports brands/clubs"
+    ],
+    "sources": [
+      {
+        "title": "Loisirs sportifs marchands : une croissance à deux chiffres qui change d'échelle",
+        "publisher": "Décideurs du Sport (Patrick Bayeux, citing Banque de France study)",
+        "url": "https://patrickbayeux.com/actualites/loisirs-sportifs-marchands-une-croissance-a-deux-chiffres-qui-change-dechelle/",
+        "date": "2024",
+        "scope": "France",
+        "metric": "Commercial sports/leisure revenue, employment and value added, 2020-2024"
+      },
+      {
+        "title": "La Filière sport : Bilan et perspectives à horizon 2030",
+        "publisher": "Union Sport & Cycle",
+        "url": "https://www.unionsportcycle.com/les-actualites/2026-06-02/la-filiere-sport-bilan-et-perspectives-horizon-2030",
+        "date": "2026-06",
+        "scope": "France",
+        "metric": "Sports industry strategic roadmap to 2030"
+      },
+      {
+        "title": "Filière Sport : le comité stratégique présente les nouvelles priorités d'ici 2030",
+        "publisher": "Ministère de l'Économie (economie.gouv.fr)",
+        "url": "https://www.economie.gouv.fr/actualites/filiere-sport-le-comite-strategique-presente-les-nouvelles-priorites-dici-2030",
+        "date": "2025",
+        "scope": "France",
+        "metric": "Sports economy baseline and strategic priorities to 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Accessible sports infrastructure for people with disabilities",
+        "description": "Despite the 2024 Paralympics, accessible sports equipment and facilities for people with disabilities remain scarce, with only 47% of them practicing sport versus 80% of the general population.",
+        "sources": [
+          {
+            "title": "Sport et handicap : 47 % de pratiquants en France",
+            "publisher": "Magicfit",
+            "url": "https://www.magicfit.fr/sport-et-handicap-47-de-pratiquants-contre-80-40-des-clubs-ferms-et-paris-2024-na-rien-chang-au-quotidien/",
+            "date": "2025",
+            "scope": "France",
+            "metric": "47% of people with disabilities practice sport vs ~80% of the general population"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "French luxury press (FashionNetwork, Stratégies) frames 2026 as the year the luxury sector aims to return to growth after a difficult stretch, with LVMH — France's largest luxury group — reporting accelerated growth in Q2 2026 and a return to growth in its fashion division per French financial media, alongside a stable H1 2026 profit.",
+      "evidenceDate": "2026-Q2"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The government's 2023-2027 Contrat Stratégique de Filière Mode et Luxe reports the sector generating EUR 154 billion in direct revenue and EUR 37.5 billion in value added (1.7% of GDP), employing ~600,000 people, with exports of EUR 59.1 billion growing 22.9% year-on-year; France hosts 130 of the world's 270 luxury brands, and the filière targets filling over 10,000 technical positions annually through 2027 amid an aging technical workforce (25% nearing retirement).",
+      "evidenceDate": "2023"
+    },
+    "risks": [
+      "Sector described as coming off a 'marché à la peine' (struggling market) prior to 2026",
+      "25% of the technical workforce nearing retirement, risking a skills/succession gap"
+    ],
+    "opportunities": [
+      "LVMH Q2 2026 accelerated growth and fashion division recovery",
+      "EUR 59.1 billion in luxury/fashion exports, up 22.9% year-on-year",
+      "Filière targets over 10,000 new technical hires annually through 2027"
+    ],
+    "sources": [
+      {
+        "title": "LVMH accélère sa croissance au deuxième trimestre 2026 et confirme son leadership mondial dans le luxe",
+        "publisher": "Luxury Place Magazine",
+        "url": "https://luxury-place.fr/2026/08/04/lvmh-accelere-sa-croissance-au-deuxieme-trimestre-2026-et-confirme-son-leadership-mondial-dans-le-luxe/",
+        "date": "2026-08",
+        "scope": "France",
+        "metric": "LVMH quarterly revenue growth"
+      },
+      {
+        "title": "Luxe: 2026, année de retour à la croissance pour un marché à la peine ?",
+        "publisher": "FashionNetwork France",
+        "url": "https://fr.fashionnetwork.com/news/Luxe-2026-annee-de-retour-a-la-croissance-pour-un-marche-a-la-peine-,1822929.html",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Luxury sector outlook"
+      },
+      {
+        "title": "Contrat stratégique de filière Mode et Luxe 2023-2027",
+        "publisher": "Direction générale des Entreprises / Conseil National de l'Industrie",
+        "url": "https://www.entreprises.gouv.fr/files/files/Entites/CNI/2023/contrat-filiere-mode-et-luxe-2023-2027.pdf",
+        "date": "2023",
+        "scope": "France",
+        "metric": "Fashion and luxury industry revenue, value added, employment, exports"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Second-hand/resale program infrastructure for independent fashion retailers",
+        "description": "Independent fashion retailers lack in-house resale program infrastructure, with 86% unsure how to structure one and 82% preferring to outsource it entirely.",
+        "sources": [
+          {
+            "title": "La seconde main : un marché en plein essor",
+            "publisher": "Dynamique Mag",
+            "url": "https://www.dynamique-mag.com/article/la-seconde-main-dune-pratique-marginale-a-un-colosse-de-14-milliards-deuros",
+            "date": "2025",
+            "scope": "France",
+            "metric": "Textile resale segment >€4.6 billion in 2025; 86% of retailers uncertain how to structure in-house resale"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The Ministry's SDES 'Éco-activités en France' report (2025 edition, latest data 2023) shows eco-activities generated EUR 65.7 billion in value added in 2023 (2.6% of French economic output, up from 1.8% in 2004) and employed 817,300 FTEs (2.8% of total employment), led by renewable energy (21.4% of eco-activity value added), waste management (15.8%) and energy efficiency (14.6%).",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Eco-activity employment grew at an average 3.5% annual rate from 2004-2023, more than four times the 0.8% annual growth of overall French employment, indicating sustained structural expansion — though France's eco-activity share of the economy (2.6%) still lags the EU-27 average (2.4% narrowly exceeded) and well behind leaders like Finland (4.5%) and Austria (4.1%), and the sector's trade balance has deteriorated to a EUR 13.5 billion deficit in 2023.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Trade deficit in eco-activities widened to EUR 13.5 billion in 2023 (from near-equilibrium pre-2020)",
+      "France's eco-activity share of GDP still trails several EU peers (Finland, Austria)"
+    ],
+    "opportunities": [
+      "Eco-activity employment growing 3.5%/year since 2004, over 4x the economy-wide rate",
+      "Renewable energy the largest and still-expanding component of eco-activity value added"
+    ],
+    "sources": [
+      {
+        "title": "Les éco-activités en France - État des connaissances en 2025",
+        "publisher": "Ministère de la Transition écologique - SDES",
+        "url": "https://www.statistiques.developpement-durable.gouv.fr/les-eco-activites-en-france-etat-des-connaissances-en-2025",
+        "date": "2025",
+        "scope": "France",
+        "metric": "Eco-activities value added, employment and trade balance, 2004-2023"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Climate-risk insurance and adaptation products for SMEs",
+        "description": "Growing physical climate risks are pushing parts of France toward non-insurability, with SMEs particularly exposed to the resulting coverage gap.",
+        "sources": [
+          {
+            "title": "Repenser la mutualisation des risques climatiques",
+            "publisher": "Haut Conseil pour le climat / France Stratégie",
+            "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2025/2025-06-12%20-%20Risques%20climatiques/HCSP-2025-RAPPORT%20MUTUALISATION%20RISQUES%20CLIMAT_Complet_12juin11h45-FINAL.pdf",
+            "date": "2025-06-12",
+            "scope": "France",
+            "metric": "National report on rising climate non-insurability risk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Trade press (SWEN, June 2026) describes water infrastructure as 'an infrastructure issue too long underestimated' in France, with sector coverage of a 2026 hydroelectricity law aiming to boost investment and spring 2026 drought conditions renewing attention on water-technology and infrastructure investment needs, following the precedent of 2022 drought restrictions that applied to 86% of French territory.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France Stratégie's territorialized water-demand study to 2050 warns that without major changes in usage, 88% of French territory could face moderate-to-severe water tensions by summer 2050 (versus 64% under a water-sobriety 'rupture' scenario), with irrigation-driven stress most acute in the Adour-Garonne basin (over 85% severe tension by July 2050); officials call for 'significant investments' and strengthened governance, implying sustained long-term growth in water-infrastructure and water-technology investment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "88% of French territory could face moderate-to-severe water tensions by 2050 under current trends",
+      "Governance structures described as needing strengthening to manage rising basin-level conflicts",
+      "A 10% withdrawal-reduction target by 2030 lacks detailed basin-by-basin implementation plans"
+    ],
+    "opportunities": [
+      "2026 hydroelectricity law aiming to boost sector investment",
+      "France Stratégie explicitly calls for 'significant investments' in water infrastructure and governance",
+      "Water-sobriety policy scenarios could substantially reduce long-term tension if adopted, creating a large addressable market for water-saving technology"
+    ],
+    "sources": [
+      {
+        "title": "L'eau, un enjeu d'infrastructure trop longtemps sous-estimé",
+        "publisher": "SWEN Capital Partners",
+        "url": "https://www.swen-cp.fr/blog/2026/06/25/leau-un-enjeu-dinfrastructure-trop-longtemps-sous-estime/",
+        "date": "2026-06",
+        "scope": "France",
+        "metric": "Water infrastructure investment commentary"
+      },
+      {
+        "title": "L'eau en 2050 : graves tensions sur les écosystèmes et les usages",
+        "publisher": "France Stratégie / Haut-commissariat à la stratégie et au plan",
+        "url": "https://www.strategie-plan.gouv.fr/publications/leau-en-2050-graves-tensions-sur-les-ecosystemes-et-les-usages",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Long-term water resource tension projections to 2050"
+      },
+      {
+        "title": "Loi hydroélectricité 2026 : vers plus d'investissements dans le secteur",
+        "publisher": "Racine Énergie",
+        "url": "https://racine-energie.fr/2026/06/10/loi-hydroelectricite-2026-vers-plus-dinvestissements-dans-le-secteur/",
+        "date": "2026-06",
+        "scope": "France",
+        "metric": "Hydroelectricity/water investment policy"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Real-time leak detection for small/rural water utilities",
+        "description": "Small and rural water utilities lack real-time IoT leak-detection systems, despite over 20% of treated drinking water leaking from an aging network.",
+        "sources": [
+          {
+            "title": "20% d'eau perdue",
+            "publisher": "OOPLA (citing SISPEA data)",
+            "url": "https://oopla.fr/fuites-deau-20-pourcent-reseaux-france-impact-enjeu/",
+            "date": "2025",
+            "scope": "France",
+            "metric": ">20% of water lost to network leaks; ~1 billion m³/year lost; <1% annual pipe renewal rate vs. 2-3% needed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "GIFAS (Groupement des Industries Françaises Aéronautiques et Spatiales) 2026 new year address states the French aerospace and space sector has 'regained its full strength' ('retrouve sa pleine puissance'), with Airbus's order backlog approaching 8,000 aircraft, though GIFAS also notes the sector faces a demanding climate requiring clear strategic choices.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The near-8,000-aircraft Airbus order backlog reported via GIFAS indicates strong multi-year production visibility for the French aerospace supply chain, even as some trade press notes ongoing difficulties for parts of the supplier base ('n'est pas malade, mais connaît des difficultés').",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Supplier-level difficulties despite overall sector strength, per Le Journal des Entreprises",
+      "GIFAS flags a demanding ('exigeant') climate requiring clear policy choices"
+    ],
+    "opportunities": [
+      "Airbus order backlog near 8,000 aircraft",
+      "GIFAS reports sector has regained full strength for 2026"
+    ],
+    "sources": [
+      {
+        "title": "Voeux 2026 du GIFAS : la filière aéronautique et spatiale retrouve sa pleine puissance",
+        "publisher": "GIFAS",
+        "url": "https://www.gifas.fr/news/voeux-2026-du-gifas-la-filiere-aeronautique-et-spatiale-retrouve-sa-pleine-puissance-et-appelle-dans-un-climat-exigeant-a-des-choix-clairs-pour-l-avenir",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Sector new-year outlook statement"
+      },
+      {
+        "title": "Le carnet de commandes d'Airbus frôle les 8 000 avions",
+        "publisher": "GIFAS",
+        "url": "https://www.gifas.fr/press-summary/le-carnet-de-commandes-d-airbus-frole-les-8-000-avions",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Airbus order backlog"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Aerospace supply-chain SME workforce solutions",
+        "description": "Small and mid-sized aerospace subcontractors lack specialized recruitment services to match semi-skilled candidates to production technician roles, unlike large OEMs with in-house pipelines.",
+        "sources": [
+          {
+            "title": "Les sous-traitants aéronautiques face au défi de la montée en cadence",
+            "publisher": "Direction Générale des Entreprises (DGE), French Ministry of Economy",
+            "url": "https://www.entreprises.gouv.fr/files/files/Publications/2025/Etudes/202507-aeronautique-sous-traitance.pdf",
+            "date": "July 2025",
+            "scope": "France",
+            "metric": "Among aerospace subcontractor companies actively hiring, 8 out of 10 report recruitment difficulties due to insufficient candidates or skills mismatch; 48% of the ~300 surveyed firms report recruitment challenges overall."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "France's 2026 defense budget (PLF 2026 / LPM Year 3) continues the ramp-up under the 2024-2030 Loi de Programmation Militaire, with Sénat budget reports and the Ministry of the Armed Forces documenting continued year-on-year increases in defense spending and equipment procurement for 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The LPM 2024-2030 sets a multi-year trajectory toward higher defense spending, with policy analysis (Fondation IFRAP) discussing pathways to reach 3% of GDP in defense spending by 2030, indicating sustained structural growth for the French defense industrial base through the decade.",
+      "evidenceDate": "2025-2026"
+    },
+    "risks": [
+      "Fiscal challenges in reaching the 3%-of-GDP target by 2030 per IFRAP analysis"
+    ],
+    "opportunities": [
+      "LPM Year 3 (2026) continues budget ramp-up",
+      "Multi-year procurement visibility through 2030 LPM trajectory"
+    ],
+    "sources": [
+      {
+        "title": "Projet de loi de finances pour 2026 : Défense",
+        "publisher": "Sénat",
+        "url": "https://www.senat.fr/rap/l25-139-38/l25-139-38_mono.html",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Defense budget bill analysis"
+      },
+      {
+        "title": "Projet de Loi de Finances 2026 - LPM année 3",
+        "publisher": "Ministère des Armées",
+        "url": "https://www.defense.gouv.fr/sites/default/files/ministere-armees/Projet%20de%20Loi%20de%20Finances%202026%20-%20LPM%20ann%C3%A9e%203%20(31%2010%202025).pdf",
+        "date": "2025-10",
+        "scope": "France",
+        "metric": "Military programming law budget"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Scaled/mass drone manufacturing for domestic defense industry",
+        "description": "French small drone manufacturers are blocked from scaling to mass production by insufficient government order volume.",
+        "sources": [
+          {
+            "title": "Produire plus vite et en masse : les petits constructeurs de drones français bloqués par le manque de commandes",
+            "publisher": "L'Usine Nouvelle",
+            "url": "https://www.usinenouvelle.com/aero-spatial/aeronautique/drones/produire-plus-vite-et-en-masse-les-petits-constructeurs-de-drones-francais-bloques-par-le-manque-de-commandes.JG5JX2Y64BNTZNRRT3DOBFXMBU.html",
+            "date": "2026",
+            "scope": "France",
+            "metric": "Small drone makers unable to reach mass-production scale due to order shortfall"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The PLF 2026 (Projet de Loi de Finances) reportedly increases overall state spending and adds a net 8,459 civil-service posts, though analysis from the Sénat and Fondation IFRAP disputes the government's own headline figures, with IFRAP noting the net effect could equally be read as '3,119 postes en moins' depending on methodology — indicating a contested, roughly flat public-employment trajectory rather than clear expansion or contraction.",
+      "evidenceDate": "2025-2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The 'Services publics 2040' foresight initiative (Réseau Prospective Territoriale with Futuribles International, launched March 2025) is collectively exploring how French public services should adapt to ecological, digital and societal transitions amid multiple crises and constrained resources; as of the 2025 seminar stage the initiative was still framing scenarios rather than publishing quantified long-term targets.",
+      "evidenceDate": "2025-08"
+    },
+    "risks": [
+      "Contested and disputed headline figures on state staffing levels between the government and analysts (IFRAP)",
+      "Broader fiscal consolidation pressure on public spending",
+      "Public-service foresight process still in scenario-framing stage, with no quantified 2040 targets yet published"
+    ],
+    "opportunities": [
+      "PLF 2026 nominally adds 8,459 posts within the State per government figures",
+      "National foresight process aiming to redesign public administration for ecological/digital transitions by 2040"
+    ],
+    "sources": [
+      {
+        "title": "Le PLF pour 2026 prévoit au final une hausse des dépenses et 8 459 postes supplémentaires au sein de l'État",
+        "publisher": "AEF info",
+        "url": "https://www.aefinfo.fr/depeche/739142-le-plf-pour-2026-prevoit-au-final-une-hausse-des-depenses-et-8-459-postes-supplementaires-au-sein-de-l-etat",
+        "date": "2025-2026",
+        "scope": "France",
+        "metric": "State budget and civil-service headcount"
+      },
+      {
+        "title": "Budget 2026 : 3 119 postes en moins ou 8 459 postes en plus pour l'Etat ?",
+        "publisher": "Fondation IFRAP",
+        "url": "https://www.ifrap.org/budget-et-fiscalite/budget-2026-3-119-postes-en-moins-ou-8-459-postes-en-plus-pour-letat",
+        "date": "2025-2026",
+        "scope": "France",
+        "metric": "Civil-service headcount analysis (disputed)"
+      },
+      {
+        "title": "Quels services publics en 2040 ?",
+        "publisher": "Horizons Publics / Réseau Prospective Territoriale / Futuribles International",
+        "url": "https://www.horizonspublics.fr/quels-services-publics-en-2040",
+        "date": "2025-08",
+        "scope": "France",
+        "metric": "Long-range (2040) public services foresight initiative"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "NIS2-mandated cybersecurity compliance for small municipalities",
+        "description": "Small and mid-sized French municipalities newly covered by NIS2 lack affordable, outsourced managed-security compliance services sized for municipal IT budgets.",
+        "sources": [
+          {
+            "title": "Les cyberattaques ciblent de plus en plus les collectivités, alerte un rapport de la Cour des comptes",
+            "publisher": "Banque des Territoires (Caisse des Dépôts), citing Cour des comptes report",
+            "url": "https://www.banquedesterritoires.fr/les-cyberattaques-ciblent-de-plus-en-plus-les-collectivites-alerte-un-rapport-de-la-cour-des",
+            "date": "June 17, 2025",
+            "scope": "France",
+            "metric": "Approximately 15,000 French entities, including local government collectivités of all sizes, must now comply with NIS2 cybersecurity obligations; phishing attacks on collectivités rose +26%, account takeovers +22%, fraud incidents +36%; past incidents cost Aix-Marseille-Provence metropolis €960,000 and the city of Bondy over €1.5 million."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "ESS France reported the social/solidarity economy (ESS) lost roughly 10,400-15,000 net jobs in 2025 (associations -12,300, mutual societies -2,500), its worst performance since the 2020 pandemic peak, with a 0.46% Q4 2025 contraction driven by 'uncertainty in public finances' and the elimination of apprenticeship tax exemptions (costing the sector an estimated EUR 379 million); mutual organizations anticipate 'an even more difficult 2026'.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "France's new national ESS (social and solidarity economy) strategy, adopted 9 July 2026 and running through 2030, targets raising ESS employment to 15% of private-sector employment, reaching 3,500 ESUS-certified structures, and generating €1.5 billion in solidarity savings, organized around 5 axes, 28 orientations and 108 actions with annual monitoring via the Conseil supérieur de l'ESS and a review clause in 2030.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Worst ESS employment performance since 2020 pandemic peak",
+      "EUR 379 million cost from apprenticeship tax exemption removal",
+      "Arts/live performance (-3.1%), education (-1.6%) and sports/leisure (-1.1%) hit hardest",
+      "Mutual organizations expect an even more difficult 2026",
+      "Achieving 15% ESS employment share depends on sustained investment mobilization and regional alignment"
+    ],
+    "opportunities": [
+      "Delayed national ESS strategy expected June 2026 to address market protections",
+      "Target of 3,500 ESUS-certified structures and €1.5bn in solidarity savings by 2030",
+      "National strategy with 108 concrete actions across 5 strategic axes"
+    ],
+    "sources": [
+      {
+        "title": "En 2025, l'économie sociale et solidaire a perdu 10 400 emplois : un 'tournant préoccupant', pour ESS France",
+        "publisher": "Banque des Territoires",
+        "url": "https://www.banquedesterritoires.fr/en-2025-leconomie-sociale-et-solidaire-perdu-10400-emplois-un-tournant-preoccupant-pour-ess-france",
+        "date": "2025",
+        "scope": "France",
+        "metric": "ESS sector net employment change"
+      },
+      {
+        "title": "Adoption de la nouvelle stratégie de l'économie sociale et solidaire (ESS)",
+        "publisher": "Direction générale du Trésor",
+        "url": "https://www.tresor.economie.gouv.fr/Articles/2026/07/16/adoption-de-la-nouvelle-strategie-de-l-economie-sociale-et-solidaire-ess",
+        "date": "2026-07",
+        "scope": "France",
+        "metric": "National ESS strategy targets to 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Spousal family caregivers (proches aidants) who care alone with no co-caregiver or professional backup",
+        "description": "Spousal family caregivers who care alone with no co-caregiver or professional backup lack dedicated support services, affecting 61% of France's spousal caregivers.",
+        "sources": [
+          {
+            "title": "Trois aidants sur dix accompagnent seuls leur proche",
+            "publisher": "DREES",
+            "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/251217-ER-etudes-et-resultats/proches-aidants",
+            "date": "2025-12-17",
+            "scope": "France",
+            "metric": "share of caregivers with no co-caregiver support, by relationship type"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The 2026 French Tech Next40/120 promotion shows deeptech now representing 38% of the Next40 (up from software dominance historically) and 27% of the broader French Tech 120, with combined French Tech 120 revenue of EUR 11.3 billion (up EUR 1.3bn year-on-year) and 46,000 jobs created (33,500 in France); France 2030 has also committed roughly EUR 1 billion to a national quantum strategy.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Deeptech firms are building industrial capacity in France (33 production sites across 10 regions per the French Tech 120 report) and France 2030's quantum and deeptech funding programs signal a sustained multi-year push, though longer development cycles and higher capital requirements than software present ongoing financing risk.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Deeptech's longer development cycles and higher capital intensity create financing pressure versus traditional software models"
+    ],
+    "opportunities": [
+      "Deeptech now 38% of French Tech Next40, up sharply from historical software dominance",
+      "EUR 11.3 billion combined French Tech 120 revenue, +EUR 1.3bn year-on-year",
+      "France 2030 quantum strategy: ~EUR 1 billion committed",
+      "46,000 jobs created by deeptech firms, 33 production sites across 10 regions"
+    ],
+    "sources": [
+      {
+        "title": "French Tech 2026 : la deeptech franchit 38% du Next40, 15 nouveaux entrants et 11,3 milliards de chiffre d'affaires",
+        "publisher": "La Voix de France",
+        "url": "https://www.lavoixdefrance.fr/actualites/french-tech-2026-la-deeptech-franchit-38-du-next40-15-nouveaux-entrants-et-113-milliards-de-chiffre-daffaires-9949/",
+        "date": "2026",
+        "scope": "France",
+        "metric": "Deeptech share of French Tech Next40/120, revenue, jobs"
+      },
+      {
+        "title": "France 2030 : 1 milliard d'euros investis dans le quantique",
+        "publisher": "info.gouv.fr",
+        "url": "https://www.info.gouv.fr/actualite/france-2030-1-milliard-d-euros-investis-dans-le-quantique",
+        "date": "2026",
+        "scope": "France",
+        "metric": "National quantum strategy investment"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Generative AI adoption tools for SMEs",
+        "description": "French SME generative-AI adoption remains low, with early adopters stalling out without proper tooling or support.",
+        "sources": [
+          {
+            "title": "Adoption de l'IA générative en PME : le piège des 31%",
+            "publisher": "Generativ",
+            "url": "https://generativ.fr/blog/2026/08/19/adoption-ia-generative-pme-piege-31-pourcent/",
+            "date": "2026-08-19",
+            "scope": "France",
+            "metric": "Only ~26-31% of French SMEs report using AI tools"
+          }
+        ]
+      }
+    ]
+  }
+]

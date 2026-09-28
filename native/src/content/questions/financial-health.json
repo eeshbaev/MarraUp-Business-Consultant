@@ -1,0 +1,96 @@
+{
+  "dimension": "Financial Health",
+  "dimension_weight": 15,
+  "questions": [
+    {
+      "question_id": "FIN-01",
+      "dimension": "Financial Health",
+      "weight": 3,
+      "fallback_order": 1,
+      "text": "Can the business meet its financial obligations over the period ahead from money it holds or reliably expects?",
+      "levels": {
+        "A": { "text": "Near-term obligations cannot reliably be met; payments are being delayed or deferred out of necessity", "points": 0 },
+        "B": { "text": "Obligations are being met, but with no buffer — an unexpected cost or a delayed receipt would create a shortfall", "points": 0.75 },
+        "C": { "text": "Obligations can be met over a defined forward period, with a modest buffer for ordinary variation", "points": 1.5 },
+        "D": { "text": "Obligations can be met over an extended forward period, with a buffer sized to withstand a realistic adverse event — a lost major customer, a delayed payment, a cost increase", "points": 2.25 },
+        "E": { "text": "As D, and the coverage position is monitored on a defined cycle, so deterioration would be identified well before it became urgent", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "FIN-02",
+      "dimension": "Financial Health",
+      "weight": 3,
+      "fallback_order": 2,
+      "text": "After all the costs of running the business — not only the direct costs of delivery — does the business generate a surplus?",
+      "levels": {
+        "A": { "text": "Not known; total costs are not tracked well enough to say", "points": 0 },
+        "B": { "text": "Costs are known and the business operates at a deficit, with no defined path to surplus", "points": 0.75 },
+        "C": { "text": "Operates at a deficit, but the path to surplus is defined with specific evidenced assumptions — which costs, which volumes, by when", "points": 1.5 },
+        "D": { "text": "Generates a surplus, or has reached the point where it does so under normal operating conditions", "points": 2.25 },
+        "E": { "text": "Generates a surplus consistently, and the business understands which parts of it generate or consume that surplus", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "FIN-03",
+      "dimension": "Financial Health",
+      "weight": 3,
+      "fallback_order": 3,
+      "text": "How does the business manage the timing of money coming in and going out?",
+      "levels": {
+        "A": { "text": "Timing is not managed; shortfalls are discovered when they occur", "points": 0 },
+        "B": { "text": "Timing is tracked informally; occasional shortfalls are handled reactively as they arise", "points": 0.75 },
+        "C": { "text": "Expected receipts and payments are tracked forward over a defined horizon, so shortfalls can be anticipated", "points": 1.5 },
+        "D": { "text": "As C, and the business actively manages the drivers — collection terms, payment terms, and money tied up in stock or work in progress — rather than only observing them", "points": 2.25 },
+        "E": { "text": "As D, as a routine discipline with evidence it works: shortfalls are anticipated and addressed before they affect obligations or operations", "points": 3 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "FIN-04",
+      "dimension": "Financial Health",
+      "weight": 2,
+      "fallback_order": 4,
+      "text": "How current and reliable is the financial information available to whoever makes decisions?",
+      "levels": {
+        "A": { "text": "Records are incomplete or so out of date that the current position is unknown", "points": 0 },
+        "B": { "text": "Records exist but are compiled infrequently, or only for tax and compliance, so decisions are made without current figures", "points": 0.5 },
+        "C": { "text": "Records are maintained on a regular cycle and give a reliable picture of the current position", "points": 1 },
+        "D": { "text": "As C, and the information is broken down enough to show where money is earned and spent — by offering, customer type, activity, or location", "points": 1.5 },
+        "E": { "text": "As D, and the figures are reviewed on a defined cycle by whoever makes decisions, with discrepancies investigated rather than absorbed", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "FIN-05",
+      "dimension": "Financial Health",
+      "weight": 2,
+      "fallback_order": 5,
+      "text": "Does the business plan its financial position forward?",
+      "levels": {
+        "A": { "text": "No forward financial plan exists", "points": 0 },
+        "B": { "text": "Rough expectations exist but are not written down or worked through", "points": 0.5 },
+        "C": { "text": "A forward plan exists, built on stated assumptions, covering a defined period", "points": 1 },
+        "D": { "text": "As C, and actual results are compared against the plan, with variances understood rather than noted", "points": 1.5 },
+        "E": { "text": "As D, and the plan is revised based on what those comparisons reveal, with alternative scenarios considered for the uncertainties that would matter most", "points": 2 }
+      },
+      "stage_variant": false
+    },
+    {
+      "question_id": "FIN-06",
+      "dimension": "Financial Health",
+      "weight": 2,
+      "fallback_order": 6,
+      "text": "What is the weight of the business's fixed financial commitments — loans, leases, and other ongoing obligations — relative to what it generates?",
+      "levels": {
+        "A": { "text": "Commitments are not fully known, or are at a level the business is struggling to service", "points": 0 },
+        "B": { "text": "Commitments are known and being serviced, but consume enough that little remains for anything else", "points": 0.5 },
+        "C": { "text": "Commitments are known and comfortably serviced — or the business deliberately carries none — and their terms are understood", "points": 1 },
+        "D": { "text": "As C, and commitments are deliberately chosen and structured as to terms, timing and security, rather than accumulated as circumstances required", "points": 1.5 },
+        "E": { "text": "As D, and the business has tested that it could continue meeting them under a realistic downside", "points": 2 }
+      },
+      "stage_variant": false
+    }
+  ]
+}

@@ -1,0 +1,2091 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "China's summer grain output topped 150 million tonnes in 2026 and the government continues to raise production targets under food-security policy, with USDA forecasting steady grain and feed supply growth into 2026-27.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "China's newly released Agricultural Outlook 2026-2035 and the 15th Five-Year Plan prioritize food security, rural development and modernization, projecting steady but modest structural growth in domestic agriculture output.",
+      "evidenceDate": "2026-04"
+    },
+    "risks": [
+      "Trade tensions affecting agricultural imports/exports",
+      "Climate variability affecting yields",
+      "Rising input costs"
+    ],
+    "opportunities": [
+      "Government food-security investment",
+      "Agricultural modernization under 15th Five-Year Plan",
+      "Rural development funding"
+    ],
+    "sources": [
+      {
+        "title": "Report projects stronger grain, major farm produce supply in China in 2026",
+        "publisher": "Xinhua",
+        "url": "https://english.news.cn/20260420/a701e8a1a9bd45d8a2c3ae1ba07e4b4b/c.html",
+        "date": "2026-04",
+        "scope": "country",
+        "metric": "Grain and major farm produce supply forecast to strengthen in 2026"
+      },
+      {
+        "title": "China releases Agricultural Outlook 2026-2035",
+        "publisher": "US Grains Council / DCZ",
+        "url": "https://www.dcz-china.org/2026/04/29/china-releases-agricultural-outlook-20262035/",
+        "date": "2026-04",
+        "scope": "country",
+        "metric": "10-year agricultural outlook covering grain and farm produce"
+      },
+      {
+        "title": "China's summer grain output breaks 150 Mn Tonne mark",
+        "publisher": "Agrospectrum Asia",
+        "url": "https://agrospectrumasia.com/news/107/4445/chinas-summer-grain-output-breaks-150-mn-tonne-mark-as-beijing-doubles-down-on-food-security.html",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Summer grain output exceeded 150 million tonnes"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "First-mile origin cold chain for smallholder farmers",
+        "description": "Smallholder farmers in priority agricultural counties lack access to origin cold-chain and low-temperature processing facilities for fruits and vegetables.",
+        "sources": [
+          {
+            "title": "中国农产品产地冷链物流发展报告（2024）",
+            "publisher": "Ministry of Agriculture and Rural Affairs (农业农村部)",
+            "url": "https://scs.moa.gov.cn/sclt/202508/t20250828_6476791.htm",
+            "date": "2025-08-28",
+            "scope": "China",
+            "metric": "Priority-county cold-chain coverage just above 70%; fruit/vegetable low-temperature processing rate only 24% vs 32% overall"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China has raised rare earth prices roughly 45% and is tightening export controls while strengthening domestic rare earth industry development for 2026-2030, per S&P Global and MINING.com, reflecting strong near-term pricing power and supply bottlenecks persisting into 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "China's 2026-2030 rare earth industry development plan aims to consolidate its dominant position in critical minerals processing, aligning with IEA's Global Critical Minerals Outlook 2026 which flags China's outsized control of rare earth and battery mineral supply chains.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Supply bottlenecks persisting through 2026",
+      "Geopolitical retaliation over export controls"
+    ],
+    "opportunities": [
+      "Rare earth price increases (~45%)",
+      "Consolidated global processing dominance",
+      "Critical minerals demand from EV/clean energy"
+    ],
+    "sources": [
+      {
+        "title": "China to strengthen development of rare earth industry over 2026-2030",
+        "publisher": "MINING.com",
+        "url": "https://www.mining.com/web/china-to-strengthen-development-of-rare-earth-industry-over-2026-2030/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "New 2026-2030 rare earth industry development plan"
+      },
+      {
+        "title": "Rare earth supply bottlenecks set to persist in 2026",
+        "publisher": "S&P Global",
+        "url": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/012726-rare-earth-supply-bottlenecks-set-to-persist-in-2026",
+        "date": "2026-01",
+        "scope": "country",
+        "metric": "Rare earth supply bottlenecks forecast to persist"
+      },
+      {
+        "title": "Executive summary - Global Critical Minerals Outlook 2026",
+        "publisher": "IEA",
+        "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2026/executive-summary",
+        "date": "2026",
+        "scope": "global with China focus",
+        "metric": "China's share of critical minerals processing"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "China is the world's dominant rare-earth and coal producer/processor with state-owned giants controlling supply chains end to end, leaving no visible underserved commercial segment.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China is forecast to add roughly 300 GW of new wind and solar capacity in 2026, per Bastille Post reporting on industry data, with the China Daily citing continued renewable capacity growth despite a slight dip in wind utilization rates.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "State Grid plans roughly 5 trillion yuan (~$574 billion) in grid investment over 2026-2030 to accommodate rising renewable and electrified demand, positioning China as what Robeco calls the first 'electrostate.'",
+      "evidenceDate": "2026-03"
+    },
+    "risks": [
+      "Wind utilization rate dip",
+      "Grid integration bottlenecks for intermittent renewables"
+    ],
+    "opportunities": [
+      "Massive grid investment ($574B, 2026-2030)",
+      "Continued solar/wind capacity additions (~300GW/yr)",
+      "Global clean-energy supply-chain leadership"
+    ],
+    "sources": [
+      {
+        "title": "China to add 300 GW of wind, solar power capacity in 2026: report",
+        "publisher": "Bastille Post",
+        "url": "https://www.bastillepost.com/global/article/5930695-china-to-add-300-gw-of-wind-solar-power-capacity-in-2026-report",
+        "date": "2026",
+        "scope": "country",
+        "metric": "300 GW of new wind and solar capacity forecast for 2026"
+      },
+      {
+        "title": "State Grid's $574B Plan: China's 2026-2030 Power Grid Investment",
+        "publisher": "IndexBox",
+        "url": "https://www.indexbox.io/blog/chinas-state-grid-to-invest-574-billion-in-grid-upgrades-by-2030/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "$574 billion grid investment plan 2026-2030"
+      },
+      {
+        "title": "China's renewable energy capacity to grow in 2026 despite slight dip in wind utilization",
+        "publisher": "China Daily",
+        "url": "https://www.chinadaily.com.cn/a/202602/06/WS69859ff3a310d6866eb37ec4.html",
+        "date": "2026-02",
+        "scope": "country",
+        "metric": "Renewable capacity growth forecast for 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural/county EV charging infrastructure",
+        "description": "Rural and county-level EV drivers lack charging infrastructure, since charging units remain concentrated in first-tier cities.",
+        "sources": [
+          {
+            "title": "Countryside playing catch-up with EVs",
+            "publisher": "China Daily",
+            "url": "https://www.chinadaily.com.cn/a/202402/29/WS65dfefe7a31082fc043b9c40.html",
+            "date": "2024-02-29",
+            "scope": "China",
+            "metric": "Rural/county NEV penetration 4% (2022) to 17% (2023) vs ~40% in first-tier cities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China State Grid investment surged in the first two months of 2026 per Bloomberg reporting, part of accelerated spending to modernize transmission and support electrification and renewables integration.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "State Grid's roughly 5-trillion-yuan five-year investment plan (2026-2030) targets grid capacity, pumped storage and hydropower flexibility expansion, according to the World Hydropower Outlook 2026 and China Daily HK reporting.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Grid modernization costs",
+      "Balancing intermittent renewable supply"
+    ],
+    "opportunities": [
+      "Multi-trillion-yuan grid investment pipeline",
+      "Pumped storage and hydropower flexibility expansion"
+    ],
+    "sources": [
+      {
+        "title": "China State Grid Investment Surges in First Two Months of 2026",
+        "publisher": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-14/china-state-grid-investment-surges-in-first-two-months-of-2026",
+        "date": "2026-03",
+        "scope": "country",
+        "metric": "State Grid investment surge Jan-Feb 2026"
+      },
+      {
+        "title": "China to invest 5 trillion yuan in power grid over next 5 years",
+        "publisher": "China Daily HK",
+        "url": "https://www.chinadailyhk.com/hk/article/628724",
+        "date": "2026",
+        "scope": "country",
+        "metric": "5 trillion yuan grid investment over five years"
+      },
+      {
+        "title": "China's hydropower sector shifts towards flexibility as pumped storage expands",
+        "publisher": "International Water Power",
+        "url": "https://www.waterpowermagazine.com/analysis/chinas-hydropower-sector-shifts-towards-flexibility-as-pumped-storage-expands/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Pumped storage expansion trend"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Remaining unconnected rural households in remote/mountainous counties lacking piped tap water",
+        "description": "Rural households in remote and mountainous counties lack piped tap-water access.",
+        "sources": [
+          {
+            "title": "Tap water coverage in rural China rises to 90%",
+            "publisher": "State Council Information Office",
+            "url": "http://english.scio.gov.cn/m/pressroom/2024-01/12/content_116936985.htm",
+            "date": "2024-01-12",
+            "scope": "China",
+            "metric": "% of rural population with tap water access"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "China's official Manufacturing PMI rose to 49.8 in August 2026 (still below the 50 expansion threshold) per Trading Economics/pressofasia data, indicating a fragile recovery, while semiconductor output rose 23.1% in the first seven months of 2026 per Global Times, showing bifurcated strength between high-tech and traditional manufacturing.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "New growth drivers such as high-tech manufacturing accounted for roughly half of industrial growth in 2026 per Global Times, suggesting a structural shift toward advanced manufacturing even as traditional heavy industry faces overcapacity pressure.",
+      "evidenceDate": "2026-08"
+    },
+    "risks": [
+      "PMI hovering near/below 50 contraction threshold",
+      "Overcapacity in traditional heavy industry",
+      "Trade tensions/tariffs"
+    ],
+    "opportunities": [
+      "High-tech manufacturing driving ~half of industrial growth",
+      "Semiconductor output up 23.1% (Jan-Jul 2026)"
+    ],
+    "sources": [
+      {
+        "title": "China Manufacturing PMI August 2026 Rises to 49.8",
+        "publisher": "Press of Asia (citing NBS)",
+        "url": "https://pressofasia.com/china-manufacturing-pmi-august-2026-economy-recovery/",
+        "date": "2026-08",
+        "scope": "country",
+        "metric": "Manufacturing PMI at 49.8 in August 2026"
+      },
+      {
+        "title": "China's semiconductors output rises 23.1% in first 7 months",
+        "publisher": "Global Times",
+        "url": "https://www.globaltimes.cn/page/202608/1368401.shtml",
+        "date": "2026-08",
+        "scope": "country",
+        "metric": "Semiconductor output growth and share of industrial growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Digital transformation software/services for small and medium manufacturers",
+        "description": "Small and medium manufacturers lack affordable digital transformation software and services to modernize their operations.",
+        "sources": [
+          {
+            "title": "最新报告：中国中小企业数字化转型，六成处于早期阶段",
+            "publisher": "China Daily (citing CAICT)",
+            "url": "https://cn.chinadaily.com.cn/a/202406/24/WS667947d8a3107cd55d26853b.html",
+            "date": "2024-06-24",
+            "scope": "China",
+            "metric": "~60% of Chinese SMEs still in early-stage digital transformation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "GlobalData/GlobeNewswire forecasts China's construction market to contract by 1% in 2026 due to downturns in contract values and fixed asset investment, though Oxford Economics expects China and the US to 'regain momentum' in its 2026 global construction outlook.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Industry reports project construction output to recover in 2026 and grow modestly by 1.3%, with an average annual growth rate of 3.7% during 2027-2029, supported by investment in industry, infrastructure, and energy per a China Construction Industry Report cited by Yahoo Finance.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Contract value and fixed-asset-investment downturns in 2026",
+      "Property-sector drag on related construction demand"
+    ],
+    "opportunities": [
+      "Infrastructure, industrial and energy investment driving 2027-2029 recovery (3.7% AAGR)"
+    ],
+    "sources": [
+      {
+        "title": "China Construction Market Size, Trends and Forecasts by Sector 2026-2030",
+        "publisher": "GlobeNewswire (GlobalData)",
+        "url": "https://www.globenewswire.com/news-release/2026/05/05/3287990/28124/en/China-Construction-Market-Size-Trends-and-Forecasts-by-Sector-2026-2030-Market-to-Contract-by-1-in-2026-due-to-Downturns-in-Contract-Values-and-Fixed-Asset-Investments.html",
+        "date": "2026-05",
+        "scope": "country",
+        "metric": "Construction market to contract 1% in 2026"
+      },
+      {
+        "title": "China Construction Industry Report 2025",
+        "publisher": "Yahoo Finance (Research and Markets)",
+        "url": "https://finance.yahoo.com/news/china-construction-industry-report-2025-124500016.html",
+        "date": "2025",
+        "scope": "country",
+        "metric": "1.3% growth in 2026, 3.7% AAGR 2027-2029"
+      },
+      {
+        "title": "Global construction outlook 2026: China and US will regain momentum",
+        "publisher": "Oxford Economics",
+        "url": "https://www.oxfordeconomics.com/resource/construction-key-themes-2026-china-and-us-will-regain-momentum/",
+        "date": "2026",
+        "scope": "global with China focus",
+        "metric": "China construction momentum outlook for 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural residential building energy retrofit",
+        "description": "Rural residential buildings in Northwest China remain largely unretrofitted for thermal/energy performance, with no standardized affordable retrofit service reaching dispersed rural households.",
+        "sources": [
+          {
+            "title": "Study on energy retrofits for rural residential envelopes in Northwest China",
+            "publisher": "Scientific Reports (Nature)",
+            "url": "https://www.nature.com/articles/s41598-025-99284-2",
+            "date": "2025",
+            "scope": "China",
+            "metric": "Case study documents rural building envelope retrofit gaps in Northwest China"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "S&P Global Ratings forecasts nationwide primary property sales falling 8% in 2025 and 6-7% further in 2026, and says the property market is poised to decline at least through 2026; Fitch separately forecasts new home sales falling 11-13% in 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "S&P analysts and multiple outlets (Asia Times, SCMP) describe a multi-year structural downturn continuing at least through 2026 with weak demand persisting, though some analysts (CITIC Securities) project stabilization by 2026 -- outlooks diverge, but the weight of sourced evidence points to continued contraction.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Developer debt servicing strain amid falling sales",
+      "Weak buyer demand as buyers await price floors",
+      "Prolonged multi-year downturn"
+    ],
+    "opportunities": [
+      "Potential stabilization projected by some analysts (CITIC Securities) by 2026"
+    ],
+    "sources": [
+      {
+        "title": "China's property market poised to decline at least through 2026, S&P analyst says",
+        "publisher": "South China Morning Post",
+        "url": "https://www.scmp.com/business/china-business/article/3329283/chinas-property-market-poised-decline-least-through-2026-sp-analyst-says",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Primary property sales forecast to fall 8% (2025), 6-7% (2026)"
+      },
+      {
+        "title": "China New Home Sales to Fall 11% to 13% in 2026: Fitch",
+        "publisher": "Mingtiandi",
+        "url": "https://www.mingtiandi.com/real-estate/research-policy/china-new-home-sales-to-fall-11-to-13-in-2026-fitch/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "New home sales forecast to fall 11-13% in 2026"
+      },
+      {
+        "title": "China's housing market free-falls as buyers wait for floor prices",
+        "publisher": "Asia Times",
+        "url": "https://asiatimes.com/2026/07/chinas-housing-market-free-falls-as-buyers-wait-for-floor-prices/",
+        "date": "2026-07",
+        "scope": "country",
+        "metric": "Continued housing price declines mid-2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Accessibility retrofit (elevator installation) for aging walk-up apartment buildings",
+        "description": "Elderly residents in aging walk-up apartment buildings lack elevator and accessibility retrofit options.",
+        "sources": [
+          {
+            "title": "Revitalizing nation's aging housing stock",
+            "publisher": "China Daily",
+            "url": "https://global.chinadaily.com.cn/a/202509/25/WS68d49f80a3108622abca2d02.html",
+            "date": "2025-09-25",
+            "scope": "China",
+            "metric": "~20% of urban buildings over 30 years old (end of 2022); many rated Grade C/D unsafe-for-habitation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China continues to tighten its global lead in high-speed rail infrastructure, and NBER/VoxDev research (2026) documents that high-speed rail expansion is directly accelerating EV adoption across Chinese cities, indicating an integrated, expanding mobility system.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Continued high-speed rail network expansion and its measured synergy with EV adoption (NBER working paper w33489, 2026) point to sustained long-term growth in China's transportation infrastructure and mobility ecosystem.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High capital intensity of rail expansion",
+      "Regional overcapacity in some rail lines"
+    ],
+    "opportunities": [
+      "High-speed rail network world leadership",
+      "Rail-EV adoption synergy documented in academic research"
+    ],
+    "sources": [
+      {
+        "title": "China's high-speed rail tightens global lead",
+        "publisher": "Railway PRO",
+        "url": "https://www.railwaypro.com/wp/chinas-high-speed-rail-tightens-global-lead/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "China's global lead in high-speed rail network length"
+      },
+      {
+        "title": "High-Speed Rail and China's Electric Vehicle Adoption Miracle",
+        "publisher": "NBER (Working Paper w33489)",
+        "url": "https://www.nber.org/papers/w33489",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Causal link between HSR expansion and EV adoption rates"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "EV charging network operators for rural and county-level drivers",
+        "description": "Rural and county-level EV drivers lack charging network coverage, since charging units are concentrated in large cities.",
+        "sources": [
+          {
+            "title": "Countryside playing catch-up with EVs",
+            "publisher": "China Daily",
+            "url": "https://www.chinadaily.com.cn/a/202402/29/WS65dfefe7a31082fc043b9c40.html",
+            "date": "2024-02-29",
+            "scope": "China",
+            "metric": "Rural NEV sales 4% of total (2022) vs 25.6% national average; 8.6M charging units concentrated in large cities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's logistics sector grew 6.2% in Q1 2026 according to Fibre2Fashion citing official data, with the State Council reporting steady growth in the logistics sector through Q1 2026.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Industry analysis from Holland International Distribution Council and Grand View Research project continued expansion of China's logistics and supply chain market through the medium term, driven by e-commerce and manufacturing export volumes.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Trade friction affecting export logistics volumes"
+    ],
+    "opportunities": [
+      "E-commerce-driven domestic logistics demand",
+      "Steady sector growth (6.2% Q1 2026)"
+    ],
+    "sources": [
+      {
+        "title": "China's logistics sector grows 6.2% in Q1 2026",
+        "publisher": "Fibre2Fashion",
+        "url": "https://www.fibre2fashion.com/news/textiles-logistics-news/china-s-logistics-sector-grows-6-2-in-q1-2026-310039-newsdetails.htm",
+        "date": "2026-04",
+        "scope": "country",
+        "metric": "Logistics sector grew 6.2% in Q1 2026"
+      },
+      {
+        "title": "China's logistics sector sees steady growth in Q1",
+        "publisher": "The State Council, PRC (english.www.gov.cn)",
+        "url": "https://english.www.gov.cn/archive/statistics/202604/30/content_WS69f341c6c6d00ca5f9a0abc7.html",
+        "date": "2026-04",
+        "scope": "country",
+        "metric": "Q1 2026 logistics sector growth confirmed by official data"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Occupational insurance and stable freight-matching services for long-haul truck drivers",
+        "description": "Independent long-haul truck drivers lack occupational disease insurance and stable, formal freight-matching services.",
+        "sources": [
+          {
+            "title": "2023货车司机从业状况调查报告",
+            "publisher": "China Federation of Logistics and Purchasing (中国物流与采购联合会)",
+            "url": "https://www.360che.com/news/240812/192589.html",
+            "date": "2024-08",
+            "scope": "China",
+            "metric": "77.14% of surveyed truck drivers lack occupational disease insurance; 62.63% report no stable cargo source"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's quick-commerce market is projected to reach $126.74 billion by 2029 with Meituan, Alibaba and JD.com consolidating the sub-60-minute delivery segment, per a 2026 databook report, reflecting rapid growth in digitally-enabled wholesale/distribution channels.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research projects China's B2C e-commerce market -- a core downstream channel for wholesale and distribution -- to grow from USD 1,757.7 billion in 2023 to USD 5,465.2 billion by 2030 (18.3% CAGR, 2024-2030), reflecting sustained structural growth in digitally-enabled distribution volume.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Intense platform competition and margin compression among Meituan, Alibaba, JD.com"
+    ],
+    "opportunities": [
+      "Quick-commerce consolidation and sub-60-minute delivery standard becoming Tier 1 norm",
+      "B2C e-commerce market projected to reach $5.47 trillion by 2030 (18.3% CAGR)"
+    ],
+    "sources": [
+      {
+        "title": "China Quick Commerce Databook Report 2026",
+        "publisher": "Yahoo Finance (Research and Markets)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/china-quick-commerce-databook-report-080800680.html",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Quick commerce market to reach $126.74B by 2029"
+      },
+      {
+        "title": "China B2C E-commerce Market Size & Outlook, 2024-2030",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/b2c-e-commerce-market/china",
+        "date": "2026",
+        "scope": "country",
+        "metric": "B2C e-commerce market to grow from $1,757.7B (2023) to $5,465.2B (2030), 18.3% CAGR"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "County-level cold chain and commercial distribution",
+        "description": "County-level retailers and distributors lack modern warehousing, cold-chain, and commercial distribution networks.",
+        "sources": [
+          {
+            "title": "China unveils action plan to strengthen county-level commerce system",
+            "publisher": "Xinhua / China.org.cn",
+            "url": "http://www.china.org.cn/china/2023-08/15/content_102918082.htm",
+            "date": "2023-08-15",
+            "scope": "China",
+            "metric": "Nine national ministries identified county-level commerce infrastructure as underdeveloped, prompting a dedicated national action plan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "China's official retail sales of goods and services rose 2.7% in the first half of 2026 and 2.6% in the first seven months per China's State Council Information Office, indicating modest but steady consumption growth below pre-pandemic historical rates.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The State Council reports China's consumption maintaining growth as services gain momentum, with retail sales posting a modest recovery in Q1 2026 and steady expansion through mid-year, suggesting a structural shift toward services-led, slower-paced consumption growth.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "Consumer confidence remaining subdued amid property-sector wealth effects",
+      "Growth rates below historical trend (~2.6-2.7%)"
+    ],
+    "opportunities": [
+      "Services consumption gaining momentum",
+      "Steady if modest expansion through 2026"
+    ],
+    "sources": [
+      {
+        "title": "China's retail sales of goods, services up 2.7% in first half of 2026",
+        "publisher": "State Council Information Office (english.scio.gov.cn)",
+        "url": "http://english.scio.gov.cn/pressroom/2026-07/15/content_118600022.html",
+        "date": "2026-07",
+        "scope": "country",
+        "metric": "Retail sales up 2.7% H1 2026"
+      },
+      {
+        "title": "China's retail sales of goods, services up 2.6 pct in first seven months",
+        "publisher": "The State Council, PRC",
+        "url": "https://english.www.gov.cn/archive/statistics/202608/17/content_WS6a82b953c6d00ca5f9a0ca39.html",
+        "date": "2026-08",
+        "scope": "country",
+        "metric": "Retail sales up 2.6% Jan-Jul 2026"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "China's e-commerce and omnichannel retail market is among the most developed and competitive globally, leaving little visible unaddressed retail segment.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's fintech market is projected around $30.86 billion by 2026 according to MEXC News analysis, with continued digital payments and financial-software expansion reported in the 2026 Fintech Ecosystem review by The Fintech Times.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "ResearchAndMarkets (via FinTech Futures, Jan 2025) projects China's fintech market to grow from USD 4.59 trillion in 2024 to USD 9.97 trillion by 2030, a 13.8% CAGR, led by digital payments (Alipay/WeChat Pay) with insurtech and wealth-management technology as emerging growth areas.",
+      "evidenceDate": "2025-01"
+    },
+    "risks": [
+      "Regulatory tightening on fintech platforms"
+    ],
+    "opportunities": [
+      "Digital payments and financial software market expansion",
+      "Fintech market projected at ~$30.86B by 2026",
+      "Long-term fintech market growth to $9.97T by 2030 (13.8% CAGR)"
+    ],
+    "sources": [
+      {
+        "title": "What the $30.86 billion Chinese fintech market projection for 2026 reveals",
+        "publisher": "MEXC News",
+        "url": "https://www.mexc.com/news/1020914",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Chinese fintech market projected at $30.86 billion for 2026"
+      },
+      {
+        "title": "The Fintech Ecosystem of China in 2026",
+        "publisher": "The Fintech Times",
+        "url": "https://thefintechtimes.com/the-fintech-ecosystem-of-china-in-2026/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Overview of China's 2026 fintech ecosystem"
+      },
+      {
+        "title": "China's Fintech Industry Booms with Projected 13.8% CAGR",
+        "publisher": "FinTech Futures (citing ResearchAndMarkets.com)",
+        "url": "https://www.fintechfutures.com/press-releases/china-s-fintech-industry-booms-with-projected-13-8-cagr-a-deep-dive-into-the-market-s-future",
+        "date": "2025-01",
+        "scope": "country",
+        "metric": "Fintech market to grow from $4.59T (2024) to $9.97T (2030), 13.8% CAGR"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Women-led SMEs seeking formal bank credit for business financing",
+        "description": "Women-owned SMEs lack access to formal bank credit for business financing and rely instead on personal savings.",
+        "sources": [
+          {
+            "title": "Bridging the Finance Gap for Women Entrepreneurs — People's Republic of China chapter",
+            "publisher": "OECD",
+            "url": "https://www.oecd.org/en/publications/financing-smes-and-entrepreneurs-2026_075d8058-en/full-report/people-s-republic-of-china_70b27d78.html",
+            "date": "2026",
+            "scope": "China",
+            "metric": "SME financing access by gender of ownership"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Swiss Re's sigma research describes China's insurance market in 2026 as showing 'resilience amid structural' shifts, while GlobalData forecasts the China life insurance market to grow at a 7.9% CAGR during 2026-2030.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "GlobalData projects China's life insurance market to grow at a 7.9% CAGR from 2026 to 2030, reflecting sustained demand growth for life and health coverage as the population ages.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Structural economic headwinds affecting premium growth",
+      "Non-life insurance market facing softer demand per Atlas Magazine forecasts"
+    ],
+    "opportunities": [
+      "Life insurance CAGR of 7.9% through 2030",
+      "Aging population driving health/life coverage demand"
+    ],
+    "sources": [
+      {
+        "title": "China life insurance market to grow at 7.9% CAGR during 2026-30",
+        "publisher": "GlobalData",
+        "url": "https://www.globaldata.com/media/insurance/china-life-insurance-market-to-grow-at-7-9-cagr-during-2026-30-forecasts-globaldata/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Life insurance market 7.9% CAGR 2026-2030"
+      },
+      {
+        "title": "China insurance in 2026: resilience amid structural...",
+        "publisher": "Swiss Re Institute (sigma)",
+        "url": "https://www.swissre.com/institute/research/sigma-research/sigma-global-trends-regional-outlooks/china-insurance-2026.html",
+        "date": "2026-07",
+        "scope": "country",
+        "metric": "China insurance market resilience assessment for 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Portable occupational-injury/health insurance for gig and long-haul freight drivers",
+        "description": "Self-employed gig and long-haul freight drivers lack portable occupational-injury and health insurance, since existing schemes are employer-linked.",
+        "sources": [
+          {
+            "title": "2023货车司机从业状况调查报告",
+            "publisher": "China Federation of Logistics and Purchasing",
+            "url": "https://www.360che.com/news/240812/192589.html",
+            "date": "2024-08",
+            "scope": "China",
+            "metric": "77.14% of truck drivers surveyed lack occupational disease insurance"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research and Mordor Intelligence report continued expansion of China's cloud computing and IT services markets through 2025-2031, driven by domestic cloud infrastructure buildout and enterprise digitalization.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research projects China's IT services market to grow from USD 116.7 billion in 2025 to USD 225.5 billion by 2033 (8.4% CAGR, 2026-2033), with proactive IT services the fastest-growing segment as enterprise digitalization deepens.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "US-China technology restrictions on advanced computing"
+    ],
+    "opportunities": [
+      "Cloud computing market expansion",
+      "Enterprise IT services growth",
+      "IT services market to nearly double to $225.5B by 2033 (8.4% CAGR)"
+    ],
+    "sources": [
+      {
+        "title": "China Cloud Computing Market Size & Outlook, 2025-2030",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/cloud-computing-market/china",
+        "date": "2026",
+        "scope": "country",
+        "metric": "China cloud computing market growth outlook to 2030"
+      },
+      {
+        "title": "China ICT Market Size, Growth Outlook Forecast 2026-2031",
+        "publisher": "Mordor Intelligence",
+        "url": "https://www.mordorintelligence.com/industry-reports/china-ict-market",
+        "date": "2026",
+        "scope": "country",
+        "metric": "China ICT market growth forecast 2026-2031"
+      },
+      {
+        "title": "China IT Services Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/it-services-market/china",
+        "date": "2026",
+        "scope": "country",
+        "metric": "IT services market to grow from $116.7B (2025) to $225.5B (2033), 8.4% CAGR"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "China's domestic software/cloud market is dominated by a dense ecosystem of major cloud and SaaS providers, leaving no clearly underserved general IT segment.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's national strategy makes AI-powered technology and robotics a core priority, per the International Federation of Robotics' 2026 press release, with Statista and Grand View Research market forecasts showing rapid China AI market expansion continuing through the near term.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Multiple market research firms (Grand View Research through 2033, Market Research Future through 2035) project sustained multi-year growth in China's AI market, backed by heavy state investment and AI governance framework development.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "US export controls on advanced AI chips",
+      "AI governance/regulatory uncertainty"
+    ],
+    "opportunities": [
+      "AI designated core of national strategy",
+      "Heavy state and private AI investment"
+    ],
+    "sources": [
+      {
+        "title": "China Makes AI-powered Robots Core of National Strategy",
+        "publisher": "International Federation of Robotics",
+        "url": "https://ifr.org/ifr-press-releases/news/top-5-robot-trends-2026",
+        "date": "2026",
+        "scope": "country",
+        "metric": "AI and robotics as core national strategy priority"
+      },
+      {
+        "title": "China Artificial Intelligence Market Size & Outlook, 2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/artificial-intelligence-market/china",
+        "date": "2026",
+        "scope": "country",
+        "metric": "China AI market size forecast to 2033"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "AI adoption among small and medium enterprises",
+        "description": "Chinese SMEs lag large tech firms in AI adoption because affordable, easy-to-deploy AI tools tailored to SME workflows are still largely missing outside major tech hubs.",
+        "sources": [
+          {
+            "title": "AI adoption by small and medium-sized enterprises",
+            "publisher": "OECD",
+            "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/12/ai-adoption-by-small-and-medium-sized-enterprises_9c48eae6/426399c1-en.pdf",
+            "date": "2025",
+            "scope": "China",
+            "metric": "SME AI adoption rates trail large enterprises"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research values China's data analytics market at USD 9,028.1 million in 2025, with predictive analytics the largest segment (41.98% revenue share) and prescriptive analytics the fastest-growing, as enterprises accelerate digital-transformation and data-driven adoption.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research projects China's data analytics market to grow nearly tenfold from USD 9,028.1 million (2025) to USD 89,160.5 million by 2033 (34% CAGR, 2026-2033), with China holding 10.6% of the global data analytics market in 2025 and positioned to lead Asia Pacific by 2033.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Competition from established global vendors (Amazon, Oracle, IBM, SAP) alongside domestic players"
+    ],
+    "opportunities": [
+      "Data analytics market projected to grow 34% CAGR through 2033",
+      "China positioned to lead Asia Pacific data analytics market by 2033"
+    ],
+    "sources": [
+      {
+        "title": "China Data Analytics Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/data-analytics-market/china",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Data analytics market to grow from $9,028.1M (2025) to $89,160.5M (2033), 34% CAGR"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Could not find a specific, checkable sourced gap in China's data and analytics services market distinct from the broader IT/AI sector.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's cybersecurity market is forecast for robust growth amid rising digital risks per MarketsAndMarkets, with a 2026 industry deep report (Tianxia Gongchang) citing domestic substitution (xinchuang), AI security and critical infrastructure protection as key growth drivers.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research projects continued growth in China's cybersecurity market through 2033, and multiple analysts cite CAGRs in the 11-12.5% range driven by data security regulation and critical infrastructure protection mandates.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rapidly evolving threat landscape outpacing defenses"
+    ],
+    "opportunities": [
+      "Domestic substitution (xinchuang) policy driving local vendor growth",
+      "AI security and critical infrastructure protection demand",
+      "Forecast CAGR of ~11-12.5%"
+    ],
+    "sources": [
+      {
+        "title": "2026 China Cybersecurity Industry Deep Report",
+        "publisher": "Tianxia Gongchang Research",
+        "url": "https://faxiangongchang.com/en/reports/china-cybersecurity-2026",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Xinchuang, AI security and critical infrastructure security growth drivers"
+      },
+      {
+        "title": "China Cyber Security Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/cyber-security-market/china",
+        "date": "2026",
+        "scope": "country",
+        "metric": "China cybersecurity market outlook 2026-2033"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "PIPL compliance tooling for small-scale data processors",
+        "description": "Small-scale personal-data processors lack affordable, simplified PIPL compliance and audit tooling scoped to their new lighter-touch regulatory tier.",
+        "sources": [
+          {
+            "title": "Notes from the Asia-Pacific region: China signals pragmatic data compliance approach for SMEs",
+            "publisher": "IAPP (International Association of Privacy Professionals)",
+            "url": "https://iapp.org/news/a/notes-from-the-asia-pacific-region-china-signals-pragmatic-data-compliance-approach-for-smes",
+            "date": "2026-04",
+            "scope": "China",
+            "metric": "CAC draft 'Simplified Measures' define small-scale processors as entities handling data from fewer than 100,000 individuals, open for public consultation through May 2, 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China ended a recent period with 4.83 million 5G base station sites per RCR Wireless, and MIIT reported China added 13 million 5G mobile phone subscribers in May 2026 alone, reflecting continued rapid 5G network and subscriber expansion.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "China's 5G-Advanced rollout is setting the stage for AI-native 6G development, per Telecoms Tech News, indicating continued multi-year telecom infrastructure investment and technology leadership.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High capex requirements for 5G-Advanced/6G buildout"
+    ],
+    "opportunities": [
+      "5G subscriber base continuing rapid growth (13M new subs in May 2026 alone)",
+      "5G-Advanced to AI-native 6G transition"
+    ],
+    "sources": [
+      {
+        "title": "China ends November with 4.83 million 5G sites",
+        "publisher": "RCR Wireless",
+        "url": "https://www.rcrwireless.com/20260107/5g/china-5g-sites",
+        "date": "2026-01",
+        "scope": "country",
+        "metric": "4.83 million 5G base station sites"
+      },
+      {
+        "title": "MIIT: China Adds 13 Mln 5G Mobile Phone Subs in May 2026",
+        "publisher": "Marbridge Consulting",
+        "url": "https://www.marbridgeconsulting.com/marbridgedaily/2026-06-26/article/115248/miit_china_adds_13_mln_5g_mobile_phone_subs_in_may_2026",
+        "date": "2026-06",
+        "scope": "country",
+        "metric": "13 million new 5G subscribers added in May 2026"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "China has near-universal mobile and broadband coverage via three major carriers with advanced 5G rollout, leaving no visible underserved connectivity segment.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's semiconductor output rose 23.1% in the first seven months of 2026, with new growth drivers including semiconductors contributing to half of the country's industrial growth, according to Global Times reporting on official data.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Deloitte's 2026 Semiconductor Industry Outlook and multiple market research firms project continued expansion of China's semiconductor manufacturing capacity as the country pursues self-sufficiency amid export restrictions.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "US and allied export controls on advanced chip-making equipment",
+      "Technology self-sufficiency drive facing capability gaps in leading-edge nodes"
+    ],
+    "opportunities": [
+      "Semiconductor output up 23.1% (Jan-Jul 2026)",
+      "Semiconductors as a new driver contributing to industrial growth"
+    ],
+    "sources": [
+      {
+        "title": "China's semiconductors output rises 23.1% in first 7 months",
+        "publisher": "Global Times",
+        "url": "https://www.globaltimes.cn/page/202608/1368401.shtml",
+        "date": "2026-08",
+        "scope": "country",
+        "metric": "Semiconductor output up 23.1% year-on-year, Jan-Jul 2026"
+      },
+      {
+        "title": "2026 Semiconductor Industry Outlook",
+        "publisher": "Deloitte Insights",
+        "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/semiconductor-industry-outlook.html",
+        "date": "2026",
+        "scope": "global with China focus",
+        "metric": "Global/China semiconductor industry outlook for 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Domestic IC manufacturing for China's own chip market",
+        "description": "China's chip market lacks sufficient domestically fabricated integrated circuits to meet self-sufficiency targets.",
+        "sources": [
+          {
+            "title": "IC Insights预测2025年中国IC自给率仅19.4%",
+            "publisher": "IC Insights (via esmchina)",
+            "url": "https://www.esmchina.com/news/7397.html",
+            "date": "2021",
+            "scope": "China",
+            "metric": "19.4% domestic IC self-sufficiency projected for 2025 vs. 70% national target"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The Robot Report's 2026 China robotics outlook cites continued cobot growth and competitive pressure, with the International Federation of Robotics noting China is making AI-powered robots a core national strategy priority.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "China remains the world's largest industrial robot market according to industry analysis, with national strategy explicitly prioritizing AI-powered robotics for sustained long-term expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Intensifying domestic competitive pressure among robotics makers"
+    ],
+    "opportunities": [
+      "World's largest industrial robot market",
+      "AI-robotics as core national strategy",
+      "Cobot segment growth"
+    ],
+    "sources": [
+      {
+        "title": "Chinese robotics outlook for 2026 includes cobot growth, competitive pressure",
+        "publisher": "The Robot Report",
+        "url": "https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "2026 China robotics market trends: cobot growth and competition"
+      },
+      {
+        "title": "China Makes AI-powered Robots Core of National Strategy",
+        "publisher": "International Federation of Robotics",
+        "url": "https://ifr.org/ifr-press-releases/news/top-5-robot-trends-2026",
+        "date": "2026",
+        "scope": "country",
+        "metric": "AI-robotics as core national strategic priority"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Assistive eldercare robotics for nursing homes",
+        "description": "Nursing homes lack assistive eldercare robotics to cover a shortage of millions of certified elderly-care workers.",
+        "sources": [
+          {
+            "title": "Elderly Care Robots: Can They Support 300 Million Seniors Amid 5.5-Million Nursing Worker Shortage?",
+            "publisher": "36Kr",
+            "url": "https://eu.36kr.com/en/p/3352571076539010",
+            "date": "2025",
+            "scope": "China",
+            "metric": "5.5 million eldercare worker shortage; 20,000 certified caregivers vs. 310 million seniors 60+"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "UBS estimates China's healthcare market at USD 1.4 trillion in 2024 with a further USD 700 billion of potential growth, noting basic medical insurance now covers over 95% of the population while commercial insurance remains underpenetrated, offering additional near-term expansion room.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "UBS projects China's healthcare demand to rise substantially as the population ages -- seniors 65+ will reach 27% of the population by 2040 -- with out-of-pocket health spending forecast to grow 7% annually (2024-2030) to USD 568 billion by 2030, and innovative drugs expected to reach ~60% of basic medical insurance drug spending by 2030.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regulatory and geopolitical uncertainty affecting foreign healthcare investment",
+      "Underpenetrated commercial insurance limiting private-pay capacity"
+    ],
+    "opportunities": [
+      "USD 700B structural growth opportunity per UBS",
+      "Aging population driving sustained demand through 2040",
+      "Out-of-pocket spending to reach $568B by 2030 (7% CAGR)"
+    ],
+    "sources": [
+      {
+        "title": "China's aging population is reshaping healthcare - unlocking a trillion-dollar opportunity",
+        "publisher": "UBS",
+        "url": "https://www.ubs.com/global/en/investment-bank/insights-and-data/articles/china-healthcare.html",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Healthcare market at $1.4T (2024), $700B further potential; out-of-pocket spend to $568B by 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Children under 14 needing specialist child and adolescent psychiatric care",
+        "description": "Children under 14 lack access to child and adolescent psychiatrists, with far fewer specialists per capita than the US.",
+        "sources": [
+          {
+            "title": "A minority among Chinese psychiatrists: the current state of development of child and adolescent psychiatrists",
+            "publisher": "PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12328281/",
+            "date": "2024",
+            "scope": "China",
+            "metric": "Child/adolescent psychiatrists per 100,000 children under 14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "KPMG's 2026 China Life Sciences Sector Overview and Outlook and ITIF's June 2026 report describe China's 'burgeoning biopharmaceutical competitiveness,' citing rapid growth in China-originated drug licensing deals and R&D output challenging incumbent Western pharma.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research projects continued expansion of the China pharmaceutical market through 2033, and industry commentary (BioPharma Dive's 2026 outlook, DrugPatentWatch) describes sustained structural growth in Chinese pharmaceutical exports and innovation capacity.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Geopolitical friction over biopharma technology transfer (per ITIF)",
+      "Pricing pressure from domestic volume-based procurement"
+    ],
+    "opportunities": [
+      "Rising global competitiveness of Chinese biopharma R&D and licensing deals",
+      "KPMG-documented sector growth momentum"
+    ],
+    "sources": [
+      {
+        "title": "2026 China Life Sciences Sector Overview and Outlook",
+        "publisher": "KPMG",
+        "url": "https://assets.kpmg.com/content/dam/kpmgsites/cn/pdf/en/2026/04/china-life-sciences-sector-overview-and-outlook-2026.pdf.coredownload.inline.pdf",
+        "date": "2026-04",
+        "scope": "country",
+        "metric": "China life sciences sector overview and 2026 outlook"
+      },
+      {
+        "title": "China's Burgeoning Biopharmaceutical Competitiveness Demands a US Response",
+        "publisher": "ITIF",
+        "url": "https://itif.org/publications/2026/06/29/chinas-burgeoning-biopharmaceutical-competitiveness-demands-us-response/",
+        "date": "2026-06",
+        "scope": "country",
+        "metric": "China biopharma competitiveness assessment"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rare disease (orphan drug) access and reimbursement",
+        "description": "Rare-disease patients lack diagnosis, drug access, and insurance reimbursement for orphan drugs.",
+        "sources": [
+          {
+            "title": "2020-2025年近190个罕见病药品在我国获批",
+            "publisher": "中国食品药品网",
+            "url": "https://m.cnpharm.com/c/2026-03-06/1092445.shtml",
+            "date": "2026-03-06",
+            "scope": "China",
+            "metric": "~190 rare-disease drugs approved 2020-2025, still leaving major reimbursement and access gaps"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Simon-Kucher's 'China medtech outlook 2026' and MedChina's analysis describe a 'new era' of structural changes for the China medtech market in 2026, including regulatory and reimbursement shifts affecting global companies operating there.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "GlobalData Healthcare (Oct 2024) forecasts China's medical devices market to grow at a 5.0% CAGR through 2033, outpacing the global 4.2% CAGR, driven by an aging population, rising chronic-disease burden, expanding device penetration and growing health-insurance coverage, though volume-based procurement and protectionist policy remain headwinds.",
+      "evidenceDate": "2024-10"
+    },
+    "risks": [
+      "Structural regulatory/reimbursement changes for global medtech companies",
+      "Volume-based procurement pressure and protectionist policies favoring domestic manufacturers"
+    ],
+    "opportunities": [
+      "Digital health market expansion per Statista and IMARC forecasts",
+      "Medical devices market to grow at 5.0% CAGR through 2033, above global average"
+    ],
+    "sources": [
+      {
+        "title": "China medtech outlook 2026",
+        "publisher": "Simon-Kucher",
+        "url": "https://www.simon-kucher.com/en/insights/china-medtech-2026-new-era-innovations-and-complexity",
+        "date": "2026",
+        "scope": "country",
+        "metric": "China medtech market structural changes for 2026"
+      },
+      {
+        "title": "China MedTech Market in 2026: 7 Structural Changes Global Companies Should Know",
+        "publisher": "MedChina",
+        "url": "https://www.medchina.tech/news-article/china-medtech-market-in-2026%3A-7-structural-changes-global-companies-should-know",
+        "date": "2026",
+        "scope": "country",
+        "metric": "7 structural changes in China medtech market for 2026"
+      },
+      {
+        "title": "China's medtech market set to grow vigorously despite headwinds",
+        "publisher": "Medical Device Network / GlobalData Healthcare",
+        "url": "https://www.medicaldevice-network.com/analyst-comment/china-medtech-market-to-grow/",
+        "date": "2024-10",
+        "scope": "country",
+        "metric": "Medical devices market to grow at 5.0% CAGR through 2033 vs global 4.2%"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Patients in underdeveloped central-China prefecture cities needing remote specialist telemedicine consultation",
+        "description": "Patients in underdeveloped central-China prefecture cities lack effective remote telemedicine access to specialists, due to weak infrastructure and referral integration.",
+        "sources": [
+          {
+            "title": "How to promote telemedicine in underdeveloped cities in central China?",
+            "publisher": "PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11378231/",
+            "date": "2024",
+            "scope": "China (Xinyang, Henan)",
+            "metric": "Qualitative assessment of telemedicine access barriers in underdeveloped prefecture-level cities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's EdTech market reached US$133.9 billion in 2023 (14.17% YoY growth), per China Briefing, with online learning platforms reaching 349 million users; AI learning devices saw explosive growth in 2024 (e-commerce sales up 136.6% in H1), reflecting continued near-term momentum following the 2021 'Double Reduction' policy reset.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "China Briefing reports a forecast CAGR of over 6% annually for 2024-2028, a markedly slower structural growth pace than the pre-2021 tutoring-driven boom, as the sector has permanently pivoted post-'Double Reduction' toward non-exam personal development, AI-enabled learning tools and hardware rather than for-profit tutoring.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Post-'Double Reduction' policy ceiling on for-profit tutoring",
+      "Slower long-term CAGR (~6%) versus prior boom-era growth"
+    ],
+    "opportunities": [
+      "AI Learning Columns / Ministry of Education AI-education initiative (2024)",
+      "AI learning hardware demand surge (+136.6% H1 2024 e-commerce sales)",
+      "349 million online learning users, still growing (+11.14% YoY)"
+    ],
+    "sources": [
+      {
+        "title": "China's EdTech Market: Growth Trajectories and Future Prospects",
+        "publisher": "China Briefing (Dezan Shira & Associates)",
+        "url": "https://www.china-briefing.com/news/chinas-edtech-market-growth-trajectories-and-future-prospects/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "EdTech market at $133.9B in 2023 (+14.17% YoY); forecast CAGR >6% for 2024-2028"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural students with disabilities in mainstream schools lacking in-school support services",
+        "description": "Rural students with disabilities in mainstream schools lack in-school support services.",
+        "sources": [
+          {
+            "title": "UNPRPD Country Situational Analysis: China",
+            "publisher": "UN Partnership on the Rights of Persons with Disabilities",
+            "url": "https://unprpd.org/new/wp-content/uploads/2024/04/UNPRPD-Country-Brief-China69.pdf",
+            "date": "2024",
+            "scope": "China",
+            "metric": "Students with disabilities in regular schools; rural share of disabled population"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Mordor Intelligence values China's management consulting market at USD 22.19 billion (2025), forecast to reach USD 24.87 billion in 2026, as state-led industrial upgrading, tighter environmental rules and rapid generative-AI adoption widen the scope of advisory mandates.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Mordor Intelligence projects China's management consulting market to grow from USD 22.19 billion (2025) to USD 41.46 billion by 2031, a 10.76% CAGR (2026-2031), driven by industrial-upgrading advisory demand, environmental compliance and generative AI adoption across service lines.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Sensitivity to state industrial-policy shifts affecting advisory demand"
+    ],
+    "opportunities": [
+      "Management consulting market to grow at 10.76% CAGR through 2031",
+      "Generative AI widening consulting service mandates"
+    ],
+    "sources": [
+      {
+        "title": "China Management Consulting Services Market Size, Share & 2031 Growth Trends Report",
+        "publisher": "Mordor Intelligence",
+        "url": "https://www.mordorintelligence.com/industry-reports/china-management-consulting-services-market",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Management consulting market to grow from $22.19B (2025) to $41.46B (2031), 10.76% CAGR"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Companion-animal veterinary staffing and retention services outside top-tier cities",
+        "description": "Pet hospitals outside top-tier cities lack sufficient veterinary staff, since most veterinary graduates leave clinical practice.",
+        "sources": [
+          {
+            "title": "China's Vet Shortage, by the Numbers",
+            "publisher": "Sixth Tone",
+            "url": "https://www.sixthtone.com/news/1014546",
+            "date": "2024-02-02",
+            "scope": "China",
+            "metric": "Fewer than 10% of veterinary graduates remain in the field; China has <1/3 the vets per capita of US/EU"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research values China's business process outsourcing market at USD 21,782.9 million in 2025, with customer services the largest and fastest-growing segment; China accounts for roughly 6.6% of the global BPO market as of 2025.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research projects China's BPO market to grow from USD 21,782.9 million (2025) to USD 53,762.7 million by 2033 (12% CAGR, 2026-2033), with China set to lead the Asia Pacific region in projected BPO revenue by 2033.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Global competition for BPO delivery from lower-cost markets"
+    ],
+    "opportunities": [
+      "BPO market to grow at 12% CAGR through 2033",
+      "China positioned to lead Asia Pacific BPO revenue by 2033",
+      "Customer services segment fastest-growing"
+    ],
+    "sources": [
+      {
+        "title": "China Business Process Outsourcing Market Size & Outlook, 2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/business-process-outsourcing-market/china",
+        "date": "2026",
+        "scope": "country",
+        "metric": "BPO market to grow from $21,782.9M (2025) to $53,762.7M (2033), 12% CAGR"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "SME-focused accounting/compliance advisory outside major cities",
+        "description": "Small and medium enterprises in China face growing compliance complexity but lack affordable, standardized outsourced accounting/advisory services outside tier-1 cities.",
+        "sources": [
+          {
+            "title": "China's Accounting Standards - China Guide",
+            "publisher": "China Briefing",
+            "url": "https://www.china-briefing.com/doing-business-guide/china/accounting-and-operations/accounting-standards",
+            "date": "2024",
+            "scope": "China",
+            "metric": "Documents SME compliance burden under Chinese Accounting Standards"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's advertising industry revenue rose 11.3% in the first half of 2026 per China.org.cn citing official data, with digital ad spend projected to reach $266.62 billion by 2030 in a 2026 databook report, led by Alibaba, Tencent and ByteDance.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Digital advertising is projected to continue expanding toward $266.62 billion by 2030, with Alibaba, Tencent and ByteDance continuing to capture the majority of digital ad spend, per the China Digital Ad Spend Business Report 2026.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Concentration risk with ad spend dominated by a few platforms"
+    ],
+    "opportunities": [
+      "Advertising industry revenue growth of 11.3% (H1 2026)",
+      "Digital ad market projected to reach $266.62B by 2030"
+    ],
+    "sources": [
+      {
+        "title": "China's advertising industry revenue up 11.3% in H1",
+        "publisher": "China.org.cn",
+        "url": "http://www.china.org.cn/2026-08/08/content_118639133.shtml",
+        "date": "2026-08",
+        "scope": "country",
+        "metric": "Advertising industry revenue up 11.3% in H1 2026"
+      },
+      {
+        "title": "China Digital Ad Spend Business Report 2026",
+        "publisher": "Yahoo Finance (Research and Markets)",
+        "url": "https://finance.yahoo.com/news/china-digital-ad-spend-business-121900730.html",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Digital ad spend market to reach $266.62B by 2030"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "China's digital advertising market is dominated by a mature, highly competitive ecosystem with no clearly visible underserved niche found.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research values China's movie and entertainment market at USD 15,175.7 million in 2025, with growth driven by rising Chinese film popularity, higher urban-youth disposable incomes and continued cinema infrastructure expansion.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research projects China's movie and entertainment market to roughly double from USD 15,175.7 million (2025) to USD 30,443.5 million by 2033, a 9.4% CAGR (2026-2033), sustained by continued cinema-infrastructure and content-market expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Content regulation and censorship constraints on production and distribution"
+    ],
+    "opportunities": [
+      "Movie and entertainment market to grow at 9.4% CAGR through 2033",
+      "Rising urban-youth disposable income supporting cinema attendance"
+    ],
+    "sources": [
+      {
+        "title": "China Movie And Entertainment Market Size & Outlook, 2030",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/movie-and-entertainment-market/china",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Movie and entertainment market to grow from $15,175.7M (2025) to $30,443.5M (2033), 9.4% CAGR"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Could not identify a specific, checkable sourced gap in China's media/entertainment sector distinct from its large, state-regulated, competitive market.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Travel And Tour World reports China's tourism sector set new benchmarks in 2026 with strong rebounds in domestic travel, holiday journeys and inbound numbers, and describes China poised to reclaim its position as the world's largest outbound tourism market in 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The World Travel & Tourism Council projects China is 'poised to become the world's leading economy' in travel and tourism, reflecting sustained long-term sector growth potential.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Outbound travel recovery pace vs. pre-pandemic baseline"
+    ],
+    "opportunities": [
+      "China reclaiming largest outbound tourism market status",
+      "Strong domestic and inbound travel rebound in 2026"
+    ],
+    "sources": [
+      {
+        "title": "China's Tourism Sector Sets New Benchmarks in 2026",
+        "publisher": "Travel And Tour World",
+        "url": "https://www.travelandtourworld.com/news/article/chinas-tourism-sector-sets-new-benchmarks-in-2026-with-domestic-travel-holiday-journeys-and-inbound-numbers-rebound-strongly-all-you-need-to-know/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Domestic travel, holiday journeys, and inbound numbers rebound in 2026"
+      },
+      {
+        "title": "China and its Leading Performance in Travel & Tourism",
+        "publisher": "World Travel & Tourism Council (WTTC)",
+        "url": "https://wttc.org/news/china-and-its-leading-performance-in-travel-tourism",
+        "date": "2026",
+        "scope": "country",
+        "metric": "China poised to become world's leading travel & tourism economy"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "China's domestic tourism and hospitality market is enormous and highly competitive with no clearly underserved segment identified.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "China-Briefing's 2026 analysis of the food franchising market notes US chains are returning as the industry consolidates, with IBISWorld industry analyses of full-service and fast-food restaurants in China covering current 2025-2026 market conditions.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Mordor Intelligence values China's foodservice market at USD 566.88 billion in 2025, rising to USD 612.53 billion in 2026 and projected to reach USD 901.70 billion by 2031 (8.04% CAGR, 2026-2031), driven by pent-up out-of-home dining demand, digitally native quick-service formats, and rising disposable incomes in middle-tier cities.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Industry consolidation pressuring smaller independent operators"
+    ],
+    "opportunities": [
+      "US food chains returning to the market",
+      "Franchising sector consolidation creating scale players",
+      "Foodservice market to reach $901.70B by 2031 (8.04% CAGR)",
+      "Cloud kitchens fastest-growing segment (8.24% CAGR)"
+    ],
+    "sources": [
+      {
+        "title": "China's Food Franchising Market in 2026: US Chains Return as the Industry Consolidates",
+        "publisher": "China Briefing",
+        "url": "https://www.china-briefing.com/news/chinas-food-franchising-market-in-2026/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "US restaurant chains returning; franchising industry consolidation in 2026"
+      },
+      {
+        "title": "China Food Service Market - Size, Share & Growth, Forecast",
+        "publisher": "Mordor Intelligence",
+        "url": "https://www.mordorintelligence.com/industry-reports/china-food-service-restaurant-market",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Foodservice market to grow from $566.88B (2025) to $901.70B (2031), 8.04% CAGR"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "China's food delivery and restaurant market is dominated by intense platform competition with dense urban restaurant density, leaving no visible underserved segment.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research values China's beauty and personal care products market at USD 128.2 million in 2024, with skin care the largest segment (32.97% revenue share) and color cosmetics the fastest-growing category, reflecting continued near-term consumer services demand.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research projects China's beauty and personal care products market to grow from USD 128.2 million (2024) to USD 203.8 million by 2030, an 8% CAGR (2025-2030), led by continued expansion in color cosmetics and skin care.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Consumer sentiment sensitivity amid broader retail softness"
+    ],
+    "opportunities": [
+      "Beauty and personal care market to grow at 8% CAGR through 2030",
+      "Color cosmetics segment fastest-growing"
+    ],
+    "sources": [
+      {
+        "title": "China Beauty And Personal Care Products Market Size & Outlook, 2030",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/beauty-and-personal-care-products-market/china",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Beauty and personal care market to grow from $128.2M (2024) to $203.8M (2030), 8% CAGR"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Young persons with disabilities in rural/community settings needing counselling and reproductive-health referral services",
+        "description": "Young persons with disabilities in rural and community settings lack access to counselling, referral services, and free contraceptives.",
+        "sources": [
+          {
+            "title": "UNPRPD Country Situational Analysis: China",
+            "publisher": "UNPRPD",
+            "url": "https://unprpd.org/new/wp-content/uploads/2024/04/UNPRPD-Country-Brief-China69.pdf",
+            "date": "2024",
+            "scope": "China",
+            "metric": "% of young disabled persons with access to counselling/referral/contraceptive services"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's government explicitly views the sports industry as a new growth driver for the next five years, per an official State Council report (english.www.gov.cn, September 2025), with China-Briefing analysis noting the sports and fitness industry is being positioned to drive new consumption.",
+      "evidenceDate": "2025-09"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "China's National Fitness Program is expected to accelerate growth in the sports and fitness sector over the coming years, according to Asia Sports Tech analysis, aligned with the government's five-year growth-driver framing for the sector.",
+      "evidenceDate": "2025"
+    },
+    "risks": [],
+    "opportunities": [
+      "Sports industry designated a new growth driver by government",
+      "National Fitness Program driving new consumption"
+    ],
+    "sources": [
+      {
+        "title": "China views sports industry as new growth driver in next five years",
+        "publisher": "The State Council, PRC",
+        "url": "https://english.www.gov.cn/news/202509/09/content_WS68c01bccc6d0868f4e8f56f2.html",
+        "date": "2025-09",
+        "scope": "country",
+        "metric": "Sports industry designated as new growth driver for next 5 years"
+      },
+      {
+        "title": "How will China's latest National Fitness Program accelerate growth in the Sports & Fitness sector?",
+        "publisher": "Asia Sports Tech",
+        "url": "https://asiasportstech.com/portfolio/china-fitness-opportunities/",
+        "date": "2025",
+        "scope": "country",
+        "metric": "National Fitness Program impact on sector growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Sports/fitness services in residential elder-care facilities",
+        "description": "Residential elder-care facilities in Chinese cities show a documented shortfall of tailored sports/physical-activity services for institutionalized older adults.",
+        "sources": [
+          {
+            "title": "Supply-demand structural analysis of sports services in Chinese residential care facilities: a cross-sectional study in Zhengzhou",
+            "publisher": "Frontiers in Public Health / PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41938964/",
+            "date": "2026",
+            "scope": "China",
+            "metric": "Cross-sectional supply-demand gap analysis of sports services in residential care facilities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Bain & Company reports China's personal luxury goods market contracted 3-5% in 2025 but shows signs of recovery, and China-Briefing's 2026 outlook similarly frames the market as stabilizing after contraction, with a possible recovery per Luxury Tribune.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Morgan Stanley's Luxury Goods Market Outlook 2026 characterizes the trajectory as moving 'from contraction to caution,' suggesting a stabilizing but not yet robustly growing long-term trend for China's luxury market.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "2025 contraction of 3-5% in personal luxury market",
+      "Cautious consumer sentiment persisting into 2026"
+    ],
+    "opportunities": [
+      "Signs of recovery emerging in 2026 per Bain & Company"
+    ],
+    "sources": [
+      {
+        "title": "China's personal luxury market contracts 3%-5% in 2025 but shows signs of recovery",
+        "publisher": "Bain & Company",
+        "url": "https://www.bain.com/about/media-center/press-releases/2026/chinas-personal-luxury-market-contracts-35-in-2025-but-shows-signs-of-recovery/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Personal luxury market contracted 3-5% in 2025, signs of recovery"
+      },
+      {
+        "title": "Luxury Goods Market Outlook 2026: From Contraction to Caution",
+        "publisher": "Morgan Stanley",
+        "url": "https://www.morganstanley.com/insights/articles/luxury-goods-market-outlook-2026-contraction-to-caution",
+        "date": "2026",
+        "scope": "global with China focus",
+        "metric": "Luxury market trajectory from contraction to caution"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Post-consumer apparel take-back and recycling channels",
+        "description": "China generates over 20 million tonnes of textile waste annually, yet as of 2021 only about 15% was being reused or recycled, up from just 1% in 2016.",
+        "sources": [
+          {
+            "title": "Can China Handle Its 20 Million Tonnes of Textile Waste?",
+            "publisher": "The Business of Fashion",
+            "url": "https://www.businessoffashion.com/briefings/china/can-china-handle-its-20-million-tonnes-of-textile-waste/",
+            "date": "2021",
+            "scope": "China",
+            "metric": "20 million tonnes of textile waste/year; recycling/reuse rate rose from 1% (2016) to ~15% (2021)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Carbon Brief's China Briefing (March 2026) reports new five-year climate goals revealed at the 'Two Sessions' meeting, and China's clean energy economy share continues rising per Carbon Brief's February 2026 briefing on record renewables output.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The Conversation/Eco-Business analysis identifies five structural green-economy challenges facing China in 2026, including balancing growth with emissions targets, indicating a stabilizing but challenge-laden long-term trajectory for the climate economy.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Five identified structural green-economy challenges (per The Conversation/Eco-Business)",
+      "Balancing continued economic growth with emissions targets"
+    ],
+    "opportunities": [
+      "New five-year climate goals set at 2026 Two Sessions",
+      "Record renewables share of the economy"
+    ],
+    "sources": [
+      {
+        "title": "China Briefing 5 March 2026: New five-year climate goals revealed at 'two sessions' meeting",
+        "publisher": "Carbon Brief",
+        "url": "https://www.carbonbrief.org/china-briefing-5-march-2026-new-five-year-climate-goals-revealed-at-two-sessions-meeting/",
+        "date": "2026-03",
+        "scope": "country",
+        "metric": "New five-year climate goals announced March 2026"
+      },
+      {
+        "title": "China's five green economy challenges in 2026",
+        "publisher": "The Conversation / Eco-Business",
+        "url": "https://www.eco-business.com/opinion/chinas-five-green-economy-challenges-in-2026/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Five structural challenges facing China's green economy in 2026"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural drinking water safety and treatment",
+        "description": "A share of the rural population still lacks centralized, safe drinking-water treatment and tap-water access.",
+        "sources": [
+          {
+            "title": "2025 tap water coverage rural areas will reach 90%",
+            "publisher": "UN Sustainable Development Goals Partnership Platform",
+            "url": "https://sdgs.un.org/partnerships/2025-tap-water-coverage-rural-areas-will-reach-90",
+            "date": "2025",
+            "scope": "China",
+            "metric": "National target: rural tap water coverage to reach 90% by 2025"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's hydropower sector is shifting toward flexibility as pumped storage expands, per International Water Power/waterpowermagazine.com reporting tied to the World Hydropower Outlook 2026, indicating active investment in water-based energy infrastructure.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research projects China's water and wastewater treatment equipment market to grow from USD 9,597.7 million (2025) to USD 16,104.5 million by 2033, a 6.8% CAGR (2026-2033), driven by increasing government support, rising disposable income and expanding industrial demand.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Capital intensity of treatment-infrastructure buildout"
+    ],
+    "opportunities": [
+      "Pumped storage hydropower expansion for grid flexibility",
+      "Water/wastewater treatment equipment market to reach $16.1B by 2033 (6.8% CAGR)"
+    ],
+    "sources": [
+      {
+        "title": "China's hydropower sector shifts towards flexibility as pumped storage expands",
+        "publisher": "International Water Power (waterpowermagazine.com)",
+        "url": "https://www.waterpowermagazine.com/analysis/chinas-hydropower-sector-shifts-towards-flexibility-as-pumped-storage-expands/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Pumped storage hydropower expansion trend"
+      },
+      {
+        "title": "China Water And Wastewater Treatment Equipment Market Size & Outlook, 2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/water-and-wastewater-treatment-equipment-market/china",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Water/wastewater treatment equipment market to grow from $9,597.7M (2025) to $16,104.5M (2033), 6.8% CAGR"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural domestic wastewater treatment",
+        "description": "Chinese villages lack adequate decentralized wastewater treatment infrastructure suited to dispersed rural populations.",
+        "sources": [
+          {
+            "title": "Systematic Assessment of Practical Challenges in Rural Domestic Sewage Treatment in China",
+            "publisher": "Separations (MDPI)",
+            "url": "https://doi.org/10.3390/separations11100287",
+            "date": "2024",
+            "scope": "China",
+            "metric": "Assessment of rural sewage treatment model gaps and management challenges"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China's space launches are projected to exceed 100 missions in 2026, with over 60 commercial launches (30+ from private rocket companies), per Global Times reporting; Soochow Securities estimates the commercial aerospace market growing from RMB 1.2 trillion (2024) toward RMB 4.8 trillion by 2027.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Soochow Securities projects China's commercial aerospace market to reach RMB 7.8 trillion by 2030, with multiple coastal cities (Shanghai targeting 150 rockets/500 satellites annual capacity by 2030, Shandong and Guangzhou building dedicated industrial clusters) and a new National Space Administration commercial-space department supporting sustained sector growth.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "Execution risk on rapid launch-cadence targets",
+      "Capital intensity of new industrial cluster buildout"
+    ],
+    "opportunities": [
+      "Commercial aerospace market projected to reach RMB 7.8 trillion by 2030",
+      "Shanghai targeting 150 rockets/500 satellites annual capacity by 2030",
+      "New national commercial-space development department"
+    ],
+    "sources": [
+      {
+        "title": "China's commercial aerospace sector enters 'a period of rapid growth'",
+        "publisher": "Global Times",
+        "url": "https://www.globaltimes.cn/page/202606/1362586.shtml",
+        "date": "2026-06",
+        "scope": "country",
+        "metric": "Commercial aerospace market from RMB 1.2T (2024) to RMB 4.8T (2027) and RMB 7.8T (2030); 100+ launches in 2026"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "China's state-led aerospace/space sector is a dominant global player with no clearly underserved commercial niche identifiable via open search.",
+      "sources": []
+    }
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China proposed a 7% rise in 2026 military spending, reaching approximately $275 billion, according to The Defense News, continuing a multi-year trend of steady defense budget growth.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Forecast International's Defense Security Monitor (Jan 2026) analysis of China's 15th Five-Year Plan identifies sustained, incremental military modernization through 2030 emphasizing quantum sensing, AI-enabled hypersonic-defense systems and counter-UAS/cyber capabilities, with the PLA's 2027 centennial as a near-term demonstration milestone en route to 2035 innovation-leadership goals.",
+      "evidenceDate": "2026-01"
+    },
+    "risks": [
+      "Corruption and leadership turnover potentially disrupting 2027 PLA modernization targets, per US DoD assessment"
+    ],
+    "opportunities": [
+      "7% year-on-year increase in 2026 military spending to ~$275 billion",
+      "15th Five-Year Plan prioritizes quantum sensing, AI and counter-hypersonic technology development through 2030"
+    ],
+    "sources": [
+      {
+        "title": "China Proposes 7% Rise in 2026 Military Spending, Reaching $275 Billion",
+        "publisher": "The Defense News",
+        "url": "https://www.thedefensenews.com/news-details/China-Proposes-7-Rise-in-2026-Military-Spending-Reaching-275-Billion/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "2026 military spending proposed to rise 7% to ~$275 billion"
+      },
+      {
+        "title": "Analysis of China's 15th Five-Year Plan and Its Expected Impact on China's Military Modernization",
+        "publisher": "Forecast International - Defense Security Monitor",
+        "url": "https://dsm.forecastinternational.com/2026/01/21/analysis-of-chinas-15th-five-year-plan-and-its-expected-impact-on-chinas-military-modernization/",
+        "date": "2026-01",
+        "scope": "country",
+        "metric": "15th FYP military modernization priorities and 2027/2035 milestones"
+      }
+    ],
+    "noGapReason": {
+      "code": "saturated",
+      "note": "China's defense sector is dominated by large state-owned conglomerates with cybersecurity also concentrated among major state-linked vendors, leaving no clearly visible commercial gap.",
+      "sources": [
+        {
+          "title": "China's Cybersecurity Industry: A Market Analysis",
+          "publisher": "China Briefing",
+          "url": "https://www.china-briefing.com/news/chinas-cybersecurity-industry-a-market-analysis/",
+          "date": "2024",
+          "scope": "China",
+          "metric": "Overview of concentrated cybersecurity vendor landscape"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Merics' analysis of China's 2026 budget notes it 'prioritizes technology, reveals stretched public finances,' indicating the government is maintaining spending commitments (especially on tech and investment) even as fiscal space narrows, per Sinolytics' 2026 fiscal policy review.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "China-Briefing's analysis of the 15th Five-Year Plan (2026-2030) details public-service expansion targets -- licensed doctors per 1,000 people rising to 3.7 (from 3.1), elderly-care nursing-bed coverage to 73% (from 68%), expanded daycare enrollment, and life expectancy to 80 years -- funded via measures like a RMB 100 billion domestic-demand fund and RMB 250 billion in ultra-long treasury bonds, indicating steady policy-driven public-service investment rather than a major structural shift.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Stretched public finances per Merics analysis of the 2026 budget"
+    ],
+    "opportunities": [
+      "Continued prioritization of technology and investment spending in the 2026 budget",
+      "15th Five-Year Plan targets: doctors/1000 pop up to 3.7, elderly-care bed coverage to 73%, life expectancy to 80 by 2030"
+    ],
+    "sources": [
+      {
+        "title": "China's 2026 budget prioritizes technology, reveals stretched public finances",
+        "publisher": "Merics",
+        "url": "https://merics.org/en/tracker/chinas-2026-budget-prioritizes-technology-reveals-stretched-public-finances",
+        "date": "2026",
+        "scope": "country",
+        "metric": "2026 budget priorities and fiscal constraints"
+      },
+      {
+        "title": "China's 2026 Fiscal Policy: Spending on Tech & Investment",
+        "publisher": "Sinolytics",
+        "url": "https://sinolytics.de/global-business-news/blog/china-policy/china-fiscal-policy-2026-strategic-spending-investment/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "2026 fiscal policy spending priorities"
+      },
+      {
+        "title": "China's 15th Five-Year Plan: Key Insights for Foreign Investors",
+        "publisher": "China Briefing (Dezan Shira & Associates)",
+        "url": "https://www.china-briefing.com/news/chinas-15th-five-year-plan-key-insights-for-foreign-investors/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "15th FYP public-service targets (healthcare workforce, elderly care, daycare, life expectancy) for 2030"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural residents in villages at risk of losing their only local doctor, needing permanent village-level primary care",
+        "description": "Rural villages risk losing their only local doctor and lack permanent, staffed village-level primary care.",
+        "sources": [
+          {
+            "title": "Medical circuits to serve isolated and remote villages without resident doctors",
+            "publisher": "The State Council, People's Republic of China",
+            "url": "https://english.www.gov.cn/policies/policywatch/202305/10/content_WS645af2f5c6d03ffcca6ecee5.html",
+            "date": "2023-05-10",
+            "scope": "China",
+            "metric": "Policy confirmation of villages lacking resident doctors"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "The Diplomat (Feb 2025, citing Amity Foundation estimates) reports total Chinese charitable donations fell to roughly RMB 120 billion ($17B) in 2024, a 14.3% decline from 2022 and the lowest since 2014, driven by the real-estate sector's corporate-giving collapse (Evergrande, Country Garden) and a 71.7% YoY drop in Tencent's flagship '99 Giving Day' online fundraising.",
+      "evidenceDate": "2025-02"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "China Development Brief's 2025 analysis (citing China Philanthropy Research Institute at Beijing Normal University) identifies climate and health philanthropy tied to China's 2024-2030 national climate and health action plan, and projects community-based, grassroots philanthropy to grow substantially from 2025 onward under revised legal frameworks -- pointing to structural diversification and long-term growth even as near-term corporate/individual giving has declined.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Multi-year decline in corporate and individual charitable giving",
+      "Trust deficit -- only 23% of Chinese social-delivery organizations seen as 'generally trusted,' per The Diplomat/researcher survey citation",
+      "Real-estate sector distress removing a historically major donor base",
+      "Long-term growth areas (climate philanthropy, grassroots giving) remain small relative to the sector and lack quantified multi-year targets"
+    ],
+    "opportunities": [
+      "151 billion yuan ($20.6B) still channeled through registered social organizations and Red Cross in 2023 per Giving China 2024 report, led by healthcare (36.7%) and education (24.9%) causes",
+      "Climate and health philanthropy positioned as a strategic priority through China's 2024-2030 national climate and health action plan",
+      "Community-based/grassroots philanthropy expected to grow substantially from 2025 under revised legal frameworks, per China Development Brief"
+    ],
+    "sources": [
+      {
+        "title": "2024 Was a Dismal Year for Chinese Philanthropy",
+        "publisher": "The Diplomat",
+        "url": "https://thediplomat.com/2025/02/2024-was-a-dismal-year-for-chinese-philanthropy/",
+        "date": "2025-02",
+        "scope": "country",
+        "metric": "Charitable donations fell to ~RMB 120B in 2024, -14.3% vs 2022, lowest since 2014"
+      },
+      {
+        "title": "Chinese charitable donations total 151b in 2023",
+        "publisher": "China Daily (citing Giving China 2024 report, Tsinghua Institute for Philanthropy)",
+        "url": "https://www.chinadaily.com.cn/a/202504/08/WS67f4e0ada3104d9fd381e29b.html",
+        "date": "2025-04",
+        "scope": "country",
+        "metric": "2023 charitable donations totaled RMB 151B ($20.6B), by sector allocation"
+      },
+      {
+        "title": "Five Trends Shaping Chinese Philanthropy in 2025 - Insights from the China Philanthropy Research Institute at Beijing Normal University",
+        "publisher": "China Development Brief",
+        "url": "https://chinadevelopmentbrief.org/reports/five-trends-shaping-chinese-philanthropy-in-2025-insights-from-the-china-philanthropy-research-institute-at-beijing-normal-university/",
+        "date": "2025",
+        "scope": "country",
+        "metric": "Long-term philanthropic sector trends: climate/health giving, grassroots philanthropy growth"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Eldercare bed capacity for aging-in-place seniors",
+        "description": "China's nursing-home bed capacity fell by about 64,000 beds (a 0.8% drop) in 2023 even as the over-60 population reached nearly 300 million.",
+        "sources": [
+          {
+            "title": "China's nursing home capacity falling despite aging population",
+            "publisher": "Trivium China",
+            "url": "https://triviumchina.com/2024/09/05/chinas-nursing-home-capacity-falling-despite-aging-population/",
+            "date": "2024-09-05",
+            "scope": "China",
+            "metric": "8.3 million nursing-home beds across 387,000 facilities in 2022; capacity down 64,000 beds (-0.8%) in 2023"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "China Briefing reports China's quantum computing sector reached RMB 11.56 billion (US$1.61 billion) in 2025 with sustained annual growth above 30%, after attracting RMB 46.27 billion (US$6.45 billion) in capital during 2024; the number of companies in the sector nearly doubled from 93 (2023) to 153 (2024).",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "China's 15th Five-Year Plan (2026-2030) names quantum technology first among seven 'future industries' targeted as new economic growth points, backed by a RMB 121.8 billion (US$17.5 billion) National Venture Guidance Fund allocation across regional quantum investment funds; China already files over 50% of global quantum-technology patents annually (2022-2024).",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regional quantum funds' capital deployment concentrated in 2027-2028, creating a near-term funding gap",
+      "High R&D capital intensity with long commercialization timelines"
+    ],
+    "opportunities": [
+      "Quantum designated the top 'future industry' in the 15th Five-Year Plan",
+      "RMB 121.8B state venture-guidance funding earmarked for quantum investment",
+      "China filing >50% of global quantum-technology patents annually"
+    ],
+    "sources": [
+      {
+        "title": "China's Quantum Technology: From Lab to Market",
+        "publisher": "China Briefing (Dezan Shira & Associates)",
+        "url": "https://www.china-briefing.com/news/chinas-quantum-technology-15th-fyp-commercialization/",
+        "date": "2026",
+        "scope": "country",
+        "metric": "Quantum computing sector at RMB 11.56B (2025), 30%+ annual growth, RMB 121.8B state fund allocation for 2026-2030"
+      }
+    ],
+    "noGapReason": {
+      "code": "data_unavailable",
+      "note": "Could not find a specific, checkable sourced gap in China's emerging/frontier tech segment distinct from state-led programs.",
+      "sources": []
+    }
+  }
+]

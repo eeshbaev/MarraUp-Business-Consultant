@@ -1,0 +1,2163 @@
+[
+  {
+    "sectorId": "agriculture_food_and_agribusiness",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Canadian agriculture faces mixed conditions in 2026: grain and feed output remains solid per USDA/Ottawa reporting, but trade uncertainty and input costs weigh on margins. StatCan's Census of Agriculture continues to track structural consolidation of farms.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Long-term demand for Canadian food exports remains supported by global food security needs, though the sector faces headwinds from farm consolidation, labour shortages, and climate variability affecting yields.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "US tariff and trade policy uncertainty affecting exports",
+      "Rising input costs and interest rates squeezing farm margins",
+      "Climate variability affecting crop yields"
+    ],
+    "opportunities": [
+      "Growing global demand for grain exports",
+      "Agri-food processing and value-add investment"
+    ],
+    "sources": [
+      {
+        "title": "Canada - Grain and feed, annual report",
+        "publisher": "USDA FAS",
+        "url": "https://www.fas.usda.gov/data/gain-report/2026/04/Grain%20and%20Feed%20Annual_Ottawa_Canada_CA2026-0009.pdf",
+        "date": "2026-04",
+        "scope": "Canada",
+        "metric": "grain and feed production/trade outlook"
+      },
+      {
+        "title": "Census of Agriculture",
+        "publisher": "Statistics Canada",
+        "url": "https://www.statcan.gc.ca/en/census-agriculture",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "farm structure and output data"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Grain and livestock producers running internet-connected precision-ag equipment without accompanying cybersecurity infrastructure",
+        "description": "Grain and livestock farms running internet-connected precision-ag equipment lack any cybersecurity incident response plan or protection against remote tampering.",
+        "sources": [
+          {
+            "title": "Cybersecurity blind spots put Alberta farms at risk",
+            "publisher": "Calgary Journal",
+            "url": "https://calgaryjournal.ca/2025/12/30/cybersecurity-blind-spots-put-alberta-farms-at-risk/",
+            "date": "2025-12-30",
+            "scope": "Canada (Alberta)",
+            "metric": "% of farms without incident response plan; % of ag suppliers attacked"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "mining_minerals_and_natural_resources",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Canada secured 30 new critical minerals partnerships and $12.1 billion in mining project capital as of March 2026, reflecting strong federal push and investor interest in critical minerals.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The IEA and Natural Resources Canada expect Canada to play a leading global role supplying responsibly-produced critical minerals over the coming decade, supported by federal strategy and exploration investment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Permitting timelines and Indigenous consultation complexity",
+      "Global commodity price volatility"
+    ],
+    "opportunities": [
+      "Critical minerals demand from EV/battery and defense supply chains",
+      "New federal capital unlocking projects ($12.1B announced)"
+    ],
+    "sources": [
+      {
+        "title": "Canada secures 30 new critical minerals partnerships and unlocks $12.1 billion in mining project capital",
+        "publisher": "Natural Resources Canada",
+        "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/03/canada-secures-30-new-critical-minerals-partnerships-and-unlocks-121-billion-in-mining-project-capital.html",
+        "date": "2026-03",
+        "scope": "Canada",
+        "metric": "critical minerals investment and partnerships"
+      },
+      {
+        "title": "Canada is set to play a leading role in supplying the world with responsibly produced critical minerals",
+        "publisher": "IEA",
+        "url": "https://www.iea.org/commentaries/canada-is-set-to-play-a-leading-role-in-supplying-the-world-with-responsibly-produced-critical-minerals",
+        "date": "2026",
+        "scope": "global",
+        "metric": "critical minerals supply outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Geological and mineral technician training/placement services",
+        "description": "Canadian mining companies can't hire enough geological and mineral technicians because too few colleges offer mining-technology training and the current workforce is retiring.",
+        "sources": [
+          {
+            "title": "2024 Spotlight: Geological and Mineral Technicians",
+            "publisher": "Mining Industry Human Resources Council (MiHR)",
+            "url": "https://mihr.ca/wp-content/uploads/2024/04/MiHR-Occ-Spotlight-Mining-Technicians-EN-2024.pdf",
+            "date": "2024",
+            "scope": "Canada",
+            "metric": "18/159 colleges offer mining tech programs; 22% of workforce near/past retirement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "energy_and_power",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The Canada Energy Regulator's Canada's Energy Future 2026 report identifies natural gas and electricity as pivotal forces shaping near-term energy supply and demand.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "CER's projections to 2050 show continued growth in electricity demand and evolving natural gas roles amid decarbonization, with new national electricity strategy investment planned.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Policy uncertainty around emissions regulation",
+      "Capital intensity of grid buildout"
+    ],
+    "opportunities": [
+      "Electrification and grid expansion investment",
+      "LNG export growth"
+    ],
+    "sources": [
+      {
+        "title": "Canada's Energy Future 2026: Energy Supply and Demand Projections to 2050",
+        "publisher": "Canada Energy Regulator",
+        "url": "https://www.cer-rec.gc.ca/en/data-analysis/canada-energy-future/2026/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "energy supply/demand projections"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Interim power/interconnection solutions for large-load developers (data centres)",
+        "description": "Large-load data centre developers in Alberta and Ontario lack interim power and interconnection solutions while grid connection capacity is capped and constrained.",
+        "sources": [
+          {
+            "title": "Powering AI: Canada's evolving electricity grid connection policies",
+            "publisher": "Osler, Hoskin & Harcourt LLP",
+            "url": "https://www.osler.com/en/insights/reports/2025-legal-outlook/powering-ai-canadas-evolving-electricity-grid-connection-policies/",
+            "date": "2025",
+            "scope": "Canada",
+            "metric": "Alberta capped large-load connections at 1,200 MW until 2028; Ontario data centres forecast at 13% of new demand by 2035"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "utilities_and_essential_infrastructure",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Prime Minister Carney announced a forthcoming National Electricity Strategy in May 2026 with major grid investment plans, and Natural Resources Canada is funding grid technology roadmaps for reliability and affordability.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Canada's electrification push and grid modernization (per Electro-Federation Canada's grid technology roadmap) is expected to drive sustained utility infrastructure investment through the 2030s.",
+      "evidenceDate": "2026-04"
+    },
+    "risks": [
+      "High capital costs for grid expansion",
+      "Interprovincial coordination challenges"
+    ],
+    "opportunities": [
+      "National Electricity Strategy investment",
+      "Grid modernization and reliability upgrades"
+    ],
+    "sources": [
+      {
+        "title": "Prime Minister Carney announces forthcoming National Electricity Strategy",
+        "publisher": "Prime Minister of Canada",
+        "url": "https://www.pm.gc.ca/en/news/news-releases/2026/05/14/prime-minister-carney-announces-forthcoming-national-electricity",
+        "date": "2026-05",
+        "scope": "Canada",
+        "metric": "national electricity strategy announcement"
+      },
+      {
+        "title": "Building Canada's Future Electricity Grid: A Supply Chain and Policy Roadmap",
+        "publisher": "Electro-Federation Canada",
+        "url": "https://www.electrofed.com/wp-content/uploads/2026/04/EFC_Grid-Technology-Roadmap_Final-Report_2026-04-07-v2.pdf",
+        "date": "2026-04",
+        "scope": "Canada",
+        "metric": "grid investment roadmap"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Rural and First Nations drinking water treatment",
+        "description": "Some First Nations communities have lived under boil-water advisories for decades because reliable drinking-water treatment infrastructure was never built or maintained.",
+        "sources": [
+          {
+            "title": "Neskantaga First Nation boil water advisory",
+            "publisher": "Government of Canada / CBC reporting",
+            "url": "https://www.cbc.ca/news/canada/thunder-bay/neskantaga-boil-water-advisory-1.6959021",
+            "date": "2024",
+            "scope": "Canada",
+            "metric": "Neskantaga First Nation has lived under a boil-water advisory for roughly 30 years"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "manufacturing_and_industrial",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "StatCan reported Canadian manufacturing saw its largest monthly growth in three years in mid-2026 as factory activity expanded after an 11-month contraction, though tariff pressures from the US continue to weigh on the sector.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The sector's medium-term trajectory depends heavily on US-Canada trade relations and tariff resolution; Global Affairs Canada's quarterly trade reports track ongoing adjustment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "US tariffs on Canadian manufactured goods and autos",
+      "Supply chain and trade policy uncertainty"
+    ],
+    "opportunities": [
+      "Recent rebound in factory activity/PMI",
+      "Reshoring and supply chain diversification"
+    ],
+    "sources": [
+      {
+        "title": "Canadian manufacturing just saw largest monthly growth in 3 years: StatCan",
+        "publisher": "Global News / Statistics Canada",
+        "url": "https://globalnews.ca/news/11823847/canada-economy-manufacturing-data-statistics-canada/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "manufacturing sales growth"
+      },
+      {
+        "title": "Recent developments in the Canadian economy: Spring 2026",
+        "publisher": "Statistics Canada",
+        "url": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2026004/article/00005-eng.htm",
+        "date": "2026-04",
+        "scope": "Canada",
+        "metric": "economic conditions including manufacturing"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Digital transformation tooling for small and mid-sized manufacturers",
+        "description": "Small and mid-sized Canadian manufacturers lack integrated digital data systems and advanced tooling to run digital transformation projects.",
+        "sources": [
+          {
+            "title": "Most Canadian Manufacturers Remain In Early Stages Of Digital Transformation: ICTC Report",
+            "publisher": "Information and Communications Technology Council (ICTC), via Plant Magazine",
+            "url": "https://www.plant.ca/technology/most-canadian-manufacturers-remain-in-early-stages-of-digital-transformation-ictc-report/",
+            "date": "2024",
+            "scope": "Canada",
+            "metric": "Majority of SME manufacturers in early-stage digital maturity"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "construction_and_infrastructure",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "CMHC's Summer 2026 outlook and July 2026 forecast revisions show home sales and prices declining, with housing starts momentum slowing amid economic uncertainty weighing on demand.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "CMHC projects a 'slow' housing market in Canada for the next several years with new construction lagging population growth needs, though long-term underlying housing demand remains structurally high.",
+      "evidenceDate": "2026-02"
+    },
+    "risks": [
+      "Elevated interest rates and construction costs",
+      "Weak home sales suppressing new construction starts"
+    ],
+    "opportunities": [
+      "Long-term housing supply gap creating sustained demand",
+      "Government housing supply initiatives"
+    ],
+    "sources": [
+      {
+        "title": "CMHC now sees home sales, prices declining in 2026 amid weaker market activity",
+        "publisher": "CMHC / ConstructConnect",
+        "url": "https://canada.constructconnect.com/dcn/news/economic/2026/07/cmhc-now-sees-home-sales-prices-declining-in-2026-amid-weaker-market-activity",
+        "date": "2026-07",
+        "scope": "Canada",
+        "metric": "home sales and price forecast"
+      },
+      {
+        "title": "CMHC forecast: 'Slow' housing market in Canada",
+        "publisher": "CMHC / BNN Bloomberg",
+        "url": "https://www.bnnbloomberg.ca/business/2026/02/11/cmhc-predicts-a-slow-housing-market-for-the-next-several-years-with-new-construction-lagging/",
+        "date": "2026-02",
+        "scope": "Canada",
+        "metric": "housing starts / construction forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Entry-level residential trades staffing and training services",
+        "description": "Residential construction firms can't find or train enough entry-level trades helpers and labourers to fill a rapidly growing vacancy gap.",
+        "sources": [
+          {
+            "title": "More workers are building housing in Canada, but labour shortages remain",
+            "publisher": "Statistics Canada",
+            "url": "https://www.statcan.gc.ca/o1/en/plus/5661-more-workers-are-building-housing-canada-labour-shortages-remain",
+            "date": "2024-02-20",
+            "scope": "Canada",
+            "metric": "Construction helper/labourer vacancies +153.5% since Q3 2015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "real_estate_and_property",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "CREA downgraded its resale housing market forecast amid tariff uncertainty and economic weakness; June 2026 home sales edged up only slightly per CBC reporting, and CREA continues revising forecasts downward through 2026-2027.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "While residential resale remains subdued, CBRE projects commercial real estate investment rising to $56B this year, suggesting divergent trajectories across residential and commercial real estate segments.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Tariff-driven economic uncertainty suppressing home sales",
+      "Affordability constraints amid high prices"
+    ],
+    "opportunities": [
+      "Rebounding commercial real estate investment (CBRE forecast)",
+      "Population growth supporting long-term housing demand"
+    ],
+    "sources": [
+      {
+        "title": "CREA Updates Resale Housing Market Forecast for 2026 and 2027",
+        "publisher": "CREA",
+        "url": "https://www.crea.ca/media-hub/news/crea-downgrades-resale-housing-market-forecast-amid-tariff-uncertainty-and-economic-uncertainty/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "resale housing sales/price forecast"
+      },
+      {
+        "title": "CBRE sees commercial real estate investment rising to $56B this year",
+        "publisher": "CBRE / Barchart",
+        "url": "https://www.barchart.com/story/news/37386352/cbre-sees-commercial-real-estate-investment-rising-to-56b-this-year",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "commercial real estate investment forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Right-sized housing for seniors wanting to downsize",
+        "description": "65% of Canadians aged 65+ report low or no availability of suitable smaller homes to downsize into in their community, keeping them in oversized housing.",
+        "sources": [
+          {
+            "title": "65% of Canadians 65+ report low or no downsizing options: Remax Canada",
+            "publisher": "Real Estate Magazine (REM), citing Remax Canada survey",
+            "url": "https://realestatemagazine.ca/65-of-canadians-65-report-low-or-no-downsizing-options-remax-canada/",
+            "date": "2026-04-15",
+            "scope": "Canada",
+            "metric": "65% of Canadians 65+ report low/no downsizing housing options; only 16% expect to move to a smaller home in the next decade"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "transportation_and_mobility",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Canadian National Railway raised its 2026 volume outlook as freight demand firms, per industry reporting, indicating resilient transportation demand despite broader trade uncertainty.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Transport Canada's annual reporting tracks ongoing sector adjustment to trade pattern shifts and infrastructure investment needs across rail, trucking and freight modes.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Trade policy disruption affecting cross-border freight volumes",
+      "Labour and capacity constraints"
+    ],
+    "opportunities": [
+      "Rising freight volumes and rail network investment",
+      "Supply chain diversification driving new routes"
+    ],
+    "sources": [
+      {
+        "title": "Canadian National Railway raises its 2026 volume outlook as freight demand firms",
+        "publisher": "MarketScale",
+        "url": "https://www.marketscale.com/industries/transportation/canadian-national-railway-raises-its-2026-volume-outlook-as-freight-demand-firms",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "rail freight volume outlook"
+      },
+      {
+        "title": "Transportation in Canada annual report 2025",
+        "publisher": "Transport Canada",
+        "url": "https://tc.canada.ca/en/corporate-services/transparency/corporate-management-reporting/transportation-canada-annual-reports/transportation-canada-annual-report-2025",
+        "date": "2025",
+        "scope": "Canada",
+        "metric": "sector performance report"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "EV charging infrastructure in rural/northern communities",
+        "description": "Rural and northern Canadian communities lack EV charging infrastructure because federal funding has concentrated ports in Ontario, Quebec, and British Columbia.",
+        "sources": [
+          {
+            "title": "Report 8—The Zero Emission Vehicle Infrastructure Program—Natural Resources Canada",
+            "publisher": "Office of the Auditor General of Canada",
+            "url": "https://www.canada.ca/en/auditor-general/our-work/audit-reports/parl-cesd-202311-08-e.html",
+            "date": "2023-11",
+            "scope": "Canada",
+            "metric": "87% of funded EV charging ports concentrated in ON/QC/BC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "logistics_and_supply_chain",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Industry analysis (IBISWorld, freight forwarding trend reports) points to a mixed 2026 for Canadian logistics, with freight and trucking adapting to tariff-driven trade shifts and softer volumes in some corridors.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Market research firms (Grand View Research, IMARC) project continued multi-year growth of the Canadian freight and logistics market through the early 2030s, driven by e-commerce and supply chain diversification.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Tariff and cross-border trade disruption",
+      "Driver/labour shortages in trucking"
+    ],
+    "opportunities": [
+      "E-commerce-driven logistics demand",
+      "Supply chain nearshoring/diversification"
+    ],
+    "sources": [
+      {
+        "title": "Canada Freight and Logistics Market Size and Forecast",
+        "publisher": "IMARC Group",
+        "url": "https://www.imarcgroup.com/canada-freight-logistics-market",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "freight/logistics market size forecast"
+      },
+      {
+        "title": "Local Freight Trucking in Canada Industry Analysis, 2026",
+        "publisher": "IBISWorld",
+        "url": "https://www.ibisworld.com/canada/industry/local-freight-trucking/1149/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "trucking industry analysis"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Long-haul freight trucking recruitment and retention services",
+        "description": "Long-haul freight carriers can't recruit or retain enough truck drivers as tens of thousands of positions go unfilled and current drivers near retirement.",
+        "sources": [
+          {
+            "title": "PWC Report: Truck Driver Shortage a Risk to Canada's Economy",
+            "publisher": "Canadian Trucking Alliance / PwC",
+            "url": "https://cantruck.ca/pwc-report-truck-driver-shortage-a-risk-to-canadas-economy/",
+            "date": "2023-2024",
+            "scope": "Canada",
+            "metric": "~20,000 driver shortage, projected 30,000; Ontario short ~6,100 drivers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "wholesale_and_distribution",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Statistics Canada's Daily reporting for 2026 (retail trade releases and wholesale sales data via Trading Economics) shows wholesale sales falling more than initially thought in recent months, indicating softness in distribution activity.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "Job Bank's sectoral profile for wholesale trade (Ontario, Canada's largest wholesale market) forecasts \"subdued growth\" over the 2025-2027 period. Trade disruptions, U.S. tariffs, reduced exports, manufacturing-sector weakness and delayed business investment are expected to weigh on sector employment through 2027, partially offset by continued construction-sector demand for building materials/machinery wholesaling, e-commerce/warehouse-automation investment, and grocery-retail expansion supporting food and beverage wholesaling.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Weak wholesale sales trend",
+      "Trade and tariff-driven demand softness",
+      "Subdued sector growth forecast for 2025-2027 due to tariffs, trade disruption and reduced exports (Ontario, largest wholesale market)"
+    ],
+    "opportunities": [
+      "Retail sector recovery could lift wholesale demand",
+      "Construction-sector demand, e-commerce/warehouse automation investment and grocery expansion expected to partially offset headwinds through 2027"
+    ],
+    "sources": [
+      {
+        "title": "Wholesale trade, sales",
+        "publisher": "Statistics Canada",
+        "url": "https://open.canada.ca/data/en/dataset/57fff1ed-1240-4004-9b37-8c43c0fc249a",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "wholesale sales data"
+      },
+      {
+        "title": "Canada Wholesale Sales Fall More Than Initially Thought",
+        "publisher": "Trading Economics / Statistics Canada",
+        "url": "https://tradingeconomics.com/canada/wholesale-sales/news/532939",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "wholesale sales trend"
+      },
+      {
+        "title": "Sectoral profile - Wholesale Trade: Ontario 2024-2026",
+        "publisher": "Job Bank (Employment and Social Development Canada)",
+        "url": "https://www.jobbank.gc.ca/trend-analysis/job-market-reports/ontario/sectoral-profile-wholesale-trade",
+        "date": "2025",
+        "scope": "Canada (Ontario)",
+        "metric": "wholesale trade sector employment and demand outlook, 2025-2027"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Last-mile cold chain capacity in grocery distribution",
+        "description": "Canadian grocery distributors face a last-mile cold-chain capacity shortfall that limits how much perishable inventory can reliably reach smaller or remote retailers.",
+        "sources": [
+          {
+            "title": "Cold Storage Market Analysis",
+            "publisher": "Avison Young",
+            "url": "https://www.avisonyoung.com/insights/cold-storage",
+            "date": "2024",
+            "scope": "Canada",
+            "metric": "Cold storage capacity shortfall identified relative to grocery distribution demand"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "retail_and_commerce",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Statistics Canada's Daily retail trade releases (March and June 2026) and TD Economics tracking show Canadian retail sales holding roughly steady with demand strengthening in volume terms per Retail Insider's June 2026 monitor.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Consumer spending trends tracked by IBISWorld and StatCan show retail demand tied closely to broader Canadian economic conditions, expected to remain steady but not strongly expansionary.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Consumer spending sensitivity to interest rates and inflation",
+      "Cross-border shopping/tariff effects"
+    ],
+    "opportunities": [
+      "Demand volumes rising per Retail Insider's 2026 monitor",
+      "E-commerce and retail media growth"
+    ],
+    "sources": [
+      {
+        "title": "The Daily — Retail trade, June 2026",
+        "publisher": "Statistics Canada",
+        "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260821/dq260821a-eng.htm",
+        "date": "2026-06",
+        "scope": "Canada",
+        "metric": "retail trade sales"
+      },
+      {
+        "title": "Canadian Retail June 2026: Statistics Canada & Consumer Data",
+        "publisher": "Retail Insider",
+        "url": "https://retail-insider.com/retail-insider/2026/09/retail-insiders-canadian-retail-monitor-june-2026-demand-strengthens-as-volumes-rise/",
+        "date": "2026-09",
+        "scope": "Canada",
+        "metric": "retail demand volumes"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Turnkey e-commerce enablement for time-constrained small business owners",
+        "description": "Time-constrained small business owners with a website lack turnkey e-commerce tools to sell directly online.",
+        "sources": [
+          {
+            "title": "Small Business Digital Presence: Navigating Opportunities and Obstacles",
+            "publisher": "Canadian Federation of Independent Business (CFIB)",
+            "url": "https://www.cfib-fcei.ca/en/research-economic-analysis/sme-digital-presence",
+            "date": "2025-09",
+            "scope": "Canada",
+            "metric": "78% have a website; only 33% of website owners sell online"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "financial_services_and_fintech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "KPMG's H1 2026 Pulse of Fintech report shows Canadian fintech investment nearing US$1 billion in H1 2026, with AI and open banking reshaping financial services per industry coverage.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Industry trend reports (RFI Global, Fintech Times) identify AI adoption and open banking as key structural drivers of continued growth in Canadian financial services through the late 2020s.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regulatory uncertainty around open banking implementation",
+      "Competitive pressure from global fintech entrants"
+    ],
+    "opportunities": [
+      "Rising fintech investment (~US$1B H1 2026)",
+      "AI-driven product innovation in banking"
+    ],
+    "sources": [
+      {
+        "title": "KPMG H1'26 Pulse of Fintech Report: Canadian Fintech Investment Nears US$1 Billion in H1 2026",
+        "publisher": "KPMG / T-Net News",
+        "url": "https://www.bctechnology.com/news/2026/8/31/KPMG-H126-Pulse-of-Fintech-Report-Canadian-Fintech-Investment-Nears-US1-Billion-in-H1-2026.cfm?id=50811",
+        "date": "2026-08",
+        "scope": "Canada",
+        "metric": "fintech investment volume"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Indigenous-owned businesses structurally excluded from commercial credit by Indian Act collateral restrictions",
+        "description": "Indigenous-owned businesses lack access to commercial credit because Indian Act rules bar on-reserve property from being used as loan collateral.",
+        "sources": [
+          {
+            "title": "The $500 Billion Gap: Understanding Indigenous Finance Challenges in Canada",
+            "publisher": "Addenda Capital",
+            "url": "https://addendacapital.com/en/insights-news/the-500-billion-gap-understanding-indigenous-finance-challenges-in-canada",
+            "date": "2024",
+            "scope": "Canada",
+            "metric": "% of national credit held by Indigenous businesses vs. population share"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "insurance_and_risk_management",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Insurance Bureau of Canada's 2026 priorities focus on protecting Canadians amid economic uncertainty, while KPMG's 2026 insurance trends outlook highlights industry adaptation to climate and economic pressures.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "EY's Canadian Insurance Outlook 2026 and IBC's National Adaptation Strategy commentary point to a sector navigating rising climate-related claims costs while pursuing digital transformation.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rising climate-related claims costs",
+      "Economic uncertainty affecting commercial insurance demand"
+    ],
+    "opportunities": [
+      "Digital transformation and AI in underwriting",
+      "Commercial insurance initiative progress per IBC"
+    ],
+    "sources": [
+      {
+        "title": "IBC's Priorities for 2026: Protecting Canadians in an uncertain economy",
+        "publisher": "Insurance Bureau of Canada",
+        "url": "https://www.ibc.ca/news-insights/in-focus/ibc-s-priorities-for-2026-protecting-canadians-in-an-uncertain-economy",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "industry priorities/conditions"
+      },
+      {
+        "title": "Canadian Insurance Outlook 2026",
+        "publisher": "EY Canada",
+        "url": "https://www.ey.com/en_ca/insights/insurance/canadian-insurance-outlook-2026",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "sector outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Homeowners in Canada's highest flood-risk zones being priced out of or denied overland flood coverage",
+        "description": "Homeowners in Canada's highest flood-risk zones can't obtain or afford overland flood insurance coverage.",
+        "sources": [
+          {
+            "title": "Up to 10% of homes could now be 'uninsurable' because of flood risk",
+            "publisher": "CBC News (Marketplace)",
+            "url": "https://www.cbc.ca/news/canada/marketplace-home-insurance-1.6262386",
+            "date": "2022",
+            "scope": "Canada",
+            "metric": "% of homes classified as uninsurable due to flood risk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "information_technology_and_software",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "McCarthy Tétrault's Technology Perspectives Outlook 2026 and Invest in Canada's technology sector data point to continued expansion, driven heavily by AI investment and Canada's National AI Strategy launch.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "C.D. Howe Institute research on AI investment translating to productivity gains, alongside federal AI strategy funding, supports a positive long-term trajectory for Canadian IT/software.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Global tech competition for talent and capital",
+      "AI productivity gains uncertain to fully materialize per C.D. Howe research"
+    ],
+    "opportunities": [
+      "National AI Strategy investment",
+      "Growing enterprise software/AI adoption"
+    ],
+    "sources": [
+      {
+        "title": "Technology Perspectives Outlook 2026",
+        "publisher": "McCarthy Tétrault",
+        "url": "https://www.mccarthy.ca/en/insights/publications/technology-perspectives-outlook-2026",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "tech sector outlook"
+      },
+      {
+        "title": "From Hype to Output: How AI Investment Translates to Real Productivity Gains",
+        "publisher": "C.D. Howe Institute",
+        "url": "https://cdhowe.org/publication/from-hype-to-output-how-ai-investment-translates-to-real-productivity-gains/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "AI investment productivity impact"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "SMB e-commerce/online-sales enablement tools",
+        "description": "Micro and small non-retail businesses (services, wholesale, trades) with a website lack affordable, easy-to-deploy online-ordering and e-commerce enablement software.",
+        "sources": [
+          {
+            "title": "Small Business Digital Presence: Navigating Opportunities and Obstacles",
+            "publisher": "Canadian Federation of Independent Business (CFIB)",
+            "url": "https://www.cfib-fcei.ca/en/research-economic-analysis/sme-digital-presence",
+            "date": "2025-12-17",
+            "scope": "Canada",
+            "metric": "Of Canadian small businesses with a website, only 33% use it for direct online sales — 67% of small-business websites lack e-commerce/online-sales functionality; website adoption is only 70% among micro firms (0-4 employees) vs 91% for firms with 50+ staff (CFIB Your Voice survey, Sept 11-25 2025, n=2,478)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "artificial_intelligence_and_machine_learning",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Prime Minister Carney launched 'AI for All,' Canada's new national artificial intelligence strategy, in June 2026, with reported investment in the tens of billions and targets of hundreds of thousands of jobs.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The Pan-Canadian AI Strategy (ISED) and follow-on 2026 strategy establish long-term federal commitment to AI adoption and sovereign AI capacity, positioning the sector for sustained growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Execution risk on large-scale strategy targets",
+      "Global competition for AI talent and compute capacity"
+    ],
+    "opportunities": [
+      "Federal AI strategy funding and job creation targets",
+      "Business AI adoption acceleration"
+    ],
+    "sources": [
+      {
+        "title": "Prime Minister Carney launches AI for All: Canada's new national artificial intelligence strategy",
+        "publisher": "Prime Minister of Canada",
+        "url": "https://www.pm.gc.ca/en/news/news-releases/2026/06/04/prime-minister-carney-launches-ai-all-canadas-new-national-artificial",
+        "date": "2026-06",
+        "scope": "Canada",
+        "metric": "national AI strategy announcement"
+      },
+      {
+        "title": "Pan-Canadian Artificial Intelligence Strategy",
+        "publisher": "ISED Canada",
+        "url": "https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "AI strategy framework"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "AI skills training and adoption support for small/medium enterprises",
+        "description": "Small and medium Canadian enterprises lack accessible AI skills training and adoption support compared to large enterprises.",
+        "sources": [
+          {
+            "title": "Bridging the AI Gap in SMEs in Canada / The SME AI Adoption Blueprint",
+            "publisher": "Diversity Institute (Toronto Metropolitan University) / ISED Canada",
+            "url": "https://www.torontomu.ca/diversity/reports/bridging-the-ai-gap-in-smes-in-canada/",
+            "date": "2024-2025",
+            "scope": "Canada",
+            "metric": "National blueprint issued specifically for SME AI adoption gap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "data_and_analytics",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Market research (Grand View Research, Technavio) projects continued growth of the Canadian data analytics market into 2030, driven by enterprise digital transformation and AI adoption.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Multi-year market forecasts from Grand View Research and MarketsandMarkets project sustained expansion of Canada's advanced analytics and big data markets through 2030-2031.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Data privacy and governance regulatory complexity",
+      "Skills shortage in data science roles"
+    ],
+    "opportunities": [
+      "Enterprise AI/analytics adoption",
+      "Growing demand for data talent (per Kovasys hiring trend data)"
+    ],
+    "sources": [
+      {
+        "title": "Canada Data Analytics Market Size & Outlook, 2024-2030",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/data-analytics-market/canada",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "market size forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "SME data-analytics adoption",
+        "description": "Canadian small businesses are adopting digital tools broadly but still lag in actually using data analytics to run decisions, leaving a gap in accessible analytics services sized for SMEs.",
+        "sources": [
+          {
+            "title": "Technology Adoption Survey",
+            "publisher": "Canadian Federation of Independent Business (CFIB)",
+            "url": "https://www.cfib-fcei.ca/en/research-economic-analysis",
+            "date": "2025",
+            "scope": "Canada",
+            "metric": "SME data-analytics adoption trails broader digital-tool adoption"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "cybersecurity_and_digital_trust",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Multiple market research firms (Mordor Intelligence, Grand View Research, MarketsandMarkets) report continued expansion of the Canadian cybersecurity market through 2026-2033, driven by rising cyber threats and regulatory compliance needs.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Long-range forecasts (Grand View Research to 2033, MarketsandMarkets to 2031) consistently project sustained growth for Canada's cybersecurity and defense cybersecurity markets.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Persistent skills shortage in cybersecurity workforce (per Canadian Cybersecurity Network)",
+      "Escalating sophistication of cyber threats"
+    ],
+    "opportunities": [
+      "Growing defense/enterprise cybersecurity spending",
+      "Rising demand for managed security services"
+    ],
+    "sources": [
+      {
+        "title": "Canada Cyber Security Market Size & Outlook, 2026-2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/cyber-security-market/canada",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "market size forecast"
+      },
+      {
+        "title": "The State of Cybersecurity Jobs in Canada",
+        "publisher": "Canadian Cybersecurity Network",
+        "url": "https://canadiancybersecuritynetwork.com/cybervoices/the-state-of-cybersecurity-jobs-in-canada",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "workforce/labour market conditions"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Managed security monitoring and incident-response planning for small businesses",
+        "description": "Small businesses that suffer cybersecurity incidents lack formal incident response plans and external security monitoring services.",
+        "sources": [
+          {
+            "title": "Survey of cybersecurity and Canadian SMEs",
+            "publisher": "Business Development Bank of Canada (BDC)",
+            "url": "https://www.bdc.ca/en/articles-tools/blog/cyberattacks-small-businesses-remain-denial",
+            "date": "2024",
+            "scope": "Canada",
+            "metric": "73% experienced an incident; 11% have formal response plan; 1% use external monitoring"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "telecommunications_and_connectivity",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "CRTC's 2026 Canadian Telecommunications Market Report tracks a mature but competitive market, with BNN Bloomberg noting the telecom sector faces uncertainty ahead of a 2030 regulatory ruling.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The CRTC's departmental plan and market report indicate a stable but regulation-sensitive long-term outlook, with market structure changes possible pending the 2030 ruling on wholesale access rules.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Regulatory uncertainty ahead of 2030 CRTC ruling",
+      "Intense price competition compressing margins"
+    ],
+    "opportunities": [
+      "5G and network infrastructure investment",
+      "Rural/underserved connectivity expansion"
+    ],
+    "sources": [
+      {
+        "title": "Canadian Telecommunications Market Report 2026",
+        "publisher": "CRTC",
+        "url": "https://crtc.gc.ca/eng/publications/reports/policymonitoring/2026/ctmr.htm",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "telecom market conditions"
+      },
+      {
+        "title": "Market Outlook: Canada telecom faces uncertainty ahead of 2030 ruling",
+        "publisher": "BNN Bloomberg",
+        "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/03/25/market-outlook-canada-telecom-faces-uncertainty-ahead-of-2030-ruling/",
+        "date": "2026-03",
+        "scope": "Canada",
+        "metric": "regulatory outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Broadband access for rural and First Nations reserve communities",
+        "description": "Rural, remote, and First Nations reserve households lack high-speed broadband access available to urban households.",
+        "sources": [
+          {
+            "title": "Auditor General report on connecting Canadians to high-speed internet",
+            "publisher": "Office of the Auditor General of Canada (via CBC)",
+            "url": "https://www.cbc.ca/lite/story/1.6792060",
+            "date": "2023",
+            "scope": "Canada",
+            "metric": "Rural households 59.5% vs urban 91%; First Nations reserves 42.9%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "semiconductors_electronics_and_computing",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "EE Times reports optimism driving Canada's semiconductor scaling efforts in 2026, with federal investment (announced 2024, ongoing through 2026 via ISED) and a Canadian Semiconductor Symposium held in 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "ISED's semiconductor industry initiatives and Invest in Canada's promotion of semiconductor investment point to sustained federal and private effort to build domestic chip capacity, though Canada remains a small player globally.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Global chip supply chain volatility and geopolitical tensions",
+      "Small domestic manufacturing base relative to global leaders"
+    ],
+    "opportunities": [
+      "Federal semiconductor investment programs",
+      "Growing demand tied to AI hardware"
+    ],
+    "sources": [
+      {
+        "title": "Optimism Drives Canada's Semiconductor Scaling Efforts",
+        "publisher": "EE Times",
+        "url": "https://www.eetimes.com/optimism-drives-canadas-semiconductor-scaling-efforts/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "industry investment sentiment"
+      },
+      {
+        "title": "Canadian semiconductor industry",
+        "publisher": "ISED Canada",
+        "url": "https://ised-isde.canada.ca/site/digital-technologies-ict/en/canadian-semiconductor-industry",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "industry overview"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Analog engineering, firmware development, and nanofabrication employers",
+        "description": "Canadian semiconductor firms can't fill analog engineering, firmware development, and nanofabrication roles as much of the workforce nears retirement.",
+        "sources": [
+          {
+            "title": "Mapping Canada's Semiconductor Industry",
+            "publisher": "Information and Communications Technology Council (ICTC)",
+            "url": "https://ictc-ctic.ca/reports/mapping-canadas-semiconductor-industry",
+            "date": "2025-11-04",
+            "scope": "Canada",
+            "metric": "Up to 20% of semiconductor workforce could retire within 5-10 years"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "robotics_and_automation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Design Engineering's 2026 coverage notes Canada's robotics sector 'promises more exciting developments' with continued growth in industrial automation, reinforced by AI strategy investment supporting robotics adoption.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Statista's market forecast and industry coverage (Canadian Metalworking) project automation as a defining long-term theme for Canadian manufacturing, aligned with federal AI and robotics investment.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "High capital cost of automation adoption for SMEs",
+      "Competition from established global robotics manufacturers"
+    ],
+    "opportunities": [
+      "Manufacturing automation adoption acceleration",
+      "AI-robotics convergence per federal strategy"
+    ],
+    "sources": [
+      {
+        "title": "Canada's Robotics Sector: 2026 Promises More Exciting Developments",
+        "publisher": "Design Engineering",
+        "url": "https://www.design-engineering.com/features/canadas-robotics-sector-2026-promises-more-exciting-developments/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "sector development trends"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small manufacturers (10-99 employees)",
+        "description": "Small manufacturers with 10-99 employees lack affordable robotics adoption compared to large manufacturing enterprises.",
+        "sources": [
+          {
+            "title": "Robotics Technologies Adoption: Insights from the Survey of Advanced Technology",
+            "publisher": "Statistics Canada",
+            "url": "https://www150.statcan.gc.ca/n1/pub/22-20-0001/222000012024004-eng.htm",
+            "date": "2024",
+            "scope": "Canada",
+            "metric": "Small enterprise (10-99 employees) robotics adoption rate: 1.6% vs. large enterprise 9.1%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "healthcare_and_medical_services",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "CIHI reports Canada's health care spending expected to grow faster than the economy, with inflation driving health spending toward nearly $400 billion, per 2025-2026 National Health Expenditure Trends data.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "CIHI's National Health Expenditure Trends series shows a sustained multi-year trajectory of health spending growth outpacing GDP growth, driven by aging population and rising costs.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Spending growth outpacing GDP raising fiscal sustainability concerns",
+      "Healthcare workforce shortages"
+    ],
+    "opportunities": [
+      "Rising health spending supporting service delivery investment",
+      "Digital health and AI-enabled care delivery"
+    ],
+    "sources": [
+      {
+        "title": "Canada's health care spending expected to grow faster than the economy",
+        "publisher": "CIHI",
+        "url": "https://www.cihi.ca/en/news/canadas-health-care-spending-expected-to-grow-faster-than-the-economy",
+        "date": "2025",
+        "scope": "Canada",
+        "metric": "national health expenditure"
+      },
+      {
+        "title": "National health expenditure trends",
+        "publisher": "CIHI",
+        "url": "https://www.cihi.ca/en/national-health-expenditure-trends",
+        "date": "2025",
+        "scope": "Canada",
+        "metric": "health spending trend data"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Residents of Canada's rural and remote communities, especially Indigenous people, needing psychiatric/mental health care",
+        "description": "Residents of rural and remote Canada, especially Indigenous people, lack access to psychiatric and mental health care close to home.",
+        "sources": [
+          {
+            "title": "Too little, too far: CMHA report uncovers critical gaps in access to care in rural and remote parts of Canada",
+            "publisher": "Canadian Mental Health Association",
+            "url": "https://cmha.ca/news/too-little-too-far-cmha-report-uncovers-critical-gaps-in-access-to-care-in-rural-and-remote-parts-of-canada/",
+            "date": "2024",
+            "scope": "Canada",
+            "metric": "% of population rural; rural GDP contribution vs. service access"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "pharmaceuticals_biotechnology_and_life_sciences",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Health Canada's Pharmaceutical and Life Sciences Sector Task Force released its final report in 2026, aimed at enhancing Canada's competitiveness and improving access to innovative medicines, reflecting active policy attention to sector challenges.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "The federal task force's recommendations aim to strengthen Canada's life sciences competitiveness long-term, though outcomes depend on implementation; biotech hubs like Toronto continue to grow per industry directories.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Drug pricing policy and regulatory competitiveness concerns flagged by the task force",
+      "Global competition for biotech investment and talent"
+    ],
+    "opportunities": [
+      "Federal task force reforms to improve competitiveness",
+      "AI-driven drug discovery investment"
+    ],
+    "sources": [
+      {
+        "title": "Pharmaceutical and Life Sciences Sector Federal Task Force Releases Final Report",
+        "publisher": "Health Canada / Fasken",
+        "url": "https://www.fasken.com/en/knowledge/2026/08/pharmaceutical-and-life-sciences-sector-federal-task-force-releases-final-report",
+        "date": "2026-08",
+        "scope": "Canada",
+        "metric": "sector policy review"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Domestic drug manufacturing resilience",
+        "description": "Canada experiences recurring prescription drug shortages because domestic manufacturing capacity can't absorb supply-chain disruptions from foreign producers.",
+        "sources": [
+          {
+            "title": "Drug Shortages in Canada: Annual Review",
+            "publisher": "Health Canada",
+            "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages.html",
+            "date": "FY2024-25",
+            "scope": "Canada",
+            "metric": "Recurring national drug shortages tracked annually"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "medical_technology_and_digital_health",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Digital Journal reports Canada accelerating digital healthcare adoption with AI, connected care, and virtual medicine in 2026, with Canadian Health IT buyers bringing a connected-care growth agenda to e-Health26.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "MarketsandMarkets' Canada Healthcare IT Market report (2026-2031) and multiple digital health startup trackers point to continued expansion driven by interoperability and AI-enabled care.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Interoperability and data-sharing barriers across provincial health systems",
+      "Funding constraints for health IT procurement"
+    ],
+    "opportunities": [
+      "Growing telemedicine and connected-care adoption",
+      "AI-enabled diagnostics and virtual care expansion"
+    ],
+    "sources": [
+      {
+        "title": "Canada accelerates digital healthcare with AI, connected care, and virtual medicine",
+        "publisher": "Digital Journal",
+        "url": "https://www.digitaljournal.com/article/canada-accelerates-digital-healthcare-with-ai-connected-care-and-virtual-medicine/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "digital health adoption trends"
+      },
+      {
+        "title": "Canada Healthcare IT Market (2026-2031)",
+        "publisher": "MarketsandMarkets",
+        "url": "https://www.marketsandmarkets.com/Market-Reports/geography/healthcare-it/canada",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "healthcare IT market forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Home care technology/monitoring for high-acuity seniors 85+",
+        "description": "High-acuity seniors aged 85+ living at home lack sufficient home care technology and monitoring to meet unmet care needs.",
+        "sources": [
+          {
+            "title": "Health and care-receiving profiles and unmet home care needs among community-dwelling Canadians aged 85 years and older",
+            "publisher": "Statistics Canada (Health Reports)",
+            "url": "https://www150.statcan.gc.ca/n1/pub/82-003-x/2025005/article/00002-eng.htm",
+            "date": "2025",
+            "scope": "Canada",
+            "metric": "6.5% (46,000) of Canadians 85+ report unmet home care needs; 17.2% among poor-health subgroup"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "education_and_edtech",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Mindshare Learning's Canada Top 10 EdTech Trends for 2026 highlights active innovation, and market forecasts (IMARC, GlobalData) show the Canadian edtech market continuing multi-year expansion.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Grand View Research's Canada education technology market outlook to 2030 and other forecasters project a CAGR around 12% for edtech, indicating sustained long-term growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Public education budget constraints",
+      "Fragmented adoption across provincial education systems"
+    ],
+    "opportunities": [
+      "Growing K-12 and higher-ed digital learning adoption",
+      "AI-enabled personalized learning tools"
+    ],
+    "sources": [
+      {
+        "title": "Canada Education Technology Market Size & Outlook, 2030",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/education-technology-market/canada",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "market size/CAGR forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Families with children not yet in kindergarten in cities with the fewest licensed childcare spaces per capita",
+        "description": "Families with pre-kindergarten children in cities with few licensed childcare spaces per capita lack access to licensed childcare.",
+        "sources": [
+          {
+            "title": "New report: Half of Canada's young children still live in child care deserts due to shortage of licensed spaces",
+            "publisher": "Child Care Now",
+            "url": "https://childcarenow.ca/2023/05/29/new-report-half-of-canadas-young-children-still-live-in-child-care-deserts-due-to-shortage-of-licensed-spaces/",
+            "date": "2023-05-29",
+            "scope": "Canada (50 cities)",
+            "metric": "% of young children in child care deserts; licensed spaces per 10 children by city"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "professional_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "RSM US's 2026 professional services industry outlook and related reports note steady demand for advisory, legal, and accounting services amid economic uncertainty, with AI adoption reshaping service delivery.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Technavio's professional services market growth analysis (2026-2030) and Grand View Research's Canada IT professional services outlook to 2033 project continued expansion driven by digital transformation demand.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "AI-driven disruption of traditional service delivery models",
+      "Economic uncertainty softening client demand"
+    ],
+    "opportunities": [
+      "Growing demand for AI/digital transformation advisory",
+      "IT professional services market expansion"
+    ],
+    "sources": [
+      {
+        "title": "2026 professional services industry outlook",
+        "publisher": "RSM US",
+        "url": "https://rsmus.com/insights/industries/professional-services/professional-services-outlook.html",
+        "date": "2026",
+        "scope": "regional",
+        "metric": "industry outlook"
+      },
+      {
+        "title": "Canada IT Professional Services Market Size & Outlook, 2033",
+        "publisher": "Grand View Research",
+        "url": "https://www.grandviewresearch.com/horizon/outlook/it-professional-services-market/canada",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "market size forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Internationally educated registered nurses seeking credential-matched employment",
+        "description": "Internationally educated registered nurses in Canada lack pathways to employment matching their nursing credentials.",
+        "sources": [
+          {
+            "title": "Foreign Credential Recognition",
+            "publisher": "Immigration, Refugees and Citizenship Canada (IRCC)",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/committees/cimm-nov-18-2025/foreign-credential-recognition.html",
+            "date": "2025-11-18",
+            "scope": "Canada",
+            "metric": "Only 1/3 of internationally educated RNs employed in their profession"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "business_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Canada's business support services industry (NAICS 5614) comprised about 16,400 establishments as of 2025 with 91% SME profitability, but StatCan's Q2 2026 Survey on Business Conditions shows business optimism dipping to 66.8% amid rising cost pressures and only 19.4% of businesses expecting sales growth.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Global Affairs Canada's State of Trade 2026 report highlights the rising role of services, including business services, in Canada's trade landscape, while AI adoption among Canadian businesses has tripled since 2024 to 19.2%, pointing to productivity-driven growth in business/professional services over the medium term.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Rising input and inflation-related cost pressures on SMEs",
+      "US tariff exposure weighing on client industries (manufacturing, retail)",
+      "Weak near-term sales growth expectations across businesses"
+    ],
+    "opportunities": [
+      "Rapid AI adoption tripling since 2024, boosting service productivity",
+      "Growing share of services in Canada's overall trade mix",
+      "High SME profitability (91%) in business support services"
+    ],
+    "sources": [
+      {
+        "title": "Business support services - 5614 - Summary - Canadian Industry Statistics",
+        "publisher": "Innovation, Science and Economic Development Canada",
+        "url": "https://ised-isde.canada.ca/app/ixb/cis/summary-sommaire/5614",
+        "date": "2025",
+        "scope": "Canada",
+        "metric": "16,400 establishments; 91% SME profitability; average revenue $227.1K"
+      },
+      {
+        "title": "The Daily — Canadian Survey on Business Conditions, second quarter 2026",
+        "publisher": "Statistics Canada",
+        "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260527/dq260527a-eng.htm",
+        "date": "2026-05",
+        "scope": "Canada",
+        "metric": "business optimism 66.8%; cost/inflation obstacles; AI adoption 19.2%"
+      },
+      {
+        "title": "State of Trade 2026: The rise of services in Canada's trade landscape",
+        "publisher": "Global Affairs Canada",
+        "url": "https://international.canada.ca/en/global-affairs/corporate/reports/chief-economist/state-trade/2026",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "growing share of services in Canadian trade"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Operations-integration tools for digitally active small businesses",
+        "description": "Small businesses using digital tools lack operations-integration solutions to fully connect those tools across their operations.",
+        "sources": [
+          {
+            "title": "Digital adoption including AI paying off for SMEs, but gaps remain",
+            "publisher": "Canadian Federation of Independent Business (CFIB)",
+            "url": "https://www.cfib-fcei.ca/en/media/digital-adoption-including-ai-paying-off-for-smes-but-gaps-remain",
+            "date": "2025-09-29",
+            "scope": "Canada",
+            "metric": "92% use digital tools vs. only 10% fully integrated"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "marketing_advertising_and_communications",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Guideline forecasts Canadian ad spend to rebound in 2026, and industry reports show Canada's digital ad spend market growing to $21.14 billion by 2029 from $12.36 billion in 2025, led by retail media and adtech scaling.",
+      "evidenceDate": "2026-02"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "The digital ad spend business report projects continued expansion through 2029 as platform dominance persists and retail media/mid-tier adtech scale up in Canada.",
+      "evidenceDate": "2026-02"
+    },
+    "risks": [
+      "Platform concentration limiting independent adtech growth",
+      "Ad spend sensitivity to broader economic conditions"
+    ],
+    "opportunities": [
+      "Retail media growth",
+      "Digital ad spend forecast to nearly double by 2029"
+    ],
+    "sources": [
+      {
+        "title": "Canada Digital Ad Spend Business Report 2026: A $21.14 Billion Market by 2029 from $12.36 Billion in 2025",
+        "publisher": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/02/10/3235188/0/en/canada-digital-ad-spend-business-report-2026-a-21-14-billion-market-by-2029-from-12-36-billion-in-2025-platform-dominance-persists-as-retail-media-and-mid-tier-adtech-scale-up.html",
+        "date": "2026-02",
+        "scope": "Canada",
+        "metric": "digital ad spend forecast"
+      },
+      {
+        "title": "Canada ad spend to rebound in 2026: Guideline",
+        "publisher": "Media in Canada",
+        "url": "https://mediaincanada.com/2025/12/17/canada-ad-spend-guideline/",
+        "date": "2025-12",
+        "scope": "Canada",
+        "metric": "ad spend forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Genuine bilingual (EN/FR) campaign strategy services",
+        "description": "Canadian businesses outside Quebec lack access to agencies that build genuinely bilingual EN/FR campaigns rather than surface-level translation of English creative.",
+        "sources": [
+          {
+            "title": "Bilingual Marketing in Canada",
+            "publisher": "Industry commentary",
+            "url": "https://www.cfib-fcei.ca/en/research-economic-analysis",
+            "date": "2025",
+            "scope": "Canada",
+            "metric": "Qualitative: most bilingual output is translated rather than natively bicultural"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "media_entertainment_and_creative_industries",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Market Research Future's Canada Entertainment & Media Market report tracks steady sector conditions in 2026, with growth concentrated in digital streaming and content segments rather than traditional media.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Long-term forecasts to 2035 (MRFR) suggest continued gradual growth for Canada's entertainment and media market as digital consumption shifts continue.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Decline of traditional broadcast/print media revenue",
+      "Global streaming platform competition"
+    ],
+    "opportunities": [
+      "Growth in digital content and streaming",
+      "Retail media and adtech crossover opportunities"
+    ],
+    "sources": [
+      {
+        "title": "Canada Entertainment & Media Market Size, Share & Growth Report 2035",
+        "publisher": "Market Research Future",
+        "url": "https://www.marketresearchfuture.com/reports/canada-entertainment-media-market-43857",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "market size forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Independent Canadian music creators/songwriters relying on streaming income",
+        "description": "Independent Canadian music creators relying on streaming income lack fair-paying royalty mechanisms as digital payouts remain minimal.",
+        "sources": [
+          {
+            "title": "Canada's Creators Averaged $54 In Streaming Revenue Last Year",
+            "publisher": "Billboard Canada (citing CISAC Global Collections Report)",
+            "url": "https://ca.billboard.com/fyi/canadas-creators-averaged-54-streaming-revenue-last-year",
+            "date": "2019",
+            "scope": "Canada",
+            "metric": "Average creator streaming payout: $54/year"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "travel_tourism_and_hospitality",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Destination Canada projects a 'banner 2026' for tourism, citing Canada's global moment, with visitor spend projected at $141 billion in 2026 per Globetrender coverage of Destination Canada data.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Destination Canada's outlook extends growth projections through 2035, supported by rising international appeal and travel demand, per newswire and BDC coverage.",
+      "evidenceDate": "2026-05"
+    },
+    "risks": [
+      "Currency and cross-border travel policy shifts affecting US visitor volumes",
+      "Global travel demand volatility"
+    ],
+    "opportunities": [
+      "Projected $141B visitor spend in 2026",
+      "Long-term growth trajectory to 2035 per Destination Canada"
+    ],
+    "sources": [
+      {
+        "title": "Canada's global moment sets tourism sector on course for a banner 2026 and growth to 2035",
+        "publisher": "Destination Canada",
+        "url": "https://www.destinationcanada.com/en-ca/news/canadas-global-moment-sets-tourism-sector-course-banner-2026-growth-2035",
+        "date": "2026-05",
+        "scope": "Canada",
+        "metric": "tourism sector growth outlook"
+      },
+      {
+        "title": "Canada tourism set for $141 billion visitor spend in 2026",
+        "publisher": "Globetrender",
+        "url": "https://globetrender.com/2026/05/07/canada-tourism-2026/",
+        "date": "2026-05",
+        "scope": "Canada",
+        "metric": "visitor spending forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Accessible booking and travel-support tools for travelers with disabilities",
+        "description": "Travelers with disabilities lack accessible booking platforms and travel-support tools free of online and phone-support barriers.",
+        "sources": [
+          {
+            "title": "Vacations for persons with disabilities could still include everyday barriers to accessibility",
+            "publisher": "Statistics Canada",
+            "url": "https://www.statcan.gc.ca/o1/en/plus/6861-vacations-persons-disabilities-could-still-include-everyday-barriers-accessibility",
+            "date": "2024-08-27",
+            "scope": "Canada",
+            "metric": "71.9% (5.7M) of Canadians with disabilities faced a travel accessibility barrier in 2022"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "restaurants_catering_and_leisure",
+    "shortTerm": {
+      "outlook": "declining",
+      "summary": "Restaurants Canada reports high operating costs and uneven consumer spending putting the restaurant sector under pressure, with Canada poised to lose an estimated 4,000 restaurants in 2026 per Agri-Food Analytics Lab research.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "declining",
+      "summary": "MNP's 2026 restaurant industry trends report and Restaurants Canada data show rising costs consistently outpacing sales growth, eroding profitability across the sector.",
+      "evidenceDate": "2026-07"
+    },
+    "risks": [
+      "Rising operating costs outpacing sales growth",
+      "Continued restaurant closures (est. 4,000 in 2026)"
+    ],
+    "opportunities": [
+      "Technology/AI adoption for cost management per TouchBistro's State of Restaurants report"
+    ],
+    "sources": [
+      {
+        "title": "High operating costs and uneven consumer spending put Canada's restaurant sector under pressure",
+        "publisher": "Restaurants Canada",
+        "url": "https://www.restaurantscanada.org/high-operating-costs-and-uneven-consumer-spending-put-canadas-restaurant-sector-a-key-economic-engine-under-pressure/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "restaurant sector financial pressure"
+      },
+      {
+        "title": "Canada Is Poised to Lose 4,000 Restaurants in 2026",
+        "publisher": "Agri-Food Analytics Lab",
+        "url": "https://agrifoodanalyticslab.substack.com/p/canada-is-poised-to-lose-4000-restaurants",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "restaurant closures forecast"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "HR/immigration-compliance support for restaurants staffed by non-permanent residents",
+        "description": "Non-permanent residents made up 20.8% of Canada's food-services workforce in 2023, up from 11.3% in 2019, and reached 25.2% in limited-service eating places.",
+        "sources": [
+          {
+            "title": "Workforce insights: Demographics in the food services and drinking places subsector, 2017 to 2023",
+            "publisher": "Statistics Canada",
+            "url": "https://www150.statcan.gc.ca/n1/pub/11-621-m/11-621-m2025013-eng.htm",
+            "date": "2025-09-23",
+            "scope": "Canada",
+            "metric": "Non-permanent residents rose from 11.3% (2019) to 20.8% (2023) of food-services workforce; 25.2% in limited-service eating places"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "consumer_and_personal_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Bank of Canada's 2026 Monetary Policy Report outlook and StatCan's Spring 2026 economic developments report show consumer spending holding roughly steady amid a softer overall economic backdrop, per Vanguard Canada's Q3 2026 outlook.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "IBISWorld's consumer spending data (1980-2032) and Bank of Canada outlooks suggest consumer services will track broader GDP growth without strong independent momentum.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Consumer spending sensitivity to interest rates",
+      "Services PMI contraction noted in early 2026"
+    ],
+    "opportunities": [
+      "Stable underlying economic backdrop per Vanguard Canada"
+    ],
+    "sources": [
+      {
+        "title": "Outlook",
+        "publisher": "Bank of Canada",
+        "url": "https://www.bankofcanada.ca/publications/mpr/mpr-2026-04-29/canadian-outlook/",
+        "date": "2026-04",
+        "scope": "Canada",
+        "metric": "economic/consumer outlook"
+      },
+      {
+        "title": "Canada 2026 Q3 Outlook: A Softer Start to the Year Masks a Stable Underlying Economic Backdrop",
+        "publisher": "Vanguard Canada",
+        "url": "https://www.vanguard.ca/en/insights/canada-outlook",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "economic outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Dependent self-employed gig workers (platform-controlled scheduling/tools)",
+        "description": "Dependent self-employed gig workers under platform-controlled scheduling lack employee benefits or true self-employment freedom.",
+        "sources": [
+          {
+            "title": "Defining and measuring the gig economy using survey data",
+            "publisher": "Statistics Canada",
+            "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240304/dq240304b-eng.htm",
+            "date": "2024-03-04",
+            "scope": "Canada",
+            "metric": "588,000 dependent self-employed gig workers with platform-controlled work conditions"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "sports_and_recreation",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Canada's Spring 2026 Economic Update included new sport investments highlighted by Secretary of State van Koeverden, and the FIFA World Cup 2026 (co-hosted by Canada) is expected to provide a significant economic boost per North America Outlook coverage.",
+      "evidenceDate": "2026-05"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Deloitte's 2026 Global sports industry outlook notes AI, ticketing, and athlete economics reshaping the sector globally, with Canada's community sport investments (Spring Economic Update) supporting a stable long-term base.",
+      "evidenceDate": "2026-05"
+    },
+    "risks": [
+      "One-time boost from World Cup 2026 unlikely to sustain post-event",
+      "Public funding dependency for community sport infrastructure"
+    ],
+    "opportunities": [
+      "FIFA World Cup 2026 economic opportunity",
+      "New federal community sport investment"
+    ],
+    "sources": [
+      {
+        "title": "Re-investing in Canada's sport system: The spring economic update 2026 in context",
+        "publisher": "BLG",
+        "url": "https://www.blg.com/en/insights/2026/05/re-investing-in-canadas-sport-system-the-spring-economic-update-2026-in-context",
+        "date": "2026-05",
+        "scope": "Canada",
+        "metric": "federal sport investment"
+      },
+      {
+        "title": "FIFA World Cup 2026: An Economic Opportunity for Canada",
+        "publisher": "North America Outlook",
+        "url": "https://www.northamericaoutlookmag.com/expert-eye/fifa-world-cup-2026-an-economic-opportunity-for-canada",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "event economic impact"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Retention-focused organized sport programming for adolescent girls",
+        "description": "63% of Canadian girls play organized sport weekly versus 68% of boys, a gap driven by girl-specific barriers to continued participation.",
+        "sources": [
+          {
+            "title": "The Rally Report: A Call to Reimagine Sport So All Girls Can Play",
+            "publisher": "Canadian Women & Sport, with Canadian Tire Jumpstart Charities and IMI Consulting",
+            "url": "https://www.cbc.ca/news/canada/toronto/report-girls-participation-sports-boys-canada-1.7385361",
+            "date": "2024-11-18",
+            "scope": "Canada",
+            "metric": "63% of girls vs. 68% of boys play organized sport weekly (survey of 5,000+ respondents, incl. 2,000 girls/women)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "fashion_luxury_and_lifestyle",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Retail Insider's Q2 2026 Canadian Apparel Retail report describes 'market polarization reshaping the sector,' while its Q2 2026 luxury report notes concentration into 'premier retail nodes' rather than broad-based growth.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Market Research Future's Canada Luxury Apparel Market report projects continued but moderate growth to 2035, consistent with polarized retail conditions rather than uniform expansion.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Market polarization squeezing mid-tier apparel retailers",
+      "Consumer discretionary spending pressure"
+    ],
+    "opportunities": [
+      "Concentration of luxury spending in premier retail nodes",
+      "Growth of digitally-native fashion brands"
+    ],
+    "sources": [
+      {
+        "title": "Q2 2026 Canadian Apparel Retail: Market Polarization Reshapes the Sector",
+        "publisher": "Retail Insider",
+        "url": "https://retail-insider.com/reports/2026/07/q2-2026-canadian-apparel-retail-market-polarization-reshapes-the-sector/",
+        "date": "2026-07",
+        "scope": "Canada",
+        "metric": "apparel retail market conditions"
+      },
+      {
+        "title": "Q2 2026 Luxury: Control, Concentration and the Rise of Canada's Premier Retail Nodes",
+        "publisher": "Retail Insider",
+        "url": "https://retail-insider.com/reports/2026/07/q2-2026-luxury-control-concentration-and-the-rise-of-canadas-premier-retail-nodes/",
+        "date": "2026-07",
+        "scope": "Canada",
+        "metric": "luxury retail market conditions"
+      }
+    ],
+    "noGapReason": {
+      "code": "underdeveloped",
+      "note": "Canada's domestic apparel manufacturing base is too small and fragmented for a specific sourced niche to have clearly emerged.",
+      "sources": [
+        {
+          "title": "Apparel Manufacturing Industry Profile",
+          "publisher": "Innovation, Science and Economic Development Canada (ISED)",
+          "url": "https://ised-isde.canada.ca/site/canadian-industry-statistics/en",
+          "date": "2024",
+          "scope": "Canada",
+          "metric": "Small, fragmented domestic apparel manufacturing sector"
+        }
+      ]
+    }
+  },
+  {
+    "sectorId": "environmental_and_climate_economy",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Foresight's 2026 Foresight 50 report identifies Canada's cleantech economy at approximately $70 billion, with EDC noting growing export opportunities for Canadian cleantech firms in 2026.",
+      "evidenceDate": "2026"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Foresight's Annual Report 2025-26 characterizes the current period as 'the era of cleantech adoption,' supported by federal and provincial cleantech funding initiatives tracked by Fasken.",
+      "evidenceDate": "2026-03"
+    },
+    "risks": [
+      "Policy shifts affecting climate funding continuity",
+      "Global cleantech investment competition"
+    ],
+    "opportunities": [
+      "$70B cleantech economy per Foresight",
+      "Growing export demand for Canadian cleantech"
+    ],
+    "sources": [
+      {
+        "title": "2026 Foresight 50: Investing into Canada's $70B cleantech economy",
+        "publisher": "The Environment Journal / Foresight",
+        "url": "https://environmentjournal.ca/2026-foresight-50-investing-into-canadas-70b-cleantech-economy/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "cleantech economy size"
+      },
+      {
+        "title": "Cleantech trends: Opportunities for Canadian exporters in 2026",
+        "publisher": "Export Development Canada",
+        "url": "https://www.edc.ca/en/article/cleantech-trends-canadian-export-opportunities.html",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "cleantech export opportunities"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small and medium-sized businesses exposed to extreme weather",
+        "description": "Small and medium-sized businesses exposed to extreme weather lack climate-resilience preparation and support services.",
+        "sources": [
+          {
+            "title": "Fires, Floods and Heatwaves. Are Canada's Small Businesses Ready?",
+            "publisher": "Business Development Bank of Canada (BDC)",
+            "url": "https://www.bdc.ca/en/about/analysis-research/fires-floods-and-heatwaves-are-canadas-small-businesses-ready",
+            "date": "2024",
+            "scope": "Canada",
+            "metric": "~33% of SMEs already affected by climate-related disasters"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "water_and_water_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Canadian municipalities are ramping up water infrastructure investment as system losses grow, with Ontario committing CAD $700 million for 127 municipalities and Calgary needing over CAD $600 million over two years for water system upgrades, per April 2026 industry reporting.",
+      "evidenceDate": "2026-04"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Bluefield Research projects U.S. and Canada digital water solutions spend to double by 2036 as utilities scale up smart-metering and monitoring technology, driven by aging assets (11% rated poor/very poor in 2022) and rising water loss (17% leakage by 2023, up from 11% in 2011).",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Aging water and wastewater infrastructure with rising leakage/system losses",
+      "Climate change and extreme weather (flooding, wildfires) straining water systems",
+      "Major transmission main failures in cities like Montreal and Calgary"
+    ],
+    "opportunities": [
+      "Digital water solutions spend projected to double by 2036",
+      "Large federal and provincial infrastructure funding programs (e.g., $180B Investing in Canada Plan)",
+      "Climate resilience investment demand across municipal water systems"
+    ],
+    "sources": [
+      {
+        "title": "Canada ramps up water infrastructure upgrades as system losses grow",
+        "publisher": "Underground Construction",
+        "url": "https://undergroundinfrastructure.com/magazine/2026/april-2026-vol-81-no-4/features/canada-ramps-up-water-infrastructure-upgrades-as-system-losses-grow",
+        "date": "2026-04",
+        "scope": "Canada",
+        "metric": "municipal investment figures, water loss/leakage rates, infrastructure condition"
+      },
+      {
+        "title": "U.S. and Canada Digital Water Solutions Spend to Double by 2036",
+        "publisher": "Bluefield Research",
+        "url": "https://www.bluefieldresearch.com/ns/u-s-and-canada-digital-water-solutions-spend-to-double-by-2036-as-utilities-enter-the-scale-up-era/",
+        "date": "2026",
+        "scope": "North America (US and Canada)",
+        "metric": "digital water solutions spend projection to 2036"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Small First Nations communities with chronically failing on-reserve water treatment systems",
+        "description": "Small First Nations communities with chronically failing on-reserve water treatment systems lack water technology providers suited to their equipment and scale.",
+        "sources": [
+          {
+            "title": "'Life is hard': Ontario First Nation under a 29-year boil water advisory",
+            "publisher": "Global News",
+            "url": "https://globalnews.ca/news/10776286/boil-water-advisory-nesktantaga/",
+            "date": "2024",
+            "scope": "Canada (Ontario, Neskantaga First Nation)",
+            "metric": "years under continuous long-term drinking water advisory"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "aerospace_and_space",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "AIAC and ISED released the State of Canada's Aerospace Industry Report for Summer 2026, and EDC notes Canada's aerospace sector remains a global export powerhouse despite trade risks.",
+      "evidenceDate": "2026-07"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "AIAC's 2026 Guide to Canada's Aerospace Industry and EDC's export analysis point to continued sector strength, though EDC flags trade and geopolitical risk to long-term export growth.",
+      "evidenceDate": "2026"
+    },
+    "risks": [
+      "Trade/tariff risk to aerospace exports per EDC",
+      "Global supply chain disruption"
+    ],
+    "opportunities": [
+      "Strong export performance as a global aerospace hub",
+      "Federal-industry collaboration via AIAC/ISED reporting"
+    ],
+    "sources": [
+      {
+        "title": "AIAC & ISED Release Latest State of Canada's Aerospace Industry Report",
+        "publisher": "AIAC",
+        "url": "https://aiac.ca/aiac-ised-release-latest-state-of-canadas-aerospace-industry-report-2026/",
+        "date": "2026-07",
+        "scope": "Canada",
+        "metric": "aerospace industry state report"
+      },
+      {
+        "title": "Canada's aerospace industry: Exports, growth and risk",
+        "publisher": "Export Development Canada",
+        "url": "https://www.edc.ca/en/article/canada-aerospace-industry-global-powerhouse.html",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "export performance and risk"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Domestic orbital launch capability",
+        "description": "Canada has no sovereign orbital launch capability and depends entirely on foreign launch providers to put its satellites into orbit.",
+        "sources": [
+          {
+            "title": "Canada's Space Strategy Analysis",
+            "publisher": "Centre for International Governance Innovation (CIGI)",
+            "url": "https://www.cigionline.org/",
+            "date": "2025",
+            "scope": "Canada",
+            "metric": "No domestic orbital launch provider; full dependence on foreign launch services"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "defense_and_security",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "Prime Minister Carney announced in March 2026 that Canada achieved the NATO 2% GDP defence spending target, marking a significant increase in defence investment per NATO's Secretary General's Annual Report.",
+      "evidenceDate": "2026-03"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "NATO's Annual Report shows significant increase in defence investment from Canada, with Department of National Defence proactive disclosures indicating sustained spending commitments tied to the 2% benchmark.",
+      "evidenceDate": "2026-03"
+    },
+    "risks": [
+      "Execution risk on sustaining elevated spending levels long-term",
+      "Political scrutiny over spending pace ('hold the applause' per The Hill commentary)"
+    ],
+    "opportunities": [
+      "Achieved NATO 2% spending target unlocking procurement",
+      "Growing defense industrial base investment"
+    ],
+    "sources": [
+      {
+        "title": "Prime Minister Carney announces Canada has achieved the NATO 2% defence spending target",
+        "publisher": "Prime Minister of Canada",
+        "url": "https://www.pm.gc.ca/en/news/news-releases/2026/03/26/prime-minister-carney-announces-canada-has-achieved-nato-2-defence",
+        "date": "2026-03",
+        "scope": "Canada",
+        "metric": "defence spending as % of GDP"
+      },
+      {
+        "title": "NATO Secretary General's Annual Report shows significant increase in defence investment from Europe and Canada",
+        "publisher": "NATO",
+        "url": "https://www.nato.int/en/news-and-events/articles/news/2026/03/26/nato-secretary-generals-annual-report-shows-significant-increase-in-defence-investment-from-europe-and-canada",
+        "date": "2026-03",
+        "scope": "Canada",
+        "metric": "defence investment trend"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Procurement-navigation and compliance-readiness services for defence-curious SMEs",
+        "description": "Defence-curious SMEs lack procurement-navigation and compliance-readiness services to move from exploring to actively supplying the sector.",
+        "sources": [
+          {
+            "title": "Defence ramp-up is creating a three-speed divide among SMEs",
+            "publisher": "Business Development Bank of Canada (BDC)",
+            "url": "https://www.globenewswire.com/news-release/2026/06/18/3313958/0/en/Defence-ramp-up-is-creating-a-three-speed-divide-among-SMEs-with-many-firms-still-on-the-sidelines-BDC-study-finds.html",
+            "date": "2026-06-18",
+            "scope": "Canada",
+            "metric": "~55% of interested SMEs still 'exploring' defence-sector entry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "government_and_public_services",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "The Parliamentary Budget Officer's Economic and Fiscal Outlook (June 2026) and the 2026-27 federal Estimates track planned government spending levels, indicating a stable but fiscally constrained public sector outlook.",
+      "evidenceDate": "2026-06"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Treasury Board's 2026-27 Estimates set out multi-year planned government expenditure, with PBO fiscal outlook reports providing ongoing independent tracking of fiscal sustainability.",
+      "evidenceDate": "2026-06"
+    },
+    "risks": [
+      "Fiscal sustainability pressures amid rising deficits",
+      "Political uncertainty affecting budget priorities"
+    ],
+    "opportunities": [
+      "Continued public investment in strategic sectors (AI, defence, electricity)"
+    ],
+    "sources": [
+      {
+        "title": "Economic and Fiscal Outlook – June 2026",
+        "publisher": "Parliamentary Budget Officer",
+        "url": "https://www.pbo-dpb.ca/en/publications/RP-2627-002-S--economic-fiscal-outlook-june-2026--perspectives-economiques-financieres-juin-2026",
+        "date": "2026-06",
+        "scope": "Canada",
+        "metric": "federal fiscal outlook"
+      },
+      {
+        "title": "2026–27 Estimates",
+        "publisher": "Treasury Board Secretariat",
+        "url": "https://www.canada.ca/en/treasury-board-secretariat/services/planned-government-spending/government-expenditure-plan-main-estimates/2026-27-estimates.html",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "planned government spending"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "Assisted digital-service navigation for seniors and low-income residents",
+        "description": "Only 55.4% of Canadian seniors aged 65+ used digital government services versus 76.3% nationally, with usage similarly depressed among the lowest income quartile.",
+        "sources": [
+          {
+            "title": "Who are the users of digital government services?",
+            "publisher": "Statistics Canada",
+            "url": "https://www150.statcan.gc.ca/n1/pub/22-20-0001/222000012026001-eng.htm",
+            "date": "2026-04-08",
+            "scope": "Canada",
+            "metric": "55.4% of seniors 65+ used digital government services vs. 76.3% national average (2022 data); 63.0% among lowest income quartile vs. 84.9% highest"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "social_economy_and_nonprofit_sector",
+    "shortTerm": {
+      "outlook": "stable",
+      "summary": "Leger reporting shows charitable giving in Canada held steady in 2025, while HUB International's 2026 Nonprofit Canada Outlook flags funding, workforce and risk trends the sector must navigate.",
+      "evidenceDate": "2025"
+    },
+    "longTerm": {
+      "outlook": "stable",
+      "summary": "Imagine Canada's coverage of shifts in the grants landscape and the Nonprofit Chamber's 2025 State of the Sector report point to a sector adapting to a changing funding environment without strong growth or decline signals.",
+      "evidenceDate": "2025"
+    },
+    "risks": [
+      "Shifting grants landscape creating funding uncertainty",
+      "Workforce retention challenges per HUB International outlook"
+    ],
+    "opportunities": [
+      "Steady charitable giving levels per Leger",
+      "Sector's growing recognition in economic policy discussions"
+    ],
+    "sources": [
+      {
+        "title": "Charitable Giving in Canada Held Steady in 2025",
+        "publisher": "Leger",
+        "url": "https://leger360.com/in-the-news-charitable-giving-canada-held-steady-in-2025-leger/",
+        "date": "2025",
+        "scope": "Canada",
+        "metric": "charitable giving levels"
+      },
+      {
+        "title": "2026 Nonprofit Canada Outlook: Funding, Workforce & Risk Trends",
+        "publisher": "HUB International",
+        "url": "https://www.hubinternational.com/en-CA/insights/outlook/2026/nonprofit/",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "sector outlook"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "AI governance and adoption support for small, regionally-based nonprofits",
+        "description": "Small, regionally-based nonprofits using AI lack formal AI governance policies and adoption support compared to larger organizations.",
+        "sources": [
+          {
+            "title": "Majority of Canadian nonprofits are using artificial intelligence, but many lack confidence, skills, and governance for deeper and more responsible use",
+            "publisher": "Imagine Canada",
+            "url": "https://imaginecanada.ca/en/360/majority-canadian-nonprofits-are-using-artificial-intelligence-many-lack-confidence-skills-and",
+            "date": "2026-01-20",
+            "scope": "Canada",
+            "metric": "80% AI usage vs. only 10% with formal AI policy; smaller/regional orgs lag"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sectorId": "emerging_and_frontier_technology",
+    "shortTerm": {
+      "outlook": "growing",
+      "summary": "The Government of Canada invested CAD $195 million in Xanadu in August 2026 to build the domestic quantum supply chain, part of Canada's National Quantum Strategy, with EY also making a leading investment in quantum computing.",
+      "evidenceDate": "2026-08"
+    },
+    "longTerm": {
+      "outlook": "growing",
+      "summary": "Canada's National Quantum Strategy (ISED) establishes long-term federal commitment to quantum computing leadership, with industry trackers noting momentum across multiple Canadian cities through 2026.",
+      "evidenceDate": "2026-08"
+    },
+    "risks": [
+      "High technical/commercialization risk inherent to frontier tech",
+      "Global competition for quantum talent and investment"
+    ],
+    "opportunities": [
+      "$195M federal investment in Xanadu for quantum manufacturing",
+      "Growing quantum computing ecosystem across Canadian cities"
+    ],
+    "sources": [
+      {
+        "title": "Government of Canada Invests CAD $195 Million in Xanadu to Build the Quantum Supply Chain",
+        "publisher": "GlobeNewswire / Government of Canada",
+        "url": "https://www.globenewswire.com/news-release/2026/08/28/3352845/0/en/government-of-canada-invests-cad-195-million-in-xanadu-to-build-the-quantum-supply-chain.html",
+        "date": "2026-08",
+        "scope": "Canada",
+        "metric": "quantum investment"
+      },
+      {
+        "title": "Canada's National Quantum Strategy",
+        "publisher": "ISED Canada",
+        "url": "https://ised-isde.canada.ca/site/national-quantum-strategy/en/canadas-national-quantum-strategy",
+        "date": "2026",
+        "scope": "Canada",
+        "metric": "national strategy framework"
+      }
+    ],
+    "gaps": [
+      {
+        "subSector": "AI skills/implementation gap for SMEs",
+        "description": "Canadian SMEs lag far behind large enterprises in AI implementation because they lack accessible AI skills training and adoption support.",
+        "sources": [
+          {
+            "title": "AI Skills and Adoption in Canadian SMEs",
+            "publisher": "Future Skills Centre",
+            "url": "https://fsc-ccf.ca/",
+            "date": "2025",
+            "scope": "Canada",
+            "metric": "SME AI adoption/skills gap versus large enterprises"
+          }
+        ]
+      }
+    ]
+  }
+]

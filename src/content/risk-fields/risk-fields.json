@@ -1,0 +1,364 @@
+{
+  "categories": [
+    {
+      "category": "Concentration Exposure",
+      "weight": 22,
+      "fields": [
+        {
+          "field_id": "CON-01",
+          "category": "Concentration Exposure",
+          "weight": 8,
+          "fallback_order": 1,
+          "epistemic_status": "PRESENT",
+          "text": "If your largest single customer or client stopped buying tomorrow, what would happen to the business?",
+          "levels": {
+            "A": { "text": "No single customer accounts for enough of the business for their loss to matter materially", "points": 0 },
+            "B": { "text": "Losing them would be noticeable, but the business would continue as planned", "points": 2 },
+            "C": { "text": "Losing them would interrupt revenue and require a deliberate effort to replace it, but the business would recover", "points": 4 },
+            "D": { "text": "Losing them would materially impair the business for an extended period — plans, capacity or commitments would have to change", "points": 6 },
+            "E": { "text": "The business could not continue in its current form without restructuring or replacing this relationship", "points": 8 }
+          },
+          "actual_prospective_routing": "unproven_if_not_checked",
+          "can_be_unproven": true
+        },
+        {
+          "field_id": "CON-02",
+          "category": "Concentration Exposure",
+          "weight": 6,
+          "fallback_order": 2,
+          "epistemic_status": "PRESENT",
+          "text": "If your main route to customers became unavailable — a platform, referral source, intermediary, marketplace, or location — what would happen?",
+          "levels": {
+            "A": { "text": "Customers reach the business through several routes; no single one is essential", "points": 0 },
+            "B": { "text": "Losing the main route would be noticeable, but the others would carry the business", "points": 1.5 },
+            "C": { "text": "Losing it would interrupt new business and require deliberate effort to rebuild reach", "points": 3 },
+            "D": { "text": "Losing it would materially reduce the flow of new business for an extended period; plans would have to change", "points": 4.5 },
+            "E": { "text": "The business has no viable way to reach customers without this route and could not continue in its current form", "points": 6 }
+          },
+          "actual_prospective_routing": "unproven_if_not_checked",
+          "can_be_unproven": true
+        },
+        {
+          "field_id": "CON-03",
+          "category": "Concentration Exposure",
+          "weight": 4,
+          "fallback_order": 3,
+          "epistemic_status": "PRESENT",
+          "text": "If demand for your single largest product, service, or revenue stream fell away, what would happen?",
+          "levels": {
+            "A": { "text": "Revenue is spread across offerings; no single one is dominant", "points": 0 },
+            "B": { "text": "The largest offering matters, but its loss would leave a viable business", "points": 1 },
+            "C": { "text": "Its loss would remove a significant share of revenue, requiring deliberate effort to replace", "points": 2 },
+            "D": { "text": "Its loss would materially impair the business for an extended period", "points": 3 },
+            "E": { "text": "The business is substantially this one offering and could not continue in its current form without it", "points": 4 }
+          },
+          "actual_prospective_routing": "unproven_if_not_checked",
+          "can_be_unproven": true
+        },
+        {
+          "field_id": "CON-04",
+          "category": "Concentration Exposure",
+          "weight": 4,
+          "fallback_order": 4,
+          "epistemic_status": "PRESENT",
+          "text": "If the single market, region, or customer segment you depend on most became inaccessible or unviable, what would happen?",
+          "levels": {
+            "A": { "text": "The business serves several markets or segments; none is essential", "points": 0 },
+            "B": { "text": "Losing access to the main one would be noticeable but absorbable", "points": 1 },
+            "C": { "text": "Losing access would interrupt revenue and require deliberate redirection", "points": 2 },
+            "D": { "text": "Losing access would materially impair the business for an extended period", "points": 3 },
+            "E": { "text": "The business exists to serve this one market and could not continue in its current form without it", "points": 4 }
+          },
+          "actual_prospective_routing": "unproven_if_not_checked",
+          "can_be_unproven": true
+        }
+      ]
+    },
+    {
+      "category": "Financial Exposure",
+      "weight": 22,
+      "fields": [
+        {
+          "field_id": "FIN-R-01",
+          "category": "Financial Exposure",
+          "weight": 8,
+          "fallback_order": 1,
+          "epistemic_status": "STRUCTURAL",
+          "text": "If the business could not obtain any additional funding or owner contribution beyond what is already available or committed, what would happen?",
+          "levels": {
+            "A": { "text": "The business funds itself from its own operations and requires no external funding or owner contribution", "points": 0 },
+            "B": { "text": "It could continue on the funds already available with minor adjustment", "points": 2 },
+            "C": { "text": "It would have to reduce activity deliberately — slowing spending, deferring plans — but would continue", "points": 4 },
+            "D": { "text": "It would have to make material cuts to capacity, commitments, or plans to continue", "points": 6 },
+            "E": { "text": "The business could not continue in its current form on the funds already available or committed", "points": 8 }
+          },
+          "actual_prospective_routing": "none"
+        },
+        {
+          "field_id": "FIN-R-02",
+          "category": "Financial Exposure",
+          "weight": 8,
+          "fallback_order": 2,
+          "epistemic_status": "PLAUSIBLE",
+          "text": "If a major expected payment to the business were delayed by a month, what would happen?",
+          "levels": {
+            "A": { "text": "A delay would not affect the business; reserves or cash flow absorb it easily", "points": 0 },
+            "B": { "text": "It would be absorbed within normal operations", "points": 2 },
+            "C": { "text": "It would require deliberate action — deferring payments, drawing on facilities, chasing collection — but obligations would be met", "points": 4 },
+            "D": { "text": "Obligations to staff, suppliers, or lenders would be at risk and commitments would have to change", "points": 6 },
+            "E": { "text": "The business could not meet its obligations and could not continue in its current form", "points": 8 }
+          },
+          "actual_prospective_routing": "none"
+        },
+        {
+          "field_id": "FIN-R-03",
+          "category": "Financial Exposure",
+          "weight": 3,
+          "fallback_order": 3,
+          "epistemic_status": "PLAUSIBLE",
+          "text": "If a major cost the business depends on rose sharply — materials, labour, energy, rent, borrowing, or currency — what would happen?",
+          "levels": {
+            "A": { "text": "Costs are stable or fully passable to customers; a sharp rise would not matter", "points": 0 },
+            "B": { "text": "It would reduce margin noticeably but be absorbed", "points": 0.75 },
+            "C": { "text": "It would require deliberate action — repricing, renegotiation, cost reduction — to protect viability", "points": 1.5 },
+            "D": { "text": "It would materially impair profitability for an extended period; plans and capacity would have to change", "points": 2.25 },
+            "E": { "text": "The business could not remain viable in its current form at those cost levels", "points": 3 }
+          },
+          "actual_prospective_routing": "none"
+        },
+        {
+          "field_id": "FIN-R-04",
+          "category": "Financial Exposure",
+          "weight": 3,
+          "fallback_order": 4,
+          "epistemic_status": "PLAUSIBLE",
+          "text": "If your main lender, landlord, investor, or financing arrangement withdrew or materially changed its terms, what would happen?",
+          "levels": {
+            "A": { "text": "No lender, landlord, or investor relationship is material to the business", "points": 0 },
+            "B": { "text": "Withdrawal would be absorbed; alternatives are readily available", "points": 0.75 },
+            "C": { "text": "Withdrawal would require deliberate effort to replace, with some disruption", "points": 1.5 },
+            "D": { "text": "Withdrawal would materially impair the business for an extended period; alternatives are scarce or much costlier", "points": 2.25 },
+            "E": { "text": "The business could not continue in its current form without this arrangement", "points": 3 }
+          },
+          "actual_prospective_routing": "none"
+        }
+      ]
+    },
+    {
+      "category": "Dependency Exposure",
+      "weight": 20,
+      "fields": [
+        {
+          "field_id": "DEP-01",
+          "category": "Dependency Exposure",
+          "weight": 8,
+          "fallback_order": 1,
+          "epistemic_status": "STRUCTURAL",
+          "text": "If the person most central to the business became unavailable without warning, what would happen?",
+          "levels": {
+            "A": { "text": "No individual holds knowledge, relationships or authority that others could not cover", "points": 0 },
+            "B": { "text": "Their absence would be inconvenient; others could cover within normal operations", "points": 2 },
+            "C": { "text": "Their absence would interrupt work and require deliberate reallocation, but the business would function", "points": 4 },
+            "D": { "text": "Their absence would materially impair the business for an extended period; commitments would have to change", "points": 6 },
+            "E": { "text": "The business could not continue in its current form without this person", "points": 8 }
+          },
+          "actual_prospective_routing": "none"
+        },
+        {
+          "field_id": "DEP-02",
+          "category": "Dependency Exposure",
+          "weight": 4,
+          "fallback_order": 2,
+          "epistemic_status": "STRUCTURAL",
+          "text": "If the system, platform, software, or equipment the business most depends on became unavailable, what would happen?",
+          "levels": {
+            "A": { "text": "No single system is essential; alternatives are readily usable", "points": 0 },
+            "B": { "text": "Loss would be inconvenient; a replacement is in place or immediately available", "points": 1 },
+            "C": { "text": "Loss would interrupt operations while a replacement was put in place", "points": 2 },
+            "D": { "text": "Loss would materially impair operations for an extended period; there is no ready replacement", "points": 3 },
+            "E": { "text": "Operations depend entirely on this system and could not continue in their current form without it", "points": 4 }
+          },
+          "actual_prospective_routing": "scores_A_if_not_checked"
+        },
+        {
+          "field_id": "DEP-03",
+          "category": "Dependency Exposure",
+          "weight": 4,
+          "fallback_order": 3,
+          "epistemic_status": "STRUCTURAL",
+          "text": "If your most important supplier, subcontractor, or external provider stopped supplying, what would happen?",
+          "levels": {
+            "A": { "text": "Inputs are available from several sources; no provider is essential", "points": 0 },
+            "B": { "text": "Loss would be absorbed by switching to an existing alternative", "points": 1 },
+            "C": { "text": "Loss would interrupt delivery while an alternative was found and brought up to standard", "points": 2 },
+            "D": { "text": "Loss would materially impair delivery for an extended period; alternatives are costly, slow, or of lower quality", "points": 3 },
+            "E": { "text": "No adequate alternative exists and the business could not continue in its current form", "points": 4 }
+          },
+          "actual_prospective_routing": "scores_A_if_not_checked"
+        },
+        {
+          "field_id": "DEP-04",
+          "category": "Dependency Exposure",
+          "weight": 4,
+          "fallback_order": 4,
+          "epistemic_status": "STRUCTURAL",
+          "text": "If the business lost access to its main premises, site, or location, what would happen?",
+          "levels": {
+            "A": { "text": "The business is not tied to any particular location", "points": 0 },
+            "B": { "text": "Loss of the main site would be absorbed — work could continue elsewhere with minor disruption", "points": 1 },
+            "C": { "text": "Loss would interrupt operations while alternative space was arranged", "points": 2 },
+            "D": { "text": "Loss would materially impair operations for an extended period; suitable alternatives are scarce or costly", "points": 3 },
+            "E": { "text": "The business is inseparable from this location and could not continue in its current form elsewhere", "points": 4 }
+          },
+          "actual_prospective_routing": "scores_A_if_not_checked"
+        }
+      ]
+    },
+    {
+      "category": "Legal & Regulatory Exposure",
+      "weight": 16,
+      "fields": [
+        {
+          "field_id": "LEG-01",
+          "category": "Legal & Regulatory Exposure",
+          "weight": 6,
+          "fallback_order": 1,
+          "epistemic_status": "PRESENT",
+          "text": "If any current legal dispute, claim, or regulatory finding against the business resolved unfavourably, what would happen?",
+          "levels": {
+            "A": { "text": "No dispute, claim, or regulatory finding exists", "points": 0 },
+            "B": { "text": "One exists; an unfavourable outcome would be absorbed", "points": 1.5 },
+            "C": { "text": "An unfavourable outcome would require a deliberate financial or operational response", "points": 3 },
+            "D": { "text": "An unfavourable outcome would materially impair the business for an extended period", "points": 4.5 },
+            "E": { "text": "An unfavourable outcome would leave the business unable to continue in its current form", "points": 6 }
+          },
+          "actual_prospective_routing": "none"
+        },
+        {
+          "field_id": "LEG-02",
+          "category": "Legal & Regulatory Exposure",
+          "weight": 4,
+          "fallback_order": 2,
+          "epistemic_status": "STRUCTURAL",
+          "text": "If a licence, permit, registration, or approval the business needs were withdrawn or not renewed, what would happen?",
+          "levels": {
+            "A": { "text": "The business requires no licence, permit, or approval to operate", "points": 0 },
+            "B": { "text": "Loss would restrict some activity, but the business would continue", "points": 1 },
+            "C": { "text": "Loss would suspend part of the business until it was restored or replaced", "points": 2 },
+            "D": { "text": "Loss would materially impair the business for an extended period", "points": 3 },
+            "E": { "text": "The business cannot legally operate without it and could not continue in its current form", "points": 4 }
+          },
+          "actual_prospective_routing": "none"
+        },
+        {
+          "field_id": "LEG-03",
+          "category": "Legal & Regulatory Exposure",
+          "weight": 4,
+          "fallback_order": 3,
+          "epistemic_status": "PLAUSIBLE",
+          "text": "If the rules, subsidies, tariffs, or policies your business relies on changed materially, what would happen?",
+          "levels": {
+            "A": { "text": "The business does not depend on any particular rule, subsidy, tariff, or policy", "points": 0 },
+            "B": { "text": "A material change would be absorbed", "points": 1 },
+            "C": { "text": "A material change would require deliberate adjustment to pricing, sourcing, or operations", "points": 2 },
+            "D": { "text": "A material change would materially impair the business for an extended period", "points": 3 },
+            "E": { "text": "The business's viability rests on the current rules and could not continue in its current form without them", "points": 4 }
+          },
+          "actual_prospective_routing": "none"
+        },
+        {
+          "field_id": "LEG-04",
+          "category": "Legal & Regulatory Exposure",
+          "weight": 2,
+          "fallback_order": 4,
+          "epistemic_status": "STRUCTURAL",
+          "text": "If ownership of a key asset, brand, or intellectual property the business relies on were challenged, or found to sit outside the business, what would happen?",
+          "levels": {
+            "A": { "text": "Ownership of everything the business relies on is clear and held by the business", "points": 0 },
+            "B": { "text": "A challenge would be resolvable without material effect", "points": 0.5 },
+            "C": { "text": "A challenge would require a deliberate legal or commercial response", "points": 1 },
+            "D": { "text": "A successful challenge would materially impair the business for an extended period", "points": 1.5 },
+            "E": { "text": "A successful challenge would remove something the business could not continue in its current form without", "points": 2 }
+          },
+          "actual_prospective_routing": "none"
+        }
+      ]
+    },
+    {
+      "category": "Market Exposure",
+      "weight": 10,
+      "fields": [
+        {
+          "field_id": "MKT-R-01",
+          "category": "Market Exposure",
+          "weight": 6,
+          "fallback_order": 1,
+          "epistemic_status": "PRESENT",
+          "text": "If the current direction of demand in your market continued for another two years, what would it mean for the business?",
+          "levels": {
+            "A": { "text": "Demand in the market is growing; continuation is favourable", "points": 0 },
+            "B": { "text": "Demand is broadly stable; continuation would require no change", "points": 1.5 },
+            "C": { "text": "Demand is softening; continuation would require a deliberate response to hold position", "points": 3 },
+            "D": { "text": "Demand is declining enough that continuation would force material changes to plans, capacity, or commitments", "points": 4.5 },
+            "E": { "text": "Continuation would leave the business unable to continue in its current form", "points": 6 }
+          },
+          "actual_prospective_routing": "none"
+        },
+        {
+          "field_id": "MKT-R-02",
+          "category": "Market Exposure",
+          "weight": 4,
+          "fallback_order": 2,
+          "epistemic_status": "PLAUSIBLE",
+          "text": "If a well-resourced competitor targeted your main customers directly, what would happen?",
+          "levels": {
+            "A": { "text": "Customers would not realistically move; the position is protected", "points": 0 },
+            "B": { "text": "Some pressure on price or volume, absorbed within normal operations", "points": 1 },
+            "C": { "text": "The business would need a deliberate response to hold its customers", "points": 2 },
+            "D": { "text": "It would lose enough business to force material changes to plans or capacity", "points": 3 },
+            "E": { "text": "It could not hold enough of its customer base to continue in its current form", "points": 4 }
+          },
+          "actual_prospective_routing": "none"
+        }
+      ]
+    },
+    {
+      "category": "Product & Delivery Exposure",
+      "weight": 10,
+      "fields": [
+        {
+          "field_id": "PRD-R-01",
+          "category": "Product & Delivery Exposure",
+          "weight": 6,
+          "fallback_order": 1,
+          "epistemic_status": "PRESENT",
+          "text": "If a known unresolved problem in what you deliver affected customers at scale, what would happen?",
+          "levels": {
+            "A": { "text": "No known unresolved problem exists in what the business delivers", "points": 0 },
+            "B": { "text": "One exists; at scale it would cause complaints handled within normal operations", "points": 1.5 },
+            "C": { "text": "At scale it would require deliberate remediation and customer recovery effort", "points": 3 },
+            "D": { "text": "At scale it would materially damage customer relationships or reputation for an extended period", "points": 4.5 },
+            "E": { "text": "At scale it would leave the business unable to continue in its current form", "points": 6 }
+          },
+          "actual_prospective_routing": "scores_A_if_not_checked"
+        },
+        {
+          "field_id": "PRD-R-02",
+          "category": "Product & Delivery Exposure",
+          "weight": 4,
+          "fallback_order": 2,
+          "epistemic_status": "PLAUSIBLE",
+          "text": "If a materially better or cheaper alternative to what you offer became widely available, what would happen?",
+          "levels": {
+            "A": { "text": "What the business offers is not readily substitutable", "points": 0 },
+            "B": { "text": "Some customers would switch; the business would continue as planned", "points": 1 },
+            "C": { "text": "The business would need to respond deliberately — price, features, positioning — to retain customers", "points": 2 },
+            "D": { "text": "It would lose enough business to force material changes to plans or capacity", "points": 3 },
+            "E": { "text": "The offering would be displaced and the business could not continue in its current form", "points": 4 }
+          },
+          "actual_prospective_routing": "none"
+        }
+      ]
+    }
+  ]
+}
