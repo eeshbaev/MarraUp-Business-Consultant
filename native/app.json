@@ -12,8 +12,7 @@
     },
     "android": {
       "package": "com.marraup.app",
-      "versionCode": 2,
-      "edgeToEdgeEnabled": true,
+      "versionCode": 4,
       "adaptiveIcon": {
         "backgroundColor": "#F5F3EF",
         "foregroundImage": "./assets/android-icon-foreground.png",
